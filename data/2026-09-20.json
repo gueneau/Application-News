@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "generated_at": "10:18",
-  "elapsed_seconds": 261,
+  "generated_at": "14:50",
+  "elapsed_seconds": 246,
   "errors": [],
   "stats": {
     "jo_analyses": 6,
@@ -9,7 +9,7 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-09-20T10:18:00",
+    "run_at": "2026-09-20T14:50:44",
     "sources": {
       "JORF": 0,
       "RSS": 0,
