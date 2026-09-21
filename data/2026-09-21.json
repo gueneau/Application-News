@@ -1,19 +1,19 @@
 {
   "date": "2026-09-21",
-  "generated_at": "11:25",
-  "elapsed_seconds": 488,
+  "generated_at": "17:18",
+  "elapsed_seconds": 584,
   "errors": [],
   "stats": {
     "jo_analyses": 6,
     "jo_retenus": 0,
-    "depts_restriction": 93
+    "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-09-21T11:25:38",
+    "run_at": "2026-09-21T17:18:09",
     "sources": {
       "JORF": 0,
       "RSS": 0,
-      "VigiEau": 93,
+      "VigiEau": 94,
       "Parlement": 1
     },
     "errors": [
@@ -166,6 +166,11 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "94",
       "dept_nom": "Val-de-Marne",
       "niveau": "crise"
@@ -241,6 +246,11 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "21",
       "dept_nom": "Côte-d'Or",
       "niveau": "crise"
@@ -248,11 +258,6 @@
     {
       "dept_code": "70",
       "dept_nom": "Haute-Saône",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
@@ -266,13 +271,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "01",
+      "dept_nom": "Ain",
       "niveau": "crise"
     },
     {
-      "dept_code": "01",
-      "dept_nom": "Ain",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -316,13 +321,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
@@ -431,11 +436,6 @@
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "28",
-      "dept_nom": "Eure-et-Loir",
-      "niveau": "alerte renforcée"
-    },
-    {
       "dept_code": "91",
       "dept_nom": "Essonne",
       "niveau": "alerte renforcée"
@@ -453,6 +453,11 @@
     {
       "dept_code": "84",
       "dept_nom": "Vaucluse",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "04",
+      "dept_nom": "Alpes-de-Haute-Provence",
       "niveau": "alerte renforcée"
     },
     {
