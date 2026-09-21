@@ -16,13 +16,13 @@
     "manuel": true,
     "historique": [
       {
-        "date": "2026-09-20",
+        "date": "2026-09-21",
         "stade": "Première lecture à l'Assemblée nationale",
         "event": "Importé depuis UI"
       }
     ],
-    "created_at": "2026-09-20",
-    "updated_at": "2026-09-20",
+    "created_at": "2026-09-21",
+    "updated_at": "2026-09-21",
     "supabase_id": "2f4948e1-de90-40ba-b759-b1b8ba2b0b1f",
     "statut": "a_surveiller"
   }
