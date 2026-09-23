@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
-  "generated_at": "10:35",
-  "elapsed_seconds": 685,
+  "generated_at": "15:41",
+  "elapsed_seconds": 658,
   "errors": [],
   "stats": {
     "jo_analyses": 15,
@@ -9,21 +9,32 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-09-23T10:35:19",
+    "run_at": "2026-09-23T15:41:05",
     "sources": {
       "JORF": 0,
-      "RSS": 0,
+      "RSS": 1,
       "VigiEau": 94,
       "Parlement": 1
     },
     "errors": [
-      "SOURCE VIDE — JORF : 0 textes retenus",
-      "SOURCE VIDE — RSS : 0 articles retenus"
+      "SOURCE VIDE — JORF : 0 textes retenus"
     ],
     "llm_calls": 0,
     "llm_seconds": 0.0
   },
-  "items": [],
+  "items": [
+    {
+      "id": "db67f63187e3",
+      "source": "Actu-Environnement",
+      "categorie": "Climat",
+      "titre": "Devoir de vigilance : Greenpeace met en demeure EDF pour ses relations commerciales avec Rosatom",
+      "resume": "Devoir de vigilance : Greenpeace met en demeure EDF pour ses relations commerciales avec Rosatom",
+      "pourquoi": "Mention de Devoir de Vigilance.",
+      "criticite": 3,
+      "url": "https://www.actu-environnement.com/ae/news/devoir-vigilance-greenpeace-edf-rosatom-48550.php4#xtor=RSS-6",
+      "date": "2026-09-23"
+    }
+  ],
   "restrictions_eau": [
     {
       "dept_code": "50",
@@ -456,13 +467,13 @@
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "04",
-      "dept_nom": "Alpes-de-Haute-Provence",
+      "dept_code": "13",
+      "dept_nom": "Bouches-du-Rhône",
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "13",
-      "dept_nom": "Bouches-du-Rhône",
+      "dept_code": "04",
+      "dept_nom": "Alpes-de-Haute-Provence",
       "niveau": "alerte renforcée"
     },
     {
@@ -999,13 +1010,8 @@
       "historique": [
         {
           "date": "2026-09-23",
-          "stade": "Dépôt",
-          "event": "Importé depuis UI"
-        },
-        {
-          "date": "2026-09-23",
           "stade": "Première lecture à l'Assemblée nationale",
-          "event": "Avancement : Dépôt → Première lecture à l'Assemblée nationale"
+          "event": "Importé depuis UI"
         }
       ],
       "created_at": "2026-09-23",
