@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
-  "generated_at": "10:50",
-  "elapsed_seconds": 605,
+  "generated_at": "16:03",
+  "elapsed_seconds": 639,
   "errors": [],
   "stats": {
     "jo_analyses": 19,
@@ -9,7 +9,7 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-09-24T10:50:16",
+    "run_at": "2026-09-24T16:03:10",
     "sources": {
       "JORF": 0,
       "RSS": 2,
@@ -298,13 +298,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "39",
+      "dept_nom": "Jura",
       "niveau": "crise"
     },
     {
-      "dept_code": "39",
-      "dept_nom": "Jura",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -478,13 +478,13 @@
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "13",
-      "dept_nom": "Bouches-du-Rhône",
+      "dept_code": "04",
+      "dept_nom": "Alpes-de-Haute-Provence",
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "04",
-      "dept_nom": "Alpes-de-Haute-Provence",
+      "dept_code": "13",
+      "dept_nom": "Bouches-du-Rhône",
       "niveau": "alerte renforcée"
     },
     {
