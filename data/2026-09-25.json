@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
-  "generated_at": "10:54",
-  "elapsed_seconds": 619,
+  "generated_at": "16:03",
+  "elapsed_seconds": 628,
   "errors": [],
   "stats": {
     "jo_analyses": 11,
@@ -9,21 +9,32 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-09-25T10:54:08",
+    "run_at": "2026-09-25T16:03:05",
     "sources": {
       "JORF": 0,
-      "RSS": 0,
+      "RSS": 1,
       "VigiEau": 94,
       "Parlement": 1
     },
     "errors": [
-      "SOURCE VIDE — JORF : 0 textes retenus",
-      "SOURCE VIDE — RSS : 0 articles retenus"
+      "SOURCE VIDE — JORF : 0 textes retenus"
     ],
     "llm_calls": 0,
     "llm_seconds": 0.0
   },
-  "items": [],
+  "items": [
+    {
+      "id": "67142605959f",
+      "source": "EFRAG",
+      "categorie": "Déchets",
+      "titre": "EFRAG and the SSBJ Meet in Brussels to Jointly Host Outreach Event on the ESRS-40a Exposure Draft and to Hold Bilateral Meeting",
+      "resume": "EFRAG and the SSBJ Meet in Brussels to Jointly Host Outreach Event on the ESRS-40a Exposure Draft and to Hold Bilateral Meeting",
+      "pourquoi": "Mention de ESRS.",
+      "criticite": 3,
+      "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-and-the-ssbj-meet-in-brussels-to-jointly-host-outreach-event-on-the-esrs40a-exposure-draft",
+      "date": "2026-09-25"
+    }
+  ],
   "restrictions_eau": [
     {
       "dept_code": "50",
@@ -156,11 +167,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "28",
-      "dept_nom": "Eure-et-Loir",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "77",
       "dept_nom": "Seine-et-Marne",
       "niveau": "crise"
@@ -168,6 +174,11 @@
     {
       "dept_code": "55",
       "dept_nom": "Meuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
       "niveau": "crise"
     },
     {
@@ -271,13 +282,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "01",
+      "dept_nom": "Ain",
       "niveau": "crise"
     },
     {
-      "dept_code": "01",
-      "dept_nom": "Ain",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -321,13 +332,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
@@ -348,6 +359,11 @@
     {
       "dept_code": "30",
       "dept_nom": "Gard",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "04",
+      "dept_nom": "Alpes-de-Haute-Provence",
       "niveau": "crise"
     },
     {
@@ -458,11 +474,6 @@
     {
       "dept_code": "13",
       "dept_nom": "Bouches-du-Rhône",
-      "niveau": "alerte renforcée"
-    },
-    {
-      "dept_code": "04",
-      "dept_nom": "Alpes-de-Haute-Provence",
       "niveau": "alerte renforcée"
     },
     {
