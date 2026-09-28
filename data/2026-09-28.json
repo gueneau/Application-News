@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
-  "generated_at": "12:22",
-  "elapsed_seconds": 557,
+  "generated_at": "18:51",
+  "elapsed_seconds": 689,
   "errors": [],
   "stats": {
     "jo_analyses": 8,
@@ -9,7 +9,7 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-09-28T12:22:05",
+    "run_at": "2026-09-28T18:51:37",
     "sources": {
       "JORF": 0,
       "RSS": 0,
@@ -231,13 +231,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "10",
-      "dept_nom": "Aube",
+      "dept_code": "89",
+      "dept_nom": "Yonne",
       "niveau": "crise"
     },
     {
-      "dept_code": "89",
-      "dept_nom": "Yonne",
+      "dept_code": "10",
+      "dept_nom": "Aube",
       "niveau": "crise"
     },
     {
@@ -251,13 +251,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "70",
+      "dept_nom": "Haute-Saône",
       "niveau": "crise"
     },
     {
-      "dept_code": "70",
-      "dept_nom": "Haute-Saône",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
