@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "generated_at": "11:53",
-  "elapsed_seconds": 636,
+  "generated_at": "17:06",
+  "elapsed_seconds": 600,
   "errors": [],
   "stats": {
     "jo_analyses": 9,
@@ -9,7 +9,7 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-09-29T11:53:53",
+    "run_at": "2026-09-29T17:06:45",
     "sources": {
       "JORF": 0,
       "RSS": 1,
@@ -242,13 +242,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "89",
-      "dept_nom": "Yonne",
+      "dept_code": "10",
+      "dept_nom": "Aube",
       "niveau": "crise"
     },
     {
-      "dept_code": "10",
-      "dept_nom": "Aube",
+      "dept_code": "89",
+      "dept_nom": "Yonne",
       "niveau": "crise"
     },
     {
@@ -262,13 +262,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "70",
+      "dept_nom": "Haute-Saône",
       "niveau": "crise"
     },
     {
-      "dept_code": "70",
-      "dept_nom": "Haute-Saône",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
@@ -282,6 +282,11 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "01",
       "dept_nom": "Ain",
       "niveau": "crise"
@@ -289,11 +294,6 @@
     {
       "dept_code": "39",
       "dept_nom": "Jura",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -1195,25 +1195,25 @@
           "titre": "Texte adopté N° 316",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e",
-          "date": "2026-09-29"
+          "date": "2025-04-17"
         },
         {
           "titre": "Texte adopté N° 317",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e",
-          "date": "2026-09-29"
+          "date": "2026-01-13"
         },
         {
           "titre": "Texte adopté N° 321",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impact_environnemental_industrie_textile",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impact_environnemental_industrie_textile",
-          "date": "2026-09-29"
+          "date": "2024-01-30"
         },
         {
           "titre": "Texte adopté N° 319",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52000",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52000",
-          "date": "2026-09-29"
+          "date": "2025-04-28"
         }
       ]
     }
