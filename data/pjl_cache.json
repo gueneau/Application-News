@@ -1,13 +1,4 @@
 {
-  "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53600": {
-    "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement - N° 2609",
-    "analyse_date": "2026-07-02",
-    "pertinent": false,
-    "score": 1,
-    "resume": "",
-    "pourquoi": "",
-    "horizon": "non applicable"
-  },
   "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54094": {
     "titre": "Projet de loi habilitant le Gouvernement à prendre, par ordonnances, les adaptations rendues nécessaires par l’entrée en application des règlements (UE) n°s 2024/1347, 2024/1348, 2024/1349, 2024/1350, 2024/1351, 2024/1352, 2024/1356, 2024/1358, 2024/1359 du Parlement européen et du Conseil du 14 mai 2024, et les dispositions nécessaires à la transposition de la directive (UE) 2024/1346 du Parlement européen et &#13;du Conseil du 14 mai 2024 - N° 2820",
     "analyse_date": "2026-08-25",
@@ -20,6 +11,15 @@
   "https://www.assemblee-nationale.fr/dyn/17/dossiers/resultats_gestion_approbation_comptes_2025": {
     "titre": "Projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2025 - N° 2694",
     "analyse_date": "2026-09-08",
+    "pertinent": false,
+    "score": 1,
+    "resume": "",
+    "pourquoi": "",
+    "horizon": ""
+  },
+  "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53600": {
+    "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement - N° 2609",
+    "analyse_date": "2026-09-30",
     "pertinent": false,
     "score": 1,
     "resume": "",
