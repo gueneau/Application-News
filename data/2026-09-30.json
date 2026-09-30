@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "generated_at": "11:43",
-  "elapsed_seconds": 797,
+  "generated_at": "17:09",
+  "elapsed_seconds": 895,
   "errors": [],
   "stats": {
     "jo_analyses": 24,
@@ -9,7 +9,7 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-09-30T11:43:16",
+    "run_at": "2026-09-30T17:09:10",
     "sources": {
       "JORF": 0,
       "RSS": 0,
@@ -236,13 +236,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "10",
-      "dept_nom": "Aube",
+      "dept_code": "89",
+      "dept_nom": "Yonne",
       "niveau": "crise"
     },
     {
-      "dept_code": "89",
-      "dept_nom": "Yonne",
+      "dept_code": "10",
+      "dept_nom": "Aube",
       "niveau": "crise"
     },
     {
@@ -326,13 +326,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
