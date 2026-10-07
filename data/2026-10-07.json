@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
-  "generated_at": "12:22",
-  "elapsed_seconds": 595,
+  "generated_at": "18:04",
+  "elapsed_seconds": 661,
   "errors": [],
   "stats": {
     "jo_analyses": 12,
@@ -9,7 +9,7 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-10-07T12:22:18",
+    "run_at": "2026-10-07T18:04:14",
     "sources": {
       "JORF": 0,
       "RSS": 0,
@@ -251,13 +251,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "21",
-      "dept_nom": "Côte-d'Or",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "21",
+      "dept_nom": "Côte-d'Or",
       "niveau": "crise"
     },
     {
@@ -276,6 +276,11 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "01",
       "dept_nom": "Ain",
       "niveau": "crise"
@@ -283,11 +288,6 @@
     {
       "dept_code": "39",
       "dept_nom": "Jura",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -326,13 +326,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
