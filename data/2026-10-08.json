@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "generated_at": "12:35",
-  "elapsed_seconds": 747,
+  "generated_at": "18:08",
+  "elapsed_seconds": 710,
   "errors": [],
   "stats": {
     "jo_analyses": 12,
@@ -9,21 +9,32 @@
     "depts_restriction": 94
   },
   "pipeline_meta": {
-    "run_at": "2026-10-08T12:35:24",
+    "run_at": "2026-10-08T18:08:00",
     "sources": {
       "JORF": 0,
-      "RSS": 0,
+      "RSS": 1,
       "VigiEau": 94,
       "Parlement": 1
     },
     "errors": [
-      "SOURCE VIDE — JORF : 0 textes retenus",
-      "SOURCE VIDE — RSS : 0 articles retenus"
+      "SOURCE VIDE — JORF : 0 textes retenus"
     ],
     "llm_calls": 0,
     "llm_seconds": 0.0
   },
-  "items": [],
+  "items": [
+    {
+      "id": "25f44a57355c",
+      "source": "Reporterre",
+      "categorie": "Déchets",
+      "titre": "Pesticides : les demandes des lobbies reprises telles quelles dans le règlement Omnibus",
+      "resume": "Pesticides : les demandes des lobbies reprises telles quelles dans le règlement Omnibus",
+      "pourquoi": "Mention de Omnibus.",
+      "criticite": 3,
+      "url": "https://reporterre.net/Pesticides-les-demandes-des-lobbies-reprises-telles-quelles-dans-le-reglement-Omnibus",
+      "date": "2026-10-08"
+    }
+  ],
   "restrictions_eau": [
     {
       "dept_code": "50",
@@ -251,13 +262,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "21",
+      "dept_nom": "Côte-d'Or",
       "niveau": "crise"
     },
     {
-      "dept_code": "21",
-      "dept_nom": "Côte-d'Or",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
@@ -371,13 +382,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "68",
-      "dept_nom": "Haut-Rhin",
+      "dept_code": "90",
+      "dept_nom": "Territoire de Belfort",
       "niveau": "crise"
     },
     {
-      "dept_code": "90",
-      "dept_nom": "Territoire de Belfort",
+      "dept_code": "68",
+      "dept_nom": "Haut-Rhin",
       "niveau": "crise"
     },
     {
@@ -969,7 +980,7 @@
           "titre": "Projet de loi portant approbation des comptes de la sécurité sociale de l’année 2025 - N° 2843",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_portant_approbation_des_comptes_de_la_securite_sociale_de_annee_2025",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_portant_approbation_des_comptes_de_la_securite_sociale_de_annee_2025",
-          "date": "2026-10-08"
+          "date": "2026-05-27"
         },
         {
           "titre": "Projet de loi habilitant le Gouvernement à prendre, par ordonnances, les adaptations rendues nécessaires par l’entrée en application des règlements (UE) n°s 2024/1347, 2024/1348, 2024/1349, 2024/1350, 2024/1351, 2024/1352, 2024/1356, 2024/1358, 2024/1359 du Parlement européen et du Conseil du 14 mai 2024, et les dispositions nécessaires à la transposition de la directive (UE) 2024/1346 du Parlement européen et &#13;du Conseil du 14 mai 2024 - N° 2820",
@@ -981,7 +992,7 @@
           "titre": "Projet de loi portant transposition de l’avenant n°3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage - N° 2805",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53981",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53981",
-          "date": "2026-10-08"
+          "date": "2026-03-25"
         },
         {
           "titre": "Projet de loi Projet de loi-cadre relatif au développement des transports - N° 2740",
@@ -1005,19 +1016,19 @@
           "titre": "Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement du Royaume des Pays-Bas portant délimitation de la frontière entre la République française (Saint-Martin) et le Royaume des Pays-Bas (Sint Maarten) - N° 2688",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53848",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53848",
-          "date": "2026-10-08"
+          "date": "2026-02-25"
         },
         {
           "titre": "Projet de loi sur la justice criminelle et le respect des victimes - N° 2681",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53940",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53940",
-          "date": "2026-10-08"
+          "date": "2026-03-18"
         },
         {
           "titre": "Projet de loi autorisant l’approbation de l’accord de partenariat et de coopération renforcé&#13;entre l'Union européenne et ses Etats membres, d'une part, et la République kirghize, d'autre part - N° 2691",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53844",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53844",
-          "date": "2026-10-08"
+          "date": "2026-02-25"
         },
         {
           "titre": "Projet de loi organique relatif au renforcement des juridictions criminelles - N° 2682",
@@ -1029,7 +1040,7 @@
           "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement - N° 2609",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53600",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53600",
-          "date": "2026-10-08"
+          "date": "2026-01-19"
         },
         {
           "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche - N° 2518",
@@ -1041,13 +1052,25 @@
           "titre": "Projet de loi constitutionnelle relatif à la Nouvelle-Calédonie - N° 2529",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
-          "date": "2026-10-08"
+          "date": "2025-10-14"
         }
       ]
     },
     {
       "source": "AN Textes adoptés",
       "items": [
+        {
+          "titre": "Texte adopté N° 351",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inviter_gouvernement_demarches_soutenir_entree_pantheon_olympe_gouges_charles_michel_zena_mdere_17e",
+          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inviter_gouvernement_demarches_soutenir_entree_pantheon_olympe_gouges_charles_michel_zena_mdere_17e",
+          "date": "2026-09-18"
+        },
+        {
+          "titre": "Texte adopté N° 350",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
+          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
+          "date": "2026-09-10"
+        },
         {
           "titre": "Texte adopté N° 349",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
@@ -1088,7 +1111,7 @@
           "titre": "Texte adopté N° 341",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e",
-          "date": "2026-10-08"
+          "date": "2025-09-16"
         },
         {
           "titre": "Texte adopté N° 332",
@@ -1100,7 +1123,7 @@
           "titre": "Texte adopté N° 343",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/maitrise_usages_et_impacts_produits_phytopharmaceutiques",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/maitrise_usages_et_impacts_produits_phytopharmaceutiques",
-          "date": "2026-10-08"
+          "date": "2026-05-29"
         },
         {
           "titre": "Texte adopté N° 342",
@@ -1136,19 +1159,13 @@
           "titre": "Texte adopté N° 324",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_droit_avocat_mesure_assistance_educative_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_droit_avocat_mesure_assistance_educative_17e",
-          "date": "2026-10-08"
+          "date": "2025-09-16"
         },
         {
           "titre": "Texte adopté N° 316",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e",
           "date": "2025-04-17"
-        },
-        {
-          "titre": "Texte adopté N° 317",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e",
-          "date": "2026-01-13"
         }
       ]
     }
