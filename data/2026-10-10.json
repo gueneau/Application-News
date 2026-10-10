@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "generated_at": "11:39",
-  "elapsed_seconds": 531,
+  "generated_at": "16:26",
+  "elapsed_seconds": 453,
   "errors": [],
   "stats": {
     "jo_analyses": 11,
@@ -9,7 +9,7 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-10T11:39:14",
+    "run_at": "2026-10-10T16:26:02",
     "sources": {
       "JORF": 0,
       "RSS": 1,
@@ -1131,25 +1131,25 @@
           "titre": "Projet de loi organique relatif au renforcement des juridictions criminelles - N° 2682",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53942",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53942",
-          "date": "2026-03-18"
+          "date": "2026-10-10"
         },
         {
           "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement - N° 2609",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53600",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53600",
-          "date": "2026-01-19"
+          "date": "2026-10-10"
         },
         {
           "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche - N° 2518",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
-          "date": "2025-11-10"
+          "date": "2026-10-10"
         },
         {
           "titre": "Projet de loi constitutionnelle relatif à la Nouvelle-Calédonie - N° 2529",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
-          "date": "2025-10-14"
+          "date": "2026-10-10"
         }
       ]
     },
@@ -1160,109 +1160,109 @@
           "titre": "Texte adopté N° 351",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inviter_gouvernement_demarches_soutenir_entree_pantheon_olympe_gouges_charles_michel_zena_mdere_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inviter_gouvernement_demarches_soutenir_entree_pantheon_olympe_gouges_charles_michel_zena_mdere_17e",
-          "date": "2026-09-18"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 350",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
-          "date": "2026-09-10"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 349",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
-          "date": "2026-09-07"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 348",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_eau_potable_territoires_ultramarins",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_eau_potable_territoires_ultramarins",
-          "date": "2026-09-08"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 346",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale",
-          "date": "2026-02-11"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 345",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_autorisant_approbation_accord_gouvernement_moldova_defense",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_autorisant_approbation_accord_gouvernement_moldova_defense",
-          "date": "2025-10-29"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 344",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe",
-          "date": "2026-04-29"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 336",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e",
-          "date": "2026-03-27"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 341",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e",
-          "date": "2025-09-16"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 332",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e",
-          "date": "2025-03-11"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 343",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/maitrise_usages_et_impacts_produits_phytopharmaceutiques",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/maitrise_usages_et_impacts_produits_phytopharmaceutiques",
-          "date": "2026-05-29"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 342",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abandonner_conditionnement_renouvellement_permis_conduire_visite_medicale_obligatoire",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abandonner_conditionnement_renouvellement_permis_conduire_visite_medicale_obligatoire",
-          "date": "2026-04-09"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 339",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e",
-          "date": "2025-11-18"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 335",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accelerer_prevention_cardio_neuro_vasculaire_et_anticiper_risque_sanitaire_et_social_majeur_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accelerer_prevention_cardio_neuro_vasculaire_et_anticiper_risque_sanitaire_et_social_majeur_17e",
-          "date": "2025-12-23"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 334",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51732",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51732",
-          "date": "2025-03-18"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 328",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre",
-          "date": "2024-12-03"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 324",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_droit_avocat_mesure_assistance_educative_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_droit_avocat_mesure_assistance_educative_17e",
-          "date": "2025-09-16"
+          "date": "2026-10-10"
         },
         {
           "titre": "Texte adopté N° 316",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e",
-          "date": "2025-04-17"
+          "date": "2026-10-10"
         }
       ]
     }
