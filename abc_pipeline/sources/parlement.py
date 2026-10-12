@@ -64,7 +64,7 @@ def _detect_stade_rss(titre: str, description: str = '') -> str:
     for stade, patterns in STADE_PATTERNS:
         if any(p in texte for p in patterns):
             return stade
-    return 'Dépôt'
+    return ''
 
 
 def _is_pjl_gouvernemental(titre: str) -> bool:
@@ -344,8 +344,8 @@ def _scrape_dossier_stade(url_dossier: str) -> str:
       - span._colored-grey._small    → date (if the step has started)
       - span._small._bold            → completion status (e.g. "Texte adopté ✅")
 
-    We walk slides in order and return the label of the LAST slide that has a date
-    (= the most advanced stage reached so far), mapped to our STADES_ORDRE vocabulary.
+    The last dated slide is the current stage. Its completion badge (for example
+    "Texte adopté") describes that stage, not the dossier's current stage.
     """
     from bs4 import BeautifulSoup
 
@@ -354,36 +354,54 @@ def _scrape_dossier_stade(url_dossier: str) -> str:
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, 'html.parser')
 
-        # Chercher le statut global (Texte rejeté / Texte adopté) en haut de page
-        statut_el = soup.find(string=re.compile(r'Texte (adopté|rejeté)', re.IGNORECASE))
-        if statut_el:
-            statut_text = statut_el.strip()
-            log.debug(f"stade (statut global) : {statut_text} — {url_dossier}")
-            return statut_text
-
         # ── Try the structured Swiper slider first ────────────────────
         slides = soup.find_all(class_='swiper-slide')
         if slides:
             current_stade = ''
+            current_date = ''
             for slide in slides:
                 label_el = slide.find('span', class_=lambda c: c and '_bold' in c and '_colored-primary' in c)
                 date_el  = slide.find('span', class_=lambda c: c and '_colored-grey' in c)
                 if not label_el:
                     continue
-                label = label_el.get_text(strip=True)
+                label = label_el.get_text(' ', strip=True)
                 date_txt = date_el.get_text(strip=True) if date_el else ''
-                if date_txt and label:
-                    current_stade = label
+                date_match = re.search(
+                    r'\b(?:\d{1,2}\s+\w+\s+\d{4}|\d{4}-\d{2}-\d{2})\b',
+                    date_txt,
+                    re.IGNORECASE,
+                )
+                if date_match and label:
+                    completion_el = slide.find(
+                        'span',
+                        class_=lambda c: c and '_small' in c and '_bold' in c,
+                    )
+                    completion_text = (
+                        completion_el.get_text(' ', strip=True)
+                        if completion_el else ''
+                    )
+                    current_stade = (
+                        'Texte rejeté'
+                        if re.search(r'\btexte rejet[ée]\b', completion_text, re.IGNORECASE)
+                        else _detect_stade_rss(label)
+                    )
+                    current_date = date_match.group(0)
             if current_stade:
-                log.debug(f"stade (swiper) : {current_stade} — {url_dossier}")
+                log.debug(
+                    f"stade (swiper, {current_date}) : {current_stade} — {url_dossier}"
+                )
                 return current_stade
+            if current_date:
+                log.warning(
+                    f"Parlement : étape AN non reconnue ({current_date}) — {url_dossier}"
+                )
+                return ''
 
-        # ── Fallback: keyword scan on page text ───────────────────────
-        texte = soup.get_text(separator=' ', strip=True).lower()[:5000]
-        return _detect_stade_rss(texte)
+        log.warning(f"Parlement : aucune étape datée reconnue sur la page AN — {url_dossier}")
+        return ''
 
     except Exception as e:
-        log.debug(f"scrape_dossier_stade {url_dossier}: {e}")
+        log.warning(f"scrape_dossier_stade {url_dossier}: {e}")
         return ''
 
 
@@ -516,7 +534,7 @@ def fetch_parlement(script_dir, today_str: str) -> Tuple[list, list, str]:
                         'event': f"Avancement : {ancien_stade} → {stade_actuel}",
                     })
                     fiche['stade'] = stade_actuel
-                    fiche['stade_index'] = STADES_ORDRE.index(stade_actuel) if stade_actuel in STADES_ORDRE else 0
+                    fiche['stade_index'] = STADES_ORDRE.index(stade_actuel) if stade_actuel in STADES_ORDRE else -1
                     fiche['nouveau_stade'] = True
                     fiche['updated_at'] = today_str
                     maj += 1
@@ -615,7 +633,7 @@ def fetch_parlement(script_dir, today_str: str) -> Tuple[list, list, str]:
                     'event': f"Avancement : {ancien_stade} → {stade_actuel}",
                 })
                 fiche['stade'] = stade_actuel
-                fiche['stade_index'] = STADES_ORDRE.index(stade_actuel) if stade_actuel in STADES_ORDRE else 0
+                fiche['stade_index'] = STADES_ORDRE.index(stade_actuel) if stade_actuel in STADES_ORDRE else -1
                 fiche['nouveau_stade'] = True
                 fiche['updated_at'] = today_str
                 maj += 1
@@ -702,4 +720,3 @@ def fetch_parlement(script_dir, today_str: str) -> Tuple[list, list, str]:
         reverse=True,
     )
     return fiches_list, pjl_autres, pjl_briefing
-

@@ -21,6 +21,106 @@ def test_keyword_match_english():
     from abc_pipeline.filters import keyword_match
     assert keyword_match("EU carbon tax reform approved by parliament") is True
 
+
+# ── parliamentary stage detection ────────────────────────────────────────────
+
+def test_scrape_dossier_stage_uses_latest_dated_stage_not_completion_badge(monkeypatch):
+    from abc_pipeline.sources import parlement
+
+    class Response:
+        text = """
+        <div class="swiper-slide">
+          <span class="_bold _colored-primary">Première lecture au Sénat</span>
+          <span class="_colored-grey _small">Lundi 10 novembre 2025 Texte adopté ✅</span>
+          <span class="_small _bold">Texte adopté ✅</span>
+        </div>
+        <div class="swiper-slide swiper-slide-active">
+          <span class="_bold _colored-primary">Première lecture à l'Assemblée nationale</span>
+          <span class="_colored-grey _small">Vendredi 20 février 2026</span>
+        </div>
+        """
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    monkeypatch.setattr(parlement.requests, 'get', lambda *args, **kwargs: Response())
+
+    assert parlement._scrape_dossier_stade('https://example.com/dossier') == (
+        "Première lecture à l'Assemblée nationale"
+    )
+
+
+@pytest.mark.parametrize(
+    ('label', 'expected'),
+    [
+        ('Dépôt au Sénat', 'Dépôt'),
+        ('Examen en commission', 'Commission'),
+        ('Première lecture au Sénat', 'Première lecture au Sénat'),
+        (
+            "Première lecture à l'Assemblée nationale",
+            "Première lecture à l'Assemblée nationale",
+        ),
+        ('Deuxième lecture au Sénat', 'Deuxième lecture au Sénat'),
+        ('Sénat en deuxième lecture', 'Deuxième lecture au Sénat'),
+        (
+            'Nouvelle lecture à l’Assemblée nationale',
+            'Deuxième lecture à l\'Assemblée nationale',
+        ),
+        ('Commission mixte paritaire', 'Commission mixte paritaire'),
+        ('Texte définitivement adopté', 'Texte définitivement adopté'),
+        ('Texte rejeté par le Sénat', 'Texte rejeté'),
+        ('Promulgation de la loi', 'Promulgation'),
+        ('Loi promulguée et publiée au Journal officiel', 'Promulgation'),
+    ],
+)
+def test_detect_parliamentary_stage_returns_canonical_label(label, expected):
+    from abc_pipeline.sources.parlement import _detect_stade_rss
+
+    assert _detect_stade_rss(label) == expected
+
+
+def test_detect_parliamentary_stage_does_not_treat_chamber_adoption_as_final():
+    from abc_pipeline.sources.parlement import _detect_stade_rss
+
+    assert _detect_stade_rss('Texte adopté par le Sénat') == ''
+
+
+def test_scrape_dossier_stage_does_not_guess_from_global_status(monkeypatch):
+    from abc_pipeline.sources import parlement
+
+    class Response:
+        text = '<html><body>Texte adopté ✅</body></html>'
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    monkeypatch.setattr(parlement.requests, 'get', lambda *args, **kwargs: Response())
+
+    assert parlement._scrape_dossier_stade('https://example.com/dossier') == ''
+
+
+def test_scrape_dossier_stage_reports_rejection_on_latest_dated_step(monkeypatch):
+    from abc_pipeline.sources import parlement
+
+    class Response:
+        text = """
+        <div class="swiper-slide swiper-slide-active">
+          <span class="_bold _colored-primary">Première lecture au Sénat</span>
+          <span class="_colored-grey _small">Lundi 10 novembre 2025</span>
+          <span class="_small _bold">Texte rejeté ❌</span>
+        </div>
+        """
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    monkeypatch.setattr(parlement.requests, 'get', lambda *args, **kwargs: Response())
+
+    assert parlement._scrape_dossier_stade('https://example.com/dossier') == 'Texte rejeté'
+
 def test_valid_category_accepts_supported_llm_category():
     from abc_pipeline.filters import valid_category
     assert valid_category("Déchets") == "Déchets"
