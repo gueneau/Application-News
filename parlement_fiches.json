@@ -3,8 +3,8 @@
     "id": "pjl-14aebd68935a",
     "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
     "date_depot": "2026-03-24",
-    "stade": "Texte adopté ✅",
-    "stade_index": 0,
+    "stade": "Première lecture à l'Assemblée nationale",
+    "stade_index": 2,
     "url_an": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
     "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
     "source_rss": "manuel",
@@ -17,13 +17,13 @@
     "historique": [
       {
         "date": "2026-10-12",
-        "stade": "Dépôt",
+        "stade": "Texte adopté ✅",
         "event": "Importé depuis UI"
       },
       {
         "date": "2026-10-12",
-        "stade": "Texte adopté ✅",
-        "event": "Avancement : Dépôt → Texte adopté ✅"
+        "stade": "Première lecture à l'Assemblée nationale",
+        "event": "Avancement : Texte adopté ✅ → Première lecture à l'Assemblée nationale"
       }
     ],
     "created_at": "2026-10-12",

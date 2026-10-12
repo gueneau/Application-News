@@ -888,6 +888,11 @@ function renderJO(){
 // STADES_ORDRE used in parlement + drawer progress bars
 const STADES_ORDRE=['Dépôt','Commission','Première lecture à l\'Assemblée nationale','Première lecture au Sénat','Commission mixte paritaire','Deuxième lecture au Sénat','Deuxième lecture à l\'Assemblée nationale','Texte définitivement adopté','Promulgation'];
 const SCORE_LABEL={1:'Veille',2:'À anticiper',3:'⚠ Impact direct'};
+function parlementStageProgress(stade){
+  if(stade==='Texte rejeté')return null;
+  const idx=STADES_ORDRE.indexOf(stade);
+  return idx<0?null:Math.round((idx/(STADES_ORDRE.length-1))*100);
+}
 
 function renderParlement(){
   const fiches=D?.pjl_fiches||[];
@@ -915,8 +920,7 @@ function renderParlement(){
     </div>`;
     const fichesSorted=[...fiches].sort((a,b)=>(b.date_depot||'').localeCompare(a.date_depot||''));
     html+=fichesSorted.map(f=>{
-      const idx=STADES_ORDRE.indexOf(f.stade);
-      const pct=idx<0?0:Math.round((idx/(STADES_ORDRE.length-1))*100);
+      const pct=parlementStageProgress(f.stade);
       const sc=f.score||1;
       const hist=(f.historique||[]);
       const histHtml=hist.length>1?hist.slice().reverse().map(h=>
@@ -934,9 +938,9 @@ function renderParlement(){
         <div class="parl-progress">
           <div class="parl-progress-label">
             <span class="parl-stade-badge">${escHtml(f.stade||'Dépôt')}</span>
-            <span>${pct}%</span>
+            ${pct===null?'':`<span>${pct}%</span>`}
           </div>
-          <div class="parl-progress-track"><div class="parl-progress-bar" style="width:${pct}%"></div></div>
+          ${pct===null?'':`<div class="parl-progress-track"><div class="parl-progress-bar" style="width:${pct}%"></div></div>`}
         </div>
         <div class="parl-meta">
           ${f.horizon?`<span>Entrée en vigueur : <strong>${escHtml(f.horizon)}</strong></span>`:''}
@@ -1106,11 +1110,10 @@ async function openDossierDrawer(id){
       const active=val===d.statut?'outline:2px solid var(--blue);outline-offset:2px':'';
       return `<button class="crit-badge ${bc}" style="${active}" onclick="updateStatut('${id}','${val}')">${lbl}</button>`;
     }).join('');
-  const idx=STADES_ORDRE.indexOf(d.stade);
-  const pct=idx<0?0:Math.round((idx/(STADES_ORDRE.length-1))*100);
+  const pct=parlementStageProgress(d.stade);
   body.innerHTML=`
     ${(d.pourquoi||d.resume_abc)?`<div><div class="drawer-section-title">Pourquoi ABC</div><div class="parl-pourquoi">${escHtml(d.pourquoi||d.resume_abc)}</div></div>`:''}
-    ${d.stade?`<div><div class="parl-progress"><div class="parl-progress-label"><span class="parl-stade-badge">${escHtml(d.stade)}</span><span>${pct}%</span></div><div class="parl-progress-track"><div class="parl-progress-bar" style="width:${pct}%"></div></div></div></div>`:''}
+    ${d.stade?`<div><div class="parl-progress"><div class="parl-progress-label"><span class="parl-stade-badge">${escHtml(d.stade)}</span>${pct===null?'':`<span>${pct}%</span>`}</div>${pct===null?'':`<div class="parl-progress-track"><div class="parl-progress-bar" style="width:${pct}%"></div></div>`}</div></div>`:''}
     <div>
       <div class="drawer-section-title">Commentaires</div>
       <div id="drawer-comments-list"><div class="empty-state" style="padding:12px 0">Chargement…</div></div>

@@ -1,35 +1,46 @@
 {
   "date": "2026-10-12",
-  "generated_at": "14:44",
-  "elapsed_seconds": 643,
+  "generated_at": "20:33",
+  "elapsed_seconds": 654,
   "errors": [],
   "stats": {
-    "jo_analyses": 6,
+    "jo_analyses": 7,
     "jo_retenus": 0,
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-12T14:44:10",
+    "run_at": "2026-10-12T20:33:36",
     "sources": {
       "JORF": 0,
-      "RSS": 16,
+      "RSS": 18,
       "VigiEau": 93,
       "Parlement": 1
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 48,
-    "llm_seconds": 107.4
+    "llm_calls": 55,
+    "llm_seconds": 120.2
   },
   "items": [
+    {
+      "id": "71ad42f844f3",
+      "source": "EFRAG",
+      "categorie": "Environnement",
+      "titre": "Open Call for Tenders: ESRS Knowledge Hub Education Module - Development of the IT Infrastructure",
+      "resume": "Open Call for Tenders: ESRS Knowledge Hub Education Module - Development of the IT Infrastructure",
+      "pourquoi": "Mention de réglementation prioritaire.",
+      "criticite": 3,
+      "url": "https://www.efrag.org/en/news-and-calendar/news/open-call-for-tenders-esrs-knowledge-hub-education-module-development-of-the-it-infrastructure",
+      "date": "2026-10-12"
+    },
     {
       "id": "bcd7f31f8324",
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Le prix de l’électricité pour 2027 a doublé depuis le printemps [Marchés]",
-      "resume": "Le contrat de fourniture d'électricité pour 2027 en France a dépassé les 100 €/MWh, doublant ainsi depuis le printemps. Cette hausse des prix impacte directement les coûts énergétiques des sites tertiaires gérés par ABC et renforce la nécessité d'optimiser l'efficacité énergétique.",
-      "pourquoi": "Cette envolée des prix de l'électricité alourdit directement les coûts d'exploitation des sites gérés par ABC et renforce l'urgence d'optimiser l'efficacité énergétique de ses clients à court terme, transformant cette contrainte en opportunité commerciale pour ses prestations de Facility Management bas-carbone.",
+      "resume": "Le prix de référence des contrats de fourniture d'électricité en France pour 2027 a doublé, dépassant les 100 €/MWh. Cette hausse des marchés de l'énergie aura un impact direct sur les coûts opérationnels des sites gérés par ABC et sur sa propre facture énergétique.",
+      "pourquoi": "La forte hausse des prix de l'électricité pour 2027 menace directement les marges opérationnelles d'ABC (hausse de ses coûts internes et de ses prestations grands comptes) et crée une opportunité stratégique urgente d'accélérer l'accompagnement de ses clients vers l'efficacité énergétique, avec un délai d'action immédiat pour anticiper le renouvellement des contrats.",
       "criticite": 2,
       "url": "https://www.greenunivers.com/2026/10/le-prix-de-lelectricite-pour-2027-a-double-depuis-le-printemps-marches-435772/",
       "date": "2026-10-12"
@@ -37,9 +48,9 @@
     {
       "id": "8a989e6a8deb",
       "source": "Actu-Environnement",
-      "categorie": "Énergie",
+      "categorie": "Environnement",
       "titre": "Dérogation espèces protégées&amp;#8239;: le tribunal administratif d'Amiens invalide un projet de parc photovoltaïque",
-      "resume": "Le tribunal administratif d'Amiens a annulé une dérogation pour espèces protégées concernant un projet photovoltaïque, illustrant la complexité juridique des projets d'énergies renouvelables.",
+      "resume": "Un tribunal administratif annule une dérogation pour espèces protégées concernant un projet photovoltaïque, illustrant les risques juridiques entourant le déploiement des énergies renouvelables.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/derogation-especes-protegees-photovoltaique-warluis-amiens-48648.php4#xtor=RSS-6",
@@ -48,29 +59,18 @@
     {
       "id": "96edb5a66320",
       "source": "Actu-Environnement",
-      "categorie": "Environnement",
+      "categorie": "Eau",
       "titre": "De la maîtrise de l'eau non facturée à la détection acoustique des fuites",
-      "resume": "L'article présente des technologies de détection des fuites d'eau qui peuvent intéresser ABC dans le cadre de la gestion de l'eau sur les sites de ses clients (Facility Management).",
+      "resume": "L'article présente l'utilisation de technologies de détection acoustique pour optimiser la gestion de l'eau et réduire les fuites sur les réseaux.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/pdt/kamstrup-maitrise-eau-detection-acoustique-fuites-flowiq-leak-detector-1497.php4#xtor=RSS-6",
       "date": "2026-10-12"
     },
     {
-      "id": "b753818e5549",
-      "source": "Actu-Environnement",
-      "categorie": "Déchets",
-      "titre": "Ecominéro : trois ans pour accélérer l’économie circulaire de la filière minérale",
-      "resume": "Bilan de trois ans de la REP PMCB par Ecominéro, mettant en avant la valorisation et le recyclage des déchets de la filière minérale.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.actu-environnement.com/ae/pdt/ecominero-eco-organisme-rep-pmcb-dechets-inertes-batiment-filiere-recyclage-reemploi-ecoconception-1496.php4#xtor=RSS-6",
-      "date": "2026-10-12"
-    },
-    {
       "id": "6561f328cda7",
       "source": "Reporterre",
-      "categorie": "Eau",
+      "categorie": "Environnement",
       "titre": "Sécheresse : le Finistère dans une « situation critique »",
       "resume": "Le Finistère fait face à une sécheresse critique menaçant la ressource en eau, un risque climatique opérationnel susceptible d'affecter les prestations sur les sites clients de la région.",
       "pourquoi": "",
@@ -83,7 +83,7 @@
       "source": "Reporterre",
       "categorie": "Climat",
       "titre": "Le mois de septembre a été le plus chaud jamais enregistré en Europe de l'Ouest",
-      "resume": "Copernicus confirme que septembre se classe parmi les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C. Cette tendance renforce l'exposition des 3 000+ sites clients d'ABC aux aléas climatiques croissants.",
+      "resume": "Copernicus confirme que septembre se classe parmi les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C de l'Accord de Paris.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Le-mois-de-septembre-a-ete-le-plus-chaud-jamais-enregistre-en-Europe-de-l-Ouest",
@@ -94,10 +94,21 @@
       "source": "Contexte Environnement",
       "categorie": "Biodiversité",
       "titre": "COP17 biodiversité : la France et l’UE sont-elles à la hauteur de leurs engagements ?",
-      "resume": "L'article fait le point sur les engagements de la France et de l'UE en matière de biodiversité à l'approche de la COP17, un sujet connexe aux exigences croissantes du reporting extra-financier (CSRD/ESRS E4).",
+      "resume": "L'article fait le point sur les engagements de la France et de l'UE en matière de biodiversité à l'approche de la COP17, un sujet connexe aux enjeux environnementaux globaux d'ABC.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.contexte.com/fr/article/environnement/cop17-biodiversite-la-france-et-lue-sont-elles-a-la-hauteur-de-leurs-engagements_279295?source=rss",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "a5c72c107cbe",
+      "source": "GreenUnivers",
+      "categorie": "Énergie",
+      "titre": "Enedis et RTE testent leur outil commun de flexibilités locales dans le Sud-Ouest",
+      "resume": "Enedis et RTE lancent une plateforme commune de flexibilités électriques locales, permettant d'optimiser la gestion de l'énergie à l'échelle régionale.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.greenunivers.com/2026/10/enedis-et-rte-testent-leur-outil-commun-de-flexibilites-locales-dans-le-sud-ouest-435805/",
       "date": "2026-10-12"
     },
     {
@@ -105,7 +116,7 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Réseaux électriques : Engie scrute de nouvelles opportunités outre-Manche",
-      "resume": "L'article évoque les investissements massifs d'Engie dans les réseaux électriques et gaziers, soulignant la dynamique générale des infrastructures énergétiques.",
+      "resume": "Engie prévoit d'investir massivement dans le développement des réseaux électriques, soutenant la transition énergétique et l'électrification des usages.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.greenunivers.com/2026/10/reseaux-electriques-engie-scrute-de-nouvelles-opportunites-outre-manche-435215/",
@@ -116,7 +127,7 @@
       "source": "Le Monde Planète",
       "categorie": "Climat",
       "titre": "Le commissaire européen au climat compte sur le « made in Europe » et le nucléaire pour réduire les émissions de carbone",
-      "resume": "La Commission européenne mise sur le \"made in Europe\" et le nucléaire pour réduire les émissions industrielles, renforçant le cadre stratégique global de décarbonation de l'UE.",
+      "resume": "La Commission européenne mise sur le « made in Europe » et le nucléaire pour réduire les émissions, ce qui influence le cadre réglementaire et les attentes des grands clients industriels d'ABC en matière de décarbonation.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/economie/article/2026/10/12/le-commissaire-europeen-au-climat-compte-sur-le-made-in-europe-et-le-nucleaire-pour-reduire-les-emissions-de-carbone_6792422_3234.html",
@@ -127,7 +138,7 @@
       "source": "Le Monde Planète",
       "categorie": "Environnement",
       "titre": "En Haute-Saône et dans le Jura, des rivières restaurées pour ralentir l’eau : « C’est insolent comme c’était vert, en pleine sécheresse »",
-      "resume": "Des projets de restauration et de reméandrage de rivières sont menés en Haute-Saône et dans le Jura pour faire face aux sécheresses et favoriser l'infiltration des sols.",
+      "resume": "Des projets de restauration et de reméandrage de rivières sont menés en Bourgogne-Franche-Comté pour lutter contre les sécheresses et favoriser l'infiltration des sols.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/12/en-haute-saone-et-dans-le-jura-des-rivieres-restaurees-pour-ralentir-l-eau-c-est-insolent-comme-c-etait-vert-en-pleine-secheresse_6792419_3244.html",
@@ -138,10 +149,21 @@
       "source": "EFRAG",
       "categorie": "Environnement",
       "titre": "EFRAG Update: August & September Edition Now Available",
-      "resume": "L'EFRAG a publié son édition d'août et septembre, incluant la liste provisoire des points de données 2026, un élément clé pour la mise en conformité avec la CSRD.",
+      "resume": "L'EFRAG a publié son édition d'août et septembre 2026, incluant les nouveautés sur les normes de reporting CSRD et la liste des points de données (datapoints) pour les entreprises.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-update-august-september-edition-now-available",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "fc331af7f125",
+      "source": "Les Echos Environnement",
+      "categorie": "Énergie",
+      "titre": "Immobilier : les émissions de CO2 des bâtiments reculent en Europe plus vite que leur consommation d'énergie - Les Echos",
+      "resume": "Les émissions de CO2 des bâtiments en Europe baissent plus vite que leur consommation d'énergie, une tendance qui renforce les attentes des clients d'ABC en matière de performance environnementale tertiaire.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbkJGclR3Q1dqbTBPdXVmYm1VOWZNS3NQMTJlNFUxNE1hNENycnBBV1NaWUQ3dlpxcXVSZ0picUt4OXNFZWdIWlh6NUVsVjhmQ0I2MHFmTm04YWt5M2h4NUVrbnFYU2p6cV9qRHBCSFdOTUZiOElrVFRQQ19HV3dVQlpGNGFiVDVjZDFyanZ4RHZQQkIwd2xTS3lLRzRjWGFtNk90YzZZcGExTzNjSEwzcl9ULXRVZDJLejJaYXRrQURtY25CbmVZTjZ6aFc0eXM0Nlc0d2g1cmJBcDFjenVlR0k4SjI0c3dCcnJxZ0NrbGNhNU43OEVySElXXzBNSHNj?oc=5",
       "date": "2026-10-12"
     },
     {
@@ -149,7 +171,7 @@
       "source": "Actuel HSE",
       "categorie": "Déchets",
       "titre": "Filières REP : certaines règles de gouvernance pourront être modifiées sans passer par la loi",
-      "resume": "Le Conseil constitutionnel permet de modifier certaines règles de gouvernance des filières REP par décret, simplifiant les évolutions réglementaires pour les éco-organismes.",
+      "resume": "Le Conseil constitutionnel permet de modifier certaines règles de gouvernance des filières REP par décret, simplifiant potentiellement le cadre réglementaire des éco-organismes.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actuel-hse.fr/content/filieres-rep-certaines-regles-de-gouvernance-pourront-etre-modifiees-sans-passer-par-la-loi",
@@ -160,7 +182,7 @@
       "source": "Actuel HSE",
       "categorie": "Déchets",
       "titre": "Un guide pour aider les acteurs de la gestion des déchets à s’adapter au changement climatique",
-      "resume": "Publication d'un guide méthodologique pour aider les acteurs de la gestion des déchets à s'adapter aux impacts du changement climatique, intéressant pour anticiper les risques sur la chaîne de gestion des déchets des prestations d'ABC.",
+      "resume": "Publication d'un guide méthodologique destiné aux acteurs de la gestion des déchets pour intégrer l'adaptation au changement climatique dans leurs activités.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actuel-hse.fr/content/un-guide-pour-aider-les-acteurs-de-la-gestion-des-dechets-sadapter-au-changement-climatique",
@@ -171,7 +193,7 @@
       "source": "Reporterre",
       "categorie": "Environnement",
       "titre": "La voiture partagée entre voisins, une solution au désert des transports en zone rurale",
-      "resume": "L'article présente une initiative locale de véhicules électriques partagés en zone rurale, illustrant les tendances d'évolution des mobilités alternatives.",
+      "resume": "L'article traite de l'autopartage de véhicules électriques en milieu rural comme solution de mobilité durable.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/La-voiture-partagee-entre-voisins-une-solution-au-desert-des-transports-en-zone-rurale",
@@ -182,7 +204,7 @@
       "source": "ESG Today",
       "categorie": "Environnement",
       "titre": "ESG Today: Week in Review",
-      "resume": "Synthèse hebdomadaire sur les tendances ESG mondiales, incluant les attentes des investisseurs sur le risque climatique et l'augmentation des investissements de durabilité des entreprises.",
+      "resume": "Synthèse hebdomadaire sur les tendances ESG mondiales, incluant les attentes des investisseurs sur le risque climatique et les investissements durables des entreprises.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.esgtoday.com/esg-today-week-in-review-278/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-278",
@@ -717,6 +739,24 @@
       "date": "2026-10-11"
     },
     {
+      "titre": "Décret du 8 octobre 2026 portant délégation de signature (ministère des armées et des anciens combattants)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969302",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 autorisant au titre de l'année 2027 l'ouverture et fixant les conditions d'organisation de concours pour le recrutement de techniciens supérieurs d'études et de fabrications de 3e classe du ministère de la défense",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969397",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2026 relatif à l'agrément d'un accord de travail applicable dans les établissements et services du secteur social et médico-social privé à but non lucratif",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969596",
+      "date": "2026-10-10"
+    },
+    {
       "titre": "Décret n° 2026-944 du 9 octobre 2026 relatif à la notification des organismes d'évaluation de la conformité des produits comportant des éléments numériques",
       "nature": "DECRET",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054970344",
@@ -726,12 +766,6 @@
       "titre": "Décret du 9 octobre 2026 abrogeant le décret portant reconnaissance de l'association « Institut international de sociologie » comme établissement d'utilité publique",
       "nature": "DECRET",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054970354",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "Décision du 9 octobre 2026 portant délégation de signature (direction de la transformation numérique)",
-      "nature": "DECISION",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054970359",
       "date": "2026-10-11"
     },
     {
@@ -753,70 +787,88 @@
       "date": "2026-10-11"
     },
     {
-      "titre": "Arrêté du 9 octobre 2026 portant nomination (directions départementales interministérielles)",
+      "titre": "Arrêté du 7 octobre 2026 portant modification de l'arrêté du 28 septembre 2026 portant ouverture au titre de l'année 2027 des concours externe et interne pour le recrutement d'assistantes et d'assistants de service social des administrations de l'Etat au sein du ministère des armées et des anciens combattants",
       "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971266",
-      "date": "2026-10-11"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969386",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Arrêté du 5 octobre 2026 habilitant un agent de l'Etat à effectuer des contrôles sur pièces et sur place en application de l'article L. 2339-1 du code de la défense",
-      "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971274",
-      "date": "2026-10-11"
+      "titre": "Décret n° 2026-937 du 8 octobre 2026 portant application de l'article L. 121-6 du code forestier et instaurant un régime d'aides au renouvellement forestier",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969432",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Arrêté du 9 octobre 2026 portant nomination (administration centrale)",
+      "titre": "Arrêté du 8 octobre 2026 portant application de l'article 22 du décret n° 2026-937 du 8 octobre 2026 portant application de l'article L. 121-6 du code forestier et instaurant un régime d'aides au renouvellement forestier",
       "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971278",
-      "date": "2026-10-11"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969475",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Arrêté du 8 octobre 2026 portant admission en formation d'ingénieur en 2e et 3e année (cycle master) à l'Ecole nationale des ponts et chaussées",
-      "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971295",
-      "date": "2026-10-11"
+      "titre": "Décret n° 2026-938 du 8 octobre 2026 modifiant le décret n° 94-50 du 12 janvier 1994 instituant une indemnité de suivi et d'orientation des élèves en faveur des personnels enseignants et d'éducation ou exerçant des fonctions d'enseignement dans les établissements publics d'enseignement technique agricole, les établissements publics d'enseignement maritime et aquacole ou affectés au Centre national de promotion rurale",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969526",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Arrêté du 8 octobre 2026 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « ophtalmologie » en application des dispositions de l'article L. 4111-2 (I) du code de la santé publique et du IV de l'article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007",
+      "titre": "Arrêté du 8 octobre 2026 fixant la liste des établissements relative aux emplois fonctionnels de direction des établissements mentionnés aux 3°, 5° et 6° de l'article L. 5 du code général de la fonction publique ainsi que de certains établissements mentionnés au 1° de cet article",
       "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971312",
-      "date": "2026-10-11"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969546",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Arrêté du 8 octobre 2026 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « ophtalmologie » en application des dispositions de l'article L. 4111-2 (II) du code de la santé publique",
+      "titre": "Arrêté du 8 octobre 2026 fixant la liste des établissements mentionnés aux 3° à 6° de l'article L. 5 du code général de la fonction publique dirigés par un directeur relevant de la classe normale du corps des directeurs des établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière",
       "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971322",
-      "date": "2026-10-11"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969564",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Arrêté du 9 octobre 2026 modifiant l'arrêté du 13 décembre 2024 modifié portant nomination au Conseil supérieur des personnels médicaux, odontologistes et pharmaceutiques des établissements publics de santé",
+      "titre": "Arrêté du 8 octobre 2026 fixant la liste des établissements mentionnés aux 3°, 5° et 6° de l'article L. 5 du code général de la fonction publique dont la direction permet l'accès à l'échelon fonctionnel de la hors-classe du corps des directeurs des établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière",
       "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971329",
-      "date": "2026-10-11"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969574",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Décision du 8 octobre 2026 portant fin de fonctions et nomination au Contrôleur général des lieux de privation de liberté",
+      "titre": "Décret n° 2026-779 du 13 août 2026 pris pour l'application de l'article 706-87-1 du code de procédure pénale relatif à la procédure d'infiltration civile et portant modification du décret n° 2014-346 du 17 mars 2014 relatif à la protection des collaborateurs de justice (rectificatif)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969521",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Décret n° 2026-940 du 7 octobre 2026 modifiant le décret n° 2023-958 du 19 octobre 2023 portant création d'un dispositif de soutien exceptionnel",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969704",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 autorisant au titre de l'année 2027 l'ouverture de concours externes pour le recrutement de contrôleurs des finances publiques",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969725",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Décret n° 2026-941 du 7 octobre 2026 portant modification de la partie réglementaire du code du service national",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969783",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Décret n° 2026-942 du 8 octobre 2026 portant renouvellement du Conseil d'orientation des politiques de jeunesse et modifiant le décret n° 2016-1377 du 12 octobre 2016 portant création du Conseil d'orientation des politiques de jeunesse",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969806",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "LOI n° 2026-103 du 19 février 2026 de finances pour 2026 (rectificatif)",
+      "nature": "LOI",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969274",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Décision n° 497657 du 29 septembre 2026 du Conseil d'Etat statuant au contentieux",
       "nature": "DECISION",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971341",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "Avis de vacance d'un emploi d'expert de haut niveau",
-      "nature": "AVIS",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971360",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de l'emploi, du travail et des solidarités de Seine-et-Marne)",
-      "nature": "AVIS",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971381",
-      "date": "2026-10-11"
-    },
-    {
-      "titre": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale des territoires et de la mer des Pyrénées-Orientales)",
-      "nature": "AVIS",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971412",
-      "date": "2026-10-11"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054966209",
+      "date": "2026-10-09"
     },
     {
       "titre": "Arrêté du 9 octobre 2026 relatif aux dispositifs d'identification, d'évaluation et de gestion des risques mentionnés au deuxième alinéa de l'article L. 221-8 du code de l'énergie",
@@ -825,10 +877,16 @@
       "date": "2026-10-11"
     },
     {
-      "titre": "Décision du 7 octobre 2026 portant délégation de signature pour les directions régionales et interrégionales de l'Institut national de la statistique et des études économiques",
-      "nature": "DECISION",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054970541",
-      "date": "2026-10-11"
+      "titre": "Arrêté du 28 septembre 2026 désignant l'opération de restructuration liée à la réorganisation de l'arrondissement de gestion et d'exploitation de la route Sud de la direction des routes d'Ile-de-France ouvrant droit aux dispositifs indemnitaires et d'accompagnement des agents",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969690",
+      "date": "2026-10-10"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 relatif aux prescriptions particulières applicables aux installations électriques utilisées pour le balisage lumineux des pistes et des voies de circulation des aérodromes",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969841",
+      "date": "2026-10-10"
     },
     {
       "titre": "Décret n° 2026-945 du 9 octobre 2026 prévoyant le report des obligations définies en application des articles R. 221-4 et R. 221-4-1 du code de l'énergie sur le délégant en cas de défaillance du délégué au sens de l'article L. 333-1 du code de l'énergie, fixant les conditions dans lesquelles les dispositifs mentionnés à l'article L. 221-8 du code de l'énergie sont considérés comme mis en place de façon incomplète et précisant les modalités du contrôle de la régularité des demandes de certificats d'économies d'énergie",
@@ -843,16 +901,16 @@
       "date": "2026-10-11"
     },
     {
-      "titre": "Décret du 9 octobre 2026 portant nomination au conseil d'administration de l'Institut national de l'environnement industriel et des risques - Mme CHATAIGNIER (Isabelle)",
+      "titre": "Décret n° 2026-939 du 9 octobre 2026 fixant les conditions dans lesquelles les médecins, sages-femmes et infirmiers, exerçant à titre libéral, ainsi que les centres de santé, peuvent s'approvisionner et détenir des vaccins en vue de leur administration aux personnes ciblées par les recommandations vaccinales du calendrier des vaccinations",
       "nature": "DECRET",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971284",
-      "date": "2026-10-11"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969535",
+      "date": "2026-10-10"
     },
     {
-      "titre": "Arrêté du 7 octobre 2026 portant modification de l'arrêté du 19 décembre 2023 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « endocrinologie, diabétologie, nutrition » en application des dispositions de l'article L. 4111-2 (I) du code de la santé publique et du IV de l'article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 modifiée",
-      "nature": "ARRETE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971306",
-      "date": "2026-10-11"
+      "titre": "Décret n° 2026-943 du 8 octobre 2026 relatif aux prescriptions particulières applicables aux installations électriques utilisées pour le balisage lumineux des pistes et des voies de circulation des aérodromes",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969820",
+      "date": "2026-10-10"
     }
   ],
   "jo_retenus": [],
@@ -862,8 +920,8 @@
       "id": "pjl-14aebd68935a",
       "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
       "date_depot": "2026-03-24",
-      "stade": "Texte adopté ✅",
-      "stade_index": 0,
+      "stade": "Première lecture à l'Assemblée nationale",
+      "stade_index": 2,
       "url_an": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
       "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
       "source_rss": "manuel",
@@ -876,13 +934,13 @@
       "historique": [
         {
           "date": "2026-10-12",
-          "stade": "Dépôt",
+          "stade": "Texte adopté ✅",
           "event": "Importé depuis UI"
         },
         {
           "date": "2026-10-12",
-          "stade": "Texte adopté ✅",
-          "event": "Avancement : Dépôt → Texte adopté ✅"
+          "stade": "Première lecture à l'Assemblée nationale",
+          "event": "Avancement : Texte adopté ✅ → Première lecture à l'Assemblée nationale"
         }
       ],
       "created_at": "2026-10-12",
@@ -1173,5 +1231,5 @@
       ]
     }
   ],
-  "pjl_briefing": "L'actualité parlementaire met en avant le projet de loi de finances 2027 et le PLFSS, ainsi que divers textes relatifs à la transition énergétique, notamment l'habilitation de l'assemblée de Martinique en matière d'énergie, d'eau et d'assainissement. Pour un responsable RSE, le suivi des transpositions de directives européennes et des mesures d'adaptation au droit de l'UE en matière environnementale et économique reste particulièrement stratégique pour anticiper les obligations de reporting et de conformité."
+  "pjl_briefing": "L'actualité parlementaire met en avant le projet de loi de finances 2027 et diverses mesures d'adaptation au droit européen en matière énergétique, environnementale et de reporting (directive UE). Ces textes impactent directement la stratégie climat, la gestion des ressources et la conformité extra-financière des grandes entreprises de services."
 }
