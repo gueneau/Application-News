@@ -226,11 +226,11 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .feed-empty-prio { display: flex; align-items: center; justify-content: center; flex: 1; min-height: 0; width: 100%; background: var(--surface2); border-radius: 12px; }
 /* Sources — label visible, grid dépliée au survol */
 .src-filter-outer { padding: 8px 0 4px; }
-.src-filter-label { font-size: 10px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted2); padding: 0 2px; cursor: default; display: flex; align-items: center; gap: 6px; }
+.src-filter-label { width: 100%; font: inherit; text-align: left; font-size: 10px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted2); padding: 0 2px; cursor: pointer; display: flex; align-items: center; gap: 6px; background: none; border: 0; }
 .src-filter-label::after { content: '›'; font-size: 12px; transition: transform .25s ease; display: inline-block; }
-.src-filter-outer:hover .src-filter-label::after { transform: rotate(90deg); }
+.src-filter-outer:hover .src-filter-label::after, .src-filter-outer.is-open .src-filter-label::after { transform: rotate(90deg); }
 .src-filter-grid { display: flex; flex-wrap: wrap; gap: 6px; max-height: 0; overflow: hidden; transition: max-height .35s ease, padding .25s ease; padding-top: 0; }
-.src-filter-outer:hover .src-filter-grid { max-height: 300px; padding-top: 8px; }
+.src-filter-outer:hover .src-filter-grid, .src-filter-outer.is-open .src-filter-grid { max-height: 300px; padding-top: 8px; }
 .src-link-btn { padding: 5px 12px; border-radius: 6px; font-size: 11px; font-weight: 600; background: var(--surface2); color: var(--text2); border: 1px solid var(--border); text-decoration: none; white-space: nowrap; display: inline-block; transition: background .15s, color .15s, transform .15s, box-shadow .15s; }
 .src-link-btn:hover { background: var(--primary-container); color: var(--on-primary-container); border-color: var(--primary-container); transform: translateY(-1px); box-shadow: 0 2px 8px rgba(1,45,29,0.15); }
 .feed-empty-prio-inner { display: flex; flex-direction: column; align-items: center; gap: 12px; max-width: 200px; text-align: center; }
@@ -459,7 +459,8 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
   .feed-col-prio, .feed-col-consulter { overflow: visible; padding: 12px 0; }
   .feed-col-prio { align-items: stretch; }
   .feed-col-consulter { border-left: 0; border-top: 1px solid var(--border); border-radius: 10px; }
-  .src-filter-grid { max-height: none; overflow: visible; padding-top: 8px; }
+  .src-filter-outer:hover .src-filter-grid { max-height: 0; padding-top: 0; }
+  .src-filter-outer.is-open .src-filter-grid { max-height: 300px; padding-top: 8px; }
   .feed-empty-prio { min-height: 150px; }
   .card-content { grid-template-columns: minmax(0, 1fr) auto; gap: 8px; padding: 8px; }
   .card-meta { flex-wrap: wrap; }
@@ -769,7 +770,7 @@ function renderFeed(){
     const links=Object.entries(SOURCE_URLS).map(([n,url])=>
       `<a href="${url}" target="_blank" rel="noopener" class="src-link-btn">${escHtml(n)}</a>`
     ).join('');
-    return `<div class="src-filter-outer"><div class="src-filter-label">Sources</div><div class="src-filter-grid">${links}</div></div>`;
+    return `<div class="src-filter-outer"><button type="button" class="src-filter-label" aria-expanded="false" onclick="toggleSourceLinks(this)">Sources</button><div class="src-filter-grid">${links}</div></div>`;
   }
   const sourcesLinksHtml=buildSourcesLinks();
 
@@ -779,6 +780,11 @@ function renderFeed(){
   html+=`</div>`;
   if(veille.length)html+=`<div class="feed-col-consulter"><div class="feed-consulter-hd"><span class="feed-consulter-lbl">À consulter</span><span class="feed-section-badge" style="margin-left:auto">${veille.length}</span></div><div class="feed-consulter-items">${veille.map(cardHtmlCompact).join('')}</div></div>`;
   list.innerHTML=html;
+}
+function toggleSourceLinks(button){
+  const expanded=button.getAttribute('aria-expanded')!=='true';
+  button.setAttribute('aria-expanded',String(expanded));
+  button.parentElement.classList.toggle('is-open',expanded);
 }
 function scrollToItem(id){
   if(currentView!=='feed')switchView('feed');
