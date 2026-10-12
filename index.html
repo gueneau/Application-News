@@ -247,18 +247,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .feed-empty-prio-sub { font-size: 12px; color: var(--muted); line-height: 1.5; }
 @keyframes empty-pulse { 0%,100% { transform: scale(0.8); opacity: .15; } 50% { transform: scale(1.2); opacity: .07; } }
 
-/* ── Map / Carte view ────────────────────────────────────────────────── */
-#carte-view { position: relative; }
-#map-container { width: 100%; height: 100%; }
-#map-legend { position: absolute; top: 12px; left: 12px; z-index: 1000; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 8px 12px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; box-shadow: 0 2px 8px rgba(0,0,0,.08); font-size: 11px; }
-.legend-title { font-weight: 600; color: var(--muted); font-size: 10px; letter-spacing: .06em; }
-.legend-chip { display: flex; align-items: center; gap: 4px; color: var(--text2); }
-.legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-#dept-detail { position: absolute; bottom: 0; left: 0; right: 0; z-index: 1000; background: var(--surface); border-top: 1px solid var(--border); padding: 12px 16px; display: none; flex-direction: column; gap: 4px; box-shadow: 0 -2px 8px rgba(0,0,0,.06); }
-#dept-detail.open { display: flex; }
-.dept-detail-title { font-size: 14px; font-weight: 500; color: var(--text); display: flex; align-items: center; gap: 6px; }
-
-/* ── JO / DILA view ──────────────────────────────────────────────────── */
 #jo-view { padding: 0; overflow-y: auto; }
 .jo-header { padding: 16px 20px 12px; background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 2; }
 .jo-title-row { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
@@ -473,47 +461,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .like-btn:hover { color: #f59e0b; transform: scale(1.15); }
 .like-btn.liked { color: #f59e0b; }
 /* ── Recherche restriction par commune ── */
-.sb-eausearch{padding:12px 14px;border-top:1px solid var(--sb-border)}
-.eaus-box{position:relative}
-.eaus-input{width:100%;background:var(--sb-hover);border:1px solid var(--sb-border);border-radius:var(--radius-sm);color:var(--sb-text);font-family:var(--sans);font-size:12px;padding:7px 9px;outline:none}
-.eaus-input::placeholder{color:var(--sb-muted)}
-.eaus-input:focus{border-color:var(--sb-accent)}
-.eaus-suggest{position:absolute;top:calc(100% + 4px);left:0;right:0;background:var(--sb-bg);border:1px solid var(--sb-border);border-radius:var(--radius-sm);box-shadow:0 6px 20px rgba(0,0,0,.35);z-index:1200;max-height:240px;overflow-y:auto;display:none}
-.eaus-suggest.open{display:block}
-.eaus-sug-item{display:flex;align-items:baseline;gap:8px;padding:7px 10px;cursor:pointer;font-size:12px;color:var(--sb-text);border-bottom:1px solid var(--sb-border)}
-.eaus-sug-item:last-child{border-bottom:none}
-.eaus-sug-item:hover{background:var(--sb-hover)}
-.eaus-sug-dept{font-family:var(--mono);font-size:10px;color:var(--sb-muted);flex-shrink:0}
-.eaus-sug-empty{padding:9px 10px;font-size:11px;color:var(--sb-muted)}
-.eaus-overlay{position:fixed;inset:0;z-index:2000;background:rgba(15,20,30,.55);backdrop-filter:blur(2px);display:none;align-items:center;justify-content:center;padding:20px}
-.eaus-overlay.open{display:flex}
-.eaus-modal{background:var(--surface);border:1px solid var(--border);border-radius:12px;box-shadow:0 20px 60px rgba(0,0,0,.25);width:100%;max-width:480px;max-height:82vh;display:flex;flex-direction:column;overflow:hidden;animation:eausPop .16s ease-out}
-@keyframes eausPop{from{opacity:0;transform:translateY(8px) scale(.98)}to{opacity:1;transform:none}}
-.eaus-mhead{padding:18px 20px 16px;color:#fff;position:relative}
-.eaus-mclose{position:absolute;top:12px;right:12px;width:26px;height:26px;border:none;border-radius:6px;background:rgba(255,255,255,.18);color:#fff;font-size:13px;cursor:pointer;line-height:1;display:flex;align-items:center;justify-content:center}
-.eaus-mclose:hover{background:rgba(255,255,255,.3)}
-.eaus-mcommune{font-size:17px;font-weight:600;line-height:1.25}
-.eaus-mmeta{font-size:11px;opacity:.85;font-family:var(--mono);margin-top:2px}
-.eaus-mbadge{display:inline-flex;align-items:center;gap:6px;margin-top:12px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.3);border-radius:20px;padding:4px 12px;font-size:12px;font-weight:600}
-.eaus-mbadge .dot{width:8px;height:8px;border-radius:50%;background:#fff}
-.eaus-mbody{padding:0;overflow-y:auto}
-.eaus-zone{padding:14px 20px;border-bottom:1px solid var(--border)}
-.eaus-zone:last-child{border-bottom:none}
-.eaus-zone-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
-.eaus-zone-nom{font-size:13px;font-weight:600;color:var(--text)}
-.eaus-zone-niv{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;padding:2px 8px;border-radius:10px;color:#fff;flex-shrink:0}
-.eaus-arrete{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;font-size:11px;color:var(--muted);margin-bottom:10px}
-.eaus-arrete a{color:var(--blue);text-decoration:none;font-weight:500}
-.eaus-arrete a:hover{text-decoration:underline}
-.eaus-usages-lbl{font-size:10px;font-weight:600;letter-spacing:.05em;color:var(--muted);text-transform:uppercase;margin-bottom:6px}
-.eaus-usage{display:flex;gap:8px;padding:6px 0;border-top:1px solid var(--surface2)}
-.eaus-usage:first-of-type{border-top:none}
-.eaus-uthem{flex-shrink:0;font-size:9px;font-weight:600;text-transform:uppercase;letter-spacing:.03em;background:var(--surface2);color:var(--text2);padding:2px 6px;border-radius:4px;height:fit-content;margin-top:1px}
-.eaus-utext{flex:1;min-width:0}
-.eaus-uname{font-size:12px;font-weight:500;color:var(--text)}
-.eaus-udesc{font-size:11px;color:var(--muted);margin-top:1px;white-space:pre-line}
-.eaus-empty,.eaus-error{padding:32px 20px;text-align:center;font-size:13px;color:var(--muted)}
-.eaus-loading{padding:32px 20px;text-align:center;font-size:12px;color:var(--muted);font-family:var(--mono)}
 </style>
 </head>
 <body>
@@ -527,7 +474,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
     </div>
     <div class="sb-nav">
       <div class="nav-item active" data-view="feed" onclick="switchView('feed')"><span class="material-symbols-outlined nav-icon">feed</span>Feed</div>
-      <div class="nav-item" data-view="carte" onclick="switchView('carte')"><span class="material-symbols-outlined nav-icon">water_drop</span>Carte Eau</div>
       <div class="nav-item" data-view="jo" onclick="switchView('jo')"><span class="material-symbols-outlined nav-icon">gavel</span>JO / DILA</div>
       <div class="nav-item" data-view="likes" onclick="switchView('likes')"><span class="material-symbols-outlined nav-icon">bookmark</span>Favoris <span id="nav-likes-badge" style="margin-left:auto;font-size:9px;font-family:var(--mono);background:rgba(255,255,255,0.2);color:#ffffff;padding:1px 6px;border-radius:10px;display:none"></span></div>
       <div class="nav-item" data-view="parlement" onclick="switchView('parlement')"><span class="material-symbols-outlined nav-icon">folder_open</span>Dossiers <span id="nav-parl-badge" style="margin-left:auto;font-size:9px;font-family:var(--mono);background:rgba(255,255,255,0.2);color:#ffffff;padding:1px 6px;border-radius:10px;display:none"></span></div>
@@ -540,13 +486,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
         <div class="stat-cell"><div class="stat-val" id="stat-depts">—</div><div class="stat-lbl">Depts alertés</div></div>
         <div class="stat-cell"><div class="stat-val zero" id="stat-suivi">—</div><div class="stat-lbl">Dossiers suivis</div></div>
       </div>
-      <div id="sidebar-eau"></div>
-    </div>
-    <div class="sb-eausearch">
-      <div class="sb-section-lbl" style="padding:0 0 6px">Restriction par commune</div>
-      <div class="eaus-box">
-        <input id="eaus-input" type="text" class="eaus-input" placeholder="Rechercher une commune…" autocomplete="off" oninput="eausSearch(this.value)" onfocus="eausSearch(this.value)">
-        <div id="eaus-suggest" class="eaus-suggest"></div>
       </div>
     </div>
   </div>
@@ -558,16 +497,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
       </div>
       <div id="feed-list"></div>
     </div>
-    <div class="view" id="carte-view">
-      <div id="map-legend">
-        <span class="legend-title">RESTRICTIONS EAU</span>
-        <span class="legend-chip"><span class="legend-dot" style="background:#84cc16"></span>Vigilance</span>
-        <span class="legend-chip"><span class="legend-dot" style="background:#eab308"></span>Alerte</span>
-        <span class="legend-chip"><span class="legend-dot" style="background:#f97316"></span>Alerte renforcée</span>
-        <span class="legend-chip"><span class="legend-dot" style="background:#dc2626"></span>Crise</span>
-      </div>
-      <div id="map-encart" style="position:absolute;top:12px;right:12px;z-index:1000;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:8px 12px;box-shadow:0 1px 4px rgba(0,0,0,.08);min-width:160px"></div>
-      <div id="map-container" style="flex:1"></div>
       <div id="dept-detail"></div>
     </div>
     <div class="view" id="jo-view">
