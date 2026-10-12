@@ -613,7 +613,14 @@ function typewriter(el,texts,speed=48,del=28,wait=2800){
   }
   clearTimeout(_twTimer);el.textContent='';_twTimer=setTimeout(tick,700);
 }
-let likes=JSON.parse(localStorage.getItem('abc_likes')||'[]'); // cache local, remplacé par Supabase au chargement
+function loadLocalLikes(){
+  try{
+    const saved=JSON.parse(localStorage.getItem('abc_likes')||'[]');
+    if(!Array.isArray(saved))throw new TypeError('Le cache des favoris doit être une liste.');
+    return saved;
+  }catch(e){console.warn('Likes local load:',e);return[];}
+}
+let likes=loadLocalLikes(); // cache local, remplacé par Supabase au chargement
 let srcFilters={jorf:true,presse:true};
 let mapgl=null;
 
@@ -621,7 +628,13 @@ let mapgl=null;
 const SUPA_URL='https://fsucjfaogepwvczdyikz.supabase.co';
 const SUPA_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZzdWNqZmFvZ2Vwd3ZjemR5aWt6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM5NjIxMTcsImV4cCI6MjA4OTUzODExN30.v9PBKS5Vasil3yufao6s9Y1vAjdhsFHd2g0q2FQXR6I';
 let _supa=null;
-function getSupa(){if(!_supa)_supa=supabase.createClient(SUPA_URL,SUPA_KEY);return _supa;}
+function getSupa(){
+  if(!_supa){
+    if(!globalThis.supabase?.createClient)throw new Error('Supabase client library is unavailable.');
+    _supa=globalThis.supabase.createClient(SUPA_URL,SUPA_KEY);
+  }
+  return _supa;
+}
 
 // ── État suivi ────────────────────────────────────────────────────────
 let dossiersSuivi=[];
@@ -842,10 +855,17 @@ function renderMap(){
 
 const JO_NATURES={ARRETE:'Arrêté',DECRET:'Décret',ORDONNANCE:'Ordonnance',LOI:'Loi',CIRCULAIRE:'Circulaire',AVIS:'Avis',DECISION:'Décision'};
 function _demotedJoKey(){return `gsf_demoted_jo_${currentDate}`;}
-function _getDemotedJo(){return new Set(JSON.parse(localStorage.getItem(_demotedJoKey())||'[]'));}
+function _getDemotedJo(){
+  try{
+    const saved=JSON.parse(localStorage.getItem(_demotedJoKey())||'[]');
+    if(!Array.isArray(saved))throw new TypeError('Le cache des textes déclassés doit être une liste.');
+    return new Set(saved);
+  }catch(e){console.warn('JO demotion cache load:',e);return new Set();}
+}
 function demoteJO(itemId){
   const s=_getDemotedJo();s.add(itemId);
-  localStorage.setItem(_demotedJoKey(),JSON.stringify([...s]));
+  try{localStorage.setItem(_demotedJoKey(),JSON.stringify([...s]));}
+  catch(e){console.warn('JO demotion cache save:',e);}
   renderJO();showToast('Texte renvoyé dans la liste');
 }
 
@@ -1086,7 +1106,10 @@ async function loadWaterAlerts(){
       </div>`;
     });
     slot.innerHTML=html;
-  }catch(e){slot.innerHTML='';}
+  }catch(e){
+    console.warn('Water alerts load:',e);
+    slot.innerHTML='<div style="font-size:10px;color:var(--muted2)">Événements momentanément indisponibles</div>';
+  }
 }
 
 async function exportEauCSV(){
@@ -1203,8 +1226,17 @@ async function openDossierDrawer(id){
   drawerDossierId=id;
   const d=dossiersSuivi.find(x=>x.id===id);
   if(!d)return;
-  document.getElementById('drawer-title').textContent=d.titre;
-  document.getElementById('drawer-statut-row').innerHTML=
+  const title=document.getElementById('drawer-title');
+  const statusRow=document.getElementById('drawer-statut-row');
+  const body=document.getElementById('drawer-body');
+  const drawer=document.getElementById('dossier-drawer');
+  const overlay=document.getElementById('drawer-overlay');
+  if(!title||!statusRow||!body||!drawer||!overlay){
+    console.error('Dossier drawer markup is incomplete.');
+    return;
+  }
+  title.textContent=d.titre;
+  statusRow.innerHTML=
     Object.entries(STATUT_LABEL).map(([val,lbl])=>{
       const bc=STATUT_BADGE[val];
       const active=val===d.statut?'outline:2px solid var(--blue);outline-offset:2px':'';
@@ -1212,7 +1244,7 @@ async function openDossierDrawer(id){
     }).join('');
   const idx=STADES_ORDRE.indexOf(d.stade);
   const pct=idx<0?0:Math.round((idx/(STADES_ORDRE.length-1))*100);
-  document.getElementById('drawer-body').innerHTML=`
+  body.innerHTML=`
     ${(d.pourquoi||d.resume_abc)?`<div><div class="drawer-section-title">Pourquoi ABC</div><div class="parl-pourquoi">${escHtml(d.pourquoi||d.resume_abc)}</div></div>`:''}
     ${d.stade?`<div><div class="parl-progress"><div class="parl-progress-label"><span class="parl-stade-badge">${escHtml(d.stade)}</span><span>${pct}%</span></div><div class="parl-progress-track"><div class="parl-progress-bar" style="width:${pct}%"></div></div></div></div>`:''}
     <div>
@@ -1223,12 +1255,18 @@ async function openDossierDrawer(id){
         <button class="btn-save" onclick="addComment('${id}')">Envoyer</button>
       </div>
     </div>`;
-  document.getElementById('dossier-drawer').classList.add('open');
-  document.getElementById('drawer-overlay').style.display='block';
+  drawer.classList.add('open');
+  overlay.style.display='block';
   try{
     const {data}=await getSupa().from('dossier_comments').select('*').eq('dossier_id',id).order('created_at');
-    renderDrawerComments(data||[]);
-  }catch{document.getElementById('drawer-comments-list').innerHTML='<div class="empty-state" style="padding:12px 0">Erreur de chargement</div>';}
+    if(drawerDossierId===id)renderDrawerComments(data||[]);
+  }catch(e){
+    console.error('Drawer comments load:',e);
+    if(drawerDossierId===id){
+      const comments=document.getElementById('drawer-comments-list');
+      if(comments)comments.innerHTML='<div class="empty-state" style="padding:12px 0">Erreur de chargement</div>';
+    }
+  }
 }
 
 function closeDossierDrawer(){
@@ -1368,7 +1406,25 @@ async function saveDossier(){
 }
 
 // ── Likes / Favoris ───────────────────────────────────────────────────
-function _likesLocalSave(){localStorage.setItem('abc_likes',JSON.stringify(likes));}
+function _likesLocalSave(){
+  try{localStorage.setItem('abc_likes',JSON.stringify(likes));}
+  catch(e){console.warn('Likes local save:',e);}
+}
+async function syncLikeToSupa(itemId,item,likedAt,isLiked){
+  try{
+    const client=getSupa();
+    const{error}=isLiked
+      ?await client.from('user_likes').upsert({article_id:itemId,article_data:{...item,dataDate:currentDate},liked_at:likedAt})
+      :await client.from('user_likes').delete().eq('article_id',itemId);
+    if(error)throw error;
+  }catch(e){console.warn('Like Supabase sync:',e);}
+}
+async function clearSupaLikes(){
+  try{
+    const{error}=await getSupa().from('user_likes').delete().neq('article_id','');
+    if(error)throw error;
+  }catch(e){console.warn('Likes Supabase clear:',e);}
+}
 function updateLikesBadge(){
   const badge=document.getElementById('nav-likes-badge');
   const count=document.getElementById('likes-count');
@@ -1394,18 +1450,21 @@ function toggleLike(itemId){
   const item=D?.items?.find(i=>i.id===itemId)||likes.find(l=>l.id===itemId);
   if(!item)return;
   const idx=likes.findIndex(l=>l.id===itemId);
+  let likedAt=null;
+  let isLiked;
   if(idx>=0){
     likes.splice(idx,1);
+    isLiked=false;
     showToast('Retiré des favoris');
-    getSupa().from('user_likes').delete().eq('article_id',itemId).then(({error})=>{if(error)console.warn('Like delete:',error);});
   }else{
-    const likedAt=new Date().toISOString();
+    likedAt=new Date().toISOString();
+    isLiked=true;
     const entry={...item,likedAt,dataDate:currentDate};
     likes.unshift(entry);
     showToast('⭐ Sauvegardé dans les favoris');
-    getSupa().from('user_likes').upsert({article_id:itemId,article_data:{...item,dataDate:currentDate},liked_at:likedAt}).then(({error})=>{if(error)console.warn('Like upsert:',error);});
   }
   _likesLocalSave();updateLikesBadge();
+  void syncLikeToSupa(itemId,item,likedAt,isLiked);
   const btn=document.querySelector(`[data-like-id="${itemId}"]`);
   if(btn){const now=likes.some(l=>l.id===itemId);btn.textContent=now?'★':'☆';btn.classList.toggle('liked',now);}
   if(currentView==='likes')renderLikes();
@@ -1439,13 +1498,18 @@ function renderLikes(){
 function clearLikes(){
   if(!confirm(`Supprimer les ${likes.length} favoris ?`))return;
   likes=[];_likesLocalSave();renderLikes();renderFeed();updateLikesBadge();
-  getSupa().from('user_likes').delete().neq('article_id','').then(({error})=>{if(error)console.warn('Likes clear:',error);});
+  void clearSupaLikes();
 }
 
 function switchView(view){
+  const target=document.getElementById(`${view}-view`);
+  if(!target){
+    console.warn(`Vue inconnue ou indisponible : ${view}`);
+    return;
+  }
   currentView=view;
   document.querySelectorAll('.view').forEach(el=>el.classList.remove('active'));
-  document.getElementById(`${view}-view`).classList.add('active');
+  target.classList.add('active');
   document.querySelectorAll('.nav-item').forEach(el=>el.classList.toggle('active',el.dataset.view===view));
   if(view==='carte'){setTimeout(()=>{renderMap();if(mapgl)mapgl.resize();renderMapEncart();},30);}
   if(view==='jo')renderJO();
@@ -1454,7 +1518,7 @@ function switchView(view){
 }
 function formatDate(iso){if(!iso)return'—';const[y,m,d]=iso.split('-');const M=['jan','fév','mar','avr','mai','jun','jul','aoû','sep','oct','nov','déc'];return `${parseInt(d)} ${M[parseInt(m)-1]} ${y}`;}
 function escHtml(str){return String(str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
-function showToast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');clearTimeout(t._t);t._t=setTimeout(()=>t.classList.remove('show'),2500);}
+function showToast(msg){const t=document.getElementById('toast');if(!t){console.warn('Toast container unavailable:',msg);return;}t.textContent=msg;t.classList.add('show');clearTimeout(t._t);t._t=setTimeout(()=>t.classList.remove('show'),2500);}
 function getSessionToken(){let t=localStorage.getItem('abc_session');if(!t){t=crypto.randomUUID();localStorage.setItem('abc_session',t);}return t;}
 
 /* ══════════ Recherche restriction par commune (VigiEau /api/zones) ══════════ */
