@@ -151,16 +151,30 @@ def fetch_jorf(today_str: str):
                 log.warning(f"JORF briefing erreur (non bloquant) : {e}")
                 briefing = ''
 
+            # Utilise le batching pour optimiser le quota Groq
+            articles_with_content = []
             for art in all_articles:
+                contenu = art['contenu']
+                if art.get('url') and 'legifrance' in art.get('url', ''):
+                    full = crawl_article(art['url'])
+                    if full:
+                        contenu = full
+                articles_with_content.append({'titre': art['titre'], 'contenu': contenu, 'art': art})
+
+            # Traite par lots de 2 pour rester dans les limites
+            batch_size = 2
+            analyses = []
+            for i in range(0, len(articles_with_content), batch_size):
+                batch = articles_with_content[i:i + batch_size]
+                batch_analyses = groq_analyse_batch(
+                    [{'titre': a['titre'], 'contenu': a['contenu']} for a in batch],
+                    prompt_type="jorf"
+                )
+                for a, analysis in zip(batch, batch_analyses):
+                    analyses.append((a['art'], analysis))
+
+            for art, analysis in analyses:
                 try:
-                    contenu = art['contenu']
-                    if art.get('url') and 'legifrance' in art.get('url', ''):
-                        full = crawl_article(art['url'])
-                        if full:
-                            contenu = full
-
-                    analysis = groq_analyse_jorf(art['titre'], contenu)
-
                     resume = analysis.get('resume', '')
                     # Reject if LLM resume signals non-relevance despite pertinent=True
                     _neg = resume.lower()
@@ -185,7 +199,7 @@ def fetch_jorf(today_str: str):
                     items.append({
                         'id': make_id('JORF', art['titre']),
                         'source': 'JORF',
-                        'categorie': categorise(art['titre'] + ' ' + contenu),
+                        'categorie': categorise(art['titre'] + ' ' + art.get('contenu', '')),
                         'titre': art['titre'],
                         'resume': analysis.get('resume') or art['titre'],
                         'pourquoi': pourquoi,

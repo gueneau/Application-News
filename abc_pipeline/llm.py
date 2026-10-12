@@ -127,6 +127,70 @@ def _safe_score(val) -> int:
 
 
 # ─────────────────────────────────────────────
+
+# ─────────────────────────────────────────────
+# LLM — Batch analysis (for rate limit optimization)
+# ─────────────────────────────────────────────
+
+
+def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
+    """Analyse plusieurs articles en un seul appel LLM.
+    Optimise le quota Groq (30 appels/min, 8K tokens/min).
+    
+    Args:
+        articles: Liste de dicts avec {"titre": str, "contenu": str}
+        prompt_type: "jorf" ou "rss"
+        
+    Returns:
+        Liste de dicts avec les analyses
+    """
+    if not articles:
+        return []
+    
+    # Construis le prompt batch
+    if prompt_type == "jorf":
+        system = 'Tu es expert climat et RSE conseillant le Responsable Environnement de ABC. JSON uniquement.'
+        intro = (
+            f"{ABC_CONTEXT_SHORT}\n\n"
+            "Ces textes du Journal Officiel ont passé un premier filtre.\n"
+            "Analyse CHACUN et réponds avec un JSON contenant les résultats pour chaque texte.\n\n"
+        )
+    else:  # rss
+        system = 'Tu es analyste climat et RSE pour ABC. JSON valide uniquement.'
+        intro = (
+            f"{ABC_CONTEXT_SHORT}\n\n"
+            "Analyse CHACUN de ces articles et réponds avec un JSON contenant les résultats.\n\n"
+        )
+    
+    # Ajoute chaque article au prompt
+    article_sections = []
+    for idx, art in enumerate(articles, 1):
+        titre = art.get("titre", "")[:120]
+        contenu = art.get("contenu", "")[:350]
+        article_sections.append(f"Texte {idx}: [TITRE] {titre} [CONTENU] {contenu}")
+    
+    prompt = intro + "\n\n".join(article_sections) + "\n\n"
+    prompt += 'Format: {"texte_1": {"pertinent": boolean, "resume": "...", "score": 1}, "texte_2": {...}, ...}'
+    
+    raw = call_groq(prompt, system, max_tokens=1000)
+    result = extract_json(raw)
+    
+    if not result:
+        return [{'pertinent': False, 'resume': '', 'score': 1} for _ in articles]
+    
+    # Parse les résultats
+    outputs = []
+    for idx in range(1, len(articles) + 1):
+        key = f"texte_{idx}"
+        if key in result:
+            outputs.append(result[key])
+        else:
+            outputs.append({'pertinent': False, 'resume': '', 'score': 1})
+    
+    return outputs
+
+
+
 # LLM — JORF analysis
 # ─────────────────────────────────────────────
 
