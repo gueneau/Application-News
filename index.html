@@ -486,7 +486,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
         <div class="stat-cell"><div class="stat-val" id="stat-depts">—</div><div class="stat-lbl">Depts alertés</div></div>
         <div class="stat-cell"><div class="stat-val zero" id="stat-suivi">—</div><div class="stat-lbl">Dossiers suivis</div></div>
       </div>
-      </div>
+      <div id="sidebar-eau" aria-live="polite"></div>
     </div>
   </div>
   <div id="main">
@@ -665,9 +665,11 @@ function renderAll(){
   const ordre=['crise','alerte renforcée','alerte','vigilance'];
   const counts={};restr.forEach(r=>{const n=normalizeNiveau(r.niveau);counts[n]=(counts[n]||0)+1;});
   const hasAny=ordre.some(n=>counts[n]);
-  eauEl.innerHTML=hasAny
-    ?ordre.filter(n=>counts[n]).map(n=>{const col=NIVEAU_COLOR[n]||'#94a3b8';return`<div class="eau-alert-item" style="background:${col}18;border:1px solid ${col}30"><span style="width:6px;height:6px;border-radius:50%;background:${col};flex-shrink:0;display:inline-block"></span><span style="color:#e8ecf2;font-size:11px">${NIVEAU_LABEL[n]||n}</span><span style="margin-left:auto;font-family:var(--mono);font-size:11px;font-weight:600;color:${col}">${counts[n]}</span></div>`;}).join('')
-    :`<div style="font-size:11px;color:var(--sb-muted);padding:4px 0">Aucune restriction active</div>`;
+  if (eauEl) {
+    eauEl.innerHTML=hasAny
+      ?ordre.filter(n=>counts[n]).map(n=>{const col=NIVEAU_COLOR[n]||'#94a3b8';return`<div class="eau-alert-item" style="background:${col}18;border:1px solid ${col}30"><span style="width:6px;height:6px;border-radius:50%;background:${col};flex-shrink:0;display:inline-block"></span><span style="color:#e8ecf2;font-size:11px">${NIVEAU_LABEL[n]||n}</span><span style="margin-left:auto;font-family:var(--mono);font-size:11px;font-weight:600;color:${col}">${counts[n]}</span></div>`;}).join('')
+      :`<div style="font-size:11px;color:var(--sb-muted);padding:4px 0">Aucune restriction active</div>`;
+  }
   renderFeed();
   if(currentView==='carte'){renderMap();renderMapEncart();}
   if(currentView==='jo')renderJO();
