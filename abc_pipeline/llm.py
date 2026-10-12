@@ -155,7 +155,7 @@ def groq_analyse_jorf(titre: str, contenu: str) -> dict:
         "  3 = obligation immédiate ou risque direct\n\n"
         f"TITRE: {titre}\n"
         f"CONTENU: {contenu[:500]}\n\n"
-        'JSON: {"pertinent": true/false, "resume": "ce que ça change pour ABC en 1 phrase (vide si non pertinent)", '
+        'JSON: {"pertinent": boolean, "resume": "ce que ça change pour ABC en 1 phrase (vide si non pertinent)", '
         '"pourquoi": "", "score": 1}'
     )
 
@@ -220,7 +220,7 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
         "Score 2/3 uniquement si l'article mentionne explicitement un sujet opérationnel pour ABC.\n\n"
         f"TITRE: {titre}\n"
         f"CONTENU: {contenu[:600]}\n\n"
-        'JSON: {"pertinent": true/false, "resume": "1-2 phrases sur ce que ça change pour ABC (vide si non pertinent)", "pourquoi": "", "score": 1}'
+        'JSON: {"pertinent": boolean, "resume": "1-2 phrases sur ce que ça change pour ABC (vide si non pertinent)", "pourquoi": "", "score": 1}'
     )
 
     raw = call_groq(prompt, system, max_tokens=300, model=GROQ_MODEL_FILTER)
@@ -353,7 +353,7 @@ def groq_analyse_pjl(titre: str, description: str) -> dict:
         "  3 = impact direct imminent, action requise\n\n"
         f"TITRE: {titre}\n"
         f"TEXTE: {description[:2500]}\n\n"
-        'JSON: {"pertinent": true/false, "resume": "ce que ce PJL change pour ABC en 1-2 phrases, basé uniquement sur le texte (vide si non pertinent)", '
+        'JSON: {"pertinent": boolean, "resume": "ce que ce PJL change pour ABC en 1-2 phrases, basé uniquement sur le texte (vide si non pertinent)", '
         '"pourquoi": "", "score": 1, "horizon": "estimation entrée en vigueur ex: fin 2026"}'
     )
 
