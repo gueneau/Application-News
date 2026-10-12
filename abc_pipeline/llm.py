@@ -102,8 +102,9 @@ def _call_gemini(prompt: str, system: str, max_tokens: int, model: str) -> str:
         _t = time.time()
         
         try:
-            # Use the GenerativeModel API
-            gemini_model = client.GenerativeModel(model)
+            # Use the GenerativeModel API - prefix with 'models/' for full model path
+            model_path = model if model.startswith('models/') else f'models/{model}'
+            gemini_model = client.GenerativeModel(model_path)
             response = gemini_model.generate_content(
                 contents=[system_content, prompt],
                 generation_config=genai.types.GenerationConfig(
