@@ -71,7 +71,6 @@ Single-page app (`index.html`) deployed to GitHub Pages. No build step, no frame
 - **Feed** — Daily RSS + JORF signals, filterable by category and score. "À consulter" collapsible section for score-1 items.
 - **JO** — Full Journal Officiel of the day, executive briefing + all texts grouped by theme. Searchable.
 - **Dossiers** (Pipeline auto + Mes dossiers) — Legislative tracking with progress bar, stage history, and a drawer for comments and status management. Manual dossier addition supported.
-- **Carte Eau** — Interactive map (Mapbox GL) of active water restriction levels by department.
 
 **Persistence:** Supabase (PostgreSQL) stores tracked legislative dossiers, user comments, stage change events, and article likes across sessions.
 

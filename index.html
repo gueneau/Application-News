@@ -35,9 +35,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,400,0,0" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
-<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
-<script src="https://unpkg.com/pmtiles@3.2.1/dist/pmtiles.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
 /* ── Design tokens ───────────────────────────────────────────────────── */
@@ -151,9 +148,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .stat-val.zero { color: var(--sb-muted); }
 .stat-val.accent { color: var(--sb-accent); }
 .stat-lbl { font-size: 10px; color: var(--sb-muted); margin-top: 3px; }
-.eau-alert-item { display: flex; align-items: center; gap: 6px; padding: 5px 8px; border-radius: var(--radius-sm); font-size: 11px; margin-top: 4px; }
-
-
 /* ── Main content ────────────────────────────────────────────────────── */
 #main { flex: 1; min-width: 0; height: 100vh; display: flex; flex-direction: column; background: var(--bg); }
 .view { display: none; flex: 1; flex-direction: column; overflow: hidden; }
@@ -287,19 +281,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .jo-item-link { font-family: var(--mono); font-size: 11px; color: var(--blue); text-decoration: none; }
 .jo-item-link:hover { text-decoration: underline; }
 .jo-empty { padding: 32px; text-align: center; font-size: 13px; color: var(--muted); }
-
-/* ── Archives (kept for JS compatibility) ────────────────────────────── */
-#archives-view { padding: 20px; overflow-y: auto; }
-.arc-title { font-size: 15px; font-weight: 600; color: var(--text); margin-bottom: 16px; }
-.arc-month { margin-bottom: 20px; }
-.arc-month-title { font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
-.arc-days { display: flex; flex-wrap: wrap; gap: 4px; }
-.arc-day { width: 32px; height: 32px; border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; font-size: 12px; color: var(--muted2); background: var(--surface); border: 1px solid var(--border); }
-.arc-day.has-data { color: var(--text); cursor: pointer; }
-.arc-day.has-data:hover { background: var(--blue-bg); border-color: var(--blue-border); color: var(--blue); }
-.arc-day.today { border-color: var(--blue); color: var(--blue); font-weight: 600; }
-.arc-day.selected { background: var(--blue-bg); border-color: var(--blue); color: var(--blue); font-weight: 600; }
-
 
 /* ── Toast ───────────────────────────────────────────────────────────── */
 #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%) translateY(60px); background: var(--text); color: #fff; padding: 8px 18px; border-radius: 20px; font-size: 13px; opacity: 0; transition: all .25s; z-index: 9999; pointer-events: none; white-space: nowrap; }
@@ -460,7 +441,45 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .like-btn { background: none; border: none; cursor: pointer; font-size: 16px; color: var(--muted2); padding: 2px 0; line-height: 1; transition: all .15s; flex-shrink: 0; }
 .like-btn:hover { color: #f59e0b; transform: scale(1.15); }
 .like-btn.liked { color: #f59e0b; }
-/* ── Recherche restriction par commune ── */
+
+@media (max-width: 768px) {
+  html, body { height: auto; min-height: 100%; overflow: auto; }
+  #layout { display: block; height: auto; min-height: 100dvh; }
+  #sidebar { position: fixed; z-index: 100; inset: auto 0 0; width: auto; height: auto; border-right: 0; border-top: 1px solid rgba(255,255,255,.12); }
+  .sb-header, .sb-stats { display: none; }
+  .sb-nav { flex: initial; flex-direction: row; justify-content: space-around; gap: 2px; padding: 6px 4px calc(6px + env(safe-area-inset-bottom)); }
+  .nav-item { position: relative; flex: 1; min-width: 0; flex-direction: column; justify-content: center; gap: 2px; margin: 0; padding: 4px 2px; border-radius: 6px; font-size: 10px; white-space: nowrap; }
+  .nav-icon { font-size: 20px; }
+  .nav-item span[id$="-badge"] { position: absolute; top: 0; right: calc(50% - 19px); margin: 0 !important; padding: 0 5px !important; }
+  #main { width: 100%; height: auto; min-height: 100dvh; padding-bottom: calc(62px + env(safe-area-inset-bottom)); }
+  .view.active { min-height: calc(100dvh - 62px - env(safe-area-inset-bottom)); overflow: visible; }
+  #feed-toolbar { padding: 16px; }
+  .feed-welcome-title { font-size: 18px; }
+  #feed-list { flex: initial; overflow: visible; grid-template-columns: minmax(0, 1fr); gap: 12px; padding: 0 12px 16px; }
+  .feed-col-prio, .feed-col-consulter { overflow: visible; padding: 12px 0; }
+  .feed-col-prio { align-items: stretch; }
+  .feed-col-consulter { border-left: 0; border-top: 1px solid var(--border); border-radius: 10px; }
+  .src-filter-grid { max-height: none; overflow: visible; padding-top: 8px; }
+  .feed-empty-prio { min-height: 150px; }
+  .card-content { grid-template-columns: minmax(0, 1fr) auto; gap: 8px; padding: 8px; }
+  .card-meta { flex-wrap: wrap; }
+  .jo-header, .parl-header, .likes-header { padding-left: 14px; padding-right: 14px; }
+  .jo-content, .parl-content, .likes-grid { padding-left: 12px; padding-right: 12px; }
+  #parlement-view { overflow: visible; }
+  .parl-header { position: static; }
+  .parl-tabs { padding: 0 8px; }
+  .parl-tab { padding: 10px 12px; }
+  .parl-tab-panel.active { overflow: visible; }
+  .parl-card-top { flex-wrap: wrap; }
+  .parl-badges { flex-shrink: 1; }
+  .suivi-toolbar-left { align-items: flex-start; flex-direction: column; }
+  .suivi-filter-group { max-width: 100%; overflow-x: auto; }
+  .suivi-list { overflow: visible; }
+  #dossier-drawer { width: 100%; max-width: 100%; }
+  .drawer-header, .drawer-body { padding-left: 16px; padding-right: 16px; }
+  .modal { max-height: calc(100dvh - 24px); }
+  .modal-body { padding: 16px; }
+}
 </style>
 </head>
 <body>
@@ -483,10 +502,8 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
         <div class="stat-cell"><div class="stat-val zero" id="stat-jo-retenus">—</div><div class="stat-lbl">JO retenus</div></div>
         <div class="stat-cell"><div class="stat-val accent" id="stat-prio">—</div><div class="stat-lbl">Signaux prio</div></div>
         <div class="stat-cell"><div class="stat-val" id="stat-jo-analyses">—</div><div class="stat-lbl">JO analysés</div></div>
-        <div class="stat-cell"><div class="stat-val" id="stat-depts">—</div><div class="stat-lbl">Depts alertés</div></div>
         <div class="stat-cell"><div class="stat-val zero" id="stat-suivi">—</div><div class="stat-lbl">Dossiers suivis</div></div>
       </div>
-      <div id="sidebar-eau" aria-live="polite"></div>
     </div>
   </div>
   <div id="main">
@@ -496,8 +513,6 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
         <div class="feed-welcome-sub"><span id="feed-typewriter"></span><span class="feed-cursor"></span></div>
       </div>
       <div id="feed-list"></div>
-    </div>
-      <div id="dept-detail"></div>
     </div>
     <div class="view" id="jo-view">
       <div class="jo-header">
@@ -622,7 +637,6 @@ function loadLocalLikes(){
 }
 let likes=loadLocalLikes(); // cache local, remplacé par Supabase au chargement
 let srcFilters={jorf:true,presse:true};
-let mapgl=null;
 
 // ── Supabase ──────────────────────────────────────────────────────────
 const SUPA_URL='https://fsucjfaogepwvczdyikz.supabase.co';
@@ -645,9 +659,6 @@ const STATUT_CLASS={critique:'s-critique',a_surveiller:'s-a_surveiller',pour_inf
 const STATUT_BADGE={critique:'crit3',a_surveiller:'crit2',pour_info:'crit1'};
 const JORF_SOURCES=['JORF','Légifrance RSS'];
 function sourceType(src){return JORF_SOURCES.includes(src)?'jorf':'presse'}
-const NIVEAU_COLOR={'vigilance':'#84cc16','alerte':'#eab308','alerte_renforcee':'#f97316','alerte renforcée':'#f97316','alerte renforce':'#f97316','crise':'#dc2626'};
-const NIVEAU_LABEL={'vigilance':'Vigilance','alerte':'Alerte','alerte_renforcee':'Alerte renforcée','alerte renforcée':'Alerte renforcée','alerte renforce':'Alerte renforcée','crise':'Crise'};
-function normalizeNiveau(r){if(!r)return '';return r.toLowerCase().trim().replace(/_/g,' ').replace('renforcee','renforcée').replace('renforcé','renforcée')}
 
 async function init(){
   try{
@@ -673,18 +684,7 @@ function renderAll(){
   document.getElementById('stat-prio').textContent=prio;
   document.getElementById('stat-prio').className='stat-val'+(prio===0?' zero':' accent');
   document.getElementById('stat-jo-analyses').textContent=s.jo_analyses??'—';
-  document.getElementById('stat-depts').textContent=s.depts_restriction??'—';
-  const restr=D.restrictions_eau||[],eauEl=document.getElementById('sidebar-eau');
-  const ordre=['crise','alerte renforcée','alerte','vigilance'];
-  const counts={};restr.forEach(r=>{const n=normalizeNiveau(r.niveau);counts[n]=(counts[n]||0)+1;});
-  const hasAny=ordre.some(n=>counts[n]);
-  if (eauEl) {
-    eauEl.innerHTML=hasAny
-      ?ordre.filter(n=>counts[n]).map(n=>{const col=NIVEAU_COLOR[n]||'#94a3b8';return`<div class="eau-alert-item" style="background:${col}18;border:1px solid ${col}30"><span style="width:6px;height:6px;border-radius:50%;background:${col};flex-shrink:0;display:inline-block"></span><span style="color:#e8ecf2;font-size:11px">${NIVEAU_LABEL[n]||n}</span><span style="margin-left:auto;font-family:var(--mono);font-size:11px;font-weight:600;color:${col}">${counts[n]}</span></div>`;}).join('')
-      :`<div style="font-size:11px;color:var(--sb-muted);padding:4px 0">Aucune restriction active</div>`;
-  }
   renderFeed();
-  if(currentView==='carte'){renderMap();renderMapEncart();}
   if(currentView==='jo')renderJO();
   if(currentView==='parlement')renderParlement();
 }
@@ -773,7 +773,6 @@ function renderFeed(){
   }
   const sourcesLinksHtml=buildSourcesLinks();
 
-  list.style.gridTemplateColumns='55fr 45fr';
   let html=`<div class="feed-col-prio">`;
   if(prio.length){html+=`<div class="feed-section-hd prio"><span class="feed-section-lbl">Signaux prioritaires</span><span class="feed-section-badge">${prio.length}</span></div>`+prio.map(cardHtml).join('')+sourcesLinksHtml;}
   else html+=`<div class="feed-empty-prio"><div class="feed-empty-prio-inner"><div class="feed-empty-prio-icon"><div class="feed-empty-prio-ring"></div><span class="material-symbols-outlined">sensors</span></div><div class="feed-empty-prio-title">Tout est calme pour le moment</div><div class="feed-empty-prio-sub">Aucun signal prioritaire détecté.</div></div></div>`;
@@ -801,57 +800,6 @@ function getFilteredItems(){
 }
 function filterCat(cat){catFilter=cat;document.querySelectorAll('.badge-filter').forEach(b=>b.classList.toggle('on',b.dataset.cat===cat));renderFeed();}
 function toggleFilter(key,val){srcFilters[key]=val;const row=document.getElementById(`f-${key}`);row?.classList.toggle('on',val);if(row?.querySelector('.fcheck'))row.querySelector('.fcheck').textContent=val?'✓':'';renderFeed();}
-
-const PMTILES_URL  = 'https://regleau.s3.gra.perf.cloud.ovh.net/pmtiles/zones_arretes_en_vigueur.pmtiles';
-const SOURCE_LAYER = 'zones_arretes_en_vigueur';
-function renderMap(){
-  if(mapgl){setTimeout(()=>mapgl.resize(),30);return;}
-  const protocol=new pmtiles.Protocol();
-  maplibregl.addProtocol('pmtiles',protocol.tile.bind(protocol));
-  mapgl=new maplibregl.Map({
-    container:'map-container',
-    style:'https://openmaptiles.data.gouv.fr/styles/osm-bright/style.json',
-    center:[2.3,46.6],zoom:4.8,attributionControl:false,
-  });
-  mapgl.addControl(new maplibregl.NavigationControl({showCompass:false}),'top-right');
-  mapgl.on('load',()=>{
-    mapgl.addSource('vigieau',{type:'vector',url:`pmtiles://${PMTILES_URL}`});
-    mapgl.addLayer({id:'zones-fill',type:'fill',source:'vigieau','source-layer':SOURCE_LAYER,
-      paint:{'fill-color':['match',['downcase',['get','niveauGravite']],
-        'vigilance','#84cc16','alerte','#eab308','alerte renforcée','#f97316','alerte_renforcée','#f97316','crise','#dc2626','#94a3b8'],
-        'fill-opacity':0.55}});
-    mapgl.addLayer({id:'zones-outline',type:'line',source:'vigieau','source-layer':SOURCE_LAYER,
-      paint:{'line-color':'#ffffff','line-width':0.5,'line-opacity':0.8}});
-    mapgl.addLayer({id:'zones-hover',type:'fill',source:'vigieau','source-layer':SOURCE_LAYER,
-      paint:{'fill-color':'#000000','fill-opacity':['case',['boolean',['feature-state','hover'],false],0.1,0]}});
-    let hoveredId=null;
-    mapgl.on('mousemove','zones-fill',e=>{
-      if(e.features.length){
-        if(hoveredId!==null)mapgl.setFeatureState({source:'vigieau',sourceLayer:SOURCE_LAYER,id:hoveredId},{hover:false});
-        hoveredId=e.features[0].id;
-        mapgl.setFeatureState({source:'vigieau',sourceLayer:SOURCE_LAYER,id:hoveredId},{hover:true});
-        mapgl.getCanvas().style.cursor='pointer';
-      }
-    });
-    mapgl.on('mouseleave','zones-fill',()=>{
-      if(hoveredId!==null)mapgl.setFeatureState({source:'vigieau',sourceLayer:SOURCE_LAYER,id:hoveredId},{hover:false});
-      hoveredId=null;mapgl.getCanvas().style.cursor='';
-    });
-    mapgl.on('click','zones-fill',e=>{
-      const p=e.features[0].properties;
-      const niv=(p.niveauGravite||'').toLowerCase();
-      const col=NIVEAU_COLOR[niv]||'#94a3b8';
-      const lbl=NIVEAU_LABEL[niv]||(niv?niv.charAt(0).toUpperCase()+niv.slice(1):'Sans restriction');
-      let arrete=null;try{arrete=JSON.parse(p.arreteRestriction);}catch{}
-      const tl={SUP:'Eaux de surface',SOU:'Eaux souterraines',AEP:'Eau potable'}[p.type]||p.type||'';
-      const arr=arrete?.fichier||arrete?.cheminFichier||'';
-      const el=document.getElementById('dept-detail');
-      el.innerHTML=`<div class="dept-detail-title"><span style="width:10px;height:10px;border-radius:50%;background:${col};display:inline-block;flex-shrink:0"></span><strong>${escHtml(p.nom||p.code)}</strong>${p.departement?' — dept '+p.departement:''}<span style="color:${col};margin-left:6px">${lbl}</span>${tl?`<span style="font-size:10px;color:var(--muted);margin-left:8px">${tl}</span>`:''}</div>${arrete?.dateDebut?`<div style="font-size:11px;color:var(--muted);margin-top:2px">En vigueur depuis : ${escHtml(arrete.dateDebut)}</div>`:''} ${arr?`<a href="${escHtml(arr)}" target="_blank" rel="noopener" style="font-size:11px;font-family:var(--mono);color:var(--blue);text-decoration:none;margin-top:4px;display:inline-block">📄 Arrêté préfectoral →</a>`:`<span style="font-size:11px;color:var(--muted)">Arrêté PDF non référencé pour cette zone</span>`}`;
-      el.classList.add('open');
-    });
-  });
-  setTimeout(()=>mapgl.resize(),50);
-}
 
 const JO_NATURES={ARRETE:'Arrêté',DECRET:'Décret',ORDONNANCE:'Ordonnance',LOI:'Loi',CIRCULAIRE:'Circulaire',AVIS:'Avis',DECISION:'Décision'};
 function _demotedJoKey(){return `gsf_demoted_jo_${currentDate}`;}
@@ -1041,96 +989,6 @@ function switchParlTab(tab){
 
 function filterJO(){renderJO();}
 
-
-function renderMapEncart(){
-  const el=document.getElementById('map-encart');
-  if(!el||!D)return;
-  const restr=D.restrictions_eau||[];
-  if(!restr.length){el.innerHTML='<span style="font-size:11px;color:var(--muted)">Aucune restriction active</span>';return;}
-  const counts={};
-  restr.forEach(r=>{const n=normalizeNiveau(r.niveau);counts[n]=(counts[n]||0)+1;});
-  const ordre=['crise','alerte renforcée','alerte','vigilance'];
-  let html=`<div style="font-size:10px;font-weight:600;letter-spacing:.06em;color:var(--muted);margin-bottom:6px">RESTRICTIONS ACTIVES</div>`;
-  html+=`<div style="font-size:20px;font-weight:600;font-family:var(--mono);color:var(--text);margin-bottom:8px">${restr.length} <span style="font-size:11px;font-weight:400;color:var(--muted)">départements</span></div>`;
-  ordre.forEach(n=>{if(counts[n]){const col=NIVEAU_COLOR[n]||'#94a3b8';html+=`<div style="display:flex;align-items:center;gap:6px;font-size:11px;margin-bottom:3px"><span style="width:8px;height:8px;border-radius:50%;background:${col};flex-shrink:0"></span><span style="flex:1;color:var(--text2)">${NIVEAU_LABEL[n]||n}</span><span style="font-weight:600;font-family:var(--mono);color:var(--text)">${counts[n]}</span></div>`;}});
-  // Placeholder for async Supabase alerts (injected by loadWaterAlerts)
-  html+=`<div id="water-alerts-slot" style="margin-top:6px"></div>`;
-  html+=`<button onclick="exportEauCSV()" style="margin-top:8px;width:100%;padding:4px 0;font-size:10px;font-family:var(--mono);background:transparent;border:1px solid var(--border);border-radius:var(--radius-sm);color:var(--muted);cursor:pointer">↓ Export CSV</button>`;
-  el.innerHTML=html;
-  loadWaterAlerts();
-}
-
-async function loadWaterAlerts(){
-  const slot=document.getElementById('water-alerts-slot');
-  if(!slot||!getSupa)return;
-  try{
-    const since=new Date(Date.now()-24*60*60*1000).toISOString();
-    const[{data:changed},{data:added},{data:ended}]=await Promise.all([
-      getSupa().from('restrictions_eau_events').select('code_zone,nom_zone,departement,type_eau,niveau_avant,niveau_apres,created_at').eq('event_type','changed').gte('created_at',since).order('created_at',{ascending:false}).limit(5),
-      getSupa().from('restrictions_eau_events').select('code_zone,nom_zone,departement,type_eau,niveau_apres,created_at').eq('event_type','added').gte('created_at',since).order('created_at',{ascending:false}).limit(5),
-      getSupa().from('restrictions_eau_events').select('code_zone,nom_zone,departement,type_eau,niveau_avant,created_at').eq('event_type','ended').gte('created_at',since).order('created_at',{ascending:false}).limit(5),
-    ]);
-    if(!changed?.length&&!added?.length&&!ended?.length){slot.innerHTML='';return;}
-    const TYPE_LABEL={AEP:'Eau potable',SUP:'Eaux de surface',SOU:'Eaux souterraines'};
-    let html=`<div style="font-size:10px;font-weight:600;letter-spacing:.06em;color:var(--muted);margin-bottom:4px;margin-top:4px;border-top:1px solid var(--border);padding-top:6px">ÉVÉNEMENTS DU JOUR</div>`;
-    (changed||[]).forEach(e=>{
-      const colAvant=NIVEAU_COLOR[e.niveau_avant]||'#94a3b8';
-      const colApres=NIVEAU_COLOR[e.niveau_apres]||'#94a3b8';
-      const vigieauUrl=`https://vigieau.gouv.fr/situation?profil&typeEau=${encodeURIComponent(e.type_eau)}&adresse=${encodeURIComponent(e.nom_zone)}+${encodeURIComponent(e.departement||'')}`;
-      html+=`<div style="display:flex;align-items:flex-start;gap:5px;font-size:10px;margin-bottom:5px">
-        <span style="margin-top:1px">⚠️</span>
-        <div style="flex:1;min-width:0">
-          <a href="${escHtml(vigieauUrl)}" target="_blank" rel="noopener" style="color:var(--text);text-decoration:none;font-weight:500;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(e.nom_zone||e.code_zone)}</a>
-          <span style="color:${colAvant}">${escHtml(e.niveau_avant)}</span><span style="color:var(--muted)"> → </span><span style="color:${colApres}">${escHtml(e.niveau_apres)}</span><span style="color:var(--muted)"> · ${TYPE_LABEL[e.type_eau]||e.type_eau}</span>
-        </div>
-      </div>`;
-    });
-    (added||[]).forEach(e=>{
-      const col=NIVEAU_COLOR[e.niveau_apres]||'#94a3b8';
-      const vigieauUrl=`https://vigieau.gouv.fr/situation?profil&typeEau=${encodeURIComponent(e.type_eau)}&adresse=${encodeURIComponent(e.nom_zone)}+${encodeURIComponent(e.departement||'')}`;
-      html+=`<div style="display:flex;align-items:flex-start;gap:5px;font-size:10px;margin-bottom:5px">
-        <span style="margin-top:1px">🆕</span>
-        <div style="flex:1;min-width:0">
-          <a href="${escHtml(vigieauUrl)}" target="_blank" rel="noopener" style="color:var(--text);text-decoration:none;font-weight:500;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(e.nom_zone||e.code_zone)}</a>
-          <span style="color:${col}">${escHtml(e.niveau_apres)}</span><span style="color:var(--muted)"> · ${TYPE_LABEL[e.type_eau]||e.type_eau} · Nouvel arrêté</span>
-        </div>
-      </div>`;
-    });
-    (ended||[]).forEach(e=>{
-      html+=`<div style="display:flex;align-items:flex-start;gap:5px;font-size:10px;margin-bottom:5px">
-        <span style="margin-top:1px">✅</span>
-        <div style="flex:1;min-width:0">
-          <span style="color:var(--text);font-weight:500">${escHtml(e.nom_zone||e.code_zone)}</span>
-          <span style="color:var(--muted);display:block">Arrêté levé · était <span style="color:${NIVEAU_COLOR[e.niveau_avant]||'#94a3b8'}">${escHtml(e.niveau_avant)}</span></span>
-        </div>
-      </div>`;
-    });
-    slot.innerHTML=html;
-  }catch(e){
-    console.warn('Water alerts load:',e);
-    slot.innerHTML='<div style="font-size:10px;color:var(--muted2)">Événements momentanément indisponibles</div>';
-  }
-}
-
-async function exportEauCSV(){
-  if(!getSupa)return;
-  try{
-    const{data,error}=await getSupa()
-      .from('restrictions_eau')
-      .select('code_zone,type_eau,nom_zone,departement,niveau_actuel,date_maj,url_arrete,est_nouveau')
-      .order('departement')
-      .order('niveau_actuel');
-    if(error||!data?.length){showToast('Aucune donnée à exporter');return;}
-    const cols=['code_zone','type_eau','nom_zone','departement','niveau_actuel','date_maj','url_arrete','est_nouveau'];
-    const rows=[cols.join(';'),...data.map(r=>cols.map(c=>`"${String(r[c]??'').replace(/"/g,'""')}"`).join(';'))];
-    const blob=new Blob(['\uFEFF'+rows.join('\n')],{type:'text/csv;charset=utf-8'});
-    const a=document.createElement('a');
-    a.href=URL.createObjectURL(blob);
-    a.download=`restrictions_eau_${new Date().toISOString().slice(0,10)}.csv`;
-    a.click();
-    URL.revokeObjectURL(a.href);
-  }catch(e){showToast('Export échoué : '+e.message);}
-}
 
 // ── Suivi : chargement ────────────────────────────────────────────────
 // recentEvents: Map<dossier_id, {nouveau_stade, created_at}> pour les 14 derniers jours
@@ -1511,7 +1369,6 @@ function switchView(view){
   document.querySelectorAll('.view').forEach(el=>el.classList.remove('active'));
   target.classList.add('active');
   document.querySelectorAll('.nav-item').forEach(el=>el.classList.toggle('active',el.dataset.view===view));
-  if(view==='carte'){setTimeout(()=>{renderMap();if(mapgl)mapgl.resize();renderMapEncart();},30);}
   if(view==='jo')renderJO();
   if(view==='likes')renderLikes();
   if(view==='parlement'){renderParlement();loadDossiersSuivi();}
@@ -1521,96 +1378,7 @@ function escHtml(str){return String(str||'').replace(/&/g,'&amp;').replace(/</g,
 function showToast(msg){const t=document.getElementById('toast');if(!t){console.warn('Toast container unavailable:',msg);return;}t.textContent=msg;t.classList.add('show');clearTimeout(t._t);t._t=setTimeout(()=>t.classList.remove('show'),2500);}
 function getSessionToken(){let t=localStorage.getItem('abc_session');if(!t){t=crypto.randomUUID();localStorage.setItem('abc_session',t);}return t;}
 
-/* ══════════ Recherche restriction par commune (VigiEau /api/zones) ══════════ */
-const EAUS_PROFIL='entreprise';
-let eausTimer=null, eausLastQuery='';
-function eausDebounce(fn,ms){return function(...a){clearTimeout(eausTimer);eausTimer=setTimeout(()=>fn.apply(this,a),ms);};}
-
-const eausSearch=eausDebounce(async function(q){
-  q=(q||'').trim();
-  const box=document.getElementById('eaus-suggest');
-  if(q.length<2){box.classList.remove('open');box.innerHTML='';return;}
-  eausLastQuery=q;
-  try{
-    const url=`https://geo.api.gouv.fr/communes?nom=${encodeURIComponent(q)}&fields=code,nom,codeDepartement,centre&boost=population&limit=7`;
-    const r=await fetch(url);
-    const communes=await r.json();
-    if(eausLastQuery!==q)return; // réponse obsolète
-    if(!communes.length){box.innerHTML=`<div class="eaus-sug-empty">Aucune commune trouvée</div>`;box.classList.add('open');return;}
-    box.innerHTML=communes.map(c=>{
-      const co=c.centre&&c.centre.coordinates||[null,null];
-      return `<div class="eaus-sug-item" onclick="eausSelect('${c.code}','${escHtml(c.nom).replace(/'/g,"\\'")}','${c.codeDepartement}',${co[0]},${co[1]})"><span>${escHtml(c.nom)}</span><span class="eaus-sug-dept">${c.codeDepartement}</span></div>`;
-    }).join('');
-    box.classList.add('open');
-  }catch(e){box.innerHTML=`<div class="eaus-sug-empty">Erreur réseau</div>`;box.classList.add('open');}
-},220);
-
-async function eausSelect(insee,nom,dept,lon,lat){
-  document.getElementById('eaus-suggest').classList.remove('open');
-  document.getElementById('eaus-input').value=nom;
-  eausOpenModal();
-  const body=document.getElementById('eaus-modal-inner');
-  body.innerHTML=`<div class="eaus-loading">Interrogation VigiEau…</div>`;
-  let zones=null,status=0;
-  try{
-    let url=`https://api.vigieau.gouv.fr/api/zones?commune=${insee}&profil=${EAUS_PROFIL}&zoneType=SUP`;
-    let r=await fetch(url);status=r.status;
-    if(r.status===409&&lon!=null&&lat!=null){ // commune à cheval → désambiguïser
-      r=await fetch(url+`&lon=${lon}&lat=${lat}`);status=r.status;
-    }
-    if(r.ok){const d=await r.json();zones=Array.isArray(d)?d:[d];}
-  }catch(e){status=-1;}
-  eausRenderModal(nom,insee,dept,zones,status);
-}
-
-function eausRenderModal(nom,insee,dept,zones,status){
-  const inner=document.getElementById('eaus-modal-inner');
-  const ordre={'vigilance':1,'alerte':2,'alerte renforcée':3,'crise':4};
-  const valid=(zones||[]).filter(z=>z&&z.niveauGravite);
-  if(status===-1){inner.innerHTML=eausHeadHtml(nom,insee,dept,null)+`<div class="eaus-mbody"><div class="eaus-error">Erreur réseau — réessayez.</div></div>`;return;}
-  if(!valid.length){inner.innerHTML=eausHeadHtml(nom,insee,dept,null)+`<div class="eaus-mbody"><div class="eaus-empty">Aucune restriction en vigueur sur les eaux superficielles pour cette commune.</div></div>`;return;}
-  let niveauMax='';valid.forEach(z=>{const n=normalizeNiveau(z.niveauGravite);if((ordre[n]||0)>(ordre[niveauMax]||0))niveauMax=n;});
-
-  let html=eausHeadHtml(nom,insee,dept,niveauMax)+`<div class="eaus-mbody">`;
-  valid.sort((a,b)=>(ordre[normalizeNiveau(b.niveauGravite)]||0)-(ordre[normalizeNiveau(a.niveauGravite)]||0));
-  html+=valid.map(z=>{
-    const niv=normalizeNiveau(z.niveauGravite),col=NIVEAU_COLOR[niv]||'#94a3b8';
-    const ar=z.arrete||{};
-    const usages=(z.usages||[]).filter(u=>u.concerneEntreprise);
-    let arrow='';
-    const dd=ar.dateDebutValidite?formatDate(ar.dateDebutValidite):null, df=ar.dateFinValidite?formatDate(ar.dateFinValidite):null;
-    if(dd)arrow+=`<span>En vigueur : ${dd}${df?` → ${df}`:''}</span>`;
-    if(ar.cheminFichier)arrow+=`<a href="${ar.cheminFichier}" target="_blank" rel="noopener">Arrêté ↗</a>`;
-    if(ar.cheminFichierArreteCadre)arrow+=`<a href="${ar.cheminFichierArreteCadre}" target="_blank" rel="noopener">Arrêté-cadre ↗</a>`;
-    let u='';
-    if(usages.length){
-      u=`<div class="eaus-usages-lbl">${usages.length} restriction${usages.length>1?'s':''} entreprise</div>`+usages.map(x=>
-        `<div class="eaus-usage"><span class="eaus-uthem">${escHtml(x.thematique||'—')}</span><div class="eaus-utext"><div class="eaus-uname">${escHtml(x.nom||'')}</div>${x.description?`<div class="eaus-udesc">${escHtml(x.description)}</div>`:''}</div></div>`
-      ).join('');
-    }else{u=`<div class="eaus-usages-lbl">Aucune restriction spécifique aux entreprises à ce niveau</div>`;}
-    return `<div class="eaus-zone"><div class="eaus-zone-top"><span class="eaus-zone-nom">${escHtml(z.nom||'Zone de gestion')}</span><span class="eaus-zone-niv" style="background:${col}">${NIVEAU_LABEL[niv]||niv}</span></div><div class="eaus-arrete">${arrow}</div>${u}</div>`;
-  }).join('')+`</div>`;
-  inner.innerHTML=html;
-}
-
-function eausHeadHtml(nom,insee,dept,niveauMax){
-  const col=niveauMax?(NIVEAU_COLOR[niveauMax]||'#64748b'):'#64748b';
-  const lbl=niveauMax?(NIVEAU_LABEL[niveauMax]||niveauMax):'Aucune restriction';
-  return `<div class="eaus-mhead" style="background:${col}">`+
-    `<button class="eaus-mclose" onclick="eausCloseModal()">✕</button>`+
-    `<div class="eaus-mcommune">${escHtml(nom)}</div>`+
-    `<div class="eaus-mmeta">INSEE ${insee} · Dépt ${dept} · eaux superficielles</div>`+
-    `<div class="eaus-mbadge"><span class="dot"></span>${lbl}</div></div>`;
-}
-function eausOpenModal(){document.getElementById('eaus-overlay').classList.add('open');}
-function eausCloseModal(){document.getElementById('eaus-overlay').classList.remove('open');}
-document.addEventListener('keydown',e=>{if(e.key==='Escape')eausCloseModal();});
-document.addEventListener('click',e=>{const box=document.getElementById('eaus-suggest');const wrap=document.querySelector('.eaus-box');if(box&&wrap&&!wrap.contains(e.target))box.classList.remove('open');});
-
 init();
 </script>
-<div class="eaus-overlay" id="eaus-overlay" onclick="if(event.target===this)eausCloseModal()">
-  <div class="eaus-modal"><div id="eaus-modal-inner"></div></div>
-</div>
 </body>
 </html>

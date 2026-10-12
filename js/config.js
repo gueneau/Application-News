@@ -3,23 +3,6 @@ export const SUPA_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYm
 
 export const JORF_SOURCES = ['JORF', 'Légifrance RSS'];
 
-export const NIVEAU_COLOR = {
-  'vigilance':       '#84cc16',
-  'alerte':          '#eab308',
-  'alerte_renforcee':'#f97316',
-  'alerte renforcée':'#f97316',
-  'alerte renforce': '#f97316',
-  'crise':           '#dc2626',
-};
-export const NIVEAU_LABEL = {
-  'vigilance':       'Vigilance',
-  'alerte':          'Alerte',
-  'alerte_renforcee':'Alerte renforcée',
-  'alerte renforcée':'Alerte renforcée',
-  'alerte renforce': 'Alerte renforcée',
-  'crise':           'Crise',
-};
-
 export const STADES_ORDRE = [
   'Dépôt',
   'Commission',
@@ -41,6 +24,3 @@ export const JO_NATURES = {
   ARRETE: 'Arrêté', DECRET: 'Décret', ORDONNANCE: 'Ordonnance',
   LOI: 'Loi', CIRCULAIRE: 'Circulaire', AVIS: 'Avis', DECISION: 'Décision',
 };
-
-export const PMTILES_URL  = 'https://regleau.s3.gra.perf.cloud.ovh.net/pmtiles/zones_arretes_en_vigueur.pmtiles';
-export const SOURCE_LAYER = 'zones_arretes_en_vigueur';
