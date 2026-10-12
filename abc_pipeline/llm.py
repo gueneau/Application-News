@@ -105,7 +105,7 @@ def _call_gemini(prompt: str, system: str, max_tokens: int, model: str) -> str:
             response = client.models.generate_content(
                 model=model,
                 contents=[system_content, prompt],
-                generation_config=genai.types.GenerationConfig(
+                config=genai.types.GenerateContentConfig(
                     max_output_tokens=max_tokens,
                     temperature=0.2,
                 )
