@@ -123,8 +123,9 @@ def test_groq_analyse_rss_uses_validated_llm_category(monkeypatch):
     )
 
     assert result['categorie'] == "Émissions"
-    assert '"categorie": "une catégorie de la liste"' in prompts[0]
-    assert "Déchets, Émissions ou Environnement" in prompts[0]
+    assert '"categorie": "..."' in prompts[0]
+    assert "Déchets" in prompts[0]
+    assert "Environnement" in prompts[0]
 
 
 def test_groq_analyse_rss_falls_back_when_llm_category_is_unknown(monkeypatch):
@@ -144,6 +145,27 @@ def test_groq_analyse_rss_falls_back_when_llm_category_is_unknown(monkeypatch):
     )
 
     assert result['categorie'] == "Environnement"
+
+
+def test_groq_analyse_rss_categorizes_priority_regulations_with_llm(monkeypatch):
+    from abc_pipeline import llm
+    prompts = []
+    monkeypatch.setattr(llm, 'reglements_match', lambda titre: 'décret prioritaire')
+
+    def fake_call_llm(prompt, *args, **kwargs):
+        prompts.append(prompt)
+        return '{"categorie": "Déchets"}'
+
+    monkeypatch.setattr(llm, 'call_llm', fake_call_llm)
+
+    result = llm.groq_analyse_rss(
+        "Nouveau décret prioritaire sur les filières REP",
+        "Texte portant sur les éco-organismes.",
+    )
+
+    assert result['score'] == 3
+    assert result['categorie'] == "Déchets"
+    assert '"categorie": "une catégorie de la liste"' in prompts[0]
 
 
 # ── parse_jorf_xml ────────────────────────────────────────────────────────────

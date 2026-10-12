@@ -37,7 +37,7 @@ from .config import (
     GROQ_RETRY_WAIT,
 )
 
-from .filters import categorise, reglements_match, valid_category
+from .filters import CATEGORIES, reglements_match, valid_category
 
 log = logging.getLogger(__name__)
 
@@ -406,6 +406,25 @@ def groq_analyse_jorf(titre: str, contenu: str) -> dict:
 # ============================================================================
 
 
+def _categorise_rss_with_llm(titre: str, contenu: str) -> str:
+    categories = ', '.join(CATEGORIES)
+    prompt = (
+        "Classe cet article selon son sujet principal. Ignore les mentions secondaires, les liens "
+        "et les éléments de navigation. Réponds avec une catégorie de cette liste uniquement : "
+        f"{categories}. En cas de doute, choisis Environnement.\n\n"
+        f"TITRE: {titre}\n"
+        f"CONTENU: {contenu[:600]}\n\n"
+        'JSON: {"categorie": "une catégorie de la liste"}'
+    )
+    raw = call_llm(
+        prompt,
+        'Tu classes des articles de veille environnementale. JSON valide uniquement.',
+        max_tokens=100,
+        enrich=False,
+    )
+    return valid_category(extract_json(raw).get('categorie'))
+
+
 def groq_analyse_rss(titre: str, contenu: str) -> dict:
     if reglements_match(titre):
         return {
@@ -413,7 +432,7 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
             'score': 3,
             'resume': titre[:200],
             'pourquoi': 'Mention de réglementation prioritaire.',
-            'categorie': categorise(titre),
+            'categorie': _categorise_rss_with_llm(titre, contenu),
         }
     
     system = 'Tu es analyste climat et RSE pour ABC. JSON valide uniquement.'
@@ -441,12 +460,12 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
         "  3 = obligation légale imminente, risque direct ou opportunité stratégique claire\n"
         "Score 2/3 uniquement si l'article mentionne explicitement un sujet opérationnel pour ABC.\n\n"
         "Attribue aussi une seule catégorie selon le sujet principal de l'article, pas les mentions secondaires "
-        "ou les mots présents dans des liens/navigation : Climat, ICPE, Eau, Énergie, Biodiversité, "
-        "Déchets, Émissions ou Environnement. En cas de doute, choisis Environnement.\n\n"
+        "ou les mots présents dans des liens/navigation : "
+        f"{', '.join(CATEGORIES)}. En cas de doute, choisis Environnement.\n\n"
         f"TITRE: {titre}\n"
         f"CONTENU: {contenu[:600]}\n\n"
         'JSON: {"pertinent": boolean, "resume": "1-2 phrases sur ce que ça change pour ABC (vide si non pertinent)", '
-        '"pourquoi": "", "score": 1, "categorie": "une catégorie de la liste"}'
+        '"pourquoi": "", "score": 1, "categorie": "..."}'
     )
 
     raw = call_llm(prompt, system, max_tokens=300, enrich=False)
