@@ -168,6 +168,102 @@ def test_groq_analyse_rss_categorizes_priority_regulations_with_llm(monkeypatch)
     assert '"categorie": "une catégorie de la liste"' in prompts[0]
 
 
+def test_groq_analyse_jorf_receives_complete_text(monkeypatch):
+    from abc_pipeline import llm
+    full_text = "Disposition juridique détaillée. " * 200
+    full_text += "DISPOSITION FINALE INTÉGRALE"
+    prompts = []
+    monkeypatch.setattr(
+        llm,
+        'call_llm',
+        lambda prompt, *args, **kwargs: (
+            prompts.append(prompt) or
+            '{"pertinent": false, "score": 1, "resume": ""}'
+        ),
+    )
+
+    llm.groq_analyse_jorf("Décret relatif à l'environnement", full_text)
+
+    assert f"TEXTE INTÉGRAL:\n{full_text}" in prompts[0]
+    assert "DISPOSITION FINALE INTÉGRALE" in prompts[0]
+
+
+def test_crawl_article_can_return_full_text(monkeypatch):
+    from abc_pipeline import crawl
+
+    class Response:
+        text = f"<html><body><p>{'texte complet ' * 500}</p></body></html>"
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    monkeypatch.setattr(crawl.requests, 'get', lambda *args, **kwargs: Response())
+
+    assert len(crawl.crawl_article("https://example.com")) == 2500
+    full_text = crawl.crawl_article("https://example.com", max_chars=None)
+    assert len(full_text) > 2500
+    assert full_text.endswith("texte complet")
+
+
+def test_jorf_full_analysis_only_runs_for_screened_items_with_full_text(monkeypatch):
+    import io
+    import tarfile
+
+    from abc_pipeline.sources import jorf
+
+    archive = io.BytesIO()
+    with tarfile.open(fileobj=archive, mode='w:gz') as tar:
+        content = b"<root/>"
+        member = tarfile.TarInfo("text.xml")
+        member.size = len(content)
+        tar.addfile(member, io.BytesIO(content))
+
+    class Response:
+        content = archive.getvalue()
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    article = {
+        'titre': 'Décret relatif aux déchets',
+        'contenu': 'Décret — Ministère',
+        'url': 'https://www.legifrance.gouv.fr/jorf/id/123',
+        'date': '2026-10-12',
+        'keyword_match': True,
+    }
+    full_text = "Texte intégral du décret. " * 300
+    analyzed_texts = []
+    monkeypatch.setattr(jorf, 'get_today_jorf_url', lambda _: 'https://example.com/jorf.tar.gz')
+    monkeypatch.setattr(jorf.requests, 'get', lambda *args, **kwargs: Response())
+    monkeypatch.setattr(jorf, 'parse_jorf_xml', lambda *_: [article])
+    monkeypatch.setattr(jorf, 'groq_briefing_jorf', lambda *_: [])
+    monkeypatch.setattr(
+        jorf,
+        'crawl_article',
+        lambda url, max_chars=2500: full_text if max_chars is None else '',
+    )
+    monkeypatch.setattr(
+        jorf,
+        'groq_analyse_batch',
+        lambda *_args, **_kwargs: [{'pertinent': True}],
+    )
+
+    def analyze_full_text(titre, contenu):
+        analyzed_texts.append(contenu)
+        return {'pertinent': True, 'score': 2, 'resume': 'Résumé fondé sur le texte intégral.'}
+
+    monkeypatch.setattr(jorf, 'groq_analyse_jorf', analyze_full_text)
+
+    items, autres, total, _ = jorf.fetch_jorf('2026-10-12')
+
+    assert total == 1
+    assert analyzed_texts == [full_text]
+    assert items[0]['resume'] == 'Résumé fondé sur le texte intégral.'
+    assert autres == []
+
+
 # ── parse_jorf_xml ────────────────────────────────────────────────────────────
 
 def test_parse_jorf_xml_basic():

@@ -300,8 +300,10 @@ def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
         system = 'Tu es expert climat et RSE conseillant le Responsable Environnement de ABC. JSON uniquement.'
         intro = (
             f"{ABC_CONTEXT_SHORT}\n\n"
-            "Ces textes du Journal Officiel ont passé un premier filtre.\n"
-            "Analyse CHACUN et réponds avec un JSON contenant les résultats pour chaque texte.\n\n"
+            "Ces textes du Journal Officiel ont passé un premier filtre par mots-clés. "
+            "Les contenus fournis sont des extraits courts : cette étape sert uniquement à présélectionner "
+            "les textes possiblement pertinents, pas à confirmer leur pertinence ni à rédiger leur résumé final. "
+            "Pour chaque texte, indique pertinent=true seulement s'il mérite une lecture intégrale.\n\n"
         )
     else:  # rss
         system = 'Tu es analyste climat et RSE pour ABC. JSON valide uniquement.'
@@ -315,7 +317,10 @@ def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
     for idx, art in enumerate(articles, 1):
         titre = art.get("titre", "")[:120]
         contenu = art.get("contenu", "")[:350]
-        article_sections.append(f"Texte {idx}: [TITRE] {titre} [CONTENU] {contenu}")
+        section = f"Texte {idx}: [TITRE] {titre} [EXTRAIT] {contenu}"
+        if prompt_type == "jorf":
+            section += " [EXTRAIT TRONQUÉ — présélection uniquement]"
+        article_sections.append(section)
     
     prompt = intro + "\n\n".join(article_sections) + "\n\n"
     prompt += 'Format: {"texte_1": {"pertinent": boolean, "resume": "...", "score": 1}, "texte_2": {...}, ...}'
@@ -364,12 +369,15 @@ def groq_analyse_jorf(titre: str, contenu: str) -> dict:
         "  - Conventions collectives hors branche propreté\n"
         "  - Réglementation sectorielle sans rapport : agriculture, pêche, défense, santé humaine\n\n"
         "RÈGLE : si le lien avec ABC est indirect ou nécessite plusieurs déductions → NON PERTINENT.\n\n"
+        "Lis l'intégralité du texte fourni avant de décider. Vérifie les dispositions, leur champ "
+        "d'application, les dates, les conditions et les exceptions. Le résumé doit décrire précisément "
+        "ce que le texte prévoit pour ABC, sans extrapoler ni reprendre uniquement son titre.\n\n"
         "Score (si pertinent) :\n"
         "  1 = information de veille\n"
         "  2 = évolution réglementaire à anticiper\n"
         "  3 = obligation immédiate ou risque direct\n\n"
         f"TITRE: {titre}\n"
-        f"CONTENU: {contenu[:500]}\n\n"
+        f"TEXTE INTÉGRAL:\n{contenu}\n\n"
         'JSON: {"pertinent": boolean, "resume": "ce que ça change pour ABC en 1 phrase (vide si non pertinent)", '
         '"pourquoi": "", "score": 1}'
     )

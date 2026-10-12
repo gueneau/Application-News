@@ -55,9 +55,10 @@ def _extract_date_from_soup(soup) -> str:
     return ''
 
 
-def crawl_article(url: str) -> str:
+def crawl_article(url: str, max_chars: int | None = 2500) -> str:
     """Fetch textual content of an URL via BeautifulSoup.
     Also caches og:image and publication date, retrievable via get_crawled_image() / get_crawled_date().
+    Set max_chars=None to return the full extracted text.
     """
     try:
         from bs4 import BeautifulSoup
@@ -83,7 +84,8 @@ def crawl_article(url: str) -> str:
         for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
             tag.decompose()
 
-        return soup.get_text(separator=' ', strip=True)[:2500]
+        text = soup.get_text(separator=' ', strip=True)
+        return text if max_chars is None else text[:max_chars]
     except Exception as e:
         log.debug(f"Crawl error {url}: {e}")
         return ''
@@ -228,4 +230,3 @@ def crawl_article_links_filtered(listing_url: str, base_url: str, url_contains: 
     except Exception as e:
         log.debug(f"crawl_article_links_filtered error {listing_url}: {e}")
         return []
-

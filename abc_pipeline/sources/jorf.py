@@ -155,15 +155,22 @@ def fetch_jorf(today_str: str):
             articles_with_content = []
             for art in all_articles:
                 contenu = art['contenu']
+                texte_integral = False
                 if art.get('url') and 'legifrance' in art.get('url', ''):
-                    full = crawl_article(art['url'])
+                    full = crawl_article(art['url'], max_chars=None)
                     if full:
                         contenu = full
-                articles_with_content.append({'titre': art['titre'], 'contenu': contenu, 'art': art})
+                        texte_integral = True
+                articles_with_content.append({
+                    'titre': art['titre'],
+                    'contenu': contenu,
+                    'texte_integral': texte_integral,
+                    'art': art,
+                })
 
             # Traite par lots de 2 pour rester dans les limites
             batch_size = 2
-            analyses = []
+            screened = []
             for i in range(0, len(articles_with_content), batch_size):
                 batch = articles_with_content[i:i + batch_size]
                 batch_analyses = groq_analyse_batch(
@@ -171,10 +178,28 @@ def fetch_jorf(today_str: str):
                     prompt_type="jorf"
                 )
                 for a, analysis in zip(batch, batch_analyses):
-                    analyses.append((a['art'], analysis))
+                    screened.append((a, analysis))
 
-            for art, analysis in analyses:
+            for article, screening in screened:
+                art = article['art']
                 try:
+                    if screening.get('pertinent') is False:
+                        analysis = screening
+                    elif not article['texte_integral']:
+                        log.warning(
+                            "JORF présélectionné mais texte intégral indisponible, non confirmé : "
+                            f"{art['titre'][:60]}"
+                        )
+                        autres.append({
+                            'titre': art['titre'],
+                            'nature': art.get('contenu', '').split(' — ')[0],
+                            'url': art.get('url', ''),
+                            'date': art.get('date', today_str),
+                        })
+                        continue
+                    else:
+                        analysis = groq_analyse_jorf(art['titre'], article['contenu'])
+
                     resume = analysis.get('resume', '')
                     # Reject if LLM resume signals non-relevance despite pertinent=True
                     _neg = resume.lower()
@@ -209,11 +234,19 @@ def fetch_jorf(today_str: str):
                     })
                     log.debug(f"JORF retenu (score={score}) : {art['titre'][:60]}")
                 except Exception as e:
-                    log.debug(f"Erreur analyse JORF : {e}")
+                    log.warning(
+                        f"Analyse intégrale JORF échouée, texte non confirmé : "
+                        f"{art['titre'][:60]} ({e})"
+                    )
+                    autres.append({
+                        'titre': art['titre'],
+                        'nature': art.get('contenu', '').split(' — ')[0],
+                        'url': art.get('url', ''),
+                        'date': art.get('date', today_str),
+                    })
 
     except Exception as e:
         log.error(f"JORF fatal : {e}", exc_info=True)
 
     log.info(f"JORF : {len(items)} retenus / {total_analysed} analysés ({len(autres)} autres)")
     return items, autres, total_analysed, briefing
-

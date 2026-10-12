@@ -9,7 +9,7 @@ An automated regulatory and environmental intelligence platform. Runs twice dail
 The pipeline aggregates, filters, and analyzes regulatory and environmental news from multiple sources, then publishes a structured daily briefing accessible via a single-page web application.
 
 **Sources covered:**
-- **Journal Officiel (JORF)** — Daily official gazette via DILA OpenData (tar.gz XML). Every text published that day is collected; keyword-matched texts are analyzed by LLM for relevance and scored.
+- **Journal Officiel (JORF)** — Daily official gazette via DILA OpenData (tar.gz XML). Every text published that day is collected; keyword-matched texts are pre-screened by the LLM, then shortlisted texts are checked against their full Légifrance text before being confirmed and summarized.
 - **RSS feeds** — ~10 sources: press (Le Monde, Les Echos, The Guardian, GreenUnivers, ESG Today, Reporterre, Actu-Environnement), think tanks (Shift Project, I4CE, Haut Conseil pour le Climat, France Stratégie), regulatory bodies (EFRAG, AEF Développement Durable, Acteurs Publics).
 - **Parlement** — Scrapes the Assemblée Nationale for new government bills (projets de loi), tracks their progression through the legislative pipeline (Dépôt → Commission → Première lecture → Sénat → Adoption → Promulgation), and crawls the actual bill text from AN/Senate for LLM analysis.
 - **VigiEau** — Water restriction alerts by department via the official API, with historical drought data.
