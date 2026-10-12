@@ -73,8 +73,7 @@ def _get_gemini_client():
         raise RuntimeError("GEMINI_API_KEY manquant")
     
     if _gemini_client is None:
-        genai.configure(api_key=api_key)
-        _gemini_client = genai
+        _gemini_client = genai.Client(api_key=api_key)
     
     return _gemini_client
 
@@ -102,10 +101,9 @@ def _call_gemini(prompt: str, system: str, max_tokens: int, model: str) -> str:
         _t = time.time()
         
         try:
-            # Use the GenerativeModel API - prefix with 'models/' for full model path
-            model_path = model if model.startswith('models/') else f'models/{model}'
-            gemini_model = client.GenerativeModel(model_path)
-            response = gemini_model.generate_content(
+            # Use the client.models API
+            response = client.models.generate_content(
+                model=model,
                 contents=[system_content, prompt],
                 generation_config=genai.types.GenerationConfig(
                     max_output_tokens=max_tokens,

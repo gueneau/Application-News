@@ -354,6 +354,13 @@ def _scrape_dossier_stade(url_dossier: str) -> str:
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, 'html.parser')
 
+        # Chercher le statut global (Texte rejeté / Texte adopté) en haut de page
+        statut_el = soup.find(string=re.compile(r'Texte (adopté|rejeté)', re.IGNORECASE))
+        if statut_el:
+            statut_text = statut_el.strip()
+            log.debug(f"stade (statut global) : {statut_text} — {url_dossier}")
+            return statut_text
+
         # ── Try the structured Swiper slider first ────────────────────
         slides = soup.find_all(class_='swiper-slide')
         if slides:
