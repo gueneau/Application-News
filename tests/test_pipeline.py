@@ -238,7 +238,13 @@ def test_jorf_full_analysis_only_runs_for_screened_items_with_full_text(monkeypa
     monkeypatch.setattr(jorf, 'get_today_jorf_url', lambda _: 'https://example.com/jorf.tar.gz')
     monkeypatch.setattr(jorf.requests, 'get', lambda *args, **kwargs: Response())
     monkeypatch.setattr(jorf, 'parse_jorf_xml', lambda *_: [article])
-    monkeypatch.setattr(jorf, 'groq_briefing_jorf', lambda *_: [])
+    briefing_inputs = []
+
+    def make_briefing(items, date):
+        briefing_inputs.extend(items)
+        return 'Briefing fondé sur un texte confirmé.'
+
+    monkeypatch.setattr(jorf, 'groq_briefing_jorf', make_briefing)
     monkeypatch.setattr(
         jorf,
         'crawl_article',
@@ -256,12 +262,93 @@ def test_jorf_full_analysis_only_runs_for_screened_items_with_full_text(monkeypa
 
     monkeypatch.setattr(jorf, 'groq_analyse_jorf', analyze_full_text)
 
-    items, autres, total, _ = jorf.fetch_jorf('2026-10-12')
+    items, autres, total, briefing = jorf.fetch_jorf('2026-10-12')
 
     assert total == 1
     assert analyzed_texts == [full_text]
     assert items[0]['resume'] == 'Résumé fondé sur le texte intégral.'
+    assert briefing_inputs[0]['resume'] == 'Résumé fondé sur le texte intégral.'
+    assert briefing_inputs[0]['nature'] == 'Décret'
+    assert 'confirmé' in briefing
     assert autres == []
+
+
+def test_jorf_briefing_does_not_use_screened_but_rejected_texts(monkeypatch):
+    import io
+    import tarfile
+
+    from abc_pipeline.sources import jorf
+
+    archive = io.BytesIO()
+    with tarfile.open(fileobj=archive, mode='w:gz') as tar:
+        content = b"<root/>"
+        member = tarfile.TarInfo("text.xml")
+        member.size = len(content)
+        tar.addfile(member, io.BytesIO(content))
+
+    class Response:
+        content = archive.getvalue()
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    article = {
+        'titre': 'Décret relatif aux certificats d’économies d’énergie',
+        'contenu': 'Décret — Ministère',
+        'url': 'https://www.legifrance.gouv.fr/jorf/id/123',
+        'date': '2026-10-12',
+        'keyword_match': True,
+    }
+    briefing_calls = []
+    monkeypatch.setattr(jorf, 'get_today_jorf_url', lambda _: 'https://example.com/jorf.tar.gz')
+    monkeypatch.setattr(jorf.requests, 'get', lambda *args, **kwargs: Response())
+    monkeypatch.setattr(jorf, 'parse_jorf_xml', lambda *_: [article])
+    monkeypatch.setattr(jorf, 'groq_briefing_jorf', lambda items, *_: briefing_calls.extend(items))
+    monkeypatch.setattr(jorf, 'crawl_article', lambda url, max_chars=None: 'Texte intégral du décret.')
+    monkeypatch.setattr(
+        jorf,
+        'groq_analyse_batch',
+        lambda *_args, **_kwargs: [{'pertinent': True}],
+    )
+    monkeypatch.setattr(
+        jorf,
+        'groq_analyse_jorf',
+        lambda *_args: {'pertinent': False, 'score': 1, 'resume': 'Aucune obligation pour ABC.'},
+    )
+
+    items, autres, total, briefing = jorf.fetch_jorf('2026-10-12')
+
+    assert total == 1
+    assert items == []
+    assert briefing_calls == []
+    assert 'Aucun texte présélectionné' in briefing
+    assert autres[0]['titre'] == article['titre']
+
+
+def test_jorf_briefing_uses_verified_summaries_only(monkeypatch):
+    from abc_pipeline import llm
+
+    prompts = []
+    monkeypatch.setattr(
+        llm,
+        'call_llm',
+        lambda prompt, *args, **kwargs: (
+            prompts.append(prompt) or '{"briefing": "Résumé des textes vérifiés."}'
+        ),
+    )
+    items = [{
+        'titre': 'Arrêté relatif aux économies d’énergie',
+        'nature': 'ARRETE',
+        'resume': 'Le texte encadre les contrôles des demandes CEE.',
+        'pourquoi': 'ABC doit vérifier ses délégations CEE.',
+    }]
+
+    result = llm.groq_briefing_jorf(items, '2026-10-12')
+
+    assert result == 'Résumé des textes vérifiés.'
+    assert 'Le texte encadre les contrôles des demandes CEE.' in prompts[0]
+    assert 'ABC doit vérifier ses délégations CEE.' in prompts[0]
 
 
 # ── parse_jorf_xml ────────────────────────────────────────────────────────────

@@ -85,7 +85,9 @@ def parse_jorf_xml(content: bytes, today_str: str):
 def fetch_jorf(today_str: str):
     """Fetch and analyze daily JORF texts for ABC relevance."""
     log.info("=== JORF ===")
-    items, autres, total_analysed, briefing = [], [], 0, []
+    items, autres, total_analysed, briefing = [], [], 0, ''
+    briefing_items = []
+    all_articles = []
 
     today_compact = today_str.replace('-', '')
     try:
@@ -143,13 +145,6 @@ def fetch_jorf(today_str: str):
 
             total_analysed = len(all_articles)
             log.info(f"JORF : {len(all_raw)} textes uniques, {total_analysed} analysés par LLM, {len(non_keyword)} → autres directement")
-
-            try:
-                briefing = groq_briefing_jorf(all_articles, today_str)
-                log.info(f"JORF briefing : {'OK' if briefing else 'vide'} ({len(briefing)} cars)")
-            except Exception as e:
-                log.warning(f"JORF briefing erreur (non bloquant) : {e}")
-                briefing = ''
 
             # Utilise le batching pour optimiser le quota Groq
             articles_with_content = []
@@ -232,6 +227,12 @@ def fetch_jorf(today_str: str):
                         'url': art.get('url', ''),
                         'date': today_str,
                     })
+                    briefing_items.append({
+                        'titre': art['titre'],
+                        'nature': art.get('contenu', '').split(' — ')[0] or 'Texte',
+                        'resume': analysis.get('resume') or art['titre'],
+                        'pourquoi': pourquoi,
+                    })
                     log.debug(f"JORF retenu (score={score}) : {art['titre'][:60]}")
                 except Exception as e:
                     log.warning(
@@ -244,6 +245,24 @@ def fetch_jorf(today_str: str):
                         'url': art.get('url', ''),
                         'date': art.get('date', today_str),
                     })
+
+            if briefing_items:
+                try:
+                    briefing = groq_briefing_jorf(briefing_items, today_str)
+                except Exception as e:
+                    log.warning(f"JORF briefing erreur (non bloquant) : {e}")
+                    briefing = ''
+            elif all_articles:
+                briefing = (
+                    "Aucun texte présélectionné n’a été confirmé comme pertinent "
+                    "après vérification intégrale."
+                )
+            else:
+                briefing = (
+                    "Aucun texte n’a franchi le filtre initial de présélection ; "
+                    "les autres textes du JO n’ont pas été évalués par le LLM."
+                )
+            log.info(f"JORF briefing : {'OK' if briefing else 'vide'} ({len(briefing)} cars)")
 
     except Exception as e:
         log.error(f"JORF fatal : {e}", exc_info=True)

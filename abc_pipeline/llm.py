@@ -517,7 +517,7 @@ _BRIEFING_SKIP = [
 
 
 def groq_briefing_jorf(articles: list, today_str: str) -> str:
-    """Generate a daily executive briefing from JORF significant texts."""
+    """Generate a daily briefing only from texts already confirmed as relevant."""
     if not articles:
         return ''
 
@@ -527,8 +527,13 @@ def groq_briefing_jorf(articles: list, today_str: str) -> str:
 
     lines = []
     for i, a in enumerate(candidates[:80]):
-        nature = a.get('contenu', '').split(' — ')[0] or 'Texte'
-        lines.append(f"{i + 1}. [{nature}] {a['titre']}")
+        nature = a.get('nature') or a.get('contenu', '').split(' — ')[0] or 'Texte'
+        line = f"{i + 1}. [{nature}] {a['titre']}"
+        if a.get('resume'):
+            line += f"\nRésumé vérifié sur le texte intégral : {a['resume']}"
+        if a.get('pourquoi'):
+            line += f"\nImplication pour ABC : {a['pourquoi']}"
+        lines.append(line)
 
     system = 'Tu es expert RSE. Réponds UNIQUEMENT avec ce JSON exact : {"briefing": "ton texte ici"}'
     prompt = (
@@ -536,7 +541,8 @@ def groq_briefing_jorf(articles: list, today_str: str) -> str:
         + '\n'.join(lines)
         + "\n\nEn 2-3 phrases maximum, résume ce qui est significatif pour un "
         "Responsable Environnement/Climat d'une grande entreprise de services. "
-        "Si rien n'est pertinent, écris une seule phrase le disant. "
+        "N'ajoute aucune obligation ou conséquence qui n'est pas étayée par les résumés "
+        "vérifiés fournis. "
         "RÉPONDS UNIQUEMENT avec ce JSON, sans autre texte : "
         '{"briefing": "ton résumé ici"}'
     )
