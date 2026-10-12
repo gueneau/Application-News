@@ -5,7 +5,6 @@ import re
 import time
 
 from groq import Groq
-from mistralai.client import Mistral
 
 from .filters import reglements_match
 from .config import (
@@ -16,16 +15,13 @@ from .config import (
     GROQ_MODEL_FILTER,
     GROQ_MIN_INTERVAL,
     GROQ_RETRY_WAIT,
-    MISTRAL_MODEL,
-    MISTRAL_MIN_INTERVAL,
+
 )
 
 log = logging.getLogger(__name__)
 
 
-_mistral_client = None
 _groq_client = None
-_mistral_last_call: float = 0.0
 _groq_last_call: float = 0.0
 _llm_call_count: int = 0
 _llm_total_seconds: float = 0.0
@@ -34,15 +30,6 @@ _llm_total_seconds: float = 0.0
 def get_llm_stats() -> dict:
     return {'calls': _llm_call_count, 'seconds': round(_llm_total_seconds, 1)}
 
-
-def _get_mistral_client() -> Mistral:
-    global _mistral_client
-    if _mistral_client is None:
-        api_key = os.environ.get('MISTRAL_API_KEY', '')
-        if not api_key:
-            raise RuntimeError("MISTRAL_API_KEY manquant")
-        _mistral_client = Mistral(api_key=api_key)
-    return _mistral_client
 
 
 def _get_groq_client() -> Groq:
@@ -54,34 +41,6 @@ def _get_groq_client() -> Groq:
         _groq_client = Groq(api_key=api_key)
     return _groq_client
 
-
-def _call_mistral(prompt: str, system: str, max_tokens: int) -> str:
-    """Call Mistral with a 1 req/s rate limiter."""
-    global _mistral_last_call, _llm_call_count, _llm_total_seconds
-    elapsed = time.time() - _mistral_last_call
-    if elapsed < MISTRAL_MIN_INTERVAL:
-        time.sleep(MISTRAL_MIN_INTERVAL - elapsed)
-    _mistral_last_call = time.time()
-
-    client = _get_mistral_client()
-    _t = time.time()
-    resp = client.chat.complete(
-        model=MISTRAL_MODEL,
-        messages=[
-            {'role': 'system', 'content': system},
-            {'role': 'user', 'content': prompt},
-        ],
-        max_tokens=max_tokens,
-        temperature=0.2,
-        response_format={"type": "json_object"},
-    )
-    _llm_call_count += 1
-    _llm_total_seconds += time.time() - _t
-    content = resp.choices[0].message.content
-    # Some SDKs can return a parsed dict when using json_object
-    if isinstance(content, dict):
-        return json.dumps(content, ensure_ascii=False)
-    return str(content).strip()
 
 
 def _call_groq_fallback(prompt: str, system: str, max_tokens: int, model: str) -> str:
@@ -130,18 +89,7 @@ def _call_groq_fallback(prompt: str, system: str, max_tokens: int, model: str) -
 
 
 def call_llm(prompt: str, system: str = '', max_tokens: int = 300, enrich: bool = False) -> str:
-    """Unified LLM entry-point used by the whole pipeline."""
-    try:
-        result = _call_mistral(prompt, system, max_tokens)
-        if result:
-            return result
-    except Exception as e:
-        err_str = str(e)
-        if '429' in err_str or 'rate_limit' in err_str.lower() or 'quota' in err_str.lower():
-            log.warning("Mistral rate limit → fallback Groq")
-        else:
-            log.warning(f"Mistral erreur → fallback Groq : {e}")
-
+    """Unified LLM entry-point - Groq ONLY (Mistral removed)."""
     groq_model = GROQ_MODEL_ENRICH if enrich else GROQ_MODEL_FILTER
     return _call_groq_fallback(prompt, system, max_tokens, groq_model)
 
