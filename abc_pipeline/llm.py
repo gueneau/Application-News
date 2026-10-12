@@ -37,7 +37,7 @@ from .config import (
     GROQ_RETRY_WAIT,
 )
 
-from .filters import reglements_match
+from .filters import categorise, reglements_match, valid_category
 
 log = logging.getLogger(__name__)
 
@@ -408,7 +408,13 @@ def groq_analyse_jorf(titre: str, contenu: str) -> dict:
 
 def groq_analyse_rss(titre: str, contenu: str) -> dict:
     if reglements_match(titre):
-        return {'pertinent': True, 'score': 3, 'resume': titre[:200], 'pourquoi': 'Mention de réglementation prioritaire.'}
+        return {
+            'pertinent': True,
+            'score': 3,
+            'resume': titre[:200],
+            'pourquoi': 'Mention de réglementation prioritaire.',
+            'categorie': categorise(titre),
+        }
     
     system = 'Tu es analyste climat et RSE pour ABC. JSON valide uniquement.'
     prompt = (
@@ -434,9 +440,13 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
         "  2 = évolution réglementaire ou marché qui impose une action identifiable à ABC dans 12 mois\n"
         "  3 = obligation légale imminente, risque direct ou opportunité stratégique claire\n"
         "Score 2/3 uniquement si l'article mentionne explicitement un sujet opérationnel pour ABC.\n\n"
+        "Attribue aussi une seule catégorie selon le sujet principal de l'article, pas les mentions secondaires "
+        "ou les mots présents dans des liens/navigation : Climat, ICPE, Eau, Énergie, Biodiversité, "
+        "Déchets, Émissions ou Environnement. En cas de doute, choisis Environnement.\n\n"
         f"TITRE: {titre}\n"
         f"CONTENU: {contenu[:600]}\n\n"
-        'JSON: {"pertinent": boolean, "resume": "1-2 phrases sur ce que ça change pour ABC (vide si non pertinent)", "pourquoi": "", "score": 1}'
+        'JSON: {"pertinent": boolean, "resume": "1-2 phrases sur ce que ça change pour ABC (vide si non pertinent)", '
+        '"pourquoi": "", "score": 1, "categorie": "une catégorie de la liste"}'
     )
 
     raw = call_llm(prompt, system, max_tokens=300, enrich=False)
@@ -444,6 +454,7 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
     if not result:
         return {'pertinent': False, 'resume': '', 'pourquoi': '', 'score': 1}
 
+    result['categorie'] = valid_category(result.get('categorie'))
     score = _safe_score(result.get('score'))
     if not result.get('pertinent') or score < 2:
         result['pourquoi'] = ''

@@ -12,7 +12,7 @@ import requests
 
 from ..config import RSS_SOURCES, TIMEOUT
 from ..crawl import crawl_article, crawl_article_links, crawl_article_links_filtered, crawl_playwright_links, get_crawled_date
-from ..filters import categorise, keyword_match, make_id
+from ..filters import keyword_match, make_id, valid_category
 from ..llm import groq_analyse_rss
 
 log = logging.getLogger(__name__)
@@ -105,7 +105,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                     items.append({
                         'id': make_id(name, titre_art),
                         'source': name,
-                        'categorie': categorise(txt),
+                        'categorie': valid_category(analysis.get('categorie')),
                         'titre': titre_art,
                         'resume': analysis.get('resume') or titre_art,
                         'pourquoi': pourquoi,
@@ -233,7 +233,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
             items.append({
                 'id': make_id(name, titre),
                 'source': name,
-                'categorie': categorise(titre + ' ' + contenu),
+                'categorie': valid_category(analysis.get('categorie')),
                 'titre': titre,
                 'resume': analysis.get('resume') or titre,
                 'pourquoi': pourquoi,
@@ -341,7 +341,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                             items.append({
                                 'id': make_id(name, titre_art),
                                 'source': name,
-                                'categorie': categorise(txt),
+                                'categorie': valid_category(analysis.get('categorie')),
                                 'titre': titre_art,
                                 'resume': analysis.get('resume') or titre_art,
                                 'pourquoi': pourquoi,
@@ -395,4 +395,3 @@ def fetch_rss(today_str: str, script_dir: Path = None):
         log.info(f"RSS seen cache : {len(new_seen)} nouvelle(s) URL(s) ajoutée(s), total {len(seen_cache)}")
 
     return all_items
-

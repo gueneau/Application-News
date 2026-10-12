@@ -21,6 +21,14 @@ def test_keyword_match_english():
     from abc_pipeline.filters import keyword_match
     assert keyword_match("EU carbon tax reform approved by parliament") is True
 
+def test_valid_category_accepts_supported_llm_category():
+    from abc_pipeline.filters import valid_category
+    assert valid_category("Déchets") == "Déchets"
+
+def test_valid_category_falls_back_to_neutral_category_for_unknown_value():
+    from abc_pipeline.filters import valid_category
+    assert valid_category("Mobilité") == "Environnement"
+
 
 # ── _date_from_text ───────────────────────────────────────────────────────────
 
@@ -91,6 +99,51 @@ def test_safe_score_invalid():
     from abc_pipeline.llm import _safe_score
     assert _safe_score("élevé") == 1
     assert _safe_score(None) == 1
+
+def test_groq_analyse_rss_uses_validated_llm_category(monkeypatch):
+    from abc_pipeline import llm
+    prompts = []
+
+    def fake_call_llm(prompt, *args, **kwargs):
+        prompts.append(prompt)
+        return (
+            '{"pertinent": true, "score": 1, "resume": "Résumé", '
+            '"categorie": "Émissions"}'
+        )
+
+    monkeypatch.setattr(
+        llm,
+        'call_llm',
+        fake_call_llm,
+    )
+
+    result = llm.groq_analyse_rss(
+        "PFAS : des associations alertent sur un plan de vigilance",
+        "Un article sur la vigilance des entreprises.",
+    )
+
+    assert result['categorie'] == "Émissions"
+    assert '"categorie": "une catégorie de la liste"' in prompts[0]
+    assert "Déchets, Émissions ou Environnement" in prompts[0]
+
+
+def test_groq_analyse_rss_falls_back_when_llm_category_is_unknown(monkeypatch):
+    from abc_pipeline import llm
+    monkeypatch.setattr(
+        llm,
+        'call_llm',
+        lambda *args, **kwargs: (
+            '{"pertinent": true, "score": 1, "resume": "Résumé", '
+            '"categorie": "Mobilité"}'
+        ),
+    )
+
+    result = llm.groq_analyse_rss(
+        "La voiture partagée entre voisins",
+        "Un article sur une initiative locale.",
+    )
+
+    assert result['categorie'] == "Environnement"
 
 
 # ── parse_jorf_xml ────────────────────────────────────────────────────────────

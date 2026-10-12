@@ -2,6 +2,17 @@ import hashlib
 
 from .config import KEYWORDS, REGLEMENTS_PRIORITAIRES
 
+CATEGORIES = (
+    'Climat',
+    'ICPE',
+    'Eau',
+    'Énergie',
+    'Biodiversité',
+    'Déchets',
+    'Émissions',
+    'Environnement',
+)
+
 
 def make_id(source: str, titre: str) -> str:
     return hashlib.md5(f"{source}:{titre}".encode()).hexdigest()[:12]
@@ -58,3 +69,9 @@ def categorise(text: str) -> str:
         return 'Émissions'
     return 'Environnement'
 
+
+def valid_category(value: object) -> str:
+    """Return a supported LLM category, or a neutral category if it is invalid."""
+    if isinstance(value, str) and value.strip() in CATEGORIES:
+        return value.strip()
+    return 'Environnement'
