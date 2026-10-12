@@ -11,7 +11,7 @@ import requests
 from ..config import JORF_BASE_URL, TIMEOUT
 from ..crawl import crawl_article
 from ..filters import categorise, keyword_match, make_id
-from ..llm import groq_analyse_jorf, groq_briefing_jorf
+from ..llm import groq_analyse_jorf, groq_briefing_jorf, groq_analyse_batch
 
 log = logging.getLogger(__name__)
 

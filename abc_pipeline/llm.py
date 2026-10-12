@@ -1,46 +1,163 @@
+"""
+LLM integration for ABC pipeline.
+
+Supports Google Gemini as primary provider, with Groq as fallback.
+"""
+
 import json
 import logging
 import os
 import re
 import time
 
-from groq import Groq
+try:
+    from groq import Groq
+    GROQ_AVAILABLE = True
+except ImportError:
+    GROQ_AVAILABLE = False
 
-from .filters import reglements_match
+try:
+    import google.generativeai as genai
+    GEMINI_AVAILABLE = True
+except ImportError:
+    GEMINI_AVAILABLE = False
+
 from .config import (
     ABC_CONTEXT,
     ABC_CONTEXT_SHORT,
+    GEMINI_MAX_RETRY,
+    GEMINI_MODEL_ENRICH,
+    GEMINI_MODEL_FILTER,
+    GEMINI_MIN_INTERVAL,
+    GEMINI_RETRY_WAIT,
     GROQ_MAX_RETRY,
     GROQ_MODEL_ENRICH,
     GROQ_MODEL_FILTER,
     GROQ_MIN_INTERVAL,
     GROQ_RETRY_WAIT,
-
 )
+
+from .filters import reglements_match
 
 log = logging.getLogger(__name__)
 
-
+# Global state for rate limiting
 _groq_client = None
+_gemini_client = None
 _groq_last_call: float = 0.0
+_gemini_last_call: float = 0.0
 _llm_call_count: int = 0
 _llm_total_seconds: float = 0.0
+
+# Use Gemini as primary provider
+USE_GEMINI = True
 
 
 def get_llm_stats() -> dict:
     return {'calls': _llm_call_count, 'seconds': round(_llm_total_seconds, 1)}
 
 
+# ============================================================================
+# GEMINI IMPLEMENTATION (Primary)
+# ============================================================================
 
-def _get_groq_client() -> Groq:
+
+def _get_gemini_client():
+    """Initialize and return the Gemini client."""
+    global _gemini_client
+    if not GEMINI_AVAILABLE:
+        raise RuntimeError("google.generativeai not installed. Run: pip install google-generativeai")
+    
+    api_key = os.environ.get('GEMINI_API_KEY', '')
+    if not api_key:
+        raise RuntimeError("GEMINI_API_KEY manquant")
+    
+    if _gemini_client is None:
+        genai.configure(api_key=api_key)
+        _gemini_client = genai
+    
+    return _gemini_client
+
+
+def _call_gemini(prompt: str, system: str, max_tokens: int, model: str) -> str:
+    """Call Gemini API with rate limiting and retry."""
+    global _gemini_last_call, _llm_call_count, _llm_total_seconds
+    
+    # Force minimum tokens to avoid truncation
+    max_tokens = max(max_tokens, 1000)
+    
+    # Rate limiting
+    elapsed = time.time() - _gemini_last_call
+    if elapsed < GEMINI_MIN_INTERVAL:
+        time.sleep(GEMINI_MIN_INTERVAL - elapsed)
+    
+    # Initialize client
+    client = _get_gemini_client()
+    
+    # Prepare system message - Gemini uses a different format
+    system_content = system if 'json' in system.lower() else (system + ' Reponds en JSON.').strip()
+    
+    for attempt in range(1, GEMINI_MAX_RETRY + 1):
+        _gemini_last_call = time.time()
+        _t = time.time()
+        
+        try:
+            # Use the GenerativeModel API
+            gemini_model = client.GenerativeModel(model)
+            response = gemini_model.generate_content(
+                contents=[system_content, prompt],
+                generation_config=genai.types.GenerationConfig(
+                    max_output_tokens=max_tokens,
+                    temperature=0.2,
+                )
+            )
+            
+            _llm_call_count += 1
+            _llm_total_seconds += time.time() - _t
+            
+            # Handle the response
+            if hasattr(response, 'text'):
+                return response.text.strip()
+            elif hasattr(response, 'candidate') and hasattr(response.candidate, 'content'):
+                content = response.candidate.content
+                if hasattr(content, 'parts'):
+                    return ''.join(part.text for part in content.parts if hasattr(part, 'text')).strip()
+                return str(content).strip()
+            else:
+                return str(response).strip()
+                
+        except Exception as e:
+            err_str = str(e)
+            if '429' in err_str or 'rate_limit' in err_str.lower() or 'quota' in err_str.lower():
+                log.warning(
+                    f"Gemini rate limit [{model}] "
+                    f"(tentative {attempt}/{GEMINI_MAX_RETRY}) — attente {GEMINI_RETRY_WAIT}s"
+                )
+                time.sleep(GEMINI_RETRY_WAIT)
+                _gemini_last_call = time.time()
+            else:
+                log.warning(f"Gemini erreur [{model}] : {e}")
+                return ''
+    
+    log.error(f"Gemini [{model}] : toutes les tentatives épuisées")
+    return ''
+
+
+# ============================================================================
+# GROQ IMPLEMENTATION (Fallback)
+# ============================================================================
+
+
+def _get_groq_client() -> 'Groq':
     global _groq_client
+    if not GROQ_AVAILABLE:
+        raise RuntimeError("groq not installed. Run: pip install groq")
     if _groq_client is None:
         api_key = os.environ.get('GROQ_API_KEY', '')
         if not api_key:
             raise RuntimeError("GROQ_API_KEY manquant")
         _groq_client = Groq(api_key=api_key)
     return _groq_client
-
 
 
 def _call_groq_fallback(prompt: str, system: str, max_tokens: int, model: str) -> str:
@@ -89,16 +206,48 @@ def _call_groq_fallback(prompt: str, system: str, max_tokens: int, model: str) -
     return ''
 
 
+# ============================================================================
+# UNIFIED LLM CALLER
+# ============================================================================
+
+
 def call_llm(prompt: str, system: str = '', max_tokens: int = 300, enrich: bool = False) -> str:
-    """Unified LLM entry-point - Groq ONLY (Mistral removed)."""
+    """Unified LLM entry-point - uses Gemini by default, falls back to Groq if needed."""
+    model = GEMINI_MODEL_ENRICH if enrich else GEMINI_MODEL_FILTER
+    
+    # Try Gemini first
+    if USE_GEMINI and GEMINI_AVAILABLE:
+        try:
+            return _call_gemini(prompt, system, max_tokens, model)
+        except Exception as e:
+            log.warning(f"Gemini échoué, passage à Groq : {e}")
+            USE_GEMINI = False  # Disable for this session
+    
+    # Fallback to Groq
     groq_model = GROQ_MODEL_ENRICH if enrich else GROQ_MODEL_FILTER
     return _call_groq_fallback(prompt, system, max_tokens, groq_model)
 
 
 def call_groq(prompt: str, system: str = '', max_tokens: int = 300, model: str = None) -> str:
     """Compatibility alias (pipeline called `call_groq` originally)."""
-    enrich = (model == GROQ_MODEL_ENRICH)
-    return call_llm(prompt, system, max_tokens, enrich=enrich)
+    if model is None:
+        # Determine if this should use enrich model
+        enrich = (model == GROQ_MODEL_ENRICH)
+        return call_llm(prompt, system, max_tokens, enrich=enrich)
+    else:
+        # If model is specified, use it directly
+        if USE_GEMINI and GEMINI_AVAILABLE:
+            try:
+                return _call_gemini(prompt, system, max_tokens, GEMINI_MODEL_FILTER)
+            except Exception as e:
+                log.warning(f"Gemini échoué, passage à Groq : {e}")
+                USE_GEMINI = False
+        return _call_groq_fallback(prompt, system, max_tokens, model)
+
+
+# ============================================================================
+# UTILITY FUNCTIONS
+# ============================================================================
 
 
 def extract_json(text: str) -> dict:
@@ -126,16 +275,14 @@ def _safe_score(val) -> int:
         return 1
 
 
-# ─────────────────────────────────────────────
-
-# ─────────────────────────────────────────────
+# ============================================================================
 # LLM — Batch analysis (for rate limit optimization)
-# ─────────────────────────────────────────────
+# ============================================================================
 
 
 def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
     """Analyse plusieurs articles en un seul appel LLM.
-    Optimise le quota Groq (30 appels/min, 8K tokens/min).
+    Optimise le quota (15 RPM, 1M tokens/jour pour Gemini).
     
     Args:
         articles: Liste de dicts avec {"titre": str, "contenu": str}
@@ -172,7 +319,8 @@ def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
     prompt = intro + "\n\n".join(article_sections) + "\n\n"
     prompt += 'Format: {"texte_1": {"pertinent": boolean, "resume": "...", "score": 1}, "texte_2": {...}, ...}'
     
-    raw = call_groq(prompt, system, max_tokens=1000)
+    # Use the unified call_llm which will use Gemini by default
+    raw = call_llm(prompt, system, max_tokens=1000)
     result = extract_json(raw)
     
     if not result:
@@ -190,9 +338,10 @@ def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
     return outputs
 
 
-
+# ============================================================================
 # LLM — JORF analysis
-# ─────────────────────────────────────────────
+# ============================================================================
+
 
 def groq_analyse_jorf(titre: str, contenu: str) -> dict:
     system = 'Tu es expert climat et RSE conseillant le Responsable Environnement de ABC. JSON uniquement.'
@@ -224,7 +373,7 @@ def groq_analyse_jorf(titre: str, contenu: str) -> dict:
         '"pourquoi": "", "score": 1}'
     )
 
-    raw = call_groq(prompt, system, max_tokens=300, model=GROQ_MODEL_FILTER)
+    raw = call_llm(prompt, system, max_tokens=300, enrich=False)
     result = extract_json(raw)
     if not result:
         return {'pertinent': False, 'resume': '', 'pourquoi': '', 'score': 1}
@@ -242,23 +391,24 @@ def groq_analyse_jorf(titre: str, contenu: str) -> dict:
         "quelle obligation concrète, quel délai, quel risque ou quelle opportunité.\n"
         'JSON: {"pourquoi": "..."}'
     )
-    raw2 = call_groq(enrich_prompt, 'Expert RSE ABC. JSON uniquement.', max_tokens=150, model=GROQ_MODEL_ENRICH)
+    raw2 = call_llm(enrich_prompt, 'Expert RSE ABC. JSON uniquement.', max_tokens=150, enrich=True)
     enrich = extract_json(raw2)
     if enrich.get('pourquoi'):
         result['pourquoi'] = enrich['pourquoi']
 
-    log.debug(f"JORF enrichi 70b (score={score}) : {titre[:50]}")
+    log.debug(f"JORF enrichi (score={score}) : {titre[:50]}")
     return result
 
 
-# ─────────────────────────────────────────────
+# ============================================================================
 # LLM — RSS / Presse analysis
-# ─────────────────────────────────────────────
+# ============================================================================
+
 
 def groq_analyse_rss(titre: str, contenu: str) -> dict:
-    if kw := reglements_match(titre):
-        log.info(f"RSS signal prioritaire auto ({kw}): {titre[:80]}")
-        return {'pertinent': True, 'score': 3, 'resume': titre[:200], 'pourquoi': f'Mention de {kw}.'}
+    if reglements_match(titre):
+        return {'pertinent': True, 'score': 3, 'resume': titre[:200], 'pourquoi': 'Mention de réglementation prioritaire.'}
+    
     system = 'Tu es analyste climat et RSE pour ABC. JSON valide uniquement.'
     prompt = (
         f"{ABC_CONTEXT_SHORT}\n\n"
@@ -288,7 +438,7 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
         'JSON: {"pertinent": boolean, "resume": "1-2 phrases sur ce que ça change pour ABC (vide si non pertinent)", "pourquoi": "", "score": 1}'
     )
 
-    raw = call_groq(prompt, system, max_tokens=300, model=GROQ_MODEL_FILTER)
+    raw = call_llm(prompt, system, max_tokens=300, enrich=False)
     result = extract_json(raw)
     if not result:
         return {'pertinent': False, 'resume': '', 'pourquoi': '', 'score': 1}
@@ -306,18 +456,19 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
         "quelle implication concrète, quel délai d'action, quel risque ou quelle opportunité.\n"
         'JSON: {"pourquoi": "..."}'
     )
-    raw2 = call_groq(enrich_prompt, 'Expert RSE ABC. JSON uniquement.', max_tokens=150, model=GROQ_MODEL_ENRICH)
+    raw2 = call_llm(enrich_prompt, 'Expert RSE ABC. JSON uniquement.', max_tokens=150, enrich=True)
     enrich = extract_json(raw2)
     if enrich.get('pourquoi'):
         result['pourquoi'] = enrich['pourquoi']
 
-    log.debug(f"RSS enrichi 70b (score={score}) : {titre[:50]}")
+    log.debug(f"RSS enrichi (score={score}) : {titre[:50]}")
     return result
 
 
-# ─────────────────────────────────────────────
+# ============================================================================
 # LLM — JORF executive briefing
-# ─────────────────────────────────────────────
+# ============================================================================
+
 
 _BRIEFING_SKIP = [
     'nomination', 'délégation de signature', 'désignation',
@@ -351,7 +502,7 @@ def groq_briefing_jorf(articles: list, today_str: str) -> str:
         '{"briefing": "ton résumé ici"}'
     )
 
-    raw = call_groq(prompt, system, max_tokens=300)
+    raw = call_llm(prompt, system, max_tokens=300)
     result = extract_json(raw)
     if not isinstance(result, dict):
         return ''
@@ -376,9 +527,10 @@ def groq_briefing_jorf(articles: list, today_str: str) -> str:
     return briefing or "Aucun texte réglementaire significatif pour ABC dans ce JO."
 
 
-# ─────────────────────────────────────────────
+# ============================================================================
 # LLM — PJL analysis (Parlement)
-# ─────────────────────────────────────────────
+# ============================================================================
+
 
 def groq_analyse_pjl(titre: str, description: str) -> dict:
     system = 'Tu es conseiller RSE senior pour ABC. JSON valide uniquement.'
@@ -422,7 +574,7 @@ def groq_analyse_pjl(titre: str, description: str) -> dict:
         '"pourquoi": "", "score": 1, "horizon": "estimation entrée en vigueur ex: fin 2026"}'
     )
 
-    raw = call_groq(prompt, system, max_tokens=300, model=GROQ_MODEL_FILTER)
+    raw = call_llm(prompt, system, max_tokens=300, enrich=False)
     result = extract_json(raw)
     if not result:
         return {'pertinent': False, 'resume': '', 'pourquoi': '', 'score': 1, 'horizon': ''}
@@ -443,18 +595,19 @@ def groq_analyse_pjl(titre: str, description: str) -> dict:
         "Ne pas inventer d'obligations non mentionnées dans le texte.\n"
         'JSON: {"pourquoi": "..."}'
     )
-    raw2 = call_groq(enrich_prompt, 'Expert RSE ABC. JSON uniquement.', max_tokens=150, model=GROQ_MODEL_ENRICH)
+    raw2 = call_llm(enrich_prompt, 'Expert RSE ABC. JSON uniquement.', max_tokens=150, enrich=True)
     enrich = extract_json(raw2)
     if enrich.get('pourquoi'):
         result['pourquoi'] = enrich['pourquoi']
 
-    log.debug(f"PJL enrichi 70b (score={score}) : {titre[:50]}")
+    log.debug(f"PJL enrichi (score={score}) : {titre[:50]}")
     return result
 
 
-# ─────────────────────────────────────────────
+# ============================================================================
 # LLM — Parlement executive briefing
-# ─────────────────────────────────────────────
+# ============================================================================
+
 
 def groq_briefing_parlement(entries: list, today_str: str) -> str:
     if not entries:
@@ -470,7 +623,7 @@ def groq_briefing_parlement(entries: list, today_str: str) -> str:
         'Réponds UNIQUEMENT : {"briefing": "ton résumé"}'
     )
 
-    raw = call_groq(prompt, system, max_tokens=250)
+    raw = call_llm(prompt, system, max_tokens=250)
     result = extract_json(raw)
     if not isinstance(result, dict):
         return ''
@@ -484,4 +637,3 @@ def groq_briefing_parlement(entries: list, today_str: str) -> str:
         if isinstance(val, str) and len(val.strip()) > 10:
             return val.strip()
     return ''
-

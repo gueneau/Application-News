@@ -8,7 +8,7 @@ from .sources.jorf import fetch_jorf
 from .sources.parlement import fetch_parlement
 from .sources.rss import fetch_rss
 from .sources.vigieau import fetch_vigieau, fetch_vigieau_zones
-from .config import GROQ_MODEL
+from .config import GEMINI_MODEL
 from .llm import get_llm_stats
 
 
@@ -34,7 +34,7 @@ def main() -> int:
 
     log.info('=' * 60)
     log.info(f'Pipeline ABC Veille Environnementale — {today_str}')
-    log.info(f'Modèle LLM : {GROQ_MODEL} via Groq API')
+    log.info(f'Modèle LLM : {GEMINI_MODEL} via Google Gemini API')
     log.info('=' * 60)
 
     start = datetime.now()

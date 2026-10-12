@@ -20,6 +20,16 @@ VIGIEAU_PMTILES_URL = 'https://regleau.s3.gra.perf.cloud.ovh.net/pmtiles/zones_a
 MISTRAL_MODEL = 'mistral-small-latest'
 MISTRAL_MIN_INTERVAL = 1.2  # 1 req/s max -> margin
 
+
+# Google Gemini configuration
+GEMINI_MODEL = 'gemini-1.5-flash'
+GEMINI_MODEL_FILTER = 'gemini-1.5-flash'
+GEMINI_MODEL_ENRICH = 'gemini-1.5-flash'
+GEMINI_MAX_RETRY = 3
+GEMINI_RETRY_WAIT = 62
+GEMINI_MIN_INTERVAL = 10.0  # seconds between calls (rate limit: 15 RPM)
+
+# Legacy Groq configuration (kept for backwards compatibility)
 GROQ_MODEL_FILTER = 'openai/gpt-oss-20b'
 GROQ_MODEL_ENRICH = 'openai/gpt-oss-120b'
 GROQ_MODEL = GROQ_MODEL_FILTER  # alias compat
