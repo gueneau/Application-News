@@ -20,8 +20,8 @@ VIGIEAU_PMTILES_URL = 'https://regleau.s3.gra.perf.cloud.ovh.net/pmtiles/zones_a
 MISTRAL_MODEL = 'mistral-small-latest'
 MISTRAL_MIN_INTERVAL = 1.2  # 1 req/s max -> margin
 
-GROQ_MODEL_FILTER = 'llama-3.1-8b-instant'
-GROQ_MODEL_ENRICH = 'llama-3.3-70b-versatile'
+GROQ_MODEL_FILTER = 'openai/gpt-oss-20b'
+GROQ_MODEL_ENRICH = 'openai/gpt-oss-120b'
 GROQ_MODEL = GROQ_MODEL_FILTER  # alias compat
 
 GROQ_MAX_RETRY = 3
