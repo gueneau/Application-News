@@ -46,6 +46,7 @@ def _get_groq_client() -> Groq:
 def _call_groq_fallback(prompt: str, system: str, max_tokens: int, model: str) -> str:
     """Groq fallback with rate limiter and retry."""
     global _groq_last_call, _llm_call_count, _llm_total_seconds
+    max_tokens = max(max_tokens, 1000)  # Force minimum 1000 tokens to avoid truncation
     elapsed = time.time() - _groq_last_call
     if elapsed < GROQ_MIN_INTERVAL:
         time.sleep(GROQ_MIN_INTERVAL - elapsed)
