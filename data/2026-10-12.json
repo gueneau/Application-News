@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
-  "generated_at": "14:24",
-  "elapsed_seconds": 666,
+  "generated_at": "14:44",
+  "elapsed_seconds": 643,
   "errors": [],
   "stats": {
     "jo_analyses": 6,
@@ -9,18 +9,18 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-12T14:24:40",
+    "run_at": "2026-10-12T14:44:10",
     "sources": {
       "JORF": 0,
-      "RSS": 17,
+      "RSS": 16,
       "VigiEau": 93,
       "Parlement": 1
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 49,
-    "llm_seconds": 58.3
+    "llm_calls": 48,
+    "llm_seconds": 107.4
   },
   "items": [
     {
@@ -28,8 +28,8 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Le prix de l’électricité pour 2027 a doublé depuis le printemps [Marchés]",
-      "resume": "Le prix de contrat de l'électricité pour livraison en 2027 en France a doublé pour dépasser les 100 €/MWh. Cette hausse des coûts énergétiques impacte directement les charges opérationnelles des sites gérés et les frais de fonctionnement d'ABC.",
-      "pourquoi": "Cette envolée des prix de l'électricité alourdit directement les coûts de fonctionnement d'ABC et de ses clients, nécessitant d'accélérer l'optimisation énergétique des sites gérés et l'électrification de la flotte d'ici 2027 pour préserver les marges et renforcer l'offre de services bas-carbone.",
+      "resume": "Le contrat de fourniture d'électricité pour 2027 en France a dépassé les 100 €/MWh, doublant ainsi depuis le printemps. Cette hausse des prix impacte directement les coûts énergétiques des sites tertiaires gérés par ABC et renforce la nécessité d'optimiser l'efficacité énergétique.",
+      "pourquoi": "Cette envolée des prix de l'électricité alourdit directement les coûts d'exploitation des sites gérés par ABC et renforce l'urgence d'optimiser l'efficacité énergétique de ses clients à court terme, transformant cette contrainte en opportunité commerciale pour ses prestations de Facility Management bas-carbone.",
       "criticite": 2,
       "url": "https://www.greenunivers.com/2026/10/le-prix-de-lelectricite-pour-2027-a-double-depuis-le-printemps-marches-435772/",
       "date": "2026-10-12"
@@ -37,9 +37,9 @@
     {
       "id": "8a989e6a8deb",
       "source": "Actu-Environnement",
-      "categorie": "Environnement",
+      "categorie": "Énergie",
       "titre": "Dérogation espèces protégées&amp;#8239;: le tribunal administratif d'Amiens invalide un projet de parc photovoltaïque",
-      "resume": "Le tribunal administratif d'Amiens a annulé une dérogation pour espèces protégées concernant un projet de parc photovoltaïque, illustrant la complexité juridique des projets d'énergies renouvelables.",
+      "resume": "Le tribunal administratif d'Amiens a annulé une dérogation pour espèces protégées concernant un projet photovoltaïque, illustrant la complexité juridique des projets d'énergies renouvelables.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/derogation-especes-protegees-photovoltaique-warluis-amiens-48648.php4#xtor=RSS-6",
@@ -48,9 +48,9 @@
     {
       "id": "96edb5a66320",
       "source": "Actu-Environnement",
-      "categorie": "Eau",
+      "categorie": "Environnement",
       "titre": "De la maîtrise de l'eau non facturée à la détection acoustique des fuites",
-      "resume": "L'article aborde l'utilisation de technologies de pointe pour la détection des fuites et la gestion des réseaux d'eau, un sujet de sensibilisation à la gestion des ressources pour les prestataires de services sur site.",
+      "resume": "L'article présente des technologies de détection des fuites d'eau qui peuvent intéresser ABC dans le cadre de la gestion de l'eau sur les sites de ses clients (Facility Management).",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/pdt/kamstrup-maitrise-eau-detection-acoustique-fuites-flowiq-leak-detector-1497.php4#xtor=RSS-6",
@@ -61,7 +61,7 @@
       "source": "Actu-Environnement",
       "categorie": "Déchets",
       "titre": "Ecominéro : trois ans pour accélérer l’économie circulaire de la filière minérale",
-      "resume": "Bilan de la REP PMCB par Ecominéro, soulignant les progrès en matière de valorisation et de recyclage des déchets de la filière minérale.",
+      "resume": "Bilan de trois ans de la REP PMCB par Ecominéro, mettant en avant la valorisation et le recyclage des déchets de la filière minérale.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/pdt/ecominero-eco-organisme-rep-pmcb-dechets-inertes-batiment-filiere-recyclage-reemploi-ecoconception-1496.php4#xtor=RSS-6",
@@ -72,7 +72,7 @@
       "source": "Reporterre",
       "categorie": "Eau",
       "titre": "Sécheresse : le Finistère dans une « situation critique »",
-      "resume": "Le Finistère fait face à une sécheresse critique menaçant la ressource en eau, un risque climatique direct pour les prestations de propreté et les 3 000+ sites clients gérés par ABC dans la région.",
+      "resume": "Le Finistère fait face à une sécheresse critique menaçant la ressource en eau, un risque climatique opérationnel susceptible d'affecter les prestations sur les sites clients de la région.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Secheresse-le-Finistere-dans-une-situation-critique",
@@ -83,7 +83,7 @@
       "source": "Reporterre",
       "categorie": "Climat",
       "titre": "Le mois de septembre a été le plus chaud jamais enregistré en Europe de l'Ouest",
-      "resume": "Copernicus confirme que septembre se classe parmi les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C de l'Accord de Paris.",
+      "resume": "Copernicus confirme que septembre se classe parmi les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C. Cette tendance renforce l'exposition des 3 000+ sites clients d'ABC aux aléas climatiques croissants.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Le-mois-de-septembre-a-ete-le-plus-chaud-jamais-enregistre-en-Europe-de-l-Ouest",
@@ -94,7 +94,7 @@
       "source": "Contexte Environnement",
       "categorie": "Biodiversité",
       "titre": "COP17 biodiversité : la France et l’UE sont-elles à la hauteur de leurs engagements ?",
-      "resume": "L'article fait le point sur les engagements de la France et de l'UE en matière de biodiversité à l'approche de la COP17, un sujet connexe aux enjeux environnementaux globaux d'ABC.",
+      "resume": "L'article fait le point sur les engagements de la France et de l'UE en matière de biodiversité à l'approche de la COP17, un sujet connexe aux exigences croissantes du reporting extra-financier (CSRD/ESRS E4).",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.contexte.com/fr/article/environnement/cop17-biodiversite-la-france-et-lue-sont-elles-a-la-hauteur-de-leurs-engagements_279295?source=rss",
@@ -105,7 +105,7 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Réseaux électriques : Engie scrute de nouvelles opportunités outre-Manche",
-      "resume": "L'énergéticien Engie oriente ses investissements vers le développement des réseaux électriques, témoignant des dynamiques du marché de l'énergie en Europe.",
+      "resume": "L'article évoque les investissements massifs d'Engie dans les réseaux électriques et gaziers, soulignant la dynamique générale des infrastructures énergétiques.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.greenunivers.com/2026/10/reseaux-electriques-engie-scrute-de-nouvelles-opportunites-outre-manche-435215/",
@@ -116,7 +116,7 @@
       "source": "Le Monde Planète",
       "categorie": "Climat",
       "titre": "Le commissaire européen au climat compte sur le « made in Europe » et le nucléaire pour réduire les émissions de carbone",
-      "resume": "La Commission européenne mise sur la production locale et le nucléaire pour décarboner l'industrie face à la concurrence internationale.",
+      "resume": "La Commission européenne mise sur le \"made in Europe\" et le nucléaire pour réduire les émissions industrielles, renforçant le cadre stratégique global de décarbonation de l'UE.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/economie/article/2026/10/12/le-commissaire-europeen-au-climat-compte-sur-le-made-in-europe-et-le-nucleaire-pour-reduire-les-emissions-de-carbone_6792422_3234.html",
@@ -127,7 +127,7 @@
       "source": "Le Monde Planète",
       "categorie": "Environnement",
       "titre": "En Haute-Saône et dans le Jura, des rivières restaurées pour ralentir l’eau : « C’est insolent comme c’était vert, en pleine sécheresse »",
-      "resume": "Des projets de restauration et de reméandrage de rivières sont menés en Bourgogne-Franche-Comté pour lutter contre les sécheresses et favoriser l'infiltration des sols.",
+      "resume": "Des projets de restauration et de reméandrage de rivières sont menés en Haute-Saône et dans le Jura pour faire face aux sécheresses et favoriser l'infiltration des sols.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/12/en-haute-saone-et-dans-le-jura-des-rivieres-restaurees-pour-ralentir-l-eau-c-est-insolent-comme-c-etait-vert-en-pleine-secheresse_6792419_3244.html",
@@ -138,21 +138,10 @@
       "source": "EFRAG",
       "categorie": "Environnement",
       "titre": "EFRAG Update: August & September Edition Now Available",
-      "resume": "Publication de la mise à jour d'EFRAG d'août et septembre 2026, incluant les travaux techniques sur les normes de reporting de durabilité (CSRD/ESRS) et la liste des points de données (datapoints) pour 2026.",
+      "resume": "L'EFRAG a publié son édition d'août et septembre, incluant la liste provisoire des points de données 2026, un élément clé pour la mise en conformité avec la CSRD.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-update-august-september-edition-now-available",
-      "date": "2026-10-12"
-    },
-    {
-      "id": "a47f6f09f424",
-      "source": "Actuel HSE",
-      "categorie": "Environnement",
-      "titre": "Cancers d’origine professionnelle : «La réalité des parcours de travail et des expositions aux cancérogènes est en décalage total avec le cadre réglementaire»",
-      "resume": "Un rapport met en lumière le décalage entre les expositions réelles aux agents cancérogènes au travail et le cadre réglementaire, touchant potentiellement la santé et sécurité sur les chantiers de propreté.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.actuel-hse.fr/content/cancers-dorigine-professionnelle-la-realite-des-parcours-de-travail-et-des-expositions-aux",
       "date": "2026-10-12"
     },
     {
@@ -160,7 +149,7 @@
       "source": "Actuel HSE",
       "categorie": "Déchets",
       "titre": "Filières REP : certaines règles de gouvernance pourront être modifiées sans passer par la loi",
-      "resume": "Le Conseil constitutionnel permet de modifier certaines règles de gouvernance des filières REP sans passer par la loi, impactant le cadre réglementaire des éco-organismes.",
+      "resume": "Le Conseil constitutionnel permet de modifier certaines règles de gouvernance des filières REP par décret, simplifiant les évolutions réglementaires pour les éco-organismes.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actuel-hse.fr/content/filieres-rep-certaines-regles-de-gouvernance-pourront-etre-modifiees-sans-passer-par-la-loi",
@@ -171,7 +160,7 @@
       "source": "Actuel HSE",
       "categorie": "Déchets",
       "titre": "Un guide pour aider les acteurs de la gestion des déchets à s’adapter au changement climatique",
-      "resume": "Publication d'un guide méthodologique destiné aux acteurs de la gestion des déchets pour intégrer l'adaptation au changement climatique dans leurs activités.",
+      "resume": "Publication d'un guide méthodologique pour aider les acteurs de la gestion des déchets à s'adapter aux impacts du changement climatique, intéressant pour anticiper les risques sur la chaîne de gestion des déchets des prestations d'ABC.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actuel-hse.fr/content/un-guide-pour-aider-les-acteurs-de-la-gestion-des-dechets-sadapter-au-changement-climatique",
@@ -182,7 +171,7 @@
       "source": "Reporterre",
       "categorie": "Environnement",
       "titre": "La voiture partagée entre voisins, une solution au désert des transports en zone rurale",
-      "resume": "L'article traite de l'autopartage de véhicules électriques en milieu rural comme solution de mobilité durable, un sujet connexe aux réflexions sur la décarbonation des flottes et les alternatives aux déplacements individuels.",
+      "resume": "L'article présente une initiative locale de véhicules électriques partagés en zone rurale, illustrant les tendances d'évolution des mobilités alternatives.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/La-voiture-partagee-entre-voisins-une-solution-au-desert-des-transports-en-zone-rurale",
@@ -193,7 +182,7 @@
       "source": "ESG Today",
       "categorie": "Environnement",
       "titre": "ESG Today: Week in Review",
-      "resume": "Synthèse hebdomadaire des actualités ESG mettant en avant la hausse des investissements durables des entreprises et les attentes des investisseurs face aux risques climatiques.",
+      "resume": "Synthèse hebdomadaire sur les tendances ESG mondiales, incluant les attentes des investisseurs sur le risque climatique et l'augmentation des investissements de durabilité des entreprises.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.esgtoday.com/esg-today-week-in-review-278/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-278",
@@ -867,13 +856,13 @@
     }
   ],
   "jo_retenus": [],
-  "briefing_jorf": "Le Journal Officiel du 12 octobre 2026 publie un décret et un arrêté renforçant les obligations, la gestion des risques et le contrôle des Certificats d'Économies d'Énergie (CEE), impactant directement la stratégie de conformité énergétique et les dispositifs de délégation des grandes entreprises.",
+  "briefing_jorf": "Aucun texte présélectionné n’a été confirmé comme pertinent après vérification intégrale.",
   "pjl_fiches": [
     {
       "id": "pjl-14aebd68935a",
       "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
       "date_depot": "2026-03-24",
-      "stade": "Dépôt",
+      "stade": "Texte adopté ✅",
       "stade_index": 0,
       "url_an": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
       "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
@@ -887,13 +876,13 @@
       "historique": [
         {
           "date": "2026-10-12",
-          "stade": "Texte adopté ✅",
+          "stade": "Dépôt",
           "event": "Importé depuis UI"
         },
         {
           "date": "2026-10-12",
-          "stade": "Dépôt",
-          "event": "Avancement : Texte adopté ✅ → Dépôt"
+          "stade": "Texte adopté ✅",
+          "event": "Avancement : Dépôt → Texte adopté ✅"
         }
       ],
       "created_at": "2026-10-12",
@@ -1184,5 +1173,5 @@
       ]
     }
   ],
-  "pjl_briefing": "L'actualité parlementaire est marquée par l'examen des projets de lois de finances et de financement de la sécurité sociale pour 2027, ainsi que par des textes relatifs à la transition énergétique, à la gestion de l'eau et aux adaptations au droit européen en matière environnementale et économique. Ces sujets impactent directement la stratégie climat, la conformité réglementaire et le reporting extra-financier des grandes entreprises de services."
+  "pjl_briefing": "L'actualité parlementaire met en avant le projet de loi de finances 2027 et le PLFSS, ainsi que divers textes relatifs à la transition énergétique, notamment l'habilitation de l'assemblée de Martinique en matière d'énergie, d'eau et d'assainissement. Pour un responsable RSE, le suivi des transpositions de directives européennes et des mesures d'adaptation au droit de l'UE en matière environnementale et économique reste particulièrement stratégique pour anticiper les obligations de reporting et de conformité."
 }
