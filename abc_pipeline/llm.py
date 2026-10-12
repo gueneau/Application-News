@@ -17,7 +17,7 @@ except ImportError:
     GROQ_AVAILABLE = False
 
 try:
-    import google.generativeai as genai
+    import google.genai as genai
     GEMINI_AVAILABLE = True
 except ImportError:
     GEMINI_AVAILABLE = False
@@ -66,7 +66,7 @@ def _get_gemini_client():
     """Initialize and return the Gemini client."""
     global _gemini_client
     if not GEMINI_AVAILABLE:
-        raise RuntimeError("google.generativeai not installed. Run: pip install google-generativeai")
+        raise RuntimeError("google-genai not installed. Run: pip install google-genai")
     
     api_key = os.environ.get('GEMINI_API_KEY', '')
     if not api_key:
