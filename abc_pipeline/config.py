@@ -22,9 +22,9 @@ MISTRAL_MIN_INTERVAL = 1.2  # 1 req/s max -> margin
 
 
 # Google Gemini configuration
-GEMINI_MODEL = 'gemini-1.5-flash'
-GEMINI_MODEL_FILTER = 'gemini-1.5-flash'
-GEMINI_MODEL_ENRICH = 'gemini-1.5-flash'
+GEMINI_MODEL = 'gemini-1.5-flash-latest'
+GEMINI_MODEL_FILTER = 'gemini-1.5-flash-latest'
+GEMINI_MODEL_ENRICH = 'gemini-1.5-flash-latest'
 GEMINI_MAX_RETRY = 3
 GEMINI_RETRY_WAIT = 62
 GEMINI_MIN_INTERVAL = 10.0  # seconds between calls (rate limit: 15 RPM)
