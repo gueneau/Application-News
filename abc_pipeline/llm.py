@@ -213,6 +213,7 @@ def _call_groq_fallback(prompt: str, system: str, max_tokens: int, model: str) -
 
 def call_llm(prompt: str, system: str = '', max_tokens: int = 300, enrich: bool = False) -> str:
     """Unified LLM entry-point - uses Gemini by default, falls back to Groq if needed."""
+    global USE_GEMINI
     model = GEMINI_MODEL_ENRICH if enrich else GEMINI_MODEL_FILTER
     
     # Try Gemini first
@@ -230,6 +231,7 @@ def call_llm(prompt: str, system: str = '', max_tokens: int = 300, enrich: bool 
 
 def call_groq(prompt: str, system: str = '', max_tokens: int = 300, model: str = None) -> str:
     """Compatibility alias (pipeline called `call_groq` originally)."""
+    global USE_GEMINI
     if model is None:
         # Determine if this should use enrich model
         enrich = (model == GROQ_MODEL_ENRICH)
