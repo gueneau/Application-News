@@ -12,8 +12,8 @@ import requests
 
 from ..config import RSS_SOURCES, TIMEOUT
 from ..crawl import crawl_article, crawl_article_links, crawl_article_links_filtered, crawl_playwright_links, get_crawled_date
-from ..filters import keyword_match, make_id, valid_category
-from ..llm import groq_analyse_rss
+from ..filters import make_id, reglements_match, valid_category
+from ..llm import groq_analyse_batch, groq_analyse_rss
 
 log = logging.getLogger(__name__)
 
@@ -52,6 +52,119 @@ def _date_from_text(text: str):
     return None
 
 
+def _rss_cutoff(now: datetime) -> datetime:
+    if now.weekday() == 0:
+        return (now - timedelta(days=3)).replace(
+            hour=18, minute=0, second=0, microsecond=0
+        )
+    return now - timedelta(hours=24)
+
+
+def _review_rss_candidates(
+    source_name: str,
+    candidates: list,
+    today_str: str,
+    new_seen: dict = None,
+    freshness_cutoff: datetime = None,
+) -> list:
+    """Batch-screen recent candidates, then validate promising items on article text."""
+    if not candidates:
+        return []
+
+    priority_candidates = [
+        candidate for candidate in candidates
+        if reglements_match(candidate['titre'])
+    ]
+    screening_candidates = [
+        candidate for candidate in candidates
+        if not reglements_match(candidate['titre'])
+    ]
+    promising = list(priority_candidates)
+    if screening_candidates:
+        try:
+            screening = groq_analyse_batch(
+                [
+                    {
+                        'titre': candidate['titre'],
+                        'contenu': candidate.get('contenu', ''),
+                        'themes': candidate.get('themes', []),
+                    }
+                    for candidate in screening_candidates
+                ],
+                prompt_type='rss',
+                stage='screen',
+            )
+            if len(screening) != len(screening_candidates):
+                raise ValueError("réponse batch incomplète")
+            promising.extend(
+                candidate for candidate, result in zip(screening_candidates, screening)
+                if result.get('pertinent') is True
+            )
+        except Exception as e:
+            # Keep recall if the batch response is unusable; the full-text review
+            # remains the publication gate.
+            log.warning(
+                f"RSS {source_name} : présélection batch indisponible ({e}); "
+                "vérification individuelle des candidats"
+            )
+            promising.extend(screening_candidates)
+
+    items = []
+    for candidate in promising:
+        titre = candidate['titre']
+        url = candidate.get('url', '')
+        contenu = (
+            crawl_article(url) or candidate.get('contenu', '')
+            if url
+            else candidate.get('contenu', '')
+        )
+        article_date = candidate.get('date') or today_str
+
+        if freshness_cutoff and url:
+            html_date = get_crawled_date(url)
+            if html_date:
+                try:
+                    html_dt = datetime.strptime(html_date, '%Y-%m-%d')
+                    if html_dt < freshness_cutoff:
+                        log.debug(
+                            f"RSS date HTML trop ancienne ({html_date}), exclu : {titre[:60]}"
+                        )
+                        continue
+                    article_date = html_date
+                except ValueError:
+                    log.warning(f"RSS date HTML invalide ({html_date}) : {url}")
+
+        try:
+            analysis = groq_analyse_rss(titre, contenu)
+        except Exception as e:
+            log.warning(f"RSS validation finale {source_name} ({titre[:60]}) : {e}")
+            continue
+        if analysis.get('pertinent') is not True:
+            log.debug(f"Non pertinent après lecture complète, exclu : {titre[:60]}")
+            continue
+
+        score = int(analysis.get('score') or 1)
+        items.append({
+            'id': make_id(source_name, titre),
+            'source': source_name,
+            'categorie': valid_category(analysis.get('categorie')),
+            'titre': titre,
+            'resume': analysis.get('resume') or titre,
+            'pourquoi': analysis.get('pourquoi', '') if score >= 2 else '',
+            'criticite': score,
+            'url': url,
+            'date': article_date,
+        })
+        if new_seen is not None and url:
+            new_seen[url] = today_str
+
+    log.info(
+        f"RSS {source_name} : {len(candidates)} candidats, {len(promising)} à vérifier, "
+        f"{len(items)} retenus après lecture complète"
+    )
+    return items
+
+
 def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_seen: dict = None):
     items = []
     name = source['name']
@@ -63,58 +176,38 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
         try:
             article_links = crawl_playwright_links(playwright_url, max_links=15)
             log.info(f"Playwright {name} : {len(article_links)} liens extraits")
-            now = datetime.now()
-            fallback_cutoff = (
-                (now - timedelta(days=3)).replace(hour=18, minute=0, second=0, microsecond=0)
-                if now.weekday() == 0
-                else now - timedelta(hours=24)
-            )
+            fallback_cutoff = _rss_cutoff(datetime.now())
+            candidates = []
             for link in article_links:
                 try:
                     if seen_urls is not None and link['url'] in seen_urls:
                         continue
-                    titre_art = link['titre']
+                    titre_art = link.get('titre', '')
                     title_dt = _date_from_text(titre_art)
-                    titre_art = re.sub(r'\s*\d{1,2}/\d{2}/\d{4}.*$', '', titre_art).strip()
+                    titre_art = re.sub(
+                        r'\s*\d{1,2}/\d{2}/\d{4}.*$', '', titre_art
+                    ).strip()
                     if not titre_art or len(titre_art) < 10:
                         continue
                     if title_dt and title_dt < fallback_cutoff:
                         log.debug(f"Playwright date titre trop ancienne ({title_dt.date()}), exclu : {titre_art[:60]}")
                         continue
-
-                    contenu = crawl_article(link['url']) or ''
-                    txt = titre_art + ' ' + contenu
-
-                    if source.get('require_keywords'):
-                        if not any(k.lower() in txt.lower() for k in source['require_keywords']):
-                            continue
-                    if not keyword_match(txt):
-                        continue
-
-                    analysis = groq_analyse_rss(titre_art, contenu)
-                    if analysis.get('pertinent') is False:
-                        continue
-
-                    score = int(analysis.get('score') or 1)
-                    pourquoi = analysis.get('pourquoi', '') if score >= 2 else ''
-                    article_date = get_crawled_date(link['url']) or today_str
-
-                    if new_seen is not None:
-                        new_seen[link['url']] = today_str
-
-                    items.append({
-                        'id': make_id(name, titre_art),
-                        'source': name,
-                        'categorie': valid_category(analysis.get('categorie')),
+                    candidates.append({
                         'titre': titre_art,
-                        'resume': analysis.get('resume') or titre_art,
-                        'pourquoi': pourquoi,
-                        'criticite': score,
                         'url': link['url'],
-                        'date': article_date,
+                        'contenu': '',
+                        'date': today_str,
+                        'themes': source.get('require_keywords', []),
                     })
                 except Exception as e_art:
                     log.debug(f"Playwright article {link['url']} : {e_art}")
+            items.extend(_review_rss_candidates(
+                name,
+                candidates,
+                today_str,
+                new_seen=new_seen,
+                freshness_cutoff=fallback_cutoff,
+            ))
         except Exception as e:
             log.warning(f"Playwright {name} error : {e}")
         return items
@@ -149,6 +242,8 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
         entries = feed.entries[:15]
         log.info(f"RSS {name} : {len(entries)} entrées")
 
+        cutoff_dt = _rss_cutoff(datetime.now())
+        candidates = []
         for entry in entries:
             titre = (entry.get('title') or '').strip()
             if not titre:
@@ -190,14 +285,6 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                         except Exception:
                             pass
 
-            now = datetime.now()
-            if now.weekday() == 0:
-                cutoff_dt = (now - timedelta(days=3)).replace(
-                    hour=18, minute=0, second=0, microsecond=0
-                )
-            else:
-                cutoff_dt = now - timedelta(hours=24)
-
             if article_dt is None or article_dt < cutoff_dt:
                 log.debug(f"Article sans date ou trop ancien ({article_date}), exclu : {titre[:60]}")
                 continue
@@ -209,38 +296,14 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                 log.debug(f"Date dans le titre trop ancienne ({title_dt.date()}), exclu : {titre[:60]}")
                 continue
 
-            if len(contenu) < 100 and url:
-                contenu = crawl_article(url) or contenu
-
-            if source.get('require_keywords'):
-                txt = (titre + ' ' + contenu).lower()
-                if not any(k.lower() in txt for k in source['require_keywords']):
-                    continue
-
-            if not keyword_match(titre + ' ' + contenu):
-                continue
-
-            analysis = groq_analyse_rss(titre, contenu)
-            if analysis.get('pertinent') is False:
-                log.debug(f"Non pertinent ABC, exclu : {titre[:60]}")
-                continue
-
-            score = int(analysis.get('score', 1))
-            pourquoi = analysis.get('pourquoi', '')
-            if score < 2:
-                pourquoi = ''
-
-            items.append({
-                'id': make_id(name, titre),
-                'source': name,
-                'categorie': valid_category(analysis.get('categorie')),
+            candidates.append({
                 'titre': titre,
-                'resume': analysis.get('resume') or titre,
-                'pourquoi': pourquoi,
-                'criticite': score,
                 'url': url,
+                'contenu': contenu[:500],
                 'date': article_date,
+                'themes': source.get('require_keywords', []),
             })
+        items.extend(_review_rss_candidates(name, candidates, today_str))
 
     except Exception as e:
         log.warning(f"RSS {name} error : {e}")
@@ -258,23 +321,21 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
 
                 if not article_links:
                     contenu = crawl_article(fallback_url)
-                    if contenu and keyword_match(contenu):
-                        analysis = groq_analyse_rss(f"Actualités {name}", contenu)
-                        if analysis.get('pertinent') is not False:
-                            items.append({
-                                'id': make_id(name, 'fallback'),
-                                'source': name,
-                                'categorie': 'Presse',
+                    if contenu:
+                        items.extend(_review_rss_candidates(
+                            name,
+                            [{
                                 'titre': f'Actualités {name}',
-                                'resume': analysis.get('resume') or 'Source consultée via fallback.',
-                                'pourquoi': '',
-                                'criticite': 1,
                                 'url': fallback_url,
+                                'contenu': contenu[:500],
                                 'date': today_str,
-                            })
+                                'themes': source.get('require_keywords', []),
+                            }],
+                            today_str,
+                        ))
                 else:
-                    now = datetime.now()
-                    fallback_cutoff = (now - timedelta(days=3)).replace(hour=18, minute=0, second=0, microsecond=0) if now.weekday() == 0 else now - timedelta(hours=24)
+                    fallback_cutoff = _rss_cutoff(datetime.now())
+                    candidates = []
                     for link in article_links:
                         try:
                             if seen_urls is not None and link['url'] in seen_urls:
@@ -301,56 +362,22 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                                 log.debug(f"Fallback sans date détectable, exclu : {titre_art[:60]}")
                                 continue
 
-                            contenu = crawl_article(link['url']) or ''
-                            # Paywalled/inaccessible → use title only
-                            txt = titre_art + ' ' + contenu
-
-                            # The publication date wins over dates mentioned in the headline.
-                            html_date_str = get_crawled_date(link['url'])
-                            if html_date_str:
-                                try:
-                                    html_dt = datetime.strptime(html_date_str, '%Y-%m-%d')
-                                    if html_dt < fallback_cutoff:
-                                        log.debug(f"Fallback date HTML trop ancienne ({html_date_str}), exclu : {titre_art[:60]}")
-                                        continue
-                                except ValueError:
-                                    pass
-
-                            if source.get('require_keywords'):
-                                if not any(k.lower() in txt.lower() for k in source['require_keywords']):
-                                    continue
-
-                            if not keyword_match(txt):
-                                continue
-
-                            analysis = groq_analyse_rss(titre_art, contenu)
-                            if analysis.get('pertinent') is False:
-                                continue
-
-                            score = int(analysis.get('score') or 1)
-                            pourquoi = analysis.get('pourquoi', '') if score >= 2 else ''
-
-                            # Use date extracted from article HTML if available, else today
-                            article_date = get_crawled_date(link['url']) or today_str
-
-                            # Mark URL as seen
-                            if new_seen is not None:
-                                new_seen[link['url']] = today_str
-
-                            items.append({
-                                'id': make_id(name, titre_art),
-                                'source': name,
-                                'categorie': valid_category(analysis.get('categorie')),
+                            candidates.append({
                                 'titre': titre_art,
-                                'resume': analysis.get('resume') or titre_art,
-                                'pourquoi': pourquoi,
-                                'criticite': score,
                                 'url': link['url'],
-                                'date': article_date,
+                                'contenu': '',
+                                'date': today_str,
+                                'themes': source.get('require_keywords', []),
                             })
-
                         except Exception as e_art:
                             log.debug(f"Fallback article {link['url']} : {e_art}")
+                    items.extend(_review_rss_candidates(
+                        name,
+                        candidates,
+                        today_str,
+                        new_seen=new_seen,
+                        freshness_cutoff=fallback_cutoff,
+                    ))
 
             except Exception as e2:
                 log.warning(f"Fallback {name} error : {e2}")

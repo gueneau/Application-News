@@ -281,7 +281,12 @@ def _safe_score(val) -> int:
 # ============================================================================
 
 
-def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
+def groq_analyse_batch(
+    articles: list,
+    prompt_type: str = "rss",
+    *,
+    stage: str = "final",
+) -> list:
     """Analyse plusieurs articles en un seul appel LLM.
     Optimise le quota (15 RPM, 1M tokens/jour pour Gemini).
     
@@ -305,7 +310,23 @@ def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
             "les textes possiblement pertinents, pas à confirmer leur pertinence ni à rédiger leur résumé final. "
             "Pour chaque texte, indique pertinent=true seulement s'il mérite une lecture intégrale.\n\n"
         )
-    else:  # rss
+    elif stage == "screen":
+        system = 'Tu es éditeur d’une veille environnementale. JSON valide uniquement.'
+        intro = (
+            f"{ABC_CONTEXT_SHORT}\n\n"
+            "Présélectionne largement ces candidats à partir du titre et du court extrait : "
+            "garde ceux qui peuvent apporter une tendance de fond, un chiffre ou une série "
+            "historique, une étude, une comparaison, une évolution sectorielle ou une analyse "
+            "généralisable en environnement, climat, énergie, bâtiment, mobilité, eau ou déchets.\n"
+            "Écarte les actualités propres à une entreprise, un projet local, un fait divers ou "
+            "une opinion sans portée générale, sauf si l'extrait montre explicitement un enseignement "
+            "sectoriel plus large. Ne déduis pas une pertinence d'un simple mot-clé et ne confonds "
+            "pas une société citée avec une tendance de secteur. Les titres seuls sont ambigus : "
+            "en cas d'incertitude, garde le candidat pour vérification du contenu complet.\n"
+            "Cette étape est un filtre de rappel : pertinent=true signifie seulement « à vérifier "
+            "sur l'article complet », pas « à publier ». Aucun résumé ni score définitif ici.\n\n"
+        )
+    else:  # rss final review
         system = 'Tu es analyste climat et RSE pour ABC. JSON valide uniquement.'
         intro = (
             f"{ABC_CONTEXT_SHORT}\n\n"
@@ -316,20 +337,28 @@ def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
     article_sections = []
     for idx, art in enumerate(articles, 1):
         titre = art.get("titre", "")[:120]
-        contenu = art.get("contenu", "")[:350]
+        contenu = art.get("contenu", "")[:1200 if stage == "final" else 500]
         section = f"Texte {idx}: [TITRE] {titre} [EXTRAIT] {contenu}"
+        themes = art.get("themes", [])
+        if prompt_type == "rss" and themes:
+            section += f" [THÈMES INDICATIFS DE LA SOURCE — ne suffisent pas seuls] {', '.join(themes[:12])}"
         if prompt_type == "jorf":
             section += " [EXTRAIT TRONQUÉ — présélection uniquement]"
         article_sections.append(section)
-    
+
     prompt = intro + "\n\n".join(article_sections) + "\n\n"
-    prompt += 'Format: {"texte_1": {"pertinent": boolean, "resume": "...", "score": 1}, "texte_2": {...}, ...}'
+    if prompt_type == "rss" and stage == "screen":
+        prompt += 'Format: {"texte_1": {"pertinent": boolean}, "texte_2": {...}, ...}'
+    else:
+        prompt += 'Format: {"texte_1": {"pertinent": boolean, "resume": "...", "score": 1}, "texte_2": {...}, ...}'
     
     # Use the unified call_llm which will use Gemini by default
     raw = call_llm(prompt, system, max_tokens=1000)
     result = extract_json(raw)
     
     if not result:
+        if prompt_type == "rss":
+            raise ValueError("LLM batch RSS : réponse JSON absente ou invalide")
         return [{'pertinent': False, 'resume': '', 'score': 1} for _ in articles]
     
     # Parse les résultats
@@ -337,8 +366,16 @@ def groq_analyse_batch(articles: list, prompt_type: str = "rss") -> list:
     for idx in range(1, len(articles) + 1):
         key = f"texte_{idx}"
         if key in result:
-            outputs.append(result[key])
+            value = result[key]
+            if prompt_type == "rss" and (
+                not isinstance(value, dict)
+                or not isinstance(value.get('pertinent'), bool)
+            ):
+                raise ValueError(f"LLM batch RSS : résultat invalide pour {key}")
+            outputs.append(value)
         else:
+            if prompt_type == "rss":
+                raise ValueError(f"LLM batch RSS : résultat manquant pour {key}")
             outputs.append({'pertinent': False, 'resume': '', 'score': 1})
     
     return outputs
@@ -488,6 +525,9 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
         "Résumé : pour le score 1, formule en 1 phrase neutre l'enseignement général ou le chiffre utile, "
         "sans forcer une conséquence propre à ABC. Pour le score 2/3, formule en 1-2 phrases l'implication "
         "concrète pour ABC, uniquement si le contenu la démontre.\n\n"
+        "Le contenu transmis peut être un extrait si la page complète est inaccessible ou trop longue. "
+        "N'infère pas ce que l'extrait ne démontre pas ; rejette si les éléments fournis ne suffisent pas "
+        "à confirmer un enseignement général ou une implication concrète.\n\n"
         f"TITRE: {titre}\n"
         f"CONTENU: {contenu[:600]}\n\n"
         'JSON: {"pertinent": boolean, "resume": "résumé conforme aux règles ci-dessus (vide si non pertinent)", '

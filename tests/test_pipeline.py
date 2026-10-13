@@ -208,7 +208,7 @@ def test_rss_fallback_rejects_old_publication_date_even_when_title_has_future_da
     }])
     monkeypatch.setattr(rss, 'crawl_article', lambda *args, **kwargs: 'A relevant sustainability reporting survey notice.')
     monkeypatch.setattr(rss, 'get_crawled_date', lambda url: '2026-10-09')
-    monkeypatch.setattr(rss, 'keyword_match', lambda text: True)
+    monkeypatch.setattr(rss, 'groq_analyse_batch', lambda *args, **kwargs: [{'pertinent': True}])
     monkeypatch.setattr(rss, 'groq_analyse_rss', lambda *args, **kwargs: {
         'pertinent': True,
         'score': 3,
@@ -224,6 +224,70 @@ def test_rss_fallback_rejects_old_publication_date_even_when_title_has_future_da
     }, '2026-10-13')
 
     assert items == []
+
+
+def test_rss_batch_screens_all_recent_candidates_then_validates_shortlisted_full_text(monkeypatch):
+    from types import SimpleNamespace
+    import time
+
+    from abc_pipeline.sources import rss
+
+    class FixedDateTime(datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return cls(2026, 10, 13, 10)
+
+    monkeypatch.setattr(rss, 'datetime', FixedDateTime)
+    monkeypatch.setattr(rss.requests, 'get', lambda *args, **kwargs: SimpleNamespace(content=b'<rss/>'))
+    monkeypatch.setattr(rss.feedparser, 'parse', lambda *_: SimpleNamespace(
+        bozo=False,
+        entries=[{
+            'title': 'Historical heating demand shifts across Europe',
+            'summary': 'A data-led comparison of long-term demand patterns.',
+            'link': 'https://example.com/heating',
+            'published_parsed': time.strptime('2026-10-13', '%Y-%m-%d'),
+        }],
+    ))
+    screened = []
+    monkeypatch.setattr(
+        rss,
+        'groq_analyse_batch',
+        lambda articles, **kwargs: (
+            screened.extend(articles) or [{'pertinent': True}]
+        ),
+    )
+    crawled = []
+    monkeypatch.setattr(
+        rss,
+        'crawl_article',
+        lambda url: crawled.append(url) or 'Full article with historical figures and sector-wide energy trends.',
+    )
+    final_reviews = []
+
+    def review_full_text(titre, contenu):
+        final_reviews.append((titre, contenu))
+        return {
+            'pertinent': True,
+            'score': 1,
+            'resume': 'La demande de chaleur évolue sur plusieurs décennies.',
+            'categorie': 'Énergie',
+        }
+
+    monkeypatch.setattr(rss, 'groq_analyse_rss', review_full_text)
+
+    items = rss.fetch_rss_source({
+        'name': 'Energy Trends',
+        'url': 'https://example.com/feed',
+        'require_keywords': ['term impossible to match'],
+    }, '2026-10-13')
+
+    assert len(screened) == 1
+    assert screened[0]['titre'] == 'Historical heating demand shifts across Europe'
+    assert screened[0]['contenu'] == 'A data-led comparison of long-term demand patterns.'
+    assert crawled == ['https://example.com/heating']
+    assert final_reviews[0][1].startswith('Full article')
+    assert len(items) == 1
+    assert items[0]['criticite'] == 1
 
 
 # ── extract_json ──────────────────────────────────────────────────────────────
@@ -303,6 +367,45 @@ def test_groq_analyse_rss_uses_validated_llm_category(monkeypatch):
     assert "chiffre agrégé ou historique" in prompts[0]
     assert "sans enseignement sectoriel démontré" in prompts[0]
     assert "En cas de doute, rejette l'article" in prompts[0]
+
+
+def test_rss_batch_screen_uses_titles_and_short_excerpts_for_recall(monkeypatch):
+    from abc_pipeline import llm
+    prompts = []
+
+    def fake_call_llm(prompt, *args, **kwargs):
+        prompts.append(prompt)
+        return '{"texte_1": {"pertinent": true}}'
+
+    monkeypatch.setattr(llm, 'call_llm', fake_call_llm)
+    results = llm.groq_analyse_batch(
+        [{
+            'titre': 'Historic heat demand across Europe',
+            'contenu': 'Long-term figures show a sector-wide change.',
+            'themes': ['energy'],
+        }],
+        prompt_type='rss',
+        stage='screen',
+    )
+
+    assert results == [{'pertinent': True}]
+    assert 'court extrait' in prompts[0]
+    assert "en cas d'incertitude, garde le candidat" in prompts[0]
+    assert 'Historic heat demand across Europe' in prompts[0]
+    assert 'Long-term figures show a sector-wide change.' in prompts[0]
+    assert 'THÈMES INDICATIFS' in prompts[0]
+
+
+def test_rss_batch_screen_rejects_incomplete_llm_response(monkeypatch):
+    from abc_pipeline import llm
+    monkeypatch.setattr(llm, 'call_llm', lambda *args, **kwargs: '{"texte_1": {"pertinent": true}}')
+
+    with pytest.raises(ValueError, match='résultat manquant pour texte_2'):
+        llm.groq_analyse_batch(
+            [{'titre': 'Article 1'}, {'titre': 'Article 2'}],
+            prompt_type='rss',
+            stage='screen',
+        )
 
 
 def test_groq_analyse_rss_falls_back_when_llm_category_is_unknown(monkeypatch):
