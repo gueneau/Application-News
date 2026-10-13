@@ -18,7 +18,7 @@ For news articles, the pipeline:
 1. Excludes entries that are too old or have no usable publication date.
 2. Sends up to 15 recent entries from each source to the LLM in a batch. The LLM screens titles and short feed excerpts; source keywords are hints, not mandatory matches.
 3. Fetches the article page for shortlisted entries when available, then asks the LLM to make the final selection, assign a category, and write a summary. If the page cannot be read, the available excerpt is used instead.
-4. Publishes general trends, useful figures, research, and sector-wide analysis as **Articles thématiques**. Company announcements and isolated local stories are normally excluded unless they demonstrate a broader trend.
+4. Publishes useful context as **Articles thématiques**: trends, figures, research, and sector analysis, as well as concrete cases that illuminate transferable operational risks (for example, a factory forced to stop during a heatwave because of water shortages). Such a case can be useful without proving a national trend. Purely promotional company announcements without a wider lesson are normally excluded.
 
 The initial batch is a shortlist, not a publication decision. If its response is incomplete or invalid, candidates still go through the individual final review. Scores 2 and 3 are reserved for items with an evidenced, concrete implication for ABC; score 1 is for useful general context.
 

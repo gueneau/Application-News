@@ -364,9 +364,10 @@ def test_groq_analyse_rss_uses_validated_llm_category(monkeypatch):
     assert '"categorie": "..."' in prompts[0]
     assert "Déchets" in prompts[0]
     assert "Environnement" in prompts[0]
-    assert "chiffre agrégé ou historique" in prompts[0]
-    assert "sans enseignement sectoriel démontré" in prompts[0]
-    assert "En cas de doute, rejette l'article" in prompts[0]
+    assert "risque ou l'adaptation que le cas concret met en lumière" in prompts[0]
+    assert "ne rejette pas un cas concret utile" in prompts[0]
+    assert "sans prétendre qu'il prouve une tendance nationale" in prompts[0]
+    assert "annonce de test d'un outil par Enedis ou RTE" in prompts[0]
 
 
 def test_rss_batch_screen_uses_titles_and_short_excerpts_for_recall(monkeypatch):
@@ -390,10 +391,38 @@ def test_rss_batch_screen_uses_titles_and_short_excerpts_for_recall(monkeypatch)
 
     assert results == [{'pertinent': True}]
     assert 'court extrait' in prompts[0]
+    assert "un cas local ou centré sur une entreprise peut mériter une lecture complète" in prompts[0].lower()
     assert "en cas d'incertitude, garde le candidat" in prompts[0]
     assert 'Historic heat demand across Europe' in prompts[0]
     assert 'Long-term figures show a sector-wide change.' in prompts[0]
     assert 'THÈMES INDICATIFS' in prompts[0]
+
+
+def test_rss_editorial_prompt_keeps_heat_and_water_operational_case(monkeypatch):
+    from abc_pipeline import llm
+    prompts = []
+    monkeypatch.setattr(
+        llm,
+        'call_llm',
+        lambda prompt, *args, **kwargs: (
+            prompts.append(prompt)
+            or '{"pertinent": true, "score": 1, "resume": '
+            '"Une usine a interrompu son activité faute d’eau pendant une canicule.", '
+            '"categorie": "Environnement"}'
+        ),
+    )
+
+    result = llm.groq_analyse_rss(
+        "Canicule : quand l'usine de chips Bret's s'est arrêtée faute d'eau",
+        "Lors d'une période de forte chaleur, l'usine a interrompu sa production "
+        "en raison du manque d'eau. Le cas illustre les risques opérationnels liés "
+        "au stress hydrique et à la continuité d'activité.",
+    )
+
+    assert result['pertinent'] is True
+    assert result['score'] == 1
+    assert "une usine de chips arrêtée lors d'une canicule faute d'eau" in prompts[0]
+    assert "risques opérationnels liés au stress hydrique" in prompts[0]
 
 
 def test_rss_batch_screen_rejects_incomplete_llm_response(monkeypatch):
