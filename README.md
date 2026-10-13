@@ -22,6 +22,77 @@ For news articles, the pipeline:
 
 The initial batch is a shortlist, not a publication decision. If its response is incomplete or invalid, candidates still go through the individual final review. Scores 2 and 3 are reserved for items with an evidenced, concrete implication for ABC; score 1 is for useful general context.
 
+<details>
+<summary>Show the RSS prompts sent to the LLM</summary>
+
+The prompts below show the editorial instructions used by the pipeline. The pipeline inserts ABC's context, the article title and content, and the available topic categories where indicated.
+
+### 1. Batch screening
+
+System role: `Tu es éditeur d’une veille environnementale. JSON valide uniquement.`
+
+```text
+{ABC_CONTEXT_SHORT}
+
+Présélectionne largement ces candidats à partir du titre et du court extrait. Garde les tendances, chiffres, études et évolutions sectorielles, mais aussi les cas concrets qui peuvent éclairer un risque opérationnel pour ABC ou ses clients : chaleur, manque d'eau, énergie, continuité d'activité, adaptation ou contraintes environnementales. Un cas local ou centré sur une entreprise peut mériter une lecture complète même s'il ne prouve pas une tendance générale.
+
+Écarte en présélection les annonces purement promotionnelles ou commerciales sans enseignement apparent, et les sujets manifestement hors périmètre. Ne déduis pas une pertinence du seul mot-clé. Les titres et extraits courts sont ambigus : en cas d'incertitude, garde le candidat pour vérification du contenu complet.
+
+Cette étape est un filtre de rappel : pertinent=true signifie seulement « à vérifier sur l'article complet », pas « à publier ». Aucun résumé ni score définitif ici.
+
+Pour chaque candidat, le pipeline ajoute son titre, un extrait de 500 caractères maximum et, si configurés, des thèmes indicatifs de la source (qui ne suffisent pas seuls).
+
+Répondre en JSON : {"texte_1": {"pertinent": boolean}, "texte_2": {...}}
+```
+
+### 2. Final editorial review
+
+System role: `Tu es analyste climat et RSE pour ABC. JSON valide uniquement.`
+
+```text
+{ABC_CONTEXT_SHORT}
+
+Tu sélectionnes des articles pour une veille environnementale utile à un responsable Environnement/Climat d'une entreprise de services. La veille doit à la fois donner du recul sur les tendances et faire remonter des cas concrets qui éclairent les risques et décisions opérationnels d'ABC ou de ses clients. Ne la limite pas aux études nationales ni aux articles qui prouvent une tendance statistique.
+
+RETENIR (score 1, « Articles thématiques ») si l'article apporte au moins un éclairage environnemental utile et crédible, notamment :
+- Une tendance, donnée agrégée ou historique, étude, comparaison, évolution sectorielle ou analyse de politique publique.
+- Un cas réel d'entreprise ou de site révélant une vulnérabilité, un risque opérationnel, une mesure d'adaptation ou une conséquence environnementale transposable à ABC ou à ses clients : par exemple une activité interrompue par la chaleur ou le manque d'eau, des contraintes sur l'énergie ou les matières, ou une adaptation face à un aléa climatique. Un cas documenté peut être utile même s'il est local et ne démontre pas à lui seul une tendance générale.
+- Une innovation ou pratique particulière si l'article donne un enseignement concret au-delà de la promotion d'un acteur.
+
+ÉCARTER les annonces d'entreprise purement promotionnelles ou commerciales (levée de fonds, nouveau contrat, lancement d'offre, partenariat ou test) quand elles n'apportent ni donnée sectorielle ni enseignement opérationnel. Écarter aussi le fait divers ou l'incident sans lien environnemental établi, les opinions sans éléments concrets, et les rapprochements avec ABC qui reposent seulement sur une association d'idées. La présence d'une entreprise, d'une ville ou d'un site dans le titre n'est jamais, à elle seule, un motif d'inclusion ou d'exclusion.
+
+Exemple de discernement : un article sur une usine de chips arrêtée lors d'une canicule faute d'eau est intéressant pour les risques de chaleur, de stress hydrique et de continuité d'activité, même si le cas est local ; il peut être retenu en score 1 sans prétendre qu'il prouve une tendance nationale. Une simple annonce de test d'un outil par Enedis ou RTE n'est pas suffisante, sauf si l'article explique ce qu'elle révèle d'une évolution plus large des réseaux ou de la flexibilité énergétique.
+
+Score 2 ou 3, « À suivre », uniquement si l'article établit une implication concrète pour ABC, ses opérations ou ses clients. Une implication peut être un risque illustré par un cas concret ; il n'est pas nécessaire qu'elle constitue une obligation réglementaire :
+- 2 = évolution ou risque à anticiper, avec action plausible à identifier dans les 12 mois
+- 3 = obligation imminente, risque direct et significatif, ou opportunité stratégique claire
+Ne donne pas 2/3 sur la seule base d'un exemple anecdotique ou d'une conséquence hypothétique. Un cas de vulnérabilité peut rester score 1 s'il est instructif mais ne permet pas d'établir un risque direct pour ABC.
+
+Domaines à considérer : climat et adaptation, chaleur, eau et sécheresse, énergie, bâtiment et efficacité, mobilité, émissions, déchets et biodiversité ; enjeux clients et continuité des prestations compris. Ces thèmes orientent l'analyse mais ne suffisent pas à rendre un article pertinent.
+
+Rejeter les contenus clairement hors périmètre :
+- ICPE/SEVESO/REACH (ABC non exploitant), élections, géopolitique pure
+- Agriculture/pêche/sylviculture, immobilier résidentiel, finance de marché
+- Catastrophes naturelles à l'étranger sans lien réglementaire FR/UE
+- Faits divers, sport, défense, santé humaine sans angle entreprise
+
+Reste équilibré : ne transforme pas tout cas local en tendance générale, mais ne rejette pas un cas concret utile simplement parce qu'il est local ou centré sur une entreprise. Si le titre et l'extrait sont ambigus, utilise le contenu fourni avant de trancher ; ne conclus pas à partir du seul mot-clé ou du seul titre.
+
+Attribue aussi une seule catégorie selon le sujet principal de l'article, pas les mentions secondaires ou les mots présents dans des liens/navigation : [available categories]. En cas de doute, choisis Environnement.
+
+Résumé : pour le score 1, donne en une phrase soit l'enseignement général, soit le risque ou l'adaptation que le cas concret met en lumière, sans extrapoler. Pour le score 2/3, explique en 1-2 phrases l'implication concrète pour ABC ou ses clients et distingue les faits de l'interprétation.
+
+Le contenu transmis peut être un extrait si la page complète est inaccessible ou trop longue. N'invente ni chiffres, ni causalité, ni implication non étayée. Si l'extrait ne suffit pas à confirmer un élément précis, reste prudent dans le résumé et le score plutôt que de le présenter comme un fait établi.
+
+Article examiné :
+TITRE: {titre}
+CONTENU: {contenu, limité à 600 caractères}
+
+Répondre en JSON : {"pertinent": boolean, "resume": "...", "pourquoi": "", "score": 1, "categorie": "..."}
+```
+
+</details>
+
 JORF texts and parliamentary stages follow separate workflows. An Assembly document labelled “Texte adopté” does not, by itself, mean that a law was finally adopted by both chambers.
 
 ## What is in this repository?
