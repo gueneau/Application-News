@@ -152,6 +152,43 @@ def test_date_from_text_none():
     assert _date_from_text("No date here at all") is None
 
 
+def test_rss_fallback_rejects_old_publication_date_even_when_title_has_future_date(monkeypatch):
+    from types import SimpleNamespace
+
+    from abc_pipeline.sources import rss
+
+    class FixedDateTime(datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return cls(2026, 10, 13, 10)
+
+    monkeypatch.setattr(rss, 'datetime', FixedDateTime)
+    monkeypatch.setattr(rss.requests, 'get', lambda *args, **kwargs: (_ for _ in ()).throw(OSError('offline')))
+    monkeypatch.setattr(rss.feedparser, 'parse', lambda *args, **kwargs: SimpleNamespace(bozo=True, entries=[], bozo_exception='offline'))
+    monkeypatch.setattr(rss, 'crawl_article_links_filtered', lambda *args, **kwargs: [{
+        'titre': 'EFRAG extends its survey deadline to 18 October 2026',
+        'url': 'https://example.com/efrag',
+    }])
+    monkeypatch.setattr(rss, 'crawl_article', lambda *args, **kwargs: 'A relevant sustainability reporting survey notice.')
+    monkeypatch.setattr(rss, 'get_crawled_date', lambda url: '2026-10-09')
+    monkeypatch.setattr(rss, 'keyword_match', lambda text: True)
+    monkeypatch.setattr(rss, 'groq_analyse_rss', lambda *args, **kwargs: {
+        'pertinent': True,
+        'score': 3,
+        'categorie': 'Réglementation',
+    })
+
+    items = rss.fetch_rss_source({
+        'name': 'EFRAG',
+        'url': 'https://example.com/feed',
+        'fallback_crawl': 'https://example.com/news',
+        'article_url_contains': '/news/',
+        'require_keywords': ['survey'],
+    }, '2026-10-13')
+
+    assert items == []
+
+
 # ── extract_json ──────────────────────────────────────────────────────────────
 
 def test_extract_json_clean():

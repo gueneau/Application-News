@@ -305,17 +305,16 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                             # Paywalled/inaccessible → use title only
                             txt = titre_art + ' ' + contenu
 
-                            # Second cutoff check using date extracted from HTML (e.g. EFRAG has no date in title)
-                            if title_dt is None:
-                                html_date_str = get_crawled_date(link['url'])
-                                if html_date_str:
-                                    try:
-                                        html_dt = datetime.strptime(html_date_str, '%Y-%m-%d')
-                                        if html_dt < fallback_cutoff:
-                                            log.debug(f"Fallback date HTML trop ancienne ({html_date_str}), exclu : {titre_art[:60]}")
-                                            continue
-                                    except ValueError:
-                                        pass
+                            # The publication date wins over dates mentioned in the headline.
+                            html_date_str = get_crawled_date(link['url'])
+                            if html_date_str:
+                                try:
+                                    html_dt = datetime.strptime(html_date_str, '%Y-%m-%d')
+                                    if html_dt < fallback_cutoff:
+                                        log.debug(f"Fallback date HTML trop ancienne ({html_date_str}), exclu : {titre_art[:60]}")
+                                        continue
+                                except ValueError:
+                                    pass
 
                             if source.get('require_keywords'):
                                 if not any(k.lower() in txt.lower() for k in source['require_keywords']):
