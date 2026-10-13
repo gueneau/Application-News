@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "09:41",
-  "elapsed_seconds": 487,
+  "generated_at": "09:50",
+  "elapsed_seconds": 425,
   "errors": [],
   "stats": {
     "jo_analyses": 10,
@@ -9,10 +9,10 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-13T09:41:00",
+    "run_at": "2026-10-13T09:50:56",
     "sources": {
       "JORF": 0,
-      "RSS": 4,
+      "RSS": 3,
       "VigiEau": 93,
       "Parlement": 0
     },
@@ -20,8 +20,8 @@
       "SOURCE VIDE — JORF : 0 textes retenus",
       "SOURCE VIDE — Parlement : 0 fiches"
     ],
-    "llm_calls": 45,
-    "llm_seconds": 39.3
+    "llm_calls": 40,
+    "llm_seconds": 36.0
   },
   "items": [
     {
@@ -29,7 +29,7 @@
       "source": "Reporterre",
       "categorie": "Émissions",
       "titre": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
-      "resume": "Les émissions de gaz à effet de serre en France devraient reculer de 2,8 % en 2026, principalement sous l'effet du prix élevé du gazole, mais ce rythme reste insuffisant pour atteindre les objectifs climatiques nationaux.",
+      "resume": "Les émissions de gaz à effet de serre en France devraient reculer de 2,8 % en 2026, portées notamment par l'impact du prix du gazole, mais ce rythme reste insuffisant pour atteindre les objectifs climatiques nationaux.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Chauffage-transport-la-baisse-des-emissions-se-poursuit-mais-pas-assez-vite",
@@ -40,29 +40,18 @@
       "source": "Le Monde Planète",
       "categorie": "Émissions",
       "titre": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
-      "resume": "Les émissions de gaz à effet de serre en France enregistrent une baisse structurelle portée par la hausse des prix des carburants, avec une diminution projetée de 2,8 % sur l'année.",
+      "resume": "Les émissions de gaz à effet de serre en France enregistrent une baisse structurelle liée à la conjoncture énergétique et aux prix des carburants.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
       "date": "2026-10-13"
     },
     {
-      "id": "bcd7f31f8324",
-      "source": "GreenUnivers",
-      "categorie": "Énergie",
-      "titre": "Le prix de l’électricité pour 2027 a doublé depuis le printemps [Marchés]",
-      "resume": "Les contrats de fourniture d'électricité pour 2027 en France ont doublé pour dépasser les 100 €/MWh, illustrant la volatilité persistante des marchés de l'énergie de long terme.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.greenunivers.com/2026/10/le-prix-de-lelectricite-pour-2027-a-double-depuis-le-printemps-marches-435772/",
-      "date": "2026-10-12"
-    },
-    {
       "id": "fc331af7f125",
       "source": "Les Echos Environnement",
       "categorie": "Émissions",
       "titre": "Immobilier : les émissions de CO2 des bâtiments reculent en Europe plus vite que leur consommation d'énergie - Les Echos",
-      "resume": "Les émissions de CO2 des bâtiments en Europe baissent plus rapidement que leur consommation énergétique, traduisant une décarbonation progressive du mix énergétique.",
+      "resume": "Les émissions de CO2 des bâtiments en Europe baissent plus rapidement que leur consommation d'énergie, traduisant une décarbonation progressive du mix énergétique.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbkJGclR3Q1dqbTBPdXVmYm1VOWZNS3NQMTJlNFUxNE1hNENycnBBV1NaWUQ3dlpxcXVSZ0picUt4OXNFZWdIWlh6NUVsVjhmQ0I2MHFmTm04YWt5M2h4NUVrbnFYU2p6cV9qRHBCSFdOTUZiOElrVFRQQ19HV3dVQlpGNGFiVDVjZDFyanZ4RHZQQkIwd2xTS3lLRzRjWGFtNk90YzZZcGExTzNjSEwzcl9ULXRVZDJLejJaYXRrQURtY25CbmVZTjZ6aFc0eXM0Nlc0d2g1cmJBcDFjenVlR0k4SjI0c3dCcnJxZ0NrbGNhNU43OEVySElXXzBNSHNj?oc=5",
@@ -896,5 +885,5 @@
       ]
     }
   ],
-  "pjl_briefing": "L'examen des projets de loi de finances et de financement de la sécurité sociale pour 2027 constitue un signal fort pour anticiper les évolutions fiscales et réglementaires en matière de transition énergétique et de reporting extra-financier. Les autres textes du jour n'impactent pas directement la stratégie climat ou environnementale des grandes entreprises de services."
+  "pjl_briefing": "L'examen des projets de loi de finances et de financement de la sécurité sociale pour 2027 constitue le signal fort de cette journée pour le pilotage stratégique de la RSE. Les textes relatifs à la commande publique, bien que rejetés, témoignent d'une attention continue des parlementaires sur l'ancrage territorial et environnemental des achats des grandes entreprises de services."
 }
