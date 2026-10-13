@@ -7,8 +7,7 @@
     </linearGradient>
   </defs>
   <rect width="512" height="512" fill="url(#background)"/>
-  <ellipse cx="256" cy="256" rx="194" ry="137" transform="rotate(-22 256 256)" fill="none" stroke="#7bafa2" stroke-opacity=".58" stroke-width="8"/>
-  <path d="M69 293 A194 137 -22 1 1 95 359" fill="none" stroke="#ffc72c" stroke-linecap="round" stroke-width="9"/>
+  <path d="M384 126 A194 137 -22 1 1 338 112" fill="none" stroke="#ffc72c" stroke-linecap="round" stroke-width="8"/>
   <path d="M367 101C371 116 374 119 389 123 374 127 371 130 367 145 363 130 360 127 345 123 360 119 363 116 367 101Z" fill="#ffc72c"/>
   <path d="M166 154 256 362 346 154" fill="none" stroke="#f6f3e7" stroke-linecap="round" stroke-linejoin="round" stroke-width="42"/>
 </svg>
