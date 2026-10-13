@@ -1161,8 +1161,9 @@ function renderSuivi(){
 async function deleteDossier(id, titre){
   if(!confirm(`Supprimer "${titre}" ?\n\nLe dossier, ses commentaires et son historique seront effacés.`))return;
   try{
-    const{error}=await getSupa().from('legislative_dossiers').delete().eq('id',id);
+    const{data,error}=await getSupa().from('legislative_dossiers').delete().eq('id',id).select('id').maybeSingle();
     if(error)throw error;
+    if(!data)throw new Error('Dossier introuvable ou suppression refusée par Supabase.');
     const urlAn=dossiersSuivi.find(d=>d.id===id)?.url_an;
     dossiersSuivi=dossiersSuivi.filter(d=>d.id!==id);
     delete recentEvents[id];

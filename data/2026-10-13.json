@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "09:07",
-  "elapsed_seconds": 553,
+  "generated_at": "09:23",
+  "elapsed_seconds": 634,
   "errors": [],
   "stats": {
     "jo_analyses": 10,
@@ -9,18 +9,19 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-13T09:07:24",
+    "run_at": "2026-10-13T09:23:30",
     "sources": {
       "JORF": 0,
-      "RSS": 10,
+      "RSS": 8,
       "VigiEau": 93,
-      "Parlement": 1
+      "Parlement": 0
     },
     "errors": [
-      "SOURCE VIDE — JORF : 0 textes retenus"
+      "SOURCE VIDE — JORF : 0 textes retenus",
+      "SOURCE VIDE — Parlement : 0 fiches"
     ],
-    "llm_calls": 45,
-    "llm_seconds": 46.3
+    "llm_calls": 37,
+    "llm_seconds": 410.9
   },
   "items": [
     {
@@ -28,7 +29,7 @@
       "source": "Reporterre",
       "categorie": "Environnement",
       "titre": "« L'alternative à la voiture, ce n'est pas l'électrique, c'est de changer de système »",
-      "resume": "L'ouvrage invite à repenser la mobilité au-delà de la simple électrification des flottes, questionnant les modes de déplacement professionnels.",
+      "resume": "L'ouvrage critique l'électrification massive des véhicules et prône un changement systémique des mobilités, un sujet connexe à la gestion de la flotte automobile d'ABC.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/L-alternative-a-la-voiture-ce-n-est-pas-l-electrique-c-est-de-changer-de-systeme",
@@ -39,7 +40,7 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Epyr récolte 15 M€ pour électrifier plus de chaleur industrielle",
-      "resume": "Epyr a levé 15 millions d'euros pour accélérer l'électrification de la chaleur industrielle, illustrant les dynamiques d'innovation dans la décarbonation.",
+      "resume": "Epyr lève 15 M€ en série A pour développer l'électrification de la chaleur industrielle, illustrant la dynamique des technologies de décarbonation.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.greenunivers.com/2026/10/epyr-recolte-15-me-pour-electrifier-plus-de-chaleur-industrielle-435720/",
@@ -50,7 +51,7 @@
       "source": "Le Monde Planète",
       "categorie": "Émissions",
       "titre": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
-      "resume": "La baisse des émissions de GES en France, portée par les prix des carburants, illustre la dynamique macroéconomique du scope 1 et impacte potentiellement les coûts et la stratégie de renouvellement de la flotte de véhicules d'ABC.",
+      "resume": "La baisse des émissions de GES en France, portée par les prix des carburants, offre un contexte macroéconomique favorable pour la décarbonation de la flotte de véhicules d'ABC.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
@@ -61,29 +62,18 @@
       "source": "Le Monde Planète",
       "categorie": "Environnement",
       "titre": "« On avance » : comment on a dépollué notre bloc opératoire",
-      "resume": "L'article présente des initiatives de réduction d'impact environnemental dans le milieu hospitalier, un secteur client clé pour ABC.",
+      "resume": "Des initiatives de réduction d'impact environnemental menées en milieu hospitalier illustrent les attentes croissantes des clients de la santé en matière de développement durable.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/13/comment-on-a-depollue-notre-bloc-operatoire_6793048_6125299.html",
       "date": "2026-10-13"
     },
     {
-      "id": "bcd7f31f8324",
-      "source": "GreenUnivers",
-      "categorie": "Énergie",
-      "titre": "Le prix de l’électricité pour 2027 a doublé depuis le printemps [Marchés]",
-      "resume": "Le prix de l'électricité pour livraison en 2027 en France a doublé pour dépasser les 100 €/MWh, signalant une forte tension sur les marchés futurs de l'énergie.",
-      "pourquoi": "La hausse des prix de l'électricité alourdit directement les coûts énergétiques des locaux d'ABC et de ses prestations de Facility Management, tout en renforçant l'urgence pour ses clients industriels d'externaliser l'efficacité énergétique. ABC doit donc intégrer cette volatilité dans ses contrats à moyen terme dès à présent et accélérer son offre de services bas-carbone.",
-      "criticite": 2,
-      "url": "https://www.greenunivers.com/2026/10/le-prix-de-lelectricite-pour-2027-a-double-depuis-le-printemps-marches-435772/",
-      "date": "2026-10-12"
-    },
-    {
       "id": "8a989e6a8deb",
       "source": "Actu-Environnement",
       "categorie": "Environnement",
       "titre": "Dérogation espèces protégées&amp;#8239;: le tribunal administratif d'Amiens invalide un projet de parc photovoltaïque",
-      "resume": "Un tribunal administratif annule une dérogation pour espèces protégées sur un projet photovoltaïque, illustrant les complexités juridiques et environnementales de l'installation d'énergies renouvelables.",
+      "resume": "Le tribunal administratif d'Amiens a annulé une dérogation espèces protégées pour un projet photovoltaïque, illustrant la judiciarisation croissante des projets d'énergies renouvelables.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/derogation-especes-protegees-photovoltaique-warluis-amiens-48648.php4#xtor=RSS-6",
@@ -94,21 +84,10 @@
       "source": "Reporterre",
       "categorie": "Eau",
       "titre": "Sécheresse : le Finistère dans une « situation critique »",
-      "resume": "Le Finistère fait face à une sécheresse critique menaçant la ressource en eau, un risque climatique local pouvant impacter les prestations de propreté et FM sur les sites clients de la région.",
+      "resume": "Le Finistère fait face à une sécheresse critique menaçant ses ressources en eau, illustrant les risques climatiques locaux sur les sites d'intervention.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Secheresse-le-Finistere-dans-une-situation-critique",
-      "date": "2026-10-12"
-    },
-    {
-      "id": "3672ce14e68e",
-      "source": "Reporterre",
-      "categorie": "Climat",
-      "titre": "Le mois de septembre a été le plus chaud jamais enregistré en Europe de l'Ouest",
-      "resume": "Copernicus confirme que septembre se classe parmi les mois les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://reporterre.net/Le-mois-de-septembre-a-ete-le-plus-chaud-jamais-enregistre-en-Europe-de-l-Ouest",
       "date": "2026-10-12"
     },
     {
@@ -116,7 +95,7 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Enedis et RTE testent leur outil commun de flexibilités locales dans le Sud-Ouest",
-      "resume": "Enedis et RTE lancent une plateforme commune de flexibilités électriques locales, permettant d'optimiser la gestion et la consommation d'énergie sur les réseaux.",
+      "resume": "Enedis et RTE lancent une plateforme commune de flexibilités électriques locales, permettant d'optimiser la gestion de l'énergie sur les réseaux.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.greenunivers.com/2026/10/enedis-et-rte-testent-leur-outil-commun-de-flexibilites-locales-dans-le-sud-ouest-435805/",
@@ -127,7 +106,7 @@
       "source": "Les Echos Environnement",
       "categorie": "Énergie",
       "titre": "Immobilier : les émissions de CO2 des bâtiments reculent en Europe plus vite que leur consommation d'énergie - Les Echos",
-      "resume": "La baisse des émissions de CO2 dans l'immobilier européen montre une décarbonation plus rapide que la baisse de consommation d'énergie, impactant les attentes des clients en matière de performance environnementale des bâtiments.",
+      "resume": "Les émissions de CO2 des bâtiments européens baissent plus vite que leur consommation d'énergie, offrant des perspectives favorables pour la gestion de l'efficacité énergétique et le reporting extra-financier.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbkJGclR3Q1dqbTBPdXVmYm1VOWZNS3NQMTJlNFUxNE1hNENycnBBV1NaWUQ3dlpxcXVSZ0picUt4OXNFZWdIWlh6NUVsVjhmQ0I2MHFmTm04YWt5M2h4NUVrbnFYU2p6cV9qRHBCSFdOTUZiOElrVFRQQ19HV3dVQlpGNGFiVDVjZDFyanZ4RHZQQkIwd2xTS3lLRzRjWGFtNk90YzZZcGExTzNjSEwzcl9ULXRVZDJLejJaYXRrQURtY25CbmVZTjZ6aFc0eXM0Nlc0d2g1cmJBcDFjenVlR0k4SjI0c3dCcnJxZ0NrbGNhNU43OEVySElXXzBNSHNj?oc=5",
@@ -894,35 +873,7 @@
   "jo_retenus": [],
   "jorf_issue_date": "2026-10-13",
   "briefing_jorf": "Aucun texte présélectionné n’a été confirmé comme pertinent après vérification intégrale.",
-  "pjl_fiches": [
-    {
-      "id": "pjl-14aebd68935a",
-      "titre": "Projet de loi portant diverses dispositions d'adaptation au droit de l’Union européenne en matière économique, financière, environnementale, énergétique, d’information, de transport, de santé, d’agriculture et de pêche",
-      "date_depot": "2026-03-24",
-      "stade": "Première lecture à l'Assemblée nationale",
-      "stade_index": 2,
-      "url_an": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
-      "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
-      "source_rss": "manuel",
-      "resume_abc": "Économie / finances : compléments aux règles issues de directives financières et de transparence (par exemple sur l’information extra‑financière type CSRD, la régulation de certains acteurs financiers ou de marchés), ajustements de dispositions de droit des sociétés et de droit financier pour se mettre en conformité avec le droit européen.\n\nEnvironnement / énergie : mesures pour transposer ou adapter des directives récentes en matière d’efficacité énergétique et d’énergies renouvelables, ainsi que des ajustements sur la protection de la biodiversité (dérogations « espèces protégées ») et certains dispositifs liés aux emballages et déchets",
-      "pourquoi": "Impact CSRD et efficacité énergétique",
-      "score": 2,
-      "horizon": null,
-      "nouveau_stade": false,
-      "manuel": true,
-      "historique": [
-        {
-          "date": "2026-10-13",
-          "stade": "Première lecture à l'Assemblée nationale",
-          "event": "Importé depuis UI"
-        }
-      ],
-      "created_at": "2026-10-13",
-      "updated_at": "2026-10-13",
-      "supabase_id": "2f4948e1-de90-40ba-b759-b1b8ba2b0b1f",
-      "statut": "a_surveiller"
-    }
-  ],
+  "pjl_fiches": [],
   "pjl_autres": [
     {
       "source": "AN Projets de loi",
@@ -1205,5 +1156,5 @@
       ]
     }
   ],
-  "pjl_briefing": "L'activité parlementaire met en avant des textes structurants pour les grandes entreprises de services, notamment le PLF 2027 et le PLFSS 2027, ainsi que des projets de loi sur la relance du logement, l'énergie et l'adaptation au droit européen en matière environnementale et climatique. Ces mesures nécessitent une vigilance accrue sur les impacts réglementaires et les obligations de reporting extra-financier."
+  "pjl_briefing": "L'activité parlementaire du 13 octobre 2026 met en avant des projets de loi structurants pour les grandes entreprises, notamment les lois de finances et de financement de la sécurité sociale pour 2027, ainsi que des textes sur l'adaptation au droit européen en matière environnementale, énergétique et économique. Ces initiatives impactent directement la stratégie de reporting extra-financier, la transition énergétique et la conformité des entreprises de services."
 }
