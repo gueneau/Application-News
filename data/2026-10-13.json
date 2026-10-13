@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "07:48",
-  "elapsed_seconds": 566,
+  "generated_at": "08:20",
+  "elapsed_seconds": 541,
   "errors": [],
   "stats": {
     "jo_analyses": 10,
@@ -9,18 +9,18 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-13T07:48:39",
+    "run_at": "2026-10-13T08:20:17",
     "sources": {
       "JORF": 0,
-      "RSS": 12,
+      "RSS": 11,
       "VigiEau": 93,
       "Parlement": 1
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 44,
-    "llm_seconds": 36.0
+    "llm_calls": 45,
+    "llm_seconds": 35.4
   },
   "items": [
     {
@@ -28,7 +28,7 @@
       "source": "Reporterre",
       "categorie": "Environnement",
       "titre": "« L'alternative à la voiture, ce n'est pas l'électrique, c'est de changer de système »",
-      "resume": "L'article questionne l'efficacité de la voiture électrique face aux limites planétaires et plaide pour une sobriété des transports, un sujet connexe à la gestion de la flotte de véhicules d'ABC.",
+      "resume": "Un collectif de chercheurs plaide pour un changement systémique de la mobilité plutôt que le tout-électrique, questionnant les stratégies de verdissement des flottes.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/L-alternative-a-la-voiture-ce-n-est-pas-l-electrique-c-est-de-changer-de-systeme",
@@ -39,7 +39,7 @@
       "source": "Novethic",
       "categorie": "Environnement",
       "titre": "Axa Future Risks : La fracture sociale s'impose parmi les principaux risques économiques mondiaux",
-      "resume": "Le rapport d'Axa met en avant la fracture sociale comme risque économique mondial majeur, signalant un contexte sociétal tendu qui peut influencer les attentes des parties prenantes envers les entreprises.",
+      "resume": "Le rapport d'Axa met en avant la fracture sociale parmi les principaux risques économiques mondiaux, un contexte macroéconomique qui influence indirectement les attentes des parties prenantes envers les entreprises.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/fracture-sociale-risques-economiques-2026-future-risk-report-axa",
@@ -50,7 +50,7 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Epyr récolte 15 M€ pour électrifier plus de chaleur industrielle",
-      "resume": "Epyr lève 15 millions d'euros pour développer l'électrification de la chaleur industrielle.",
+      "resume": "Epyr lève 15 M€ pour développer l'électrification de la chaleur industrielle, illustrant les tendances du marché en matière de décarbonation énergétique.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.greenunivers.com/2026/10/epyr-recolte-15-me-pour-electrifier-plus-de-chaleur-industrielle-435720/",
@@ -61,7 +61,7 @@
       "source": "Le Monde Planète",
       "categorie": "Émissions",
       "titre": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
-      "resume": "Les émissions de GES en France reculent en raison des prix des carburants, confirmant la volatilité des coûts énergétiques pesant sur la flotte de véhicules d'ABC.",
+      "resume": "Les émissions de GES en France reculent en raison des prix des carburants, confirmant une tendance macroéconomique de baisse des rejets carbonés.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
@@ -83,8 +83,8 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Le prix de l’électricité pour 2027 a doublé depuis le printemps [Marchés]",
-      "resume": "Le prix de contrat de l'électricité pour 2027 en France a doublé pour dépasser 100 €/MWh, signalant une forte tension sur les marchés de l'énergie.",
-      "pourquoi": "Cette hausse anticipe une augmentation drastique des coûts énergétiques dès 2027, impactant à court et moyen terme les factures des locaux d'ABC ainsi que l'efficacité énergétique de ses prestations de Facility Management. C'est un signal critique pour accélérer les investissements en sobriété et intégrer cette volatilité dans les négociations tarifaires clients.",
+      "resume": "Le prix de l'électricité pour livraison en 2027 en France a doublé pour dépasser les 100 €/MWh, signalant une forte tension sur les marchés de l'énergie à moyen terme.",
+      "pourquoi": "La hausse des prix de l'électricité menace la rentabilité des contrats multitechniques d'ABC et alourdit la facture énergétique de ses propres locaux, exigeant dès à présent d'accélérer l'efficacité énergétique des prestations et de renégocier les clauses d'indexation tarifaire avec les clients.",
       "criticite": 2,
       "url": "https://www.greenunivers.com/2026/10/le-prix-de-lelectricite-pour-2027-a-double-depuis-le-printemps-marches-435772/",
       "date": "2026-10-12"
@@ -94,7 +94,7 @@
       "source": "Actu-Environnement",
       "categorie": "Environnement",
       "titre": "Dérogation espèces protégées&amp;#8239;: le tribunal administratif d'Amiens invalide un projet de parc photovoltaïque",
-      "resume": "Le tribunal administratif d'Amiens a annulé une dérogation espèces protégées pour un projet de parc photovoltaïque, rappelant la rigueur juridique entourant ces installations.",
+      "resume": "Le tribunal administratif d'Amiens a annulé une dérogation espèces protégées pour un projet photovoltaïque, illustrant la judiciarisation croissante des projets d'énergies renouvelables.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/derogation-especes-protegees-photovoltaique-warluis-amiens-48648.php4#xtor=RSS-6",
@@ -105,7 +105,7 @@
       "source": "Reporterre",
       "categorie": "Eau",
       "titre": "Sécheresse : le Finistère dans une « situation critique »",
-      "resume": "Des restrictions d'eau sont attendues dans le Finistère suite à une sécheresse critique, impactant potentiellement les prestations de propreté sur les 3 000+ sites clients de la région.",
+      "resume": "Le Finistère fait face à une sécheresse critique menaçant la ressource en eau, un risque climatique opérationnel pouvant impacter les prestations de propreté et les 3 000+ sites clients gérés par ABC dans la région.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Secheresse-le-Finistere-dans-une-situation-critique",
@@ -116,21 +116,10 @@
       "source": "Reporterre",
       "categorie": "Climat",
       "titre": "Le mois de septembre a été le plus chaud jamais enregistré en Europe de l'Ouest",
-      "resume": "Les records de chaleur successifs confirmés par Copernicus rappellent l'accélération du réchauffement climatique en Europe de l'Ouest.",
+      "resume": "Copernicus confirme que septembre se classe parmi les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Le-mois-de-septembre-a-ete-le-plus-chaud-jamais-enregistre-en-Europe-de-l-Ouest",
-      "date": "2026-10-12"
-    },
-    {
-      "id": "a5c72c107cbe",
-      "source": "GreenUnivers",
-      "categorie": "Énergie",
-      "titre": "Enedis et RTE testent leur outil commun de flexibilités locales dans le Sud-Ouest",
-      "resume": "Enedis et RTE lancent une plateforme commune de flexibilités électriques locales, permettant d'optimiser la gestion et la consommation d'énergie sur les réseaux.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.greenunivers.com/2026/10/enedis-et-rte-testent-leur-outil-commun-de-flexibilites-locales-dans-le-sud-ouest-435805/",
       "date": "2026-10-12"
     },
     {
@@ -138,7 +127,7 @@
       "source": "Les Echos Environnement",
       "categorie": "Énergie",
       "titre": "Immobilier : les émissions de CO2 des bâtiments reculent en Europe plus vite que leur consommation d'énergie - Les Echos",
-      "resume": "La baisse des émissions de CO2 des bâtiments en Europe impacte les exigences et la gestion énergétique des 3 000+ sites clients d'ABC.",
+      "resume": "Les émissions de CO2 des bâtiments en Europe baissent plus vite que leur consommation d'énergie, offrant des opportunités pour optimiser la performance environnementale des sites clients.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbkJGclR3Q1dqbTBPdXVmYm1VOWZNS3NQMTJlNFUxNE1hNENycnBBV1NaWUQ3dlpxcXVSZ0picUt4OXNFZWdIWlh6NUVsVjhmQ0I2MHFmTm04YWt5M2h4NUVrbnFYU2p6cV9qRHBCSFdOTUZiOElrVFRQQ19HV3dVQlpGNGFiVDVjZDFyanZ4RHZQQkIwd2xTS3lLRzRjWGFtNk90YzZZcGExTzNjSEwzcl9ULXRVZDJLejJaYXRrQURtY25CbmVZTjZ6aFc0eXM0Nlc0d2g1cmJBcDFjenVlR0k4SjI0c3dCcnJxZ0NrbGNhNU43OEVySElXXzBNSHNj?oc=5",
@@ -1025,7 +1014,7 @@
           "titre": "Projet de loi relatif à la protection des enfants - N° 2841",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_relatif_a_la_protection_des_enfants",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_relatif_a_la_protection_des_enfants",
-          "date": "2026-10-13"
+          "date": "2026-05-27"
         },
         {
           "titre": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens - N° 2850",
@@ -1037,7 +1026,7 @@
           "titre": "Projet de loi portant approbation des comptes de la sécurité sociale de l’année 2025 - N° 2843",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_portant_approbation_des_comptes_de_la_securite_sociale_de_annee_2025",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_de_loi_portant_approbation_des_comptes_de_la_securite_sociale_de_annee_2025",
-          "date": "2026-10-13"
+          "date": "2026-05-27"
         },
         {
           "titre": "Projet de loi habilitant le Gouvernement à prendre, par ordonnances, les adaptations rendues nécessaires par l’entrée en application des règlements (UE) n°s 2024/1347, 2024/1348, 2024/1349, 2024/1350, 2024/1351, 2024/1352, 2024/1356, 2024/1358, 2024/1359 du Parlement européen et du Conseil du 14 mai 2024, et les dispositions nécessaires à la transposition de la directive (UE) 2024/1346 du Parlement européen et &#13;du Conseil du 14 mai 2024 - N° 2820",
@@ -1049,7 +1038,7 @@
           "titre": "Projet de loi portant transposition de l’avenant n°3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage - N° 2805",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53981",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53981",
-          "date": "2026-10-13"
+          "date": "2026-03-25"
         },
         {
           "titre": "Projet de loi Projet de loi-cadre relatif au développement des transports - N° 2740",
@@ -1061,7 +1050,7 @@
           "titre": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République - N° 2697",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique",
-          "date": "2026-10-13"
+          "date": "2026-04-27"
         },
         {
           "titre": "Projet de loi relative aux résultats de la gestion et portant approbation des comptes de l'année 2025 - N° 2694",
@@ -1073,25 +1062,25 @@
           "titre": "Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement du Royaume des Pays-Bas portant délimitation de la frontière entre la République française (Saint-Martin) et le Royaume des Pays-Bas (Sint Maarten) - N° 2688",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53848",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53848",
-          "date": "2026-10-13"
+          "date": "2026-02-25"
         },
         {
           "titre": "Projet de loi sur la justice criminelle et le respect des victimes - N° 2681",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53940",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53940",
-          "date": "2026-10-13"
+          "date": "2026-03-18"
         },
         {
           "titre": "Projet de loi autorisant l’approbation de l’accord de partenariat et de coopération renforcé&#13;entre l'Union européenne et ses Etats membres, d'une part, et la République kirghize, d'autre part - N° 2691",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53844",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53844",
-          "date": "2026-10-13"
+          "date": "2026-02-25"
         },
         {
           "titre": "Projet de loi organique relatif au renforcement des juridictions criminelles - N° 2682",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53942",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53942",
-          "date": "2026-10-13"
+          "date": "2026-03-18"
         },
         {
           "titre": "Projet de loi portant habilitation de l’assemblée de Martinique à fixer elle-même des règles applicables sur son territoire en application de l’article 73 de la Constitution en matière d’énergie, d’eau et d’assainissement - N° 2609",
@@ -1109,7 +1098,7 @@
           "titre": "Projet de loi constitutionnelle relatif à la Nouvelle-Calédonie - N° 2529",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
-          "date": "2026-10-13"
+          "date": "2025-10-14"
         }
       ]
     },
@@ -1120,7 +1109,7 @@
           "titre": "Texte adopté N° 355",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53095",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53095",
-          "date": "2026-10-13"
+          "date": "2025-10-29"
         },
         {
           "titre": "Texte adopté N° 351",
@@ -1132,19 +1121,19 @@
           "titre": "Texte adopté N° 350",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
-          "date": "2026-10-13"
+          "date": "2026-09-10"
         },
         {
           "titre": "Texte adopté N° 349",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
-          "date": "2026-10-13"
+          "date": "2026-09-07"
         },
         {
           "titre": "Texte adopté N° 348",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_eau_potable_territoires_ultramarins",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_eau_potable_territoires_ultramarins",
-          "date": "2026-10-13"
+          "date": "2026-09-08"
         },
         {
           "titre": "Texte adopté N° 346",
@@ -1162,13 +1151,13 @@
           "titre": "Texte adopté N° 344",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_vol_vehicules_et_filieres_criminelles_organisees_Europe",
-          "date": "2026-10-13"
+          "date": "2026-04-29"
         },
         {
           "titre": "Texte adopté N° 336",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e",
-          "date": "2026-10-13"
+          "date": "2026-03-27"
         },
         {
           "titre": "Texte adopté N° 341",
@@ -1180,7 +1169,7 @@
           "titre": "Texte adopté N° 332",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e",
-          "date": "2026-10-13"
+          "date": "2025-03-11"
         },
         {
           "titre": "Texte adopté N° 343",
@@ -1192,31 +1181,31 @@
           "titre": "Texte adopté N° 342",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abandonner_conditionnement_renouvellement_permis_conduire_visite_medicale_obligatoire",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abandonner_conditionnement_renouvellement_permis_conduire_visite_medicale_obligatoire",
-          "date": "2026-10-13"
+          "date": "2026-04-09"
         },
         {
           "titre": "Texte adopté N° 339",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e",
-          "date": "2026-10-13"
+          "date": "2025-11-18"
         },
         {
           "titre": "Texte adopté N° 335",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accelerer_prevention_cardio_neuro_vasculaire_et_anticiper_risque_sanitaire_et_social_majeur_17e",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accelerer_prevention_cardio_neuro_vasculaire_et_anticiper_risque_sanitaire_et_social_majeur_17e",
-          "date": "2026-10-13"
+          "date": "2025-12-23"
         },
         {
           "titre": "Texte adopté N° 334",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51732",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51732",
-          "date": "2026-10-13"
+          "date": "2025-03-18"
         },
         {
           "titre": "Texte adopté N° 328",
           "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre",
           "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre",
-          "date": "2026-10-13"
+          "date": "2024-12-03"
         },
         {
           "titre": "Texte adopté N° 324",
@@ -1227,5 +1216,5 @@
       ]
     }
   ],
-  "pjl_briefing": "L'actualité parlementaire met en avant le PLF 2027 et le PLFSS 2027, ainsi que des textes sur l'adaptation au droit européen (environnement, énergie) et la relance du logement. Ces projets nécessitent une veille attentive pour anticiper les impacts en matière de reporting extra-financier, de transition énergétique et de gestion des ressources."
+  "pjl_briefing": "L'examen des projets de loi de finances et de financement de la sécurité sociale pour 2027, ainsi que les textes relatifs à l'adaptation au droit européen en matière énergétique et environnementale, retiendront l'attention pour anticiper les évolutions réglementaires en matière de fiscalité verte, de reporting et de transition énergétique."
 }
