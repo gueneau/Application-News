@@ -122,7 +122,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 /* Static dot — no animation. Pulse removed as it adds visual noise without info value. */
 .sb-brand-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--sb-accent); flex-shrink: 0; }
 .sb-title { font-size: 13px; font-weight: 600; color: #ffffff; letter-spacing: .01em; }
-.sb-date { font-size: 10px; color: var(--sb-muted); font-family: var(--mono); margin-top: 0; }
+.sb-date { font-size: 11px; color: var(--sb-muted); margin-top: 0; }
 .sb-status { display: inline-flex; align-items: center; gap: 4px; font-size: 10px; font-weight: 500; letter-spacing: .06em; padding: 2px 8px; border-radius: 20px; margin-top: 6px; background: rgba(52,211,153,.12); color: var(--sb-accent); border: 1px solid rgba(52,211,153,.2); }
 .sb-status.err { background: rgba(239,68,68,.12); color: #f87171; border-color: rgba(239,68,68,.2); }
 .pipeline-error-badge { display: inline-flex; align-items: center; gap: 4px; font-size: 10px; font-weight: 500; padding: 2px 8px; border-radius: 20px; margin-top: 4px; background: rgba(217,119,6,.15); color: #f59e0b; border: 1px solid rgba(217,119,6,.3); cursor: default; }
@@ -160,10 +160,15 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .feed-welcome-sub { margin-top: 4px; font-size: 13px; color: var(--muted2); display: flex; align-items: center; gap: 2px; min-height: 20px; }
 .feed-cursor { display: inline-block; width: 1px; height: 13px; background: var(--muted2); margin-left: 1px; animation: cur-blink .9s step-end infinite; }
 @keyframes cur-blink { 0%,100%{opacity:1} 50%{opacity:0} }
-#feed-list { flex: 1; overflow: hidden; display: grid; grid-template-columns: 55fr 45fr; gap: 20px; padding: 0; }
-.feed-col-prio { display: flex; flex-direction: column; gap: 8px; min-width: 0; overflow-y: auto; padding: 20px 0 32px 20px; align-items: start; }
-.feed-col-consulter { background: var(--surface2); border-left: 1px solid var(--border); display: flex; flex-direction: column; min-width: 0; overflow-y: auto; padding: 16px 20px 32px 16px; }
-@media (max-width: 768px) { #feed-list { grid-template-columns: 1fr; overflow-y: auto; } .feed-col-prio, .feed-col-consulter { overflow-y: visible; height: auto; } .feed-col-consulter { order: 2; border-radius: 12px; margin: 0; padding: 14px; } }
+#feed-list { flex: 1; overflow: hidden; display: grid; grid-template-columns: 3fr 2fr; gap: 0; padding: 0; }
+.feed-col-prio, .feed-col-consulter { display: flex; flex-direction: column; gap: 8px; min-width: 0; overflow-y: auto; padding: 20px 24px 32px; }
+.feed-col-prio { align-items: stretch; }
+.feed-col-consulter { border-left: 1px solid var(--border); }
+@media (max-width: 768px) {
+  #feed-list { grid-template-columns: 1fr; overflow-y: auto; }
+  .feed-col-prio, .feed-col-consulter { overflow-y: visible; height: auto; padding: 16px; }
+  .feed-col-consulter { order: 2; border-left: 0; border-top: 1px solid var(--border); }
+}
 
 /* ── Feed cards ──────────────────────────────────────────────────────── */
 .card { background: var(--surface-lowest); border-radius: 12px; box-shadow: 0 2px 12px rgba(21,27,44,0.05); padding: 13px 14px; display: grid; grid-template-columns: auto 1fr auto; gap: 0 12px; cursor: pointer; transition: box-shadow .15s, background .1s; border: 1px solid rgba(193,200,194,0.25); }
@@ -178,7 +183,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .card-compact-titre { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.4; transition: color .15s; }
 .card-compact:hover .card-compact-titre { color: var(--primary); }
 .card-compact-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 2px; }
-.card-compact-date { font-size: 10px; font-family: var(--mono); color: var(--muted2); }
+.card-compact-date { font-size: 11px; color: var(--muted2); }
 .card-compact-actions { display: flex; align-items: center; gap: 8px; }
 .card-compact-link { font-size: 11px; font-weight: 600; color: var(--secondary); text-decoration: none; display: flex; align-items: center; gap: 2px; }
 .card-compact-link:hover { text-decoration: underline; }
@@ -196,7 +201,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .card-titre { font-size: 14px; font-weight: 600; color: var(--text); line-height: 1.4; margin-bottom: 4px; }
 .card-resume { font-size: 13px; color: var(--text2); line-height: 1.55; }
 .card-meta { display: flex; gap: 10px; margin-top: 5px; font-size: 12px; color: var(--muted); }
-.card-date { font-family: var(--mono); }
+.card-date { color: var(--muted2); }
 .card-right { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; flex-shrink: 0; }
 .crit-badge { font-size: 11px; font-weight: 500; padding: 2px 10px; border-radius: 20px; white-space: nowrap; }
 .crit3 { background: var(--red-bg); color: var(--red); }
@@ -206,16 +211,16 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .card-link:hover { text-decoration: underline; }
 
 /* ── Feed section headers ────────────────────────────────────────────── */
-.feed-section-hd { display: flex; align-items: center; gap: 8px; padding: 8px 4px 10px; background: transparent; }
+.feed-section-hd { display: flex; align-items: center; gap: 8px; min-height: 40px; padding: 0 0 12px; margin-bottom: 4px; border-bottom: 1px solid var(--border); background: transparent; }
 .feed-section-hd.prio { background: transparent; }
 .feed-section-icon { font-size: 11px; }
-.feed-section-lbl { font-size: 12px; font-weight: 600; color: var(--primary); }
+.feed-section-lbl { font-size: 17px; font-weight: 600; color: var(--primary); }
 .feed-section-hd.prio .feed-section-lbl { color: var(--primary); }
-.feed-section-badge { margin-left: auto; font-size: 10px; padding: 1px 8px; border-radius: 20px; background: var(--primary-container); color: var(--on-primary-container); font-family: var(--mono); }
-.feed-section-hd.prio .feed-section-badge { background: var(--primary-container); color: var(--on-primary-container); }
+.feed-section-badge { margin-left: auto; min-width: 22px; text-align: center; font-size: 11px; font-weight: 500; padding: 2px 7px; border-radius: 12px; background: var(--surface3); color: var(--text2); }
+.feed-section-hd.prio .feed-section-badge { background: var(--surface3); color: var(--text2); }
 /* Consulter column header */
-.feed-consulter-hd { display: flex; align-items: center; gap: 8px; padding: 4px 4px 10px; cursor: default; }
-.feed-consulter-lbl { font-size: 12px; font-weight: 600; color: var(--text2); }
+.feed-consulter-hd { cursor: default; }
+.feed-consulter-lbl { color: var(--primary); }
 .feed-chevron { display: none; }
 .feed-consulter-items { display: flex; flex-direction: column; gap: 6px; }
 .feed-consulter-items .card { background: transparent; }
@@ -242,7 +247,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 #jo-view { padding: 0; overflow-y: auto; }
 .jo-header { padding: 16px 20px 12px; background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 2; }
 .jo-title-row { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
-.jo-page-title { font-size: 15px; font-weight: 600; color: var(--text); }
+.jo-page-title { font-size: 24px; font-weight: 600; color: var(--text); line-height: 1.25; }
 .jo-stats-row { display: flex; gap: 8px; flex-wrap: wrap; }
 .jo-stat { display: flex; flex-direction: column; align-items: center; background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 6px 14px; min-width: 80px; }
 .jo-stat.accent { border-color: var(--green-border); background: var(--green-bg); }
@@ -332,7 +337,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .parl-historique { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border); display: none; }
 .parl-card.open .parl-historique { display: block; }
 .parl-hist-item { display: flex; gap: 8px; align-items: baseline; font-size: 11px; color: var(--muted); padding: 2px 0; }
-.parl-hist-date { font-family: var(--mono); flex-shrink: 0; }
+.parl-hist-date { flex-shrink: 0; }
 .parl-empty { padding: 48px 20px; text-align: center; font-size: 13px; color: var(--muted); }
 /* ── Avancement badge on suivi items ─────────────────────────────────── */
 .suivi-avt-badge { display:inline-flex; align-items:center; gap:4px; font-size:11px; font-weight:500; padding:2px 8px; border-radius:4px; background:var(--blue-bg); color:var(--blue); border:1px solid var(--blue-border); white-space:nowrap; }
@@ -385,7 +390,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .comment-item:last-child { border-bottom: none; }
 .comment-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
 .comment-auteur { font-size: 12px; font-weight: 500; color: var(--text2); }
-.comment-date { font-size: 11px; font-family: var(--mono); color: var(--muted); flex: 1; }
+.comment-date { font-size: 11px; color: var(--muted); flex: 1; }
 .comment-actions { display: flex; gap: 2px; opacity: 0; transition: opacity .15s; }
 .comment-item:hover .comment-actions { opacity: 1; }
 .comment-actions button:hover { color: var(--text) !important; }
@@ -427,7 +432,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .like-card.prio3 { border-left-color: var(--red); }
 .like-card.prio2 { border-left-color: var(--orange); }
 .like-card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
-.like-card-meta { font-size: 11px; font-family: var(--mono); color: var(--muted2); margin-left: auto; white-space: nowrap; }
+.like-card-meta { font-size: 11px; color: var(--muted2); margin-left: auto; white-space: nowrap; }
 .like-remove { background: none; border: none; color: var(--muted2); cursor: pointer; font-size: 14px; padding: 0 0 0 8px; line-height: 1; transition: color .15s; flex-shrink: 0; }
 .like-remove:hover { color: var(--red); }
 .like-titre { font-size: 14px; font-weight: 500; color: var(--text); line-height: 1.4; margin-bottom: 5px; }
@@ -448,6 +453,9 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
   .sb-nav { flex: initial; flex-direction: row; justify-content: space-around; gap: 2px; padding: 6px 4px calc(6px + env(safe-area-inset-bottom)); }
   .nav-item { position: relative; flex: 1; min-width: 0; flex-direction: column; justify-content: center; gap: 2px; margin: 0; padding: 4px 2px; border-radius: 6px; font-size: 10px; white-space: nowrap; }
   .nav-icon { font-size: 20px; }
+  .feed-section-hd { min-height: 36px; }
+  .feed-section-lbl { font-size: 14px; }
+  .jo-page-title { font-size: 20px; }
   .nav-item span[id$="-badge"] { position: absolute; top: 0; right: calc(50% - 19px); margin: 0 !important; padding: 0 5px !important; }
   #main { width: 100%; height: auto; min-height: 100dvh; padding-bottom: calc(62px + env(safe-area-inset-bottom)); }
   .view.active { min-height: calc(100dvh - 62px - env(safe-area-inset-bottom)); overflow: visible; }
@@ -515,7 +523,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
     </div>
     <div class="view" id="jo-view">
       <div class="jo-header">
-        <div class="jo-title-row"><div class="jo-page-title">Journal Officiel — tous les textes du jour</div></div>
+        <div class="jo-title-row"><div class="jo-page-title" id="jo-page-title">Journal officiel — édition non identifiée</div></div>
         <div class="jo-stats-row" id="jo-stats"></div>
         <input class="jo-search" id="jo-search" type="text" placeholder="Rechercher un arrêté, décret, loi…" oninput="filterJO()">
       </div>
@@ -772,11 +780,12 @@ function renderFeed(){
   }
   const sourcesLinksHtml=buildSourcesLinks();
 
-  let html=`<div class="feed-col-prio">`;
-  if(prio.length){html+=`<div class="feed-section-hd prio"><span class="feed-section-lbl">À suivre en priorité</span><span class="feed-section-badge">${prio.length}</span></div>`+prio.map(cardHtml).join('')+sourcesLinksHtml;}
-  else html+=`<div class="feed-empty-prio"><div class="feed-empty-prio-inner"><div class="feed-empty-prio-icon"><div class="feed-empty-prio-ring"></div><span class="material-symbols-outlined">sensors</span></div><div class="feed-empty-prio-title">Tout est calme pour le moment</div><div class="feed-empty-prio-sub">Aucun signal prioritaire détecté.</div></div></div>`;
+  let html=`<div class="feed-col-prio">
+    <div class="feed-section-hd"><span class="feed-section-lbl">À suivre</span><span class="feed-section-badge">${prio.length}</span></div>`;
+  if(prio.length){html+=prio.map(cardHtml).join('')+sourcesLinksHtml;}
+  else html+=`<div class="feed-empty-prio"><div class="feed-empty-prio-inner"><div class="feed-empty-prio-icon"><div class="feed-empty-prio-ring"></div><span class="material-symbols-outlined">sensors</span></div><div class="feed-empty-prio-title">Rien de particulier à signaler</div><div class="feed-empty-prio-sub">Les prochains sujets à suivre apparaîtront ici.</div></div></div>`;
   html+=`</div>`;
-  if(veille.length)html+=`<div class="feed-col-consulter"><div class="feed-consulter-hd"><span class="feed-consulter-lbl">Autres articles</span><span class="feed-section-badge" style="margin-left:auto">${veille.length}</span></div><div class="feed-consulter-items">${veille.map(cardHtmlCompact).join('')}</div></div>`;
+  if(veille.length)html+=`<div class="feed-col-consulter"><div class="feed-section-hd feed-consulter-hd"><span class="feed-section-lbl feed-consulter-lbl">Articles thématiques</span><span class="feed-section-badge">${veille.length}</span></div><div class="feed-consulter-items">${veille.map(cardHtmlCompact).join('')}</div></div>`;
   list.innerHTML=html;
 }
 function toggleSourceLinks(button){
@@ -829,6 +838,12 @@ function renderJO(){
   const items=D?.jo_autres||[],search=(document.getElementById('jo-search')?.value||'').toLowerCase();
   const statsEl=document.getElementById('jo-stats'),groupEl=document.getElementById('jo-groups');
   if(!groupEl)return;
+  const titleEl=document.getElementById('jo-page-title');
+  if(titleEl){
+    titleEl.textContent=D?.jorf_issue_date
+      ?`JO du ${formatDate(D.jorf_issue_date)}`
+      :'Journal officiel — édition non identifiée';
+  }
   const nbT=D?.stats?.jo_analyses||0,nbG=D?.stats?.jo_retenus||0;
   if(statsEl)statsEl.innerHTML=[[nbT,'Textes analysés',false],[nbG,'Pertinents ABC',true],[items.length,'Dans ce JO',false]].map(([v,l,a])=>`<div class="jo-stat ${a&&v>0?'accent':''}"><div class="jo-stat-val">${v}</div><div class="jo-stat-lbl">${l}</div></div>`).join('');
 
@@ -977,7 +992,7 @@ function renderParlement(){
           <div style="flex:1;font-size:12px;color:var(--text)">${escHtml(item.titre)}</div>
           <div style="display:flex;align-items:center;gap:8px;flex-shrink:0">
             ${isNew?`<span style="font-size:9px;font-weight:700;color:#fff;background:var(--accent);padding:2px 5px;border-radius:3px;letter-spacing:.3px">Nouveau</span>`:''}
-            ${showDate?`<span style="font-size:10px;color:var(--muted2);font-family:var(--mono)">${formatDate(item.date)}</span>`:''}
+            ${showDate?`<span style="font-size:11px;color:var(--muted2)">${formatDate(item.date)}</span>`:''}
             ${item.url?`<a class="jo-item-link" href="${escHtml(item.url)}" target="_blank" rel="noopener">→</a>`:''}
           </div>
         </div>`;}).join('')}</div>
@@ -1052,7 +1067,7 @@ function renderSuivi(){
       <div class="suivi-item-meta">
         ${d.stade?`<span>${escHtml(d.stade)}</span>`:''}
         ${d.url_an||d.url_dossier?`<span>Avec URL</span>`:'<span style="color:var(--muted2)">Sans URL — scraping inactif</span>'}
-        <span style="font-family:var(--mono)">${formatDate(d.updated_at?.slice(0,10))}</span>
+        <span>${formatDate(d.updated_at?.slice(0,10))}</span>
       </div>
       <div class="suivi-item-actions">
         <button class="btn-comments" onclick="event.stopPropagation();openDossierDrawer('${d.id}')">${nb} commentaire${nb!==1?'s':''}</button>
@@ -1380,7 +1395,16 @@ function switchView(view){
   if(view==='likes')renderLikes();
   if(view==='parlement'){renderParlement();loadDossiersSuivi();}
 }
-function formatDate(iso){if(!iso)return'—';const[y,m,d]=iso.split('-');const M=['jan','fév','mar','avr','mai','jun','jul','aoû','sep','oct','nov','déc'];return `${parseInt(d)} ${M[parseInt(m)-1]} ${y}`;}
+function formatDate(iso){
+  if(!iso)return'—';
+  const [year,month,day]=iso.split('-').map(Number);
+  if(!year||!month||!day)return'—';
+  return new Date(year,month-1,day).toLocaleDateString('fr-FR',{
+    day:'numeric',
+    month:'long',
+    year:'numeric',
+  });
+}
 function escHtml(str){return String(str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 function showToast(msg){const t=document.getElementById('toast');if(!t){console.warn('Toast container unavailable:',msg);return;}t.textContent=msg;t.classList.add('show');clearTimeout(t._t);t._t=setTimeout(()=>t.classList.remove('show'),2500);}
 function getSessionToken(){let t=localStorage.getItem('abc_session');if(!t){t=crypto.randomUUID();localStorage.setItem('abc_session',t);}return t;}
