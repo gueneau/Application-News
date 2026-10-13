@@ -104,6 +104,9 @@ jobs:
 
           # Copier index.html si modifié
           cp index.html gh-pages-branch/index.html
+          cp site.webmanifest gh-pages-branch/site.webmanifest
+          mkdir -p gh-pages-branch/assets
+          cp assets/app-icon.svg assets/app-icon-192.png assets/app-icon-512.png assets/apple-touch-icon.png gh-pages-branch/assets/
 
       # ── 7. Commit et push vers gh-pages ──────────────────────────
       - name: Commit and push to gh-pages
