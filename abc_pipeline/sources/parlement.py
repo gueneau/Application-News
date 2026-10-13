@@ -76,6 +76,47 @@ def _is_pjl_gouvernemental(titre: str) -> bool:
     return True
 
 
+_MOIS_FR = {
+    'janvier': '01', 'février': '02', 'mars': '03', 'avril': '04',
+    'mai': '05', 'juin': '06', 'juillet': '07', 'août': '08',
+    'septembre': '09', 'octobre': '10', 'novembre': '11', 'décembre': '12',
+}
+
+
+def _parse_fr_date(text: str) -> Optional[str]:
+    """Parse a French date like '12 mars 2025' → '2025-03-12'."""
+    m = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', text.strip())
+    if m:
+        mois = _MOIS_FR.get(m.group(2).lower())
+        if mois:
+            return f"{m.group(3)}-{mois}-{int(m.group(1)):02d}"
+    return None
+
+
+def _an_listing_title(item, titre: str) -> str:
+    if not re.match(r'^Texte adopté\s+N°\s*\d+', titre, re.IGNORECASE):
+        return titre
+    description = item.find('p')
+    if not description:
+        return ''
+    raw = description.get_text(' ', strip=True).lstrip('- ').strip()
+    raw = re.sub(
+        r'\s+le\s+\d{1,2}\s+\w+\s+\d{4}\s*$',
+        '',
+        raw,
+        flags=re.IGNORECASE,
+    ).strip().rstrip(' ,;')
+    return raw if len(raw) > 10 else ''
+
+
+def _an_listing_date(item, today_str: str) -> str:
+    date_el = item.find(string=re.compile(r'Mis en ligne', re.I))
+    if not date_el:
+        return today_str
+    search_text = date_el.parent.get_text(' ') if date_el.parent else str(date_el)
+    return _parse_fr_date(search_text) or today_str
+
+
 def _scrape_an_listing(source: dict, today_str: str) -> list:
     """
     Scrape a listing page and return entries:
@@ -96,35 +137,10 @@ def _scrape_an_listing(source: dict, today_str: str) -> list:
             titre = h3.get_text(strip=True)
             if not titre or len(titre) < 10:
                 continue
-            # Pour les textes adoptés : "Texte adopté N° 248" est le numéro, pas le titre.
-            # Le vrai titre est dans un <p> de l'item, préfixé par " - ".
-            if re.match(r'^Texte adopté\s+N°\s*\d+', titre, re.IGNORECASE):
-                p = item.find('p')
-                if p:
-                    raw = p.get_text(strip=True).lstrip('- ').strip()
-                    # Supprimer la date finale " le 12 décembre 2025"
-                    raw = re.sub(r'\s+le\s+\d{1,2}\s+\w+\s+\d{4}\s*$', '', raw, flags=re.IGNORECASE).strip()
-                    if raw and len(raw) > 10:
-                        titre = raw
-                    else:
-                        continue
-                else:
-                    continue  # pas de titre réel trouvé, on skip
-
-            date_str = today_str
-            date_el = item.find(string=re.compile(r'Mis en ligne|mis en ligne', re.I))
-            if date_el:
-                # Chercher la date dans le texte du parent (la date peut être dans un nœud sibling)
-                search_text = date_el.parent.get_text(' ') if date_el.parent else str(date_el)
-                m = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', search_text)
-                if m:
-                    mois_fr = {
-                        'janvier': '01', 'février': '02', 'mars': '03', 'avril': '04',
-                        'mai': '05', 'juin': '06', 'juillet': '07', 'août': '08',
-                        'septembre': '09', 'octobre': '10', 'novembre': '11', 'décembre': '12',
-                    }
-                    mois = mois_fr.get(m.group(2).lower(), '01')
-                    date_str = f"{m.group(3)}-{mois}-{int(m.group(1)):02d}"
+            titre = _an_listing_title(item, titre)
+            if not titre:
+                continue
+            date_str = _an_listing_date(item, today_str)
 
             url_dossier, url_doc = '', ''
             for a in item.find_all('a', href=True):
@@ -161,6 +177,9 @@ def _scrape_an_listing(source: dict, today_str: str) -> list:
                 parent = h3.find_parent(['li', 'div', 'article', 'section'])
                 if not parent:
                     continue
+                titre = _an_listing_title(parent, titre)
+                if not titre:
+                    continue
 
                 links = parent.find_all('a', href=True)
                 url_dossier, url_doc = '', ''
@@ -183,7 +202,7 @@ def _scrape_an_listing(source: dict, today_str: str) -> list:
                     'url': url,
                     'url_dossier': url_dossier,
                     'url_doc': url_doc,
-                    'date': today_str,
+                    'date': _an_listing_date(parent, today_str),
                     'source': source['name'],
                     'fiche_id': fiche_id,
                 })
@@ -192,23 +211,6 @@ def _scrape_an_listing(source: dict, today_str: str) -> list:
     except Exception as e:
         log.warning(f"Parlement scraper {source['name']} : {e}")
     return entries
-
-
-_MOIS_FR = {
-    'janvier': '01', 'février': '02', 'mars': '03', 'avril': '04',
-    'mai': '05', 'juin': '06', 'juillet': '07', 'août': '08',
-    'septembre': '09', 'octobre': '10', 'novembre': '11', 'décembre': '12',
-}
-
-
-def _parse_fr_date(text: str) -> Optional[str]:
-    """Parse a French date like '12 mars 2025' → '2025-03-12'."""
-    m = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', text.strip())
-    if m:
-        mois = _MOIS_FR.get(m.group(2).lower())
-        if mois:
-            return f"{m.group(3)}-{mois}-{int(m.group(1)):02d}"
-    return None
 
 
 def _scrape_deposit_date(url_dossier: str) -> Optional[str]:

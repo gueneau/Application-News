@@ -121,6 +121,43 @@ def test_scrape_dossier_stage_reports_rejection_on_latest_dated_step(monkeypatch
 
     assert parlement._scrape_dossier_stade('https://example.com/dossier') == 'Texte rejeté'
 
+
+def test_scrape_adopted_text_listing_extracts_full_title_and_publication_date(monkeypatch):
+    from abc_pipeline.sources import parlement
+
+    class Response:
+        text = """
+        <ul class="liens-liste">
+          <li data-id="OMC_PNREANR5L17BTA0351">
+            <h3>Texte adopté N° 351</h3>
+            <ul class="liens-liste-embed enligne clearfix">
+              <li><span class="heure">Mis en ligne jeudi 8 octobre 2026 à 18h45</span></li>
+              <li><a href="https://www.assemblee-nationale.fr/dyn/17/dossiers/olympe">Dossier législatif</a></li>
+              <li><a href="https://www.assemblee-nationale.fr/dyn/old/17/ta/ta0351.asp">Document</a></li>
+            </ul>
+            <p> - Proposition de résolution invitant le Gouvernement à soutenir l'entrée au Panthéon, rejetée par l'Assemblée nationale, le 8 octobre 2026</p>
+          </li>
+        </ul>
+        """
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    monkeypatch.setattr(parlement.requests, 'get', lambda *args, **kwargs: Response())
+    entries = parlement._scrape_an_listing(
+        {'name': 'AN Textes adoptés', 'url': 'https://example.com/adoptes'},
+        '2026-10-13',
+    )
+
+    assert len(entries) == 1
+    assert entries[0]['titre'] == (
+        "Proposition de résolution invitant le Gouvernement à soutenir "
+        "l'entrée au Panthéon, rejetée par l'Assemblée nationale"
+    )
+    assert entries[0]['date'] == '2026-10-08'
+
+
 def test_valid_category_accepts_supported_llm_category():
     from abc_pipeline.filters import valid_category
     assert valid_category("Déchets") == "Déchets"
@@ -263,6 +300,9 @@ def test_groq_analyse_rss_uses_validated_llm_category(monkeypatch):
     assert '"categorie": "..."' in prompts[0]
     assert "Déchets" in prompts[0]
     assert "Environnement" in prompts[0]
+    assert "chiffre agrégé ou historique" in prompts[0]
+    assert "sans enseignement sectoriel démontré" in prompts[0]
+    assert "En cas de doute, rejette l'article" in prompts[0]
 
 
 def test_groq_analyse_rss_falls_back_when_llm_category_is_unknown(monkeypatch):
