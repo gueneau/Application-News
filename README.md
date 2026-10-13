@@ -4,6 +4,8 @@ Automated environmental and regulatory monitoring for ABC. The pipeline collects
 
 **Open the live app: [gueneau.github.io/Application-News](https://gueneau.github.io/Application-News/)**
 
+The app icon pairs a V with an open golden orbit and a small star; the same static design is used in the browser tab and on the home screen.
+
 ## How it works
 
 GitHub Actions runs the pipeline twice a day, at 09:00 and 14:00 Paris time. It gathers information from four areas:
