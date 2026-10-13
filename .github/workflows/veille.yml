@@ -2,8 +2,8 @@ name: Veille Environnementale ABC
 
 on:
   schedule:
-    - cron: '00 6  * * *'   # 08:00 Paris (UTC+2)
-    - cron: '30 11 * * *'   # 13:30 Paris (UTC+2)
+    # GitHub cron is UTC; the guard below keeps only 09:00 and 14:00 Paris time.
+    - cron: '0 7,8,12,13 * * *'
 
   workflow_dispatch:         # déclenchement manuel depuis l'onglet Actions
 
@@ -11,7 +11,30 @@ permissions:
   contents: write            # nécessaire pour le push gh-pages
 
 jobs:
+  schedule-check:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
+    steps:
+      - name: Check Paris schedule
+        id: check
+        shell: bash
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" != "schedule" ]]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          paris_hour=$(TZ=Europe/Paris date +%H)
+          if [[ "$paris_hour" == "09" || "$paris_hour" == "14" ]]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
+
   pipeline:
+    needs: schedule-check
+    if: needs.schedule-check.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
 

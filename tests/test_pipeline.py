@@ -373,6 +373,37 @@ def test_jorf_full_analysis_only_runs_for_screened_items_with_full_text(monkeypa
     assert autres == []
 
 
+def test_get_today_jorf_url_prefers_today_issue(monkeypatch):
+    from abc_pipeline.sources import jorf
+
+    monkeypatch.setattr(
+        jorf,
+        'list_jorf_files',
+        lambda: [
+            'JORF_20261011-235900.tar.gz',
+            'JORF_20261012-002503.tar.gz',
+            'JORF_20261012-140000.tar.gz',
+        ],
+    )
+
+    assert jorf.get_today_jorf_url('20261012').endswith('JORF_20261012-140000.tar.gz')
+
+
+def test_get_today_jorf_url_falls_back_to_latest_available_issue(monkeypatch):
+    from abc_pipeline.sources import jorf
+
+    monkeypatch.setattr(
+        jorf,
+        'list_jorf_files',
+        lambda: [
+            'JORF_20261011-002503.tar.gz',
+            'JORF_20261011-205013.tar.gz',
+        ],
+    )
+
+    assert jorf.get_today_jorf_url('20261012').endswith('JORF_20261011-205013.tar.gz')
+
+
 def test_jorf_briefing_does_not_use_screened_but_rejected_texts(monkeypatch):
     import io
     import tarfile

@@ -31,6 +31,11 @@ def get_today_jorf_url(today_compact: str):
     today_files = [f for f in files if today_compact in f]
     chosen = today_files[-1] if today_files else (files[-1] if files else None)
     if chosen:
+        if not today_files:
+            log.info(
+                f"Aucun fichier JORF daté du jour ({today_compact}); "
+                f"utilisation du dernier fichier disponible : {chosen}"
+            )
         log.info(f"Fichier JORF sélectionné : {chosen}")
         return urljoin(JORF_BASE_URL, chosen)
     return None
