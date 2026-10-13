@@ -792,7 +792,7 @@ function renderFeed(){
       :'Rien de prioritaire aujourd’hui';
   }
   const list=document.getElementById('feed-list');
-  if(!items.length){list.innerHTML=`<div class="empty-state">Aucun résultat</div>`;return;}
+  const noResults=!items.length;
   function cardHtml(item){
     const cc=['','prio1','prio2','prio3'][item.criticite]||'prio1';
     const cl=['','Veille','À surveiller','⚠ Impact direct'][item.criticite]||'Veille';
@@ -862,8 +862,10 @@ function renderFeed(){
 
   let html=`<div class="feed-col-prio">
     <div class="feed-section-hd"><span class="feed-section-lbl">À suivre</span><span class="feed-section-badge">${prio.length}</span></div>`;
-  if(prio.length){html+=prio.map(cardHtml).join('')+sourcesLinksHtml;}
+  if(prio.length){html+=prio.map(cardHtml).join('');}
+  else if(noResults)html+='<div class="empty-state">Aucun résultat</div>';
   else html+=`<div class="feed-empty-prio"><div class="feed-empty-prio-inner"><div class="feed-empty-prio-icon"><div class="feed-empty-prio-ring"></div><span class="material-symbols-outlined">sensors</span></div><div class="feed-empty-prio-title">Rien de particulier à signaler</div><div class="feed-empty-prio-sub">Les prochains sujets à suivre apparaîtront ici.</div></div></div>`;
+  html+=sourcesLinksHtml;
   html+=`</div>`;
   if(veille.length)html+=`<div class="feed-col-consulter"><div class="feed-section-hd feed-consulter-hd"><span class="feed-section-lbl feed-consulter-lbl">Articles thématiques</span><span class="feed-section-badge">${veille.length}</span></div><div class="feed-consulter-items">${veille.map(cardHtmlCompact).join('')}</div></div>`;
   list.innerHTML=html;
