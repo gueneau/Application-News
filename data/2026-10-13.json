@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "08:20",
-  "elapsed_seconds": 541,
+  "generated_at": "09:07",
+  "elapsed_seconds": 553,
   "errors": [],
   "stats": {
     "jo_analyses": 10,
@@ -9,10 +9,10 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-13T08:20:17",
+    "run_at": "2026-10-13T09:07:24",
     "sources": {
       "JORF": 0,
-      "RSS": 11,
+      "RSS": 10,
       "VigiEau": 93,
       "Parlement": 1
     },
@@ -20,7 +20,7 @@
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
     "llm_calls": 45,
-    "llm_seconds": 35.4
+    "llm_seconds": 46.3
   },
   "items": [
     {
@@ -28,21 +28,10 @@
       "source": "Reporterre",
       "categorie": "Environnement",
       "titre": "« L'alternative à la voiture, ce n'est pas l'électrique, c'est de changer de système »",
-      "resume": "Un collectif de chercheurs plaide pour un changement systémique de la mobilité plutôt que le tout-électrique, questionnant les stratégies de verdissement des flottes.",
+      "resume": "L'ouvrage invite à repenser la mobilité au-delà de la simple électrification des flottes, questionnant les modes de déplacement professionnels.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/L-alternative-a-la-voiture-ce-n-est-pas-l-electrique-c-est-de-changer-de-systeme",
-      "date": "2026-10-13"
-    },
-    {
-      "id": "ca627033dd70",
-      "source": "Novethic",
-      "categorie": "Environnement",
-      "titre": "Axa Future Risks : La fracture sociale s'impose parmi les principaux risques économiques mondiaux",
-      "resume": "Le rapport d'Axa met en avant la fracture sociale parmi les principaux risques économiques mondiaux, un contexte macroéconomique qui influence indirectement les attentes des parties prenantes envers les entreprises.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/fracture-sociale-risques-economiques-2026-future-risk-report-axa",
       "date": "2026-10-13"
     },
     {
@@ -50,7 +39,7 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Epyr récolte 15 M€ pour électrifier plus de chaleur industrielle",
-      "resume": "Epyr lève 15 M€ pour développer l'électrification de la chaleur industrielle, illustrant les tendances du marché en matière de décarbonation énergétique.",
+      "resume": "Epyr a levé 15 millions d'euros pour accélérer l'électrification de la chaleur industrielle, illustrant les dynamiques d'innovation dans la décarbonation.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.greenunivers.com/2026/10/epyr-recolte-15-me-pour-electrifier-plus-de-chaleur-industrielle-435720/",
@@ -61,7 +50,7 @@
       "source": "Le Monde Planète",
       "categorie": "Émissions",
       "titre": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
-      "resume": "Les émissions de GES en France reculent en raison des prix des carburants, confirmant une tendance macroéconomique de baisse des rejets carbonés.",
+      "resume": "La baisse des émissions de GES en France, portée par les prix des carburants, illustre la dynamique macroéconomique du scope 1 et impacte potentiellement les coûts et la stratégie de renouvellement de la flotte de véhicules d'ABC.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
@@ -72,7 +61,7 @@
       "source": "Le Monde Planète",
       "categorie": "Environnement",
       "titre": "« On avance » : comment on a dépollué notre bloc opératoire",
-      "resume": "Des soignants du CHU de Strasbourg mettent en place des actions pour réduire l'impact environnemental de leur bloc opératoire, illustrant les initiatives prises par les clients du secteur de la santé.",
+      "resume": "L'article présente des initiatives de réduction d'impact environnemental dans le milieu hospitalier, un secteur client clé pour ABC.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/13/comment-on-a-depollue-notre-bloc-operatoire_6793048_6125299.html",
@@ -83,8 +72,8 @@
       "source": "GreenUnivers",
       "categorie": "Énergie",
       "titre": "Le prix de l’électricité pour 2027 a doublé depuis le printemps [Marchés]",
-      "resume": "Le prix de l'électricité pour livraison en 2027 en France a doublé pour dépasser les 100 €/MWh, signalant une forte tension sur les marchés de l'énergie à moyen terme.",
-      "pourquoi": "La hausse des prix de l'électricité menace la rentabilité des contrats multitechniques d'ABC et alourdit la facture énergétique de ses propres locaux, exigeant dès à présent d'accélérer l'efficacité énergétique des prestations et de renégocier les clauses d'indexation tarifaire avec les clients.",
+      "resume": "Le prix de l'électricité pour livraison en 2027 en France a doublé pour dépasser les 100 €/MWh, signalant une forte tension sur les marchés futurs de l'énergie.",
+      "pourquoi": "La hausse des prix de l'électricité alourdit directement les coûts énergétiques des locaux d'ABC et de ses prestations de Facility Management, tout en renforçant l'urgence pour ses clients industriels d'externaliser l'efficacité énergétique. ABC doit donc intégrer cette volatilité dans ses contrats à moyen terme dès à présent et accélérer son offre de services bas-carbone.",
       "criticite": 2,
       "url": "https://www.greenunivers.com/2026/10/le-prix-de-lelectricite-pour-2027-a-double-depuis-le-printemps-marches-435772/",
       "date": "2026-10-12"
@@ -94,7 +83,7 @@
       "source": "Actu-Environnement",
       "categorie": "Environnement",
       "titre": "Dérogation espèces protégées&amp;#8239;: le tribunal administratif d'Amiens invalide un projet de parc photovoltaïque",
-      "resume": "Le tribunal administratif d'Amiens a annulé une dérogation espèces protégées pour un projet photovoltaïque, illustrant la judiciarisation croissante des projets d'énergies renouvelables.",
+      "resume": "Un tribunal administratif annule une dérogation pour espèces protégées sur un projet photovoltaïque, illustrant les complexités juridiques et environnementales de l'installation d'énergies renouvelables.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/derogation-especes-protegees-photovoltaique-warluis-amiens-48648.php4#xtor=RSS-6",
@@ -105,7 +94,7 @@
       "source": "Reporterre",
       "categorie": "Eau",
       "titre": "Sécheresse : le Finistère dans une « situation critique »",
-      "resume": "Le Finistère fait face à une sécheresse critique menaçant la ressource en eau, un risque climatique opérationnel pouvant impacter les prestations de propreté et les 3 000+ sites clients gérés par ABC dans la région.",
+      "resume": "Le Finistère fait face à une sécheresse critique menaçant la ressource en eau, un risque climatique local pouvant impacter les prestations de propreté et FM sur les sites clients de la région.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Secheresse-le-Finistere-dans-une-situation-critique",
@@ -116,10 +105,21 @@
       "source": "Reporterre",
       "categorie": "Climat",
       "titre": "Le mois de septembre a été le plus chaud jamais enregistré en Europe de l'Ouest",
-      "resume": "Copernicus confirme que septembre se classe parmi les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C.",
+      "resume": "Copernicus confirme que septembre se classe parmi les mois les plus chauds jamais enregistrés, prolongeant le dépassement de la limite de 1,5 °C.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Le-mois-de-septembre-a-ete-le-plus-chaud-jamais-enregistre-en-Europe-de-l-Ouest",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "a5c72c107cbe",
+      "source": "GreenUnivers",
+      "categorie": "Énergie",
+      "titre": "Enedis et RTE testent leur outil commun de flexibilités locales dans le Sud-Ouest",
+      "resume": "Enedis et RTE lancent une plateforme commune de flexibilités électriques locales, permettant d'optimiser la gestion et la consommation d'énergie sur les réseaux.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.greenunivers.com/2026/10/enedis-et-rte-testent-leur-outil-commun-de-flexibilites-locales-dans-le-sud-ouest-435805/",
       "date": "2026-10-12"
     },
     {
@@ -127,22 +127,11 @@
       "source": "Les Echos Environnement",
       "categorie": "Énergie",
       "titre": "Immobilier : les émissions de CO2 des bâtiments reculent en Europe plus vite que leur consommation d'énergie - Les Echos",
-      "resume": "Les émissions de CO2 des bâtiments en Europe baissent plus vite que leur consommation d'énergie, offrant des opportunités pour optimiser la performance environnementale des sites clients.",
+      "resume": "La baisse des émissions de CO2 dans l'immobilier européen montre une décarbonation plus rapide que la baisse de consommation d'énergie, impactant les attentes des clients en matière de performance environnementale des bâtiments.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbkJGclR3Q1dqbTBPdXVmYm1VOWZNS3NQMTJlNFUxNE1hNENycnBBV1NaWUQ3dlpxcXVSZ0picUt4OXNFZWdIWlh6NUVsVjhmQ0I2MHFmTm04YWt5M2h4NUVrbnFYU2p6cV9qRHBCSFdOTUZiOElrVFRQQ19HV3dVQlpGNGFiVDVjZDFyanZ4RHZQQkIwd2xTS3lLRzRjWGFtNk90YzZZcGExTzNjSEwzcl9ULXRVZDJLejJaYXRrQURtY25CbmVZTjZ6aFc0eXM0Nlc0d2g1cmJBcDFjenVlR0k4SjI0c3dCcnJxZ0NrbGNhNU43OEVySElXXzBNSHNj?oc=5",
       "date": "2026-10-12"
-    },
-    {
-      "id": "7f12ec8b6be6",
-      "source": "EFRAG",
-      "categorie": "Environnement",
-      "titre": "EFRAG Extends Deadline for Cost-Benefit Analysis Survey on ESRS-40a to 18 October 2026",
-      "resume": "EFRAG Extends Deadline for Cost-Benefit Analysis Survey on ESRS-40a to 18 October 2026",
-      "pourquoi": "Mention de réglementation prioritaire.",
-      "criticite": 3,
-      "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-extends-deadline-for-costbenefit-analysis-survey-on-esrs40a-to-18-october-2026",
-      "date": "2026-10-09"
     }
   ],
   "restrictions_eau": [
@@ -1216,5 +1205,5 @@
       ]
     }
   ],
-  "pjl_briefing": "L'examen des projets de loi de finances et de financement de la sécurité sociale pour 2027, ainsi que les textes relatifs à l'adaptation au droit européen en matière énergétique et environnementale, retiendront l'attention pour anticiper les évolutions réglementaires en matière de fiscalité verte, de reporting et de transition énergétique."
+  "pjl_briefing": "L'activité parlementaire met en avant des textes structurants pour les grandes entreprises de services, notamment le PLF 2027 et le PLFSS 2027, ainsi que des projets de loi sur la relance du logement, l'énergie et l'adaptation au droit européen en matière environnementale et climatique. Ces mesures nécessitent une vigilance accrue sur les impacts réglementaires et les obligations de reporting extra-financier."
 }
