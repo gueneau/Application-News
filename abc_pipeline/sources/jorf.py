@@ -41,6 +41,18 @@ def get_today_jorf_url(today_compact: str):
     return None
 
 
+def _jorf_issue_date(url: str) -> str | None:
+    filename = url.rsplit('/', 1)[-1]
+    match = re.match(r'JORF_(\d{8})(?:-|\.tar\.gz)', filename, re.IGNORECASE)
+    if not match:
+        return None
+    try:
+        return datetime.strptime(match.group(1), '%Y%m%d').strftime('%Y-%m-%d')
+    except ValueError:
+        log.warning(f"Date invalide dans le nom de l'archive JORF : {filename}")
+        return None
+
+
 def parse_jorf_xml(content: bytes, today_str: str):
     import xml.etree.ElementTree as ET
 
@@ -91,6 +103,7 @@ def fetch_jorf(today_str: str):
     """Fetch and analyze daily JORF texts for ABC relevance."""
     log.info("=== JORF ===")
     items, autres, total_analysed, briefing = [], [], 0, ''
+    issue_date = None
     briefing_items = []
     all_articles = []
 
@@ -99,8 +112,9 @@ def fetch_jorf(today_str: str):
         url = get_today_jorf_url(today_compact)
         if not url:
             log.warning("Aucun fichier JORF disponible")
-            return items, autres, 0, briefing
+            return items, autres, 0, briefing, issue_date
 
+        issue_date = _jorf_issue_date(url)
         log.info(f"Téléchargement : {url}")
         resp = requests.get(url, timeout=180)
         resp.raise_for_status()
@@ -253,7 +267,7 @@ def fetch_jorf(today_str: str):
 
             if briefing_items:
                 try:
-                    briefing = groq_briefing_jorf(briefing_items, today_str)
+                    briefing = groq_briefing_jorf(briefing_items, issue_date or today_str)
                 except Exception as e:
                     log.warning(f"JORF briefing erreur (non bloquant) : {e}")
                     briefing = ''
@@ -273,4 +287,4 @@ def fetch_jorf(today_str: str):
         log.error(f"JORF fatal : {e}", exc_info=True)
 
     log.info(f"JORF : {len(items)} retenus / {total_analysed} analysés ({len(autres)} autres)")
-    return items, autres, total_analysed, briefing
+    return items, autres, total_analysed, briefing, issue_date

@@ -211,10 +211,10 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .card-link:hover { text-decoration: underline; }
 
 /* ── Feed section headers ────────────────────────────────────────────── */
-.feed-section-hd { display: flex; align-items: center; gap: 8px; min-height: 36px; padding: 0 0 12px; margin-bottom: 4px; border-bottom: 1px solid var(--border); background: transparent; }
+.feed-section-hd { display: flex; align-items: center; gap: 8px; min-height: 40px; padding: 0 0 12px; margin-bottom: 4px; border-bottom: 1px solid var(--border); background: transparent; }
 .feed-section-hd.prio { background: transparent; }
 .feed-section-icon { font-size: 11px; }
-.feed-section-lbl { font-size: 14px; font-weight: 600; color: var(--primary); }
+.feed-section-lbl { font-size: 17px; font-weight: 600; color: var(--primary); }
 .feed-section-hd.prio .feed-section-lbl { color: var(--primary); }
 .feed-section-badge { margin-left: auto; min-width: 22px; text-align: center; font-size: 11px; font-weight: 500; padding: 2px 7px; border-radius: 12px; background: var(--surface3); color: var(--text2); }
 .feed-section-hd.prio .feed-section-badge { background: var(--surface3); color: var(--text2); }
@@ -247,7 +247,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 #jo-view { padding: 0; overflow-y: auto; }
 .jo-header { padding: 16px 20px 12px; background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 2; }
 .jo-title-row { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
-.jo-page-title { font-size: 15px; font-weight: 600; color: var(--text); }
+.jo-page-title { font-size: 24px; font-weight: 600; color: var(--text); line-height: 1.25; }
 .jo-stats-row { display: flex; gap: 8px; flex-wrap: wrap; }
 .jo-stat { display: flex; flex-direction: column; align-items: center; background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 6px 14px; min-width: 80px; }
 .jo-stat.accent { border-color: var(--green-border); background: var(--green-bg); }
@@ -453,6 +453,9 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
   .sb-nav { flex: initial; flex-direction: row; justify-content: space-around; gap: 2px; padding: 6px 4px calc(6px + env(safe-area-inset-bottom)); }
   .nav-item { position: relative; flex: 1; min-width: 0; flex-direction: column; justify-content: center; gap: 2px; margin: 0; padding: 4px 2px; border-radius: 6px; font-size: 10px; white-space: nowrap; }
   .nav-icon { font-size: 20px; }
+  .feed-section-hd { min-height: 36px; }
+  .feed-section-lbl { font-size: 14px; }
+  .jo-page-title { font-size: 20px; }
   .nav-item span[id$="-badge"] { position: absolute; top: 0; right: calc(50% - 19px); margin: 0 !important; padding: 0 5px !important; }
   #main { width: 100%; height: auto; min-height: 100dvh; padding-bottom: calc(62px + env(safe-area-inset-bottom)); }
   .view.active { min-height: calc(100dvh - 62px - env(safe-area-inset-bottom)); overflow: visible; }
@@ -520,7 +523,7 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
     </div>
     <div class="view" id="jo-view">
       <div class="jo-header">
-        <div class="jo-title-row"><div class="jo-page-title">Journal Officiel — tous les textes du jour</div></div>
+        <div class="jo-title-row"><div class="jo-page-title" id="jo-page-title">Journal officiel — édition non identifiée</div></div>
         <div class="jo-stats-row" id="jo-stats"></div>
         <input class="jo-search" id="jo-search" type="text" placeholder="Rechercher un arrêté, décret, loi…" oninput="filterJO()">
       </div>
@@ -835,6 +838,12 @@ function renderJO(){
   const items=D?.jo_autres||[],search=(document.getElementById('jo-search')?.value||'').toLowerCase();
   const statsEl=document.getElementById('jo-stats'),groupEl=document.getElementById('jo-groups');
   if(!groupEl)return;
+  const titleEl=document.getElementById('jo-page-title');
+  if(titleEl){
+    titleEl.textContent=D?.jorf_issue_date
+      ?`JO du ${formatDate(D.jorf_issue_date)}`
+      :'Journal officiel — édition non identifiée';
+  }
   const nbT=D?.stats?.jo_analyses||0,nbG=D?.stats?.jo_retenus||0;
   if(statsEl)statsEl.innerHTML=[[nbT,'Textes analysés',false],[nbG,'Pertinents ABC',true],[items.length,'Dans ce JO',false]].map(([v,l,a])=>`<div class="jo-stat ${a&&v>0?'accent':''}"><div class="jo-stat-val">${v}</div><div class="jo-stat-lbl">${l}</div></div>`).join('');
 

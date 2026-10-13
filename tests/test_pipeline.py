@@ -335,7 +335,11 @@ def test_jorf_full_analysis_only_runs_for_screened_items_with_full_text(monkeypa
     }
     full_text = "Texte intégral du décret. " * 300
     analyzed_texts = []
-    monkeypatch.setattr(jorf, 'get_today_jorf_url', lambda _: 'https://example.com/jorf.tar.gz')
+    monkeypatch.setattr(
+        jorf,
+        'get_today_jorf_url',
+        lambda _: 'https://example.com/JORF_20261012-002503.tar.gz',
+    )
     monkeypatch.setattr(jorf.requests, 'get', lambda *args, **kwargs: Response())
     monkeypatch.setattr(jorf, 'parse_jorf_xml', lambda *_: [article])
     briefing_inputs = []
@@ -362,9 +366,10 @@ def test_jorf_full_analysis_only_runs_for_screened_items_with_full_text(monkeypa
 
     monkeypatch.setattr(jorf, 'groq_analyse_jorf', analyze_full_text)
 
-    items, autres, total, briefing = jorf.fetch_jorf('2026-10-12')
+    items, autres, total, briefing, issue_date = jorf.fetch_jorf('2026-10-12')
 
     assert total == 1
+    assert issue_date == '2026-10-12'
     assert analyzed_texts == [full_text]
     assert items[0]['resume'] == 'Résumé fondé sur le texte intégral.'
     assert briefing_inputs[0]['resume'] == 'Résumé fondé sur le texte intégral.'
@@ -404,6 +409,24 @@ def test_get_today_jorf_url_falls_back_to_latest_available_issue(monkeypatch):
     assert jorf.get_today_jorf_url('20261012').endswith('JORF_20261011-205013.tar.gz')
 
 
+def test_jorf_issue_date_comes_from_selected_archive_filename():
+    from abc_pipeline.sources.jorf import _jorf_issue_date
+
+    assert _jorf_issue_date(
+        'https://echanges.dila.gouv.fr/OPENDATA/JORF/JORF_20261013-002011.tar.gz'
+    ) == '2026-10-13'
+    assert _jorf_issue_date('https://example.com/jorf.tar.gz') is None
+    assert _jorf_issue_date('https://example.com/JORF_20261340-002011.tar.gz') is None
+
+
+def test_fetch_jorf_reports_no_issue_date_when_archive_is_unavailable(monkeypatch):
+    from abc_pipeline.sources import jorf
+
+    monkeypatch.setattr(jorf, 'get_today_jorf_url', lambda _: None)
+
+    assert jorf.fetch_jorf('2026-10-13') == ([], [], 0, '', None)
+
+
 def test_jorf_briefing_does_not_use_screened_but_rejected_texts(monkeypatch):
     import io
     import tarfile
@@ -432,7 +455,11 @@ def test_jorf_briefing_does_not_use_screened_but_rejected_texts(monkeypatch):
         'keyword_match': True,
     }
     briefing_calls = []
-    monkeypatch.setattr(jorf, 'get_today_jorf_url', lambda _: 'https://example.com/jorf.tar.gz')
+    monkeypatch.setattr(
+        jorf,
+        'get_today_jorf_url',
+        lambda _: 'https://example.com/JORF_20261012-002503.tar.gz',
+    )
     monkeypatch.setattr(jorf.requests, 'get', lambda *args, **kwargs: Response())
     monkeypatch.setattr(jorf, 'parse_jorf_xml', lambda *_: [article])
     monkeypatch.setattr(jorf, 'groq_briefing_jorf', lambda items, *_: briefing_calls.extend(items))
@@ -448,9 +475,10 @@ def test_jorf_briefing_does_not_use_screened_but_rejected_texts(monkeypatch):
         lambda *_args: {'pertinent': False, 'score': 1, 'resume': 'Aucune obligation pour ABC.'},
     )
 
-    items, autres, total, briefing = jorf.fetch_jorf('2026-10-12')
+    items, autres, total, briefing, issue_date = jorf.fetch_jorf('2026-10-12')
 
     assert total == 1
+    assert issue_date == '2026-10-12'
     assert items == []
     assert briefing_calls == []
     assert 'Aucun texte présélectionné' in briefing

@@ -47,10 +47,17 @@ def main() -> int:
     jorf_autres = []
     jorf_items = []
     briefing_jorf = []
+    jorf_issue_date = None
 
     # 1. JORF
     try:
-        jorf_items, jorf_autres, jorf_total, briefing_jorf = fetch_jorf(today_str)
+        (
+            jorf_items,
+            jorf_autres,
+            jorf_total,
+            briefing_jorf,
+            jorf_issue_date,
+        ) = fetch_jorf(today_str)
         stats['jo_analyses'] = jorf_total
         stats['jo_retenus'] = len(jorf_items)
         source_counts['JORF'] = len(jorf_items)
@@ -150,6 +157,7 @@ def main() -> int:
         'restrictions_eau': restrictions,
         'jo_autres': jorf_autres,
         'jo_retenus': jorf_items,
+        'jorf_issue_date': jorf_issue_date,
         'briefing_jorf': briefing_jorf,
         'pjl_fiches': pjl_fiches,
         'pjl_autres': pjl_autres,
@@ -170,4 +178,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     sys.exit(main())
-
