@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-14T11:22:54.201085+00:00",
+  "generated_at": "2026-10-14T12:02:17.841684+00:00",
   "items": [
+    {
+      "id": "bbdca5f5a64f4a4a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Recyclage chimique : l'Ademe pointe les faibles gains environnementaux et la dépendance à l'industrie chimique",
+      "resume": "Les gains environnementaux du recyclage chimique par rapport à la production de résines vierges sont limités, voire inexistants, estime l'Ademe. Quant au développement des projets, il n'est pas envisageable sans une industrie pétrochimique ",
+      "url": "https://www.actu-environnement.com/ae/news/avis-ademe-recyclage-chimique-impact-environnemental-48658.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T12:00:17+00:00"
+    },
+    {
+      "id": "dae1dd469c1ddff1",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Les effets de l'été sec et caniculaire sur la faune restent encore largement méconnus",
+      "resume": "« Les animaux retrouvés morts ne sont que la partie visible du problème et beaucoup d'effets ne se verront que dans les mois ou les années à venir », prévient l'Office français pour la biodiversité (OFB) après les épisodes climatiques (séch",
+      "url": "https://www.actu-environnement.com/ae/news/faune-secheresse-canicule-2026-ofb-48661.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T11:37:00+00:00"
+    },
     {
       "id": "08d77b99714a0058",
       "source": "GreenUnivers",
@@ -326,15 +344,6 @@
       "published_at": "2026-10-13T14:44:42+00:00"
     },
     {
-      "id": "93ab800b8ff7845e",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Projet de datacenter en Seine-et-Marne : plusieurs associations déposent des recours en justice",
-      "resume": "Un collectif d'associations «&#8239;Stop Campus IA&#8239;» a annoncé déposer une série de recours contentieux pour demander l'annulation des autorisations obtenues par le projet Campus IA, à Fouju (Seine-et-Marne). Annoncé lors du...",
-      "url": "https://www.actu-environnement.com/ae/news/recours-datacenter-campus-ia-fouju-48656.php4#xtor=RSS-6",
-      "published_at": "2026-10-13T14:24:48+00:00"
-    },
-    {
       "id": "3811933d41589ee9",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -360,15 +369,6 @@
       "resume": "Le candidat LR à l’élection présidentielle préfère les réacteurs de quatrième génération, a-t-il déclaré au sommet pour la compétitivité de POLITICO.",
       "url": "https://www.politico.eu/article/bruno-retailleau-temporise-sur-la-relance-du-nucleaire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T13:47:24+00:00"
-    },
-    {
-      "id": "21d306310f32f517",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Mécanisme de capacité : une première enchère prudente et une place particulière pour les batteries",
-      "resume": "La Commission de régulation de l'énergie (CRE) s'est prononcée sur le rapport de paramétrage de RTE pour la première enchère de long terme du nouveau mécanisme de capacité. Pour rappel, dans le cadre de ce nouveau dispositif, qui entre en v",
-      "url": "https://www.actu-environnement.com/ae/news/mecanisme-capacite-enchere-long-terme-batteries-48654.php4#xtor=RSS-6",
-      "published_at": "2026-10-13T13:31:55+00:00"
     },
     {
       "id": "c5b9bd6b869be4fa",
