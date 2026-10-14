@@ -66,10 +66,29 @@ def _review_rss_candidates(
     today_str: str,
     new_seen: dict = None,
     freshness_cutoff: datetime = None,
+    existing_by_id: dict = None,
 ) -> list:
-    """Batch-screen recent candidates, then validate promising items on article text."""
+    """Batch-screen recent candidates, then validate promising items on article text.
+
+    Candidates already decided earlier today (same source + title, found in
+    existing_by_id) are reused verbatim — no LLM call — so an article
+    retained this morning doesn't silently disappear or flip on a re-run.
+    """
     if not candidates:
         return []
+
+    items = []
+    if existing_by_id:
+        still_new = []
+        for candidate in candidates:
+            cached = existing_by_id.get(make_id(source_name, candidate['titre']))
+            if cached is not None:
+                items.append(cached)
+            else:
+                still_new.append(candidate)
+        candidates = still_new
+        if not candidates:
+            return items
 
     priority_candidates = [
         candidate for candidate in candidates
@@ -109,7 +128,6 @@ def _review_rss_candidates(
             )
             promising.extend(screening_candidates)
 
-    items = []
     for candidate in promising:
         titre = candidate['titre']
         url = candidate.get('url', '')
@@ -159,13 +177,13 @@ def _review_rss_candidates(
             new_seen[url] = today_str
 
     log.info(
-        f"RSS {source_name} : {len(candidates)} candidats, {len(promising)} à vérifier, "
-        f"{len(items)} retenus après lecture complète"
+        f"RSS {source_name} : {len(candidates)} nouveau(x) candidat(s), {len(promising)} à vérifier, "
+        f"{len(items)} retenus au total"
     )
     return items
 
 
-def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_seen: dict = None):
+def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_seen: dict = None, existing_by_id: dict = None):
     items = []
     name = source['name']
 
@@ -207,6 +225,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                 today_str,
                 new_seen=new_seen,
                 freshness_cutoff=fallback_cutoff,
+                existing_by_id=existing_by_id,
             ))
         except Exception as e:
             log.warning(f"Playwright {name} error : {e}")
@@ -303,7 +322,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                 'date': article_date,
                 'themes': source.get('require_keywords', []),
             })
-        items.extend(_review_rss_candidates(name, candidates, today_str))
+        items.extend(_review_rss_candidates(name, candidates, today_str, existing_by_id=existing_by_id))
 
     except Exception as e:
         log.warning(f"RSS {name} error : {e}")
@@ -332,6 +351,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                                 'themes': source.get('require_keywords', []),
                             }],
                             today_str,
+                            existing_by_id=existing_by_id,
                         ))
                 else:
                     fallback_cutoff = _rss_cutoff(datetime.now())
@@ -377,6 +397,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
                         today_str,
                         new_seen=new_seen,
                         freshness_cutoff=fallback_cutoff,
+                        existing_by_id=existing_by_id,
                     ))
 
             except Exception as e2:
@@ -385,7 +406,7 @@ def fetch_rss_source(source: dict, today_str: str, seen_urls: dict = None, new_s
     return items
 
 
-def fetch_rss(today_str: str, script_dir: Path = None):
+def fetch_rss(today_str: str, script_dir: Path = None, existing_items: list = None):
     log.info("=== RSS ===")
 
     # ── Cache des URLs déjà vus pour les sources fallback_crawl ──────────
@@ -403,15 +424,30 @@ def fetch_rss(today_str: str, script_dir: Path = None):
         seen_cache = {url: d for url, d in seen_cache.items() if d >= cutoff}
 
     new_seen: dict = {}
+    existing_by_id = {item['id']: item for item in (existing_items or []) if item.get('id')}
 
     all_items = []
     for source in RSS_SOURCES:
         is_fallback = bool(source.get('fallback_crawl') or source.get('playwright_crawl'))
-        items = fetch_rss_source(source, today_str, seen_urls=seen_cache if is_fallback else None, new_seen=new_seen if is_fallback else None)
+        items = fetch_rss_source(
+            source, today_str,
+            seen_urls=seen_cache if is_fallback else None,
+            new_seen=new_seen if is_fallback else None,
+            existing_by_id=existing_by_id,
+        )
         if not items:
             log.warning(f"SOURCE VIDE : {source['name']} — 0 articles retenus")
         all_items.extend(items)
         log.info(f"RSS {source['name']} : {len(items)} retenus")
+
+    # Carry forward items decided earlier today whose source article has
+    # since scrolled out of its feed's recent-entries window (so they were
+    # never even re-presented as a candidate above) — they must not vanish.
+    seen_ids = {item['id'] for item in all_items if item.get('id')}
+    carried = [item for item_id, item in existing_by_id.items() if item_id not in seen_ids]
+    if carried:
+        log.info(f"RSS : {len(carried)} item(s) repris tel quel (sortis de la fenêtre des flux)")
+        all_items.extend(carried)
 
     # Save updated seen cache
     if seen_path is not None and new_seen:

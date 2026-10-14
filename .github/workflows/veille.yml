@@ -67,6 +67,19 @@ jobs:
           ref: gh-pages
           path: gh-pages-branch
 
+      # ── 4bis. Restauration de l'état du jour depuis gh-pages ─────
+      #    data/<date>.json : permet au run de l'après-midi de reprendre
+      #    tel quel ce que le run du matin a déjà retenu (cohérence
+      #    intraday), plutôt que de tout redériver depuis zéro.
+      #    rss_seen.json : cache de dédoublonnage des sources fallback_crawl,
+      #    ne sert à rien s'il repart de zéro à chaque run.
+      - name: Restore today's data from gh-pages
+        run: |
+          mkdir -p data
+          TODAY=$(date -u +%Y-%m-%d)
+          cp "gh-pages-branch/data/${TODAY}.json" "data/${TODAY}.json" 2>/dev/null || true
+          cp gh-pages-branch/data/rss_seen.json data/rss_seen.json 2>/dev/null || true
+
       # ── 5. Exécution du pipeline ─────────────────────────────────
       - name: Run pipeline
         env:

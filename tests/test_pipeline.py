@@ -716,3 +716,89 @@ def test_make_id_deterministic():
 def test_make_id_different():
     from abc_pipeline.filters import make_id
     assert make_id("JORF", "Titre A") != make_id("JORF", "Titre B")
+
+
+# ── Intraday consistency (same article across the morning/afternoon runs) ──────
+
+def test_rss_source_reuses_existing_verdict_without_llm_call(monkeypatch):
+    from types import SimpleNamespace
+    import time
+
+    from abc_pipeline.sources import rss
+    from abc_pipeline.filters import make_id
+
+    class FixedDateTime(datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return cls(2026, 10, 13, 14)
+
+    monkeypatch.setattr(rss, 'datetime', FixedDateTime)
+    monkeypatch.setattr(rss.requests, 'get', lambda *args, **kwargs: SimpleNamespace(content=b'<rss/>'))
+    monkeypatch.setattr(rss.feedparser, 'parse', lambda *_: SimpleNamespace(
+        bozo=False,
+        entries=[{
+            'title': 'Historical heating demand shifts across Europe',
+            'summary': 'A data-led comparison of long-term demand patterns.',
+            'link': 'https://example.com/heating',
+            'published_parsed': time.strptime('2026-10-13', '%Y-%m-%d'),
+        }],
+    ))
+    monkeypatch.setattr(rss, 'groq_analyse_batch', lambda *a, **k: pytest.fail('batch screening must not run for an already-decided item'))
+    monkeypatch.setattr(rss, 'groq_analyse_rss', lambda *a, **k: pytest.fail('full review must not run for an already-decided item'))
+
+    morning_item = {
+        'id': make_id('Energy Trends', 'Historical heating demand shifts across Europe'),
+        'source': 'Energy Trends',
+        'categorie': 'Énergie',
+        'titre': 'Historical heating demand shifts across Europe',
+        'resume': 'La demande de chaleur évolue sur plusieurs décennies.',
+        'pourquoi': '',
+        'criticite': 1,
+        'url': 'https://example.com/heating',
+        'date': '2026-10-13',
+    }
+
+    items = rss.fetch_rss_source(
+        {'name': 'Energy Trends', 'url': 'https://example.com/feed', 'require_keywords': []},
+        '2026-10-13',
+        existing_by_id={morning_item['id']: morning_item},
+    )
+
+    assert items == [morning_item]
+
+
+def test_rss_carries_forward_item_that_scrolled_out_of_feed_window(monkeypatch):
+    from types import SimpleNamespace
+
+    from abc_pipeline.sources import rss
+    from abc_pipeline.filters import make_id
+
+    class FixedDateTime(datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return cls(2026, 10, 13, 14)
+
+    monkeypatch.setattr(rss, 'datetime', FixedDateTime)
+    monkeypatch.setattr(rss, 'RSS_SOURCES', [
+        {'name': 'Energy Trends', 'url': 'https://example.com/feed', 'require_keywords': []},
+    ])
+    monkeypatch.setattr(rss.requests, 'get', lambda *args, **kwargs: SimpleNamespace(content=b'<rss/>'))
+    # This afternoon's feed no longer contains this morning's article at all —
+    # newer entries pushed it out of the top-15 window.
+    monkeypatch.setattr(rss.feedparser, 'parse', lambda *_: SimpleNamespace(bozo=False, entries=[]))
+
+    morning_item = {
+        'id': make_id('Energy Trends', 'Historical heating demand shifts across Europe'),
+        'source': 'Energy Trends',
+        'categorie': 'Énergie',
+        'titre': 'Historical heating demand shifts across Europe',
+        'resume': 'La demande de chaleur évolue sur plusieurs décennies.',
+        'pourquoi': '',
+        'criticite': 1,
+        'url': 'https://example.com/heating',
+        'date': '2026-10-13',
+    }
+
+    items = rss.fetch_rss('2026-10-13', script_dir=None, existing_items=[morning_item])
+
+    assert items == [morning_item]

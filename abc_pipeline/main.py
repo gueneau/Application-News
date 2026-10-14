@@ -1,3 +1,4 @@
+import json
 import logging
 import sys
 from datetime import datetime
@@ -72,8 +73,22 @@ def main() -> int:
         source_counts['JORF'] = 0
 
     # 2. RSS / Presse
+    # Intraday consistency: an article retained this morning must still be
+    # there this afternoon. Re-load whatever today's file already has (if
+    # this is a same-day re-run) so fetch_rss can skip re-analysing items
+    # it already decided on, and carry forward ones that scrolled out of
+    # their feed's recent-entries window.
+    existing_rss_items = []
+    today_file = script_dir / 'data' / f'{today_str}.json'
+    if today_file.exists():
+        try:
+            existing_rss_items = json.loads(today_file.read_text(encoding='utf-8')).get('items', [])
+            log.info(f"Repris {len(existing_rss_items)} item(s) RSS déjà retenu(s) aujourd'hui")
+        except Exception as e:
+            log.warning(f"Lecture data/{today_str}.json existant : {e}")
+
     try:
-        rss_items = fetch_rss(today_str, script_dir)
+        rss_items = fetch_rss(today_str, script_dir, existing_items=existing_rss_items)
         items.extend(rss_items)
         source_counts['RSS'] = len(rss_items)
         if len(rss_items) == 0:
