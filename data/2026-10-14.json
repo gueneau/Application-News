@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "generated_at": "11:49",
-  "elapsed_seconds": 251,
+  "generated_at": "13:57",
+  "elapsed_seconds": 514,
   "errors": [],
   "stats": {
     "jo_analyses": 11,
@@ -9,18 +9,18 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-14T11:49:42",
+    "run_at": "2026-10-14T13:57:06",
     "sources": {
       "JORF": 0,
-      "RSS": 2,
+      "RSS": 3,
       "VigiEau": 93,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 16,
-    "llm_seconds": 57.6
+    "llm_calls": 49,
+    "llm_seconds": 45.2
   },
   "items": [
     {
@@ -43,6 +43,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://reporterre.net/Pour-sauver-sa-centrale-nucleaire-la-Hongrie-construit-un-barrage-sans-autorisation-environnementale",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "a36957132cf9",
+      "source": "Les Echos Environnement",
+      "categorie": "Émissions",
+      "titre": "Pourquoi l'empreinte carbone de la France diminue moins vite que les émissions nationales - Les Echos",
+      "resume": "Analyse de l'écart entre la baisse des émissions nationales de gaz à effet de serre de la France et la diminution réelle de son empreinte carbone globale.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZVVHFvdTdkT1ZIbjQ0LTZYcm5SMW9PazhSOXBfbTN1Q1hEbTE5eDBKbE9RTnpYODFYcnRJRkZJVFhHM0RleW5EN28yNUUtZzJOMVgzUkxabFFOWHFYV05KX094eWF4aGduRkxyM25ndmhjNmo5UkozaTdIalBWdnpqbEtEZVlpMEE4U3BfMXJaMmM0TDdMQXMtUTVDZl9mVk5CUGlkbGpjR0Fsd0FiblpOTWRfWWZYc0Z3cmxaMWpnX1B3dDEtcllCMThHTW5GVk9ETEdvZ0w5ZnBURGdjdm5R?oc=5",
       "date": "2026-10-13"
     }
   ],
