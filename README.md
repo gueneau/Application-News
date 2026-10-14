@@ -20,7 +20,6 @@ Everything here runs without a paid server: GitHub Actions does the scheduled wo
 | Serverless | **Supabase Edge Function** (Deno) | The only place a GitHub token is allowed to exist; see [Flux Live](#flux-live-lightweight-rss-no-llm) below |
 | Hosting & CI | **GitHub Actions** (scheduled + on-demand workflows) + **GitHub Pages** (`gh-pages` branch) | No server to maintain; Actions regenerates the data, Pages serves it |
 
-If you're new to writing READMEs: yes, a short "tech stack" section like this one is standard practice, not a formality specific to this project — it's one of the first things in most popular README templates (e.g. [Make a README](https://www.makeareadme.com/), GitHub's own community guidelines) because it lets a reader decide in five seconds whether the repo is relevant to them, before they read any code.
 
 ## How it works
 
