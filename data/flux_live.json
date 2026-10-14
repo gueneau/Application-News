@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T09:33:00.097145+00:00",
+  "generated_at": "2026-10-14T09:51:12.519501+00:00",
   "items": [
+    {
+      "id": "edfa135d654c95e6",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Aux Etats-Unis, le gendarme financier s’en prend à Climate Action 100+",
+      "resume": "La SEC s'est penché sur le rôle de Climate Action 100+ lors de l'assemblée générale d'ExxonMobil de 2021. @CCO La vengeance est un plat qui se mange (très) froid ! La Securities and exchange commission (SEC) a publié un long rapport sur l’e",
+      "url": "https://www.novethic.fr/finance-durable/engagement-actionnarial/etats-unis-gendarme-financier-prend-climate-action-100",
+      "published_at": "2026-10-14T09:45:39+00:00"
+    },
     {
       "id": "ed4aa269859ced17",
       "source": "ESG Today",
@@ -149,8 +158,8 @@
       "id": "1986cb15de2e50e3",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Soupçons d'entente et de corruption : des perquisitions chez EDF et ses fournisseurs - Les Echos",
-      "resume": "Soupçons d'entente et de corruption : des perquisitions chez EDF et ses fournisseurs Les Echos",
+      "titre": "Nucléaire : EDF a-t-il été victime de « corruption en bande organisée et d'entente anticoncurrentielle » de la part d'entreprises de maintenance - Les Echos",
+      "resume": "Nucléaire : EDF a-t-il été victime de « corruption en bande organisée et d'entente anticoncurrentielle » de la part d'entreprises de maintenance Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzRhbWtmb081VXZSV3lkN1NxNlYwVlRTXzQ2cVRlYjhQQ1hZUzZDVjJYVEFtcGtOVzRrSnNWUzV0U2QzclZIaVU4dm5CVnVpWkMxWm93ekZVbXRVdVNUWC1INUJ3VXlHTURuV3NjWWp1eGhRbEpqN2Fmb0ZCMG55RHUtQy1Pdm5wQ2UxdVFFaUJNeDNsZ3Y0Ni00WkhfN1NlVDh3MmRhUExVbUk1aTFmSWNDM1d4MWE5b2ZjRzhzMVo1dDNwVy1rT3B0WjVKdXVLZUlFTjBMQXczS0Y5Z2FKNjZRQ1E4c2d0a3c?oc=5",
       "published_at": "2026-10-13T17:15:56+00:00"
     },
@@ -468,15 +477,6 @@
       "resume": "La COP, qui s’ouvre dans une semaine en Arménie, marquera le premier examen mondial des progrès accomplis en faveur de la biodiversité. L’occasion pour Contexte de faire le point sur les progrès et retards à l’égard des dix principaux objec",
       "url": "https://www.contexte.com/fr/article/environnement/cop17-biodiversite-la-france-et-lue-sont-elles-a-la-hauteur-de-leurs-engagements_279295?source=rss",
       "published_at": "2026-10-12T06:00:00+00:00"
-    },
-    {
-      "id": "c53d7b73d45b044f",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Bulle de l’IA : la dette cachée qui menace de contaminer la finance",
-      "resume": "Selon Bain & Company, il faudra générer 6000 milliards de dollars de revenus par an pour rentabiliser les investissements réalisés dans l'intelligence artificielle. @Pixabay Les fonds propres ne suffisent plus. Les Big Tech américaines cont",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/dette-privee-titrisation-shadow-banking-quand-risque-bulle-ia-diffuse-systeme-financier",
-      "published_at": "2026-10-12T04:45:59+00:00"
     },
     {
       "id": "43b4bce51bef27f2",
