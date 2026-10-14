@@ -266,6 +266,8 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .flux-row-titre { font-size: 13.5px; font-weight: 600; color: var(--text); line-height: 1.4; }
 .flux-row-resume { font-size: 12.5px; color: var(--text2); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .flux-row-source { flex-shrink: 0; width: 148px; display: flex; flex-direction: column; align-items: flex-end; gap: 5px; text-align: right; }
+.flux-row-source-top { display: flex; align-items: center; gap: 4px; }
+.flux-row-source-top .like-btn { font-size: 15px; padding: 9px; margin: -9px; }
 .flux-row-source-name { font-size: 11px; font-weight: 600; color: var(--text2); background: var(--surface3); padding: 2px 9px; border-radius: 20px; white-space: nowrap; max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
 .flux-row-time { font-size: 10.5px; color: var(--muted2); font-family: var(--mono); }
 .flux-row-link { font-size: 11px; font-weight: 600; color: var(--secondary); text-decoration: none; display: inline-flex; align-items: center; gap: 2px; padding: 10px 2px; margin: -10px -2px; }
@@ -1431,11 +1433,11 @@ function _likesLocalSave(){
   try{localStorage.setItem('abc_likes',JSON.stringify(likes));}
   catch(e){console.warn('Likes local save:',e);}
 }
-async function syncLikeToSupa(itemId,item,likedAt,isLiked){
+async function syncLikeToSupa(itemId,item,likedAt,isLiked,dataDate){
   try{
     const client=getSupa();
     const{error}=isLiked
-      ?await client.from('user_likes').upsert({article_id:itemId,article_data:{...item,dataDate:currentDate},liked_at:likedAt})
+      ?await client.from('user_likes').upsert({article_id:itemId,article_data:{...item,dataDate},liked_at:likedAt})
       :await client.from('user_likes').delete().eq('article_id',itemId);
     if(error)throw error;
   }catch(e){console.warn('Like Supabase sync:',e);}
@@ -1464,13 +1466,15 @@ async function loadLikesFromSupa(){
       updateLikesBadge();
       renderFeed();
       if(currentView==='likes')renderLikes();
+      if(currentView==='flux')renderFluxLive();
     }
   }catch(e){console.warn('Likes Supabase load:',e);}
 }
 function toggleLike(itemId){
-  const item=D?.items?.find(i=>i.id===itemId)||likes.find(l=>l.id===itemId);
+  const item=D?.items?.find(i=>i.id===itemId)||fluxLiveData?.items?.find(i=>i.id===itemId)||likes.find(l=>l.id===itemId);
   if(!item)return;
   const idx=likes.findIndex(l=>l.id===itemId);
+  const dataDate=item.published_at?item.published_at.slice(0,10):currentDate;
   let likedAt=null;
   let isLiked;
   if(idx>=0){
@@ -1480,14 +1484,18 @@ function toggleLike(itemId){
   }else{
     likedAt=new Date().toISOString();
     isLiked=true;
-    const entry={...item,likedAt,dataDate:currentDate};
+    const entry={...item,likedAt,dataDate};
     likes.unshift(entry);
     showToast('⭐ Sauvegardé dans les favoris');
   }
   _likesLocalSave();updateLikesBadge();
-  void syncLikeToSupa(itemId,item,likedAt,isLiked);
-  const btn=document.querySelector(`[data-like-id="${itemId}"]`);
-  if(btn){const now=likes.some(l=>l.id===itemId);btn.textContent=now?'★':'☆';btn.classList.toggle('liked',now);}
+  void syncLikeToSupa(itemId,item,likedAt,isLiked,dataDate);
+  document.querySelectorAll(`[data-like-id="${itemId}"]`).forEach(btn=>{
+    const now=likes.some(l=>l.id===itemId);
+    btn.textContent=now?'★':'☆';
+    btn.classList.toggle('liked',now);
+    btn.title=now?'Retirer des favoris':'Sauvegarder';
+  });
   if(currentView==='likes')renderLikes();
 }
 function renderLikes(){
@@ -1519,6 +1527,7 @@ function renderLikes(){
 function clearLikes(){
   if(!confirm(`Supprimer les ${likes.length} favoris ?`))return;
   likes=[];_likesLocalSave();renderLikes();renderFeed();updateLikesBadge();
+  if(currentView==='flux')renderFluxLive();
   void clearSupaLikes();
 }
 
@@ -1592,18 +1601,24 @@ function renderFluxLive(){
     :'';
   const list=document.getElementById('flux-list');
   if(!items.length){list.innerHTML=`<div class="empty-state">Aucun article pour le moment</div>`;updateFluxFades();return;}
-  list.innerHTML=items.map(item=>`
+  list.innerHTML=items.map(item=>{
+    const isLiked=likes.some(l=>l.id===item.id);
+    return `
     <div class="flux-row">
       <div class="flux-row-main">
         <div class="flux-row-titre">${escHtml(item.titre)}</div>
         ${item.resume?`<div class="flux-row-resume">${escHtml(item.resume)}</div>`:''}
       </div>
       <div class="flux-row-source">
-        <span class="flux-row-source-name">${escHtml(item.source)}</span>
+        <div class="flux-row-source-top">
+          <button class="like-btn${isLiked?' liked':''}" data-like-id="${item.id}" onclick="toggleLike('${item.id}')" title="${isLiked?'Retirer des favoris':'Sauvegarder'}">${isLiked?'★':'☆'}</button>
+          <span class="flux-row-source-name">${escHtml(item.source)}</span>
+        </div>
         <span class="flux-row-time">${fluxTimeAgo(item.published_at)}</span>
         ${item.url?`<a class="flux-row-link" href="${escHtml(item.url)}" target="_blank" rel="noopener">Lire<span class="material-symbols-outlined">open_in_new</span></a>`:''}
       </div>
-    </div>`).join('');
+    </div>`;
+  }).join('');
   if(!list._fadeBound){
     list.addEventListener('scroll',updateFluxFades);
     window.addEventListener('resize',updateFluxFades);
