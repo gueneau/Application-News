@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-14T14:15:28.324513+00:00",
+  "generated_at": "2026-10-14T15:13:20.351858+00:00",
   "items": [
+    {
+      "id": "de44a10183d98683",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "JPMorgan Updates Sustainable Finance Strategy to Balance Energy Emissions, Security, Reliability and Affordability",
+      "resume": "U.S. banking giant JPMorganChase announced on Wednesday a series of updates to its approach to […]",
+      "url": "https://www.esgtoday.com/jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability",
+      "published_at": "2026-10-14T15:00:58+00:00"
+    },
+    {
+      "id": "7c036e199901df70",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Fini la coopérative : Duralex repris pour en faire \"l'usine de verre la plus verte au monde\"",
+      "resume": "Les salariés de Duralex se retrouvent à nouveau en difficulté. @MF Duralex aura eu mille vies, et presque autant de sauvetages. Mercredi 14 octobre, le tribunal de commerce d’Orléans a confié la célèbre verrerie aux verres de cantine à Tomé",
+      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/fini-la-cooperative-duralex-repris-pour-en-faire-lusine-de-verre-la-plus-verte-au-monde",
+      "published_at": "2026-10-14T14:45:17+00:00"
+    },
+    {
+      "id": "66f468864e93b124",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En France, la pollution de l’air repart à la hausse, après des années de recul",
+      "resume": "Le bilan 2025 de la qualité de l’air révèle une « légère » progression des concentrations en particules fines, dioxyde d’azote et ozone avec six épisodes de pollution d’ampleur nationale.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/14/en-france-la-pollution-de-l-air-repart-a-la-hausse-apres-des-annees-de-recul_6793758_3244.html",
+      "published_at": "2026-10-14T14:43:47+00:00"
+    },
+    {
+      "id": "851b32124efc9f23",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Combien de lycées français sont prêts face aux canicules ?",
+      "resume": "Chaque semaine, l’équipe du podcast « Chaleur humaine » répond à vos questions sur la transition climatique",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/14/combien-de-lycees-francais-sont-prets-face-aux-canicules_6793755_3244.html",
+      "published_at": "2026-10-14T14:30:10+00:00"
+    },
+    {
+      "id": "f5838dc8d986a8c8",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "EDF cède sa filiale hydrogène Hynamics à Hy24",
+      "resume": "EDF a trouvé un accord avec le fonds Hy24 pour lui céder Hynamics, sa filiale spécialisée dans le développement de projets d’électrolyse. Cet accord a été signé le 12 octobre. L’électricien espère L’article EDF cède sa filiale hydrogène Hyn",
+      "url": "https://www.greenunivers.com/2026/10/edf-cede-sa-filiale-hydrogene-hynamics-a-hy24-436050/",
+      "published_at": "2026-10-14T14:26:25+00:00"
+    },
     {
       "id": "61c874b72dca2ccf",
       "source": "Actu-Environnement",
@@ -15,9 +60,9 @@
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Les pompiers professionnels reconduisent leur grève jusqu’au 4 décembre",
-      "resume": "L’intersyndicale estime que le gouvernement n’a toujours pas répondu à leurs revendications, notamment d’augmenter les moyens humains et financiers.",
+      "resume": "L’intersyndicale estime que le gouvernement n’a toujours pas répondu à leurs revendications, notamment à celle portant sur l’augmentation des moyens humains et financiers.",
       "url": "https://www.lemonde.fr/societe/article/2026/10/14/les-pompiers-professionnels-reconduisent-leur-greve-jusqu-au-4-decembre_6793751_3224.html",
-      "published_at": "2026-10-14T13:58:34+00:00"
+      "published_at": "2026-10-14T13:58:33+00:00"
     },
     {
       "id": "48278ecf3da0acf9",
@@ -281,24 +326,6 @@
       "published_at": "2026-10-14T03:30:03+00:00"
     },
     {
-      "id": "ae748938d15c730f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Déforestation : des progrès fragiles en Amazonie, mais une aggravation dans le bassin du Congo",
-      "resume": "Le rythme de perte de forêts a ralenti en 2025 dans le monde. Les avancées ne se concentrent que dans quelques pays seulement.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/14/deforestation-des-progres-fragiles-en-amazonie-mais-une-aggravation-dans-le-bassin-du-congo_6793314_3244.html",
-      "published_at": "2026-10-14T03:00:09+00:00"
-    },
-    {
-      "id": "20f7df36e5f72d32",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Octobre rose : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
-      "resume": "Implication du lobby des pesticides, lien avec la guerre à Gaza, duplicité des élus porteurs du ruban rose… La députée « insoumise » accuse la campagne de sensibilisation au cancer du sein de « cynisme absolu ». Si elle s’appuie sur des fai",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/13/octobre-rose-les-accusations-de-mathilde-panot-reposent-elles-sur-des-faits-averes_6793172_4355770.html",
-      "published_at": "2026-10-13T19:08:19+00:00"
-    },
-    {
       "id": "1986cb15de2e50e3",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -353,15 +380,6 @@
       "published_at": "2026-10-13T15:28:35+00:00"
     },
     {
-      "id": "670f2b0872804e73",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Batteries : GreenYellow et Tilt Energy proposent une offre clé en main",
-      "resume": "GreenYellow et Tilt Energy s’associent pour proposer l’installation de batteries (BESS) derrière le compteur des clients, sans investissement initial. C’est le spécialiste L’article Batteries : GreenYellow et Tilt Energy proposent une offre",
-      "url": "https://www.greenunivers.com/2026/10/batteries-greenyellow-et-tilt-energy-proposent-une-offre-cle-en-main-435966/",
-      "published_at": "2026-10-13T15:24:57+00:00"
-    },
-    {
       "id": "6cfa94ebb70251fc",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -369,15 +387,6 @@
       "resume": "Apporter ma pierre à cet édifice » : l'ancien patron d'Alstom prend la tête du plus grand projet de parc solaire en Europe Les Echos",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOODhFRzN5Tk5qM0dpODV3MmRQWTdzcTYzYmVGQ1JqdTNrZDNZeE94SDMySDhWX2dRN18tWmI3cm13SXJWUmVyVWRjSkRQZFkxOGo0T0pvSnlpSXVMeTB6cGNBV3lmenF1a1RUNmtGQWNlVEtrbEtUZ25CZjNDb0FEN0phcHlfd2Q2UnRob2FsN1JWYzRmanlYTnNWR2xOUHhwYnJWUFkxU0ZjVElXTk5Ra29zM2RmemhKZWItc214ckkxRDJtOWxnVkVnNTN1RjZ0SlpQRlJxSEM3R2JHbV92NHZmTndZakt5eXlLdERUMXBZeVJqcVVlRDdRR3JDdEZXOEMtT0dkakdUWWlQQlV3NEtBOHI1dHFf?oc=5",
       "published_at": "2026-10-13T14:59:00+00:00"
-    },
-    {
-      "id": "6924b41411b81acd",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "TNFD Releases Major Update to Guidance Supporting Corporate Nature-Related Reporting",
-      "resume": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first […]",
-      "url": "https://www.esgtoday.com/tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting",
-      "published_at": "2026-10-13T14:44:42+00:00"
     },
     {
       "id": "50398b4a17220baf",
@@ -423,15 +432,6 @@
       "resume": "Les énergies renouvelables doivent être développées pour garantir la sécurité d'approvisionnement en France, a indiqué le candidat Horizons à l’élection présidentielle.",
       "url": "https://www.politico.eu/article/energie-face-au-risque-lie-au-nucleaire-edouard-philippe-juge-les-renouvelables-utiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T10:16:49+00:00"
-    },
-    {
-      "id": "9a955ec62cd66341",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Axa Future Risks : La fracture sociale s'impose parmi les principaux risques économiques mondiaux",
-      "resume": "La polarisation sociale au coeur des risques mondiaux selon l'Axa Risk Report- Photo de Clay Bankssur Unsplash La fracture sociale, les tensions et la polarisation qui traversent la société pourraient durablement fragiliser les économies mo",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/fracture-sociale-risques-economiques-2026-future-risk-report-axa",
-      "published_at": "2026-10-13T04:45:26+00:00"
     },
     {
       "id": "e5fa366103d9c55d",
