@@ -367,8 +367,10 @@ def test_rss_editorial_prompt_keeps_heat_and_water_operational_case(monkeypatch)
 
     assert result['pertinent'] is True
     assert result['score'] == 1
-    assert "une usine de chips arrêtée lors d'une canicule faute d'eau" in prompts[0]
+    assert "une usine agroalimentaire en France arrêtée trois jours" in prompts[0]
     assert "risques opérationnels liés au stress hydrique" in prompts[0]
+    assert "MATÉRIALITÉ CONCRÈTE" in prompts[0]
+    assert "pas de lien géographique FR/UE" in prompts[0]
 
 
 def test_rss_batch_screen_rejects_incomplete_llm_response(monkeypatch):
