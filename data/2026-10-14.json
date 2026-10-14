@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "generated_at": "07:53",
-  "elapsed_seconds": 527,
+  "generated_at": "11:49",
+  "elapsed_seconds": 251,
   "errors": [],
   "stats": {
     "jo_analyses": 11,
@@ -9,74 +9,40 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-14T07:53:45",
+    "run_at": "2026-10-14T11:49:42",
     "sources": {
       "JORF": 0,
-      "RSS": 5,
+      "RSS": 2,
       "VigiEau": 93,
-      "Parlement": 0
+      "AN Agenda": 8
     },
     "errors": [
-      "SOURCE VIDE — JORF : 0 textes retenus",
-      "SOURCE VIDE — Parlement : 0 fiches"
+      "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 50,
-    "llm_seconds": 40.2
+    "llm_calls": 16,
+    "llm_seconds": 57.6
   },
   "items": [
     {
-      "id": "bd8c951f04a7",
-      "source": "The Guardian Environment",
-      "categorie": "Eau",
-      "titre": "Businesses could be barred from non-essential water use amid supply threat",
-      "resume": "Des restrictions d'eau non essentielle pour les entreprises sont envisagées face aux menaces sur l'approvisionnement en raison de la sécheresse.",
-      "pourquoi": "Ces restrictions d'eau menacent directement la continuité des prestations de propreté et de maintenance d'ABC sur les sites de ses 3 000+ clients, imposant d'intégrer l'efficience hydrique dans ses contrats à court terme pour transformer ce risque réglementaire en opportunité commerciale.",
-      "criticite": 2,
-      "url": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
-      "date": "2026-10-14"
-    },
-    {
-      "id": "c118a91eabac",
-      "source": "Actuel HSE",
-      "categorie": "Eau",
-      "titre": "Canicule : Quand l’usine de chips Brets s’est arrêtée faute d’eau",
-      "resume": "La suspension temporaire de la production d'une usine agroalimentaire en période de canicule faute d'eau illustre concrètement les risques de vulnérabilité au stress hydrique et d'interruption d'activité pour les sites industriels.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.actuel-hse.fr/content/canicule-quand-lusine-de-chips-brets-sest-arretee-faute-deau-0",
-      "date": "2026-10-14"
-    },
-    {
       "id": "d35743b9dedc",
       "source": "Actu-Environnement",
-      "categorie": "Énergie",
+      "categorie": "Environnement",
       "titre": "Certificats d'économies d'énergie : les entrepôts logistiques bientôt exclus de quinze fiches",
-      "resume": "Un projet d'arrêté envisage d'exclure les entrepôts logistiques de quinze fiches du dispositif des Certificats d'économies d'énergie (CEE) pour le secteur tertiaire, modifiant le cadre des incitations à l'efficacité énergétique.",
+      "resume": "Exclusion des entrepôts logistiques des fiches CEE, ce qui pourrait réduire les obligations d'efficacité énergétique pour ces sites.",
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/arrete-consultation-cee-entrepots-logistiques-fiches-tertiaires-florence-lievyn-sonergia-48657.php4#xtor=RSS-6",
       "date": "2026-10-13"
     },
     {
-      "id": "bbffd96cab99",
+      "id": "576076bef7b6",
       "source": "Reporterre",
-      "categorie": "Émissions",
-      "titre": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
-      "resume": "Les émissions de GES en France devraient baisser de 2,8 % en 2026, portées notamment par le prix du gazole, mais ce rythme reste insuffisant pour atteindre les objectifs climatiques nationaux.",
+      "categorie": "Eau",
+      "titre": "Pour sauver sa centrale nucléaire, la Hongrie construit un barrage sans autorisation environnementale",
+      "resume": "La construction d'un seuil de pierre sans autorisation pour protéger la centrale nucléaire de Paks contre la sécheresse illustre la vulnérabilité des sites critiques aux pénuries d'eau, un risque pertinent pour les clients d'ABC dans les secteurs nucléaire, santé et industrie.",
       "pourquoi": "",
       "criticite": 1,
-      "url": "https://reporterre.net/Chauffage-transport-la-baisse-des-emissions-se-poursuit-mais-pas-assez-vite",
-      "date": "2026-10-13"
-    },
-    {
-      "id": "a36957132cf9",
-      "source": "Les Echos Environnement",
-      "categorie": "Émissions",
-      "titre": "Pourquoi l'empreinte carbone de la France diminue moins vite que les émissions nationales - Les Echos",
-      "resume": "L'analyse met en lumière le décalage entre la baisse des émissions nationales mesurées sur le territoire et la diminution plus lente de l'empreinte carbone globale de la France, qui intègre les émissions induites par les importations.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUTZVVHFvdTdkT1ZIbjQ0LTZYcm5SMW9PazhSOXBfbTN1Q1hEbTE5eDBKbE9RTnpYODFYcnRJRkZJVFhHM0RleW5EN28yNUUtZzJOMVgzUkxabFFOWHFYV05KX094eWF4aGduRkxyM25ndmhjNmo5UkozaTdIalBWdnpqbEtEZVlpMEE4U3BfMXJaMmM0TDdMQXMtUTVDZl9mVk5CUGlkbGpjR0Fsd0FiblpOTWRfWWZYc0Z3cmxaMWpnX1B3dDEtcllCMThHTW5GVk9ETEdvZ0w5ZnBURGdjdm5R?oc=5",
+      "url": "https://reporterre.net/Pour-sauver-sa-centrale-nucleaire-la-Hongrie-construit-un-barrage-sans-autorisation-environnementale",
       "date": "2026-10-13"
     }
   ],
@@ -292,13 +258,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "89",
-      "dept_nom": "Yonne",
+      "dept_code": "10",
+      "dept_nom": "Aube",
       "niveau": "crise"
     },
     {
-      "dept_code": "10",
-      "dept_nom": "Aube",
+      "dept_code": "89",
+      "dept_nom": "Yonne",
       "niveau": "crise"
     },
     {
@@ -332,11 +298,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "01",
       "dept_nom": "Ain",
       "niveau": "crise"
@@ -344,6 +305,11 @@
     {
       "dept_code": "39",
       "dept_nom": "Jura",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -382,13 +348,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
@@ -1062,84 +1028,46 @@
   "jo_retenus": [],
   "jorf_issue_date": "2026-10-14",
   "briefing_jorf": "Aucun texte présélectionné n’a été confirmé comme pertinent après vérification intégrale.",
-  "pjl_fiches": [],
-  "pjl_autres": [
+  "an_agenda": [
     {
-      "source": "AN Projets de loi",
-      "items": [
-        {
-          "titre": "Projet de loi de financement de la sécurité sociale pour 2027 - N° 3211",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2027",
-          "date": "2026-10-01"
-        },
-        {
-          "titre": "Projet de loi de finances pour 2027 - N° 3210",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027",
-          "date": "2026-10-01"
-        }
-      ]
+      "date": "2026-10-14",
+      "heure": "14:00",
+      "ordre_du_jour": "Questions au Gouvernement · Suite de la discussion du projet de loi de finances pour 2027 (première partie) · Débat sur le prélèvement sur recettes au profit de l'Union européenne"
     },
     {
-      "source": "AN Textes adoptés",
-      "items": [
-        {
-          "titre": "Proposition de loi, adoptée, par l'Assemblée nationale après engagement de la procédure accélérée, visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e",
-          "date": "2026-10-13"
-        },
-        {
-          "titre": "Proposition de loi organique, adoptée, par l'Assemblée nationale après engagement de la procédure accélérée, visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_autorite_judiciaire_lutte_contre_violences_sexuelles_intrafamiliales_17e",
-          "date": "2026-10-13"
-        },
-        {
-          "titre": "Projet de loi, adopté sans modification, par l'Assemblée nationale, autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53095",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53095",
-          "date": "2026-10-12"
-        },
-        {
-          "titre": "Proposition de résolution invitant le Gouvernement à engager les démarches en vue de soutenir l'entrée au Panthéon d'Olympe de Gouges, de l'abbé Charles-Michel de l'Épée et de Zéna M'Déré, rejetée par l'Assemblée nationale",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inviter_gouvernement_demarches_soutenir_entree_pantheon_olympe_gouges_charles_michel_zena_mdere_17e",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/inviter_gouvernement_demarches_soutenir_entree_pantheon_olympe_gouges_charles_michel_zena_mdere_17e",
-          "date": "2026-10-08"
-        },
-        {
-          "titre": "Proposition de résolution visant à refonder l'espace Schengen en instaurant une double frontière nationale et européenne, rejetée par l'Assemblée nationale",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
-          "date": "2026-10-08"
-        },
-        {
-          "titre": "Proposition de résolution visant à mobiliser la commande publique au service de l'emploi, de la production et de l'innovation en France, rejetée par l'Assemblée nationale",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
-          "date": "2026-10-08"
-        },
-        {
-          "titre": "Proposition de résolution visant à garantir un accès continu à l'eau potable dans les territoires ultramarins, rejetée par l'Assemblée nationale",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_eau_potable_territoires_ultramarins",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_eau_potable_territoires_ultramarins",
-          "date": "2026-10-08"
-        },
-        {
-          "titre": "Projet de loi, adopté, par l'Assemblée nationale après engagement de la procédure accélérée, autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldavie dans le domaine de la sécurité sociale",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moldavie_securite_sociale",
-          "date": "2026-10-05"
-        },
-        {
-          "titre": "Projet de loi, adopté, par l'Assemblée nationale après engagement de la procédure accélérée, autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldova relatif à la coopération dans le domaine de la défense",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_autorisant_approbation_accord_gouvernement_moldova_defense",
-          "url_dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_autorisant_approbation_accord_gouvernement_moldova_defense",
-          "date": "2026-10-05"
-        }
-      ]
+      "date": "2026-10-14",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-15",
+      "heure": "09:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-15",
+      "heure": "15:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-15",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "09:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "15:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
     }
-  ],
-  "pjl_briefing": "L'activité parlementaire du 14 octobre 2026 ne comporte aucune mesure directe ou significative en matière environnementale, climatique ou de reporting extra-financier pour les grandes entreprises de services. Les travaux se concentrent principalement sur les lois financières de fin d'année, des accords internationaux et des sujets de société."
+  ]
 }
