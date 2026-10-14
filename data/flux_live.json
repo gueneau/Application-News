@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T09:18:02.071119+00:00",
+  "generated_at": "2026-10-14T09:33:00.097145+00:00",
   "items": [
+    {
+      "id": "ed4aa269859ced17",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Amundi, BNP Paribas AM Win €1.6 Billion Sustainable Investment Mandates from Ircantec",
+      "resume": "French pension plan Ircantec announced that it has selected European asset managers Amundi and BNP […]",
+      "url": "https://www.esgtoday.com/amundi-bnp-paribas-am-win-e1-6-billion-sustainable-investment-mandates-from-ircantec/?utm_source=rss&utm_medium=rss&utm_campaign=amundi-bnp-paribas-am-win-e1-6-billion-sustainable-investment-mandates-from-ircantec",
+      "published_at": "2026-10-14T09:18:55+00:00"
+    },
     {
       "id": "8ebe41b8afaa2365",
       "source": "Novethic",
@@ -362,6 +371,15 @@
       "published_at": "2026-10-13T11:14:31+00:00"
     },
     {
+      "id": "dbf051cde67573f8",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "Budget 2027 : pour Catherine MacGregor la rétroactivité sur le soutien aux renouvelables est “une ligne rouge”",
+      "resume": "Il faut donner “confiance aux investisseurs”, a déclaré la directrice générale d'Engie à l’occasion du sommet sur la compétitivité de POLITICO.",
+      "url": "https://www.politico.eu/article/budget-2027-pour-catherine-macgregor-la-retroactivite-sur-le-soutien-aux-renouvelables-est-une-ligne-rouge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-10-13T11:03:31+00:00"
+    },
+    {
       "id": "68a288f27fa9f2e4",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -378,15 +396,6 @@
       "resume": "Les énergies renouvelables doivent être développées pour garantir la sécurité d'approvisionnement en France, a indiqué le candidat Horizons à l’élection présidentielle.",
       "url": "https://www.politico.eu/article/energie-face-au-risque-lie-au-nucleaire-edouard-philippe-juge-les-renouvelables-utiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T10:16:49+00:00"
-    },
-    {
-      "id": "e610afdafe600bda",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EY, Watershed Launch Sustainability Reporting Partnership",
-      "resume": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed […]",
-      "url": "https://www.esgtoday.com/ey-watershed-launch-sustainability-reporting-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=ey-watershed-launch-sustainability-reporting-partnership",
-      "published_at": "2026-10-13T09:15:02+00:00"
     },
     {
       "id": "c66c2ae38b425ecc",
@@ -585,15 +594,6 @@
       "resume": "L’Europe a rarement l’occasion de repenser ses financements des cleantech sur autant de fronts à la fois. L’article Cleantech : l’Europe affûte sa boîte à outils est apparu en premier sur I4CE .",
       "url": "https://www.i4ce.org/cleantech-europe-affute-boite-a-outils-climat/",
       "published_at": "2026-10-02T08:45:10+00:00"
-    },
-    {
-      "id": "e138249442498b3a",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Diesel américain : la France et quatre autres pays européens s’accordent sur une réponse “ferme”",
-      "resume": "Ces pays et la Commission européenne ont tenu jeudi une réunion d’urgence pour répondre aux appels lancés par les Etats-Unis en faveur d’un déblocage des réserves de carburant.",
-      "url": "https://www.politico.eu/article/diesel-americain-la-france-et-quatre-autres-pays-europeens-saccordent-sur-une-reponse-ferme/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-01T15:50:05+00:00"
     },
     {
       "id": "c44a77e935317870",
