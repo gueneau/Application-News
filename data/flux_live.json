@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T13:14:06.394431+00:00",
+  "generated_at": "2026-10-14T13:36:44.517548+00:00",
   "items": [
+    {
+      "id": "48278ecf3da0acf9",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Bonus écologique des véhicules électriques : la méthodologie de calcul du score environnemental va être revue",
+      "resume": "Un projet d'arrêté visant à faire évoluer la méthodologie de calcul du score environnemental et la valeur du score minimal à atteindre pour l'éligibilité au bonus écologique pour les voitures particulières neuves électriques a été soumis à ",
+      "url": "https://www.actu-environnement.com/ae/news/bonus-ecologique-score-environnemental-vehicules-electriques-48662.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T13:28:15+00:00"
+    },
     {
       "id": "78fad289336b698e",
       "source": "Reporterre",
@@ -15,7 +24,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Budget 2027 : réduire le déficit au détriment du climat est un calcul risqué",
-      "resume": "L'Assemblée nationale se penche sur l'examen du budget 2027 depuis mardi 13 octobre. Au centre des inquiétudes, l'envolée de la dette publique qui pousse le gouvernement a serré la vis. Une stratégie qui pourrait faire bondir la dette clima",
+      "resume": "L'Assemblée nationale se penche sur l'examen du budget 2027 depuis le 13 octobre. Au centre des inquiétudes, l'envolée de la dette publique qui pousse le gouvernement à serrer la vis. Une stratégie qui pourrait faire bondir la dette climati",
       "url": "https://reporterre.net/Budget-2027-reduire-le-deficit-au-detriment-du-climat-est-un-calcul-risque",
       "published_at": "2026-10-14T12:58:38+00:00"
     },
@@ -23,7 +32,7 @@
       "id": "f38b3640458e3a73",
       "source": "Novethic",
       "categorie": "Presse",
-      "titre": "Le dirigeant de Malakoff Humanis dans le viseur des partenaires sociaux",
+      "titre": "Malakoff Humanis : la gouvernance au bord de la rupture, Thomas Saunier menacé",
       "resume": "Le groupe Malakoff Humanis fait l'objet d'une enquête du Parquet national financier pour des soupçons de corruption. @ Magali Cohen AFP L’étau se resserre autour de Thomas Saunier, le directeur général de Malakoff Humanis. Selon une informa",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/dirigeant-malakoff-humanis-viseur-partenaires-sociaux",
       "published_at": "2026-10-14T12:43:28+00:00"
@@ -177,7 +186,7 @@
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "Solaire : Solstyce accélère son plan anticrise, étend son offre",
-      "resume": "Corrections apportées le 14/10/2026 – L’année 2026 confirme la transformation de Solstyce en un « opérateur de transition énergétique ». Historiquement positionné sur les toitures solaires, le groupe présidé par Guillaume David mise plus qu",
+      "resume": "Article modifié suite aux précisions de Solstyce le 14/10/2026 – L’année 2026 confirme la transformation de Solstyce en un « opérateur de transition énergétique ». Historiquement positionné sur les toitures solaires, le groupe présidé par G",
       "url": "https://www.greenunivers.com/2026/10/solaire-solstyce-accelere-son-plan-anticrise-etend-son-offre-435962/",
       "published_at": "2026-10-14T07:00:00+00:00"
     },
@@ -333,15 +342,6 @@
       "resume": "Après avoir renoncé au projet Salamandre, censé produire du biométhane par pyrogazéfication, Engie relance sur le même site, au Havre, un nouveau L’article Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher est",
       "url": "https://www.greenunivers.com/2026/10/engie-et-cma-cgm-relancent-la-production-de-biomethane-au-havre-pour-moins-cher-435991/",
       "published_at": "2026-10-13T15:30:55+00:00"
-    },
-    {
-      "id": "96a859e1e6f9676a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "ICPE déchets et risque incendie : plus de 1 200 installations ciblées par une opération coup de poing",
-      "resume": "Les inspecteurs ont proposé une centaine de mises en demeure et quatre sanctions administratives. De son côté, le BEA-RI a ouvert une enquête sur l'incendie survenu en septembre sur un site de Paprec en Meurthe-et-Moselle.",
-      "url": "https://www.actu-environnement.com/ae/news/resultat-operation-coup-poing-icpe-dechets-incendie-48652.php4#xtor=RSS-6",
-      "published_at": "2026-10-13T15:30:20+00:00"
     },
     {
       "id": "6ce68ce30a8d32b5",
