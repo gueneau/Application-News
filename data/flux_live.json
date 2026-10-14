@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T08:37:28.246901+00:00",
+  "generated_at": "2026-10-14T09:12:01.166937+00:00",
   "items": [
+    {
+      "id": "8ebe41b8afaa2365",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Défense et finance durable : les nouvelles frontières de l'investissement responsable",
+      "resume": "Si la défense s'invite dans l'investissement responsable, les lignes rouges des fonds dédiés demeurent fragiles et en décalage avec le droit international humanitaire (crédit : Maya Carrasco). La défense s’invite dans l’investissement respo",
+      "url": "https://www.novethic.fr/decryptages-dexpert/etudes/defense-et-finance-durable-les-nouvelles-frontieres-de-linvestissement-responsable",
+      "published_at": "2026-10-14T08:52:35+00:00"
+    },
     {
       "id": "1dd6edcb81f83b4f",
       "source": "The Shift Project",
@@ -18,6 +27,15 @@
       "resume": "Ici des sandwichs et de l'eau, là du sérum physiologique, plus loin des sifflets imprimés en 3D... Des manifestants « solidaires » (parents, étudiants, profs, musiciens...) apportent leur soutien aux mobilisations lycéennes, comme à Paris l",
       "url": "https://reporterre.net/Qui-veut-du-thieb-C-est-gratuit-La-solidarite-s-organise-autour-des-lyceens",
       "published_at": "2026-10-14T07:16:36+00:00"
+    },
+    {
+      "id": "0822e7b70b886a3f",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Solaire : Solstyce accélère son plan anticrise, étend son offre",
+      "resume": "L’année 2026 doit confirmer la transformation de Solstyce en un « opérateur de transition énergétique ». Historiquement positionné sur les toitures solaires, le groupe présidé par Guillaume David mise plus que jamais sur d’autres filières p",
+      "url": "https://www.greenunivers.com/2026/10/solaire-solstyce-accelere-son-plan-anticrise-etend-son-offre-435962/",
+      "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
       "id": "e04b87d3611be2d3",
@@ -173,6 +191,15 @@
       "published_at": "2026-10-13T15:31:04+00:00"
     },
     {
+      "id": "a1e860577422b87f",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher",
+      "resume": "Après avoir renoncé au projet Salamandre, censé produire du biométhane par pyrogazéfication, Engie relance sur le même site, au Havre, un nouveau L’article Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher est",
+      "url": "https://www.greenunivers.com/2026/10/engie-et-cma-cgm-relancent-la-production-de-biomethane-au-havre-pour-moins-cher-435991/",
+      "published_at": "2026-10-13T15:30:55+00:00"
+    },
+    {
       "id": "96a859e1e6f9676a",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -189,6 +216,24 @@
       "resume": "Dans le cadre des certificats d'économies d'énergie (CEE), un projet d'arrêté prévoit d'exclure les entrepôts logistiques, les réserves, les entrepôts frigorifiques ou non, et les locaux de stockage du champ de quinze fiches d'opérations st",
       "url": "https://www.actu-environnement.com/ae/news/arrete-consultation-cee-entrepots-logistiques-fiches-tertiaires-florence-lievyn-sonergia-48657.php4#xtor=RSS-6",
       "published_at": "2026-10-13T15:29:54+00:00"
+    },
+    {
+      "id": "6ce68ce30a8d32b5",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Stratégies prix, Agregio, EEX… : les coulisses de Gazélec 2026",
+      "resume": "Lieu d’échanges entre les acheteurs professionnels de gaz et d’électricité et leurs fournisseurs, le congrès Gazélec, organisé à Paris du 12 au 15 octobre et fréquenté par 1 200 personnes, ne manque pas d’animation cette année : les prix so",
+      "url": "https://www.greenunivers.com/2026/10/strategies-prix-agregio-eex-les-coulisses-de-gazelec-2026-435970/",
+      "published_at": "2026-10-13T15:28:35+00:00"
+    },
+    {
+      "id": "670f2b0872804e73",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Batteries : GreenYellow et Tilt Energy proposent une offre clé en main",
+      "resume": "GreenYellow et Tilt Energy s’associent pour proposer l’installation de batteries (BESS) derrière le compteur des clients, sans investissement initial. C’est le spécialiste L’article Batteries : GreenYellow et Tilt Energy proposent une offre",
+      "url": "https://www.greenunivers.com/2026/10/batteries-greenyellow-et-tilt-energy-proposent-une-offre-cle-en-main-435966/",
+      "published_at": "2026-10-13T15:24:57+00:00"
     },
     {
       "id": "2bbc05bec5428f3a",
@@ -317,6 +362,15 @@
       "published_at": "2026-10-13T11:14:31+00:00"
     },
     {
+      "id": "68a288f27fa9f2e4",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Financement participatif : Enerfip compense la baisse d’activité en France par l’international",
+      "resume": "« Cette année, nous finançons moins de projets en France mais conservons une collecte constante grâce à l’international », signale Julien Hostache, cofondateur de la plateforme de financement participatif Enerfip. Le dirigeant prévoit un ap",
+      "url": "https://www.greenunivers.com/2026/10/financement-participatif-enerfip-compense-la-baisse-dactivite-en-france-par-linternational-435918/",
+      "published_at": "2026-10-13T10:22:23+00:00"
+    },
+    {
       "id": "fe5801423d064000",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -333,6 +387,15 @@
       "resume": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed […]",
       "url": "https://www.esgtoday.com/ey-watershed-launch-sustainability-reporting-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=ey-watershed-launch-sustainability-reporting-partnership",
       "published_at": "2026-10-13T09:15:02+00:00"
+    },
+    {
+      "id": "c66c2ae38b425ecc",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Quels secteurs recrutent encore ? Et quels profils ? [1/3]",
+      "resume": "Premier volet de notre dossier Recrutement & Salaires – Incertitudes politiques, revirements réglementaires, PP3 jugée insuffisante, disparition progressive des appels d’offres… Le contexte n’est pas favorable au recrutement dans la filière",
+      "url": "https://www.greenunivers.com/2026/10/quels-secteurs-recrutent-encore-et-quels-profils-1-3-435620/",
+      "published_at": "2026-10-13T08:06:44+00:00"
     },
     {
       "id": "9a955ec62cd66341",
@@ -441,15 +504,6 @@
       "resume": "This liveblog is now closed. Read the full story here Key things to know about Hurricane Isaias Sign up for the US Breaking News email Florida’s governor, Ron DeSantis , said no requests for search and rescue assistance had been received fo",
       "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
       "published_at": "2026-10-10T22:18:05+00:00"
-    },
-    {
-      "id": "b8f835712fee37ce",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Directive anti-greenwashing : 7 entreprises sur 10 devront revoir les mots de la RSE",
-      "resume": "69% des entreprises engagées dans la RSE utilisent des mots visés par la directive anti-greenwashing. @ Jason Mavrommatis sur Unsplash Les entreprises vont devoir être beaucoup plus vigilantes sur leurs allégations environnementales. La dir",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/directive-anti-greenwashing-entreprises-devoir-revoir-mots-rse",
-      "published_at": "2026-10-09T11:44:18+00:00"
     },
     {
       "id": "29632628c172cc87",
@@ -666,60 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "ac6ecc926252c5cb",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
-      "published_at": "2026-06-23T12:24:00+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
-    },
-    {
-      "id": "f6ba6a33ef09a89a",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
-      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
-      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
-      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
