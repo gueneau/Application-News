@@ -60,19 +60,12 @@ jobs:
       - name: Install Playwright Chromium
         run: playwright install chromium --with-deps
 
-      # ── 4. Restauration du cache PJL depuis gh-pages ─────────────
-      #    pjl_cache.json persiste entre les runs via gh-pages.
-      #    Doit être fait AVANT le pipeline pour que le cache soit lisible.
+      # ── 4. Checkout gh-pages (réutilisé à l'étape 6 pour le commit) ──
       - name: Checkout gh-pages
         uses: actions/checkout@v4
         with:
           ref: gh-pages
           path: gh-pages-branch
-
-      - name: Restore pjl_cache from gh-pages
-        run: |
-          mkdir -p data
-          cp gh-pages-branch/data/pjl_cache.json data/pjl_cache.json 2>/dev/null || true
 
       # ── 5. Exécution du pipeline ─────────────────────────────────
       - name: Run pipeline
@@ -91,7 +84,7 @@ jobs:
           # Créer le dossier data s'il n'existe pas
           mkdir -p gh-pages-branch/data
 
-          # Copier le JSON du jour + le cache PJL
+          # Copier le JSON du jour
           cp data/*.json gh-pages-branch/data/ 2>/dev/null || true
 
           # Copier archive.json à la racine de gh-pages
@@ -99,9 +92,6 @@ jobs:
 
           # Copier l'historique VigiEau (cache annuel)
           cp vigieau_history.json gh-pages-branch/vigieau_history.json 2>/dev/null || true
-
-          # Copier les fiches de suivi parlementaire
-          cp parlement_fiches.json gh-pages-branch/parlement_fiches.json 2>/dev/null || true
 
           # Copier index.html si modifié
           cp index.html gh-pages-branch/index.html

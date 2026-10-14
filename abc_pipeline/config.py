@@ -383,96 +383,16 @@ DEPT_NOMS = {
 
 
 # ─────────────────────────────────────────────
-# Parlement (AN)
+# Assemblée nationale — ordre du jour (séance publique)
 # ─────────────────────────────────────────────
 
-PARLEMENT_MAX_GROQ = 10
-
-STADES_ORDRE = [
-    'Dépôt',
-    'Commission',
-    'Première lecture à l\'Assemblée nationale',
-    'Première lecture au Sénat',
-    'Commission mixte paritaire',
-    'Deuxième lecture au Sénat',
-    'Deuxième lecture à l\'Assemblée nationale',
-    'Texte définitivement adopté',
-    'Promulgation',
-]
-
-AN_BASE = 'https://www2.assemblee-nationale.fr'
-
-AN_SCRAPER_SOURCES = [
-    {
-        'name': 'AN Projets de loi',
-        'url': (f'{AN_BASE}/documents/liste'
-                '?limit=30&type=projets-loi&legis=17&type_tri=DATE_MISE_LIGNE'),
-    },
-    {
-        'name': 'AN Textes adoptés',
-        'url': (f'{AN_BASE}/documents/liste'
-                '?limit=30&type=ta&legis=17&type_tri=DATE_MISE_LIGNE'),
-    },
-]
-
-STADE_PATTERNS = [
-    ('Texte rejeté', ['texte rejeté', 'texte rejetée', 'projet rejeté', 'proposition rejetée']),
-    ('Promulgation', ['promulgation', 'promulgu', 'parue au jo', 'publiée au jo']),
-    ('Texte définitivement adopté', [
-        'adopté définitivement',
-        'adoption définitive',
-        'définitivement adopté',
-        'adoptée définitivement',
-        'adopté par les deux assemblées',
-        'adoptée par les deux assemblées',
-        'vote conforme',
-    ]),
-    ('Commission mixte paritaire', ['commission mixte paritaire', 'cmp']),
-    ('Deuxième lecture au Sénat', [
-        'deuxième lecture au sénat',
-        'deuxième lecture par le sénat',
-        'sénat en deuxième lecture',
-        '2e lecture au sénat',
-        '2ème lecture au sénat',
-        'nouvelle lecture au sénat',
-    ]),
-    ('Deuxième lecture à l\'Assemblée nationale', [
-        'deuxième lecture à l’assemblée nationale',
-        "deuxième lecture à l'assemblée nationale",
-        'deuxième lecture par l’assemblée nationale',
-        "deuxième lecture par l'assemblée nationale",
-        'assemblée nationale en deuxième lecture',
-        '2e lecture à l’assemblée nationale',
-        "2e lecture à l'assemblée nationale",
-        '2ème lecture à l’assemblée nationale',
-        "2ème lecture à l'assemblée nationale",
-        'nouvelle lecture à l’assemblée nationale',
-        "nouvelle lecture à l'assemblée nationale",
-        'nouvelle lecture par l’assemblée nationale',
-        "nouvelle lecture par l'assemblée nationale",
-    ]),
-    ('Première lecture au Sénat', [
-        'première lecture au sénat',
-        'première lecture par le sénat',
-        '1re lecture au sénat',
-        '1ère lecture au sénat',
-    ]),
-    ('Première lecture à l\'Assemblée nationale', [
-        'première lecture à l’assemblée nationale',
-        "première lecture à l'assemblée nationale",
-        'première lecture par l’assemblée nationale',
-        "première lecture par l'assemblée nationale",
-        '1re lecture à l’assemblée nationale',
-        "1re lecture à l'assemblée nationale",
-        '1ère lecture à l’assemblée nationale',
-        "1ère lecture à l'assemblée nationale",
-    ]),
-    ('Commission', [
-        'en commission',
-        'examiné par la commission',
-        'rapporteur désigné',
-        'renvoyé en commission',
-        'commission saisie',
-    ]),
-    ('Dépôt', ['déposé', 'dépôt']),
-]
+# Official open data export (CSV), not a scrape of the dynamic site — dates
+# are already ISO, so this sidesteps the date-guessing issues the old
+# assemblee-nationale.fr scraper had.
+# "17" = 17e législature (élue en 2024). À mettre à jour après la prochaine
+# dissolution / nouvelles élections (le numéro change rarement).
+AN_AGENDA_URL = (
+    'http://data.assemblee-nationale.fr/static/openData/repository/'
+    '17/vp/seances/seances_publique_excel.csv'
+)
+AN_AGENDA_MAX_SESSIONS = 8

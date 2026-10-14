@@ -45,5 +45,4 @@ jobs:
             data/*.json
             archive.json
             vigieau_history.json
-            parlement_fiches.json
 

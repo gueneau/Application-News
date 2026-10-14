@@ -4,8 +4,8 @@ from datetime import datetime
 from pathlib import Path
 
 from .output import write_output
+from .sources.an_agenda import fetch_an_agenda
 from .sources.jorf import fetch_jorf
-from .sources.parlement import fetch_parlement
 from .sources.rss import fetch_rss
 from .sources.vigieau import fetch_vigieau, fetch_vigieau_zones
 from .config import GEMINI_MODEL
@@ -104,22 +104,19 @@ def main() -> int:
         stats['depts_restriction'] = 0
         source_counts['VigiEau'] = 0
 
-    # 4. Parlement
-    pjl_fiches = []
-    pjl_autres = []
-    pjl_briefing = ''
+    # 4. Ordre du jour Assemblée nationale
+    an_agenda = []
     try:
-        pjl_fiches, pjl_autres, pjl_briefing = fetch_parlement(script_dir, today_str)
-        pjl_fiches = pjl_fiches[:7]  # cap — fiches accumulate from Supabase
-        source_counts['Parlement'] = len(pjl_fiches)
-        if len(pjl_fiches) == 0:
-            log.warning("WARNING: SOURCE VIDE — Parlement")
-            meta_errors.append("SOURCE VIDE — Parlement : 0 fiches")
+        an_agenda = fetch_an_agenda(today_str)
+        source_counts['AN Agenda'] = len(an_agenda)
+        if len(an_agenda) == 0:
+            log.warning("WARNING: SOURCE VIDE — AN Agenda")
+            meta_errors.append("SOURCE VIDE — AN Agenda : 0 séance")
     except Exception as e:
-        log.error(f"Parlement fatal : {e}")
-        errors.append('Parlement')
-        meta_errors.append(f"Parlement fatal : {e}")
-        source_counts['Parlement'] = 0
+        log.error(f"AN Agenda fatal : {e}")
+        errors.append('AN Agenda')
+        meta_errors.append(f"AN Agenda fatal : {e}")
+        source_counts['AN Agenda'] = 0
 
     # Dedup by id then by normalized title (catches Google News duplicates)
     seen_ids = set()
@@ -159,9 +156,7 @@ def main() -> int:
         'jo_retenus': jorf_items,
         'jorf_issue_date': jorf_issue_date,
         'briefing_jorf': briefing_jorf,
-        'pjl_fiches': pjl_fiches,
-        'pjl_autres': pjl_autres,
-        'pjl_briefing': pjl_briefing,
+        'an_agenda': an_agenda,
     }
 
     log.info(
