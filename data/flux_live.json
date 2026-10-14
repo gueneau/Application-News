@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-14T16:28:54.804296+00:00",
+  "generated_at": "2026-10-14T18:46:46.862528+00:00",
   "items": [
+    {
+      "id": "39a934e94444e6db",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Points de vigilance pour la révision post-2030 du marché carbone européen",
+      "resume": "Le Haut conseil pour le climat publie une note détaillant les points de vigilance pour la révision post-2030 du marché […] L’article Points de vigilance pour la révision post-2030 du marché carbone européen est apparu en premier sur Haut Co",
+      "url": "https://www.hautconseilclimat.fr/actualites/points-de-vigilance-pour-la-revision-post-2030-du-marche-carbone-europeen/",
+      "published_at": "2026-10-14T17:08:03+00:00"
+    },
+    {
+      "id": "1c03b3ca9c17907f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Aux Etats-Unis, l’inflation atteint 3,7 % en septembre, portée par la flambée des cours du pétrole",
+      "resume": "Le coût de l’énergie a augmenté de 20 % en un an, selon les statistiques publiées mercredi 14 octobre. Une mauvaise nouvelle pour Donald Trump, élu il y a deux ans sur la promesse de faire baisser les prix.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/14/aux-etats-unis-l-inflation-atteint-3-7-en-septembre-portee-par-la-flambee-des-cours-du-petrole_6793785_3234.html",
+      "published_at": "2026-10-14T17:06:20+00:00"
+    },
+    {
+      "id": "f0fd1f33ae37d364",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’industrialisation des océans, source de rivalités géostratégiques entre grandes puissances",
+      "resume": "Dans « Océans. Le nouveau partage du monde », Guillaume Pitron, spécialiste de géopolitique et des matières premières, examine les prémices d’un bouleversement longtemps passé inaperçu et en phase d’accélération, lié à l’exploitation des re",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/14/l-industrialisation-des-oceans-source-de-rivalites-geostrategiques-entre-grandes-puissances_6793782_3232.html",
+      "published_at": "2026-10-14T17:00:09+00:00"
+    },
+    {
+      "id": "539b65620e01f78f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Petit tertiaire : Voltalis met la flexibilité au service des projets de GTB Siemens",
+      "resume": "Accélérer l'adoption des dispositifs de gestion technique du bâtiment (GTB) dans le petit et moyen tertiaire, telle est l'ambition de l'offre présentée par Siemens et Voltalis sur le salon IBS. La clé ? Financer une partie du coût par la fl",
+      "url": "https://www.actu-environnement.com/ae/news/une-solution-de-flexibilite-electrique-voltalis-pour-les-gtb-siemens-48667.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T16:39:08+00:00"
+    },
     {
       "id": "30e8609b8a9997fc",
       "source": "GreenUnivers",
@@ -9,15 +45,6 @@
       "resume": "Voltalis veut exploiter le gisement de flexibilité dans les bâtiments tertiaires de petite et moyenne taille, en collaboration avec Siemens. Le spécialiste de l’effacement propose L’article Flexibilité : Voltalis et Siemens s’attaquent au s",
       "url": "https://www.greenunivers.com/2026/10/flexibilite-voltalis-et-siemens-sattaquent-au-secteur-tertiaire-436102/",
       "published_at": "2026-10-14T16:00:00+00:00"
-    },
-    {
-      "id": "1351118c56eb1aed",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Pollutions diffuses : la liste des substances soumises à la redevance en 2027 en consultation",
-      "resume": "La version réactualisée de la liste des substances soumises à la redevance pour pollutions diffuses pour 2027 est en consultation jusqu'au 6 novembre. Comme chaque année, celle-ci est revue à la lumière des dernières connaissances disponibl",
-      "url": "https://www.actu-environnement.com/ae/news/pollutions-diffuses-listes-substances-soumises-redevances-2027-consultation-48666.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T15:47:40+00:00"
     },
     {
       "id": "57b975b38ea59cf0",
@@ -29,6 +56,15 @@
       "published_at": "2026-10-14T15:44:13+00:00"
     },
     {
+      "id": "61c874b72dca2ccf",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Afnor Spec One Health : un nouvel outil pour passer du concept à l'action",
+      "resume": "Afnor et l'Anses publient l'Afnor Spec One Health, un référentiel opérationnel pour aider organisations publiques et privées à déployer concrètement l'approche en vue d'une meilleure cohérence entre la santé de l'Homme, du monde animal et d",
+      "url": "https://www.actu-environnement.com/ae/news/afnor-spec-one-health-referentiel-organisations-48663.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T15:37:02+00:00"
+    },
+    {
       "id": "fac840864e59c70e",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -36,6 +72,24 @@
       "resume": "Deux nouvelles études publiées par l'Ademe évaluent la qualité de l'air intérieur dans les gymnases et les salles de sport. Les polluants mesurés ont globalement des valeurs inférieures aux seuils réglementaires.",
       "url": "https://www.actu-environnement.com/ae/news/qualite-air-salles-sport-ademe-etudes-gymnases-48664.php4#xtor=RSS-6",
       "published_at": "2026-10-14T15:36:55+00:00"
+    },
+    {
+      "id": "bbdca5f5a64f4a4a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Recyclage chimique : l'Ademe pointe les faibles gains environnementaux et la dépendance à l'industrie chimique",
+      "resume": "Les gains environnementaux du recyclage chimique par rapport à la production de résines vierges sont limités, voire inexistants, estime l'Ademe. Quant au développement des projets, il n'est pas envisageable sans une industrie pétrochimique ",
+      "url": "https://www.actu-environnement.com/ae/news/avis-ademe-recyclage-chimique-impact-environnemental-48658.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T15:31:17+00:00"
+    },
+    {
+      "id": "1351118c56eb1aed",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Pollutions diffuses : la liste des substances soumises à la redevance en 2027 en consultation",
+      "resume": "La version réactualisée de la liste des substances soumises à la redevance pour pollutions diffuses pour 2027 est en consultation jusqu'au 6 novembre. Comme chaque année, celle-ci est revue à la lumière des dernières connaissances disponibl",
+      "url": "https://www.actu-environnement.com/ae/news/pollutions-diffuses-listes-substances-soumises-redevances-2027-consultation-48666.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T15:30:40+00:00"
     },
     {
       "id": "5ff65dcb60ec7191",
@@ -87,18 +141,9 @@
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "EDF cède sa filiale hydrogène Hynamics à Hy24",
-      "resume": "EDF a trouvé un accord avec le fonds Hy24 pour lui céder Hynamics, sa filiale spécialisée dans le développement de projets d’électrolyse. Cet accord a été signé le 12 octobre. L’électricien espère L’article EDF cède sa filiale hydrogène Hyn",
+      "resume": "Article modifié le 14/10/2026 avec des précisions d’EDF – EDF a trouvé un accord avec le fonds Hy24 pour lui céder Hynamics, sa filiale spécialisée dans le développement de projets d’électrolyse. Cet accord a été signé le 12 octobre. L’élec",
       "url": "https://www.greenunivers.com/2026/10/edf-cede-sa-filiale-hydrogene-hynamics-a-hy24-436050/",
       "published_at": "2026-10-14T14:26:25+00:00"
-    },
-    {
-      "id": "61c874b72dca2ccf",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Afnor Spec One Health : un nouvel outil pour passer du concept à l'action",
-      "resume": "Afnor et l'Anses publient l'Afnor Spec One Health, un référentiel opérationnel pour aider organisations publiques et privées à déployer concrètement l'approche en vue d'une meilleure cohérence entre la santé de l'Homme, du monde animal et d",
-      "url": "https://www.actu-environnement.com/ae/news/afnor-spec-one-health-referentiel-organisations-48663.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T14:05:02+00:00"
     },
     {
       "id": "2beb589147642798",
@@ -108,15 +153,6 @@
       "resume": "L’intersyndicale estime que le gouvernement n’a toujours pas répondu à leurs revendications, notamment à celle portant sur l’augmentation des moyens humains et financiers.",
       "url": "https://www.lemonde.fr/societe/article/2026/10/14/les-pompiers-professionnels-reconduisent-leur-greve-jusqu-au-4-decembre_6793751_3224.html",
       "published_at": "2026-10-14T13:58:33+00:00"
-    },
-    {
-      "id": "48278ecf3da0acf9",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Bonus écologique des véhicules électriques : la méthodologie de calcul du score environnemental va être revue",
-      "resume": "Un projet d'arrêté visant à faire évoluer la méthodologie de calcul du score environnemental et la valeur du score minimal à atteindre pour l'éligibilité au bonus écologique pour les voitures particulières neuves électriques a été soumis à ",
-      "url": "https://www.actu-environnement.com/ae/news/bonus-ecologique-score-environnemental-vehicules-electriques-48662.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T13:28:15+00:00"
     },
     {
       "id": "78fad289336b698e",
@@ -144,15 +180,6 @@
       "resume": "Le groupe Malakoff Humanis fait l'objet d'une enquête du Parquet national financier pour des soupçons de corruption. @ Magali Cohen AFP L’étau se resserre autour de Thomas Saunier, le directeur général de Malakoff Humanis. Selon une informa",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/dirigeant-malakoff-humanis-viseur-partenaires-sociaux",
       "published_at": "2026-10-14T12:43:28+00:00"
-    },
-    {
-      "id": "c1dd7f0e3eda8e56",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Écoulement des petits cours d'eau : des ruptures à un niveau exceptionnellement élevé",
-      "resume": "La moitié (49,6 %) des petits cours d'eau sont touchés par des ruptures d'écoulement ou des assecs au 1er octobre, soit 1594. Cette situation n'a jamais été observée en quinze ans de suivi du réseau Onde (Observatoire national des étiages),",
-      "url": "https://www.actu-environnement.com/ae/news/ruptures-ecoulement-petits-cours-eau-assecs-reseau-onde-48660.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T12:19:39+00:00"
     },
     {
       "id": "d5db66b10fa4b79c",
@@ -315,24 +342,6 @@
       "resume": "Tiktok a signé un accord avec l'Alabama le 25 septembre dernier. @CHRIS DELMAS / AFP Aux Etats-Unis, les procès se succèdent, les accords aussi. Après Meta le 26 août dernier, TikTok a annoncé le 25 septembre signer un accord avec l’Alabama",
       "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/tiktok-meta-pourquoi-les-geants-des-reseaux-sociaux-acceptent-de-modifier-leur-algorithme",
       "published_at": "2026-10-14T04:45:05+00:00"
-    },
-    {
-      "id": "1b51c7876e7f0cc2",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Jean-Marc Jancovici : « Tant qu’il n’y a pas dans la population une compréhension partagée du climat, le politique ne bougera pas »",
-      "resume": "L’ingénieur spécialiste de l’énergie, fondateur du groupe de réflexion The Shift Project, expose les lourds enjeux climatiques qui pèsent sur les prochains gouvernements, à six mois de l’élection présidentielle de 2027.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html",
-      "published_at": "2026-10-14T04:00:18+00:00"
-    },
-    {
-      "id": "5b4e8101efda5ffc",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Depuis le Brexit, des paysans anglais sont rémunérés pour s’occuper de la nature : « C’est devenu une source de revenus indispensable »",
-      "resume": "L’Angleterre s’est détournée du système de paiements directs aux agriculteurs, les remplaçant par des subsides récompensant les mesures environnementales.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/14/en-angleterre-les-paysans-sont-remuneres-pour-s-occuper-de-la-nature-c-est-devenu-une-source-de-revenus-indispensable_6793353_3234.html",
-      "published_at": "2026-10-14T03:30:03+00:00"
     },
     {
       "id": "1986cb15de2e50e3",
@@ -621,15 +630,6 @@
       "resume": "Des représentants des ministères des Finances d’Afrique, d’Amérique latine et des Caraïbes se sont réunis à Salvador de Bahia, au Brésil, à l’occasion de la 2e Rencontre interrégionale des ministères des Finances sur climat. L’article Secon",
       "url": "https://www.i4ce.org/seconde-rencontre-interregionale-ministeres-finances-climat/",
       "published_at": "2026-09-24T09:09:42+00:00"
-    },
-    {
-      "id": "ffe69a13e487f674",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Saisine du Haut conseil pour le climat sur la place des faits et de la parole scientifique dans le débat public",
-      "resume": "Le Haut conseil pour le climat a été saisi par le Premier ministre pour rendre un avis sur la place […] L’article Saisine du Haut conseil pour le climat sur la place des faits et de la parole scientifique dans le débat public est apparu en ",
-      "url": "https://www.hautconseilclimat.fr/actualites/saisine-du-haut-conseil-pour-le-climat-sur-la-place-des-faits-et-de-la-parole-scientifique-dans-le-debat-public/",
-      "published_at": "2026-09-22T14:23:17+00:00"
     },
     {
       "id": "cf48f14c1a1e7e16",
