@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-14T13:44:24.608423+00:00",
+  "generated_at": "2026-10-14T14:15:28.324513+00:00",
   "items": [
+    {
+      "id": "61c874b72dca2ccf",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Afnor Spec One Health : un nouvel outil pour passer du concept à l'action",
+      "resume": "Afnor et l'Anses publient l'Afnor Spec One Health, un référentiel opérationnel pour aider organisations publiques et privées à déployer concrètement l'approche en vue d'une meilleure cohérence entre la santé de l'Homme, du monde animal et d",
+      "url": "https://www.actu-environnement.com/ae/news/afnor-spec-one-health-referentiel-organisations-48663.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T14:05:02+00:00"
+    },
+    {
+      "id": "2beb589147642798",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les pompiers professionnels reconduisent leur grève jusqu’au 4 décembre",
+      "resume": "L’intersyndicale estime que le gouvernement n’a toujours pas répondu à leurs revendications, notamment d’augmenter les moyens humains et financiers.",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/14/les-pompiers-professionnels-reconduisent-leur-greve-jusqu-au-4-decembre_6793751_3224.html",
+      "published_at": "2026-10-14T13:58:34+00:00"
+    },
     {
       "id": "48278ecf3da0acf9",
       "source": "Actu-Environnement",
@@ -281,15 +299,6 @@
       "published_at": "2026-10-13T19:08:19+00:00"
     },
     {
-      "id": "03e99eb19a0b7f7d",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Protection des captages : la mise en œuvre de la loi d’urgence agricole critiquée par les collectivités",
-      "resume": "Le projet de décret devant préserver les nappes et rivières des pollutions, découlant de la loi d’urgence adoptée cet été, suscite l’inquiétude de collectivités locales, d’associations et d’une partie de la représentation agricole.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/13/protection-des-captages-la-mise-en-uvre-de-la-loi-d-urgence-agricole-critiquee-par-les-collectivites_6793163_3244.html",
-      "published_at": "2026-10-13T17:22:09+00:00"
-    },
-    {
       "id": "1986cb15de2e50e3",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -324,15 +333,6 @@
       "resume": "Les trois candidats à la présidentielle ont répondu aux questions de nos journalistes sur l’Europe, l’intelligence artificielle ou l’énergie. Thèmes sur lesquels les clivages ont été nombreux.",
       "url": "https://www.politico.eu/article/philippe-glucksmann-retailleau-les-temps-forts-du-sommet-sur-la-competitivite-economique-de-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T16:00:25+00:00"
-    },
-    {
-      "id": "53a3fc242c4a9058",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Un projet de budget 2027 en décalage avec la stratégie de financement de la transition écologique",
-      "resume": "Alors que la Spafte pointe la nécessaire accélération des financements en faveur de la décarbonation et la réduction des investissements carbonés, le PLF 2027 prévoit une stagnation des dépenses favorables et une hausse de celles qui sont d",
-      "url": "https://www.actu-environnement.com/ae/news/plf-2027-spafte-transition-energetique-budget-vert-48655.php4#xtor=RSS-6",
-      "published_at": "2026-10-13T15:31:04+00:00"
     },
     {
       "id": "a1e860577422b87f",
