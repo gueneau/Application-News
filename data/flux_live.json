@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-14T12:47:50.281180+00:00",
+  "generated_at": "2026-10-14T13:14:06.394431+00:00",
   "items": [
+    {
+      "id": "78fad289336b698e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Des scientifiques dressent le bilan de santé de la planète, et c'est dramatique",
+      "resume": "Concentration de CO 2 , fonte des glaces... Alors que plusieurs signaux « vitaux » de la planète atteignent des niveaux record de dégradation, des « bascules sociétales » sont encore possibles, estime une étude parue le 14 octobre. Imaginez",
+      "url": "https://reporterre.net/Des-scientifiques-dressent-le-bilan-de-sante-de-la-planete-et-c-est-dramatique",
+      "published_at": "2026-10-14T13:05:00+00:00"
+    },
+    {
+      "id": "5bf0d1e2b5c71125",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Budget 2027 : réduire le déficit au détriment du climat est un calcul risqué",
+      "resume": "L'Assemblée nationale se penche sur l'examen du budget 2027 depuis mardi 13 octobre. Au centre des inquiétudes, l'envolée de la dette publique qui pousse le gouvernement a serré la vis. Une stratégie qui pourrait faire bondir la dette clima",
+      "url": "https://reporterre.net/Budget-2027-reduire-le-deficit-au-detriment-du-climat-est-un-calcul-risque",
+      "published_at": "2026-10-14T12:58:38+00:00"
+    },
     {
       "id": "f38b3640458e3a73",
       "source": "Novethic",
@@ -194,7 +212,7 @@
       "id": "7e6f0a992cb69937",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« Ça ne sent pas bon et il n'y a pas de jus » : les pommes à cidre éprouvées par l'été caniculaire",
+      "titre": "Le cidre en souffrance : la récolte de pommes s'annonce « dramatique »",
       "resume": "La récolte de pommes à cidre s'annonce « dramatique » en 2026, a alerté le directeur de l'Union nationale interprofessionnelle cidricole. Si le gouvernement prévoit une aide, la question de l'adaptation à long terme reste en suspens. Saint-",
       "url": "https://reporterre.net/Ca-ne-sent-pas-bon-et-il-n-y-a-pas-de-jus-les-pommes-a-cidre-eprouvees-par-l-ete",
       "published_at": "2026-10-14T05:30:00+00:00"
@@ -203,7 +221,7 @@
       "id": "561ae145644b86da",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« Je suis sortie de chimio endettée » : le cancer du sein appauvrit les femmes",
+      "titre": "« J'ai découvert à quel point ce cancer allait m'appauvrir » : les femmes paient le prix de la maladie",
       "resume": "Des revenus en baisse, des dépenses qui augmentent... Le cancer du sein fait basculer de nombreuses femmes dans la précarité. Cancer Colère, qui a lancé le mouvement Octobre Colère, réclame un plan d'urgence, avec le remboursement intégral ",
       "url": "https://reporterre.net/Je-suis-sortie-de-chimio-endettee-le-cancer-du-sein-appauvrit-les-femmes",
       "published_at": "2026-10-14T05:30:00+00:00"
@@ -299,15 +317,6 @@
       "published_at": "2026-10-13T16:00:25+00:00"
     },
     {
-      "id": "66c98025150f9b52",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Pour sauver sa centrale nucléaire, la Hongrie construit un barrage sans autorisation environnementale",
-      "resume": "La sécheresse historique qui a touché le Danube cet été menace le fonctionnement de la centrale nucléaire de Paks, en Hongrie. Pour éviter son arrêt, le Premier ministre Péter Magyar a lancé, à la mi-août, la construction d'un seuil de pier",
-      "url": "https://reporterre.net/Pour-sauver-sa-centrale-nucleaire-la-Hongrie-construit-un-barrage-sans-autorisation-environnementale",
-      "published_at": "2026-10-13T15:32:05+00:00"
-    },
-    {
       "id": "53a3fc242c4a9058",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -369,15 +378,6 @@
       "resume": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first […]",
       "url": "https://www.esgtoday.com/tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting",
       "published_at": "2026-10-13T14:44:42+00:00"
-    },
-    {
-      "id": "3811933d41589ee9",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Qui est l'artiste derrière l'hymne des blocus lycéens ?",
-      "resume": "« No Title », composé il y a onze ans pour une star de YouTube, est devenu la bande-son des blocus lycéens. Son auteur, le producteur franco-vietnamien Nodey, soutient de longue date les victimes de l'agent orange. « C'est la plus belle réc",
-      "url": "https://reporterre.net/Qui-est-Nodey-l-artiste-derriere-l-hymne-des-blocus-lyceens",
-      "published_at": "2026-10-13T14:00:00+00:00"
     },
     {
       "id": "50398b4a17220baf",
