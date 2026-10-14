@@ -1,0 +1,48 @@
+name: Flux Live RSS
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # toutes les 30 minutes
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  flux-live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install minimal dependencies
+        run: pip install --no-cache-dir requests feedparser
+
+      - name: Generate flux_live.json
+        run: python -m scripts.flux_live
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages-branch
+
+      - name: Publish to gh-pages
+        run: |
+          mkdir -p gh-pages-branch/data
+          cp data/flux_live.json gh-pages-branch/data/flux_live.json
+          cd gh-pages-branch
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/flux_live.json
+          git diff --staged --quiet || git commit -m "data: flux live $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push origin gh-pages

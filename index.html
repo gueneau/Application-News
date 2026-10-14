@@ -600,6 +600,7 @@ body { background: var(--bg); }
     </div>
     <div class="sb-nav">
       <div class="nav-item active" data-view="feed" onclick="switchView('feed')"><span class="material-symbols-outlined nav-icon">feed</span>Feed</div>
+      <div class="nav-item" data-view="flux" onclick="switchView('flux')"><span class="material-symbols-outlined nav-icon">rss_feed</span>Flux Live</div>
       <div class="nav-item" data-view="jo" onclick="switchView('jo')"><span class="material-symbols-outlined nav-icon">gavel</span>JO / DILA</div>
       <div class="nav-item" data-view="likes" onclick="switchView('likes')"><span class="material-symbols-outlined nav-icon">bookmark</span>Favoris <span id="nav-likes-badge" style="margin-left:auto;font-size:9px;font-family:var(--mono);background:rgba(255,255,255,0.2);color:#ffffff;padding:1px 6px;border-radius:10px;display:none"></span></div>
       <div class="nav-item" data-view="parlement" onclick="switchView('parlement')"><span class="material-symbols-outlined nav-icon">folder_open</span>Dossiers <span id="nav-parl-badge" style="margin-left:auto;font-size:9px;font-family:var(--mono);background:rgba(255,255,255,0.2);color:#ffffff;padding:1px 6px;border-radius:10px;display:none"></span></div>
@@ -620,6 +621,16 @@ body { background: var(--bg); }
         <div class="feed-welcome-sub"><span id="feed-summary"></span></div>
       </div>
       <div id="feed-list"></div>
+    </div>
+    <div class="view" id="flux-view">
+      <div class="jo-header">
+        <div class="jo-title-row">
+          <div class="jo-page-title">Flux Live — derniers articles publiés</div>
+          <button class="btn-add-dossier" style="margin-left:auto" onclick="loadFluxLive(true)">Actualiser</button>
+        </div>
+        <div class="jo-stats-row" id="flux-stats"></div>
+      </div>
+      <div class="jo-content" id="flux-list"></div>
     </div>
     <div class="view" id="jo-view">
       <div class="jo-header">
@@ -1482,6 +1493,54 @@ function switchView(view){
   if(view==='jo')renderJO();
   if(view==='likes')renderLikes();
   if(view==='parlement'){renderParlement();loadDossiersSuivi();}
+  if(view==='flux')loadFluxLive();
+}
+
+let fluxLiveData=null;
+async function loadFluxLive(force){
+  const list=document.getElementById('flux-list');
+  if(fluxLiveData&&!force){renderFluxLive();return;}
+  list.innerHTML=`<div class="empty-state">Chargement…</div>`;
+  try{
+    const resp=await fetch(`data/flux_live.json?t=${Date.now()}`);
+    if(!resp.ok)throw new Error('HTTP '+resp.status);
+    fluxLiveData=await resp.json();
+    renderFluxLive();
+  }catch(e){
+    console.error(e);
+    list.innerHTML=`<div class="empty-state">Flux Live indisponible pour le moment.</div>`;
+  }
+}
+function fluxTimeAgo(iso){
+  if(!iso)return'';
+  const diffMin=Math.round((Date.now()-new Date(iso).getTime())/60000);
+  if(diffMin<1)return'à l\'instant';
+  if(diffMin<60)return`il y a ${diffMin} min`;
+  const diffH=Math.round(diffMin/60);
+  if(diffH<24)return`il y a ${diffH} h`;
+  const diffJ=Math.round(diffH/24);
+  return`il y a ${diffJ} j`;
+}
+function renderFluxLive(){
+  const items=fluxLiveData?.items||[];
+  document.getElementById('flux-stats').innerHTML=fluxLiveData?.generated_at
+    ?`<span>${items.length} article${items.length>1?'s':''}</span><span>Mis à jour ${fluxTimeAgo(fluxLiveData.generated_at)}</span>`
+    :'';
+  const list=document.getElementById('flux-list');
+  if(!items.length){list.innerHTML=`<div class="empty-state">Aucun article pour le moment</div>`;return;}
+  list.innerHTML=items.map(item=>`
+    <div class="card-compact">
+      <div class="card-compact-top">
+        <span class="card-badge badge-${escHtml(item.categorie||'Environnement')}">${escHtml(item.categorie||'')}</span>
+        <span class="card-compact-source">${escHtml(item.source)}</span>
+      </div>
+      <div class="card-compact-titre">${escHtml(item.titre)}</div>
+      ${item.resume?`<div class="card-resume">${escHtml(item.resume)}</div>`:''}
+      <div class="card-compact-footer">
+        <span class="card-compact-date">${fluxTimeAgo(item.published_at)}</span>
+        ${item.url?`<a class="card-compact-link" href="${escHtml(item.url)}" target="_blank" rel="noopener">Lire<span class="material-symbols-outlined">open_in_new</span></a>`:''}
+      </div>
+    </div>`).join('');
 }
 function formatDate(iso){
   if(!iso)return'—';
