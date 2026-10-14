@@ -38,6 +38,11 @@ GROQ_MAX_RETRY = 3
 GROQ_RETRY_WAIT = 62
 GROQ_MIN_INTERVAL = 10.0  # seconds between Groq calls
 
+# OpenRouter last-resort provider
+OPENROUTER_MODEL = 'google/gemma-4-26b-a4b-it:free'
+OPENROUTER_MAX_RETRY = 2
+OPENROUTER_RETRY_WAIT = 5
+OPENROUTER_TIMEOUT = 30
 
 # ─────────────────────────────────────────────
 # Timeouts

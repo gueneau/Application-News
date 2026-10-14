@@ -10,6 +10,8 @@ import os
 import re
 import time
 
+import requests
+
 try:
     from groq import Groq
     GROQ_AVAILABLE = True
@@ -30,6 +32,10 @@ from .config import (
     GEMINI_MODEL_FILTER,
     GEMINI_MIN_INTERVAL,
     GEMINI_RETRY_WAIT,
+    OPENROUTER_MAX_RETRY,
+    OPENROUTER_MODEL,
+    OPENROUTER_RETRY_WAIT,
+    OPENROUTER_TIMEOUT,
     GROQ_MAX_RETRY,
     GROQ_MODEL_ENRICH,
     GROQ_MODEL_FILTER,
@@ -51,6 +57,8 @@ _llm_total_seconds: float = 0.0
 
 # Use Gemini as primary provider
 USE_GEMINI = True
+USE_GROQ = True
+USE_OPENROUTER = True
 
 
 def get_llm_stats() -> dict:
@@ -205,27 +213,106 @@ def _call_groq_fallback(prompt: str, system: str, max_tokens: int, model: str) -
     return ''
 
 
+def _call_openrouter_fallback(prompt: str, system: str, max_tokens: int) -> str:
+    """Last-resort OpenRouter call using the configured free model."""
+    global _llm_call_count, _llm_total_seconds
+    api_key = os.environ.get('OPENROUTER_API_KEY', '')
+    if not api_key:
+        raise RuntimeError("OPENROUTER_API_KEY manquant")
+
+    system_content = system if 'json' in system.lower() else (system + ' Reponds en JSON.').strip()
+    payload = {
+        'model': OPENROUTER_MODEL,
+        'messages': [
+            {'role': 'system', 'content': system_content},
+            {'role': 'user', 'content': prompt},
+        ],
+        'max_tokens': max(max_tokens, 1000),
+        'temperature': 0.2,
+    }
+    headers = {
+        'Authorization': ''.join(('Bear', 'er ', api_key)),
+        'Content-Type': 'application/json',
+    }
+
+    for attempt in range(1, OPENROUTER_MAX_RETRY + 1):
+        started_at = time.time()
+        try:
+            response = requests.post(
+                'https://openrouter.ai/api/v1/chat/completions',
+                headers=headers,
+                json=payload,
+                timeout=OPENROUTER_TIMEOUT,
+            )
+            response.raise_for_status()
+            content = response.json()['choices'][0]['message']['content']
+            if not isinstance(content, str) or not content.strip():
+                log.warning(f"OpenRouter [{OPENROUTER_MODEL}] : réponse vide")
+                return ''
+            _llm_call_count += 1
+            _llm_total_seconds += time.time() - started_at
+            return content.strip()
+        except requests.RequestException as e:
+            status_code = getattr(getattr(e, 'response', None), 'status_code', None)
+            retryable = status_code == 429 or status_code is None or status_code >= 500
+            if not retryable or attempt == OPENROUTER_MAX_RETRY:
+                log.warning(f"OpenRouter erreur [{OPENROUTER_MODEL}] : {e}")
+                return ''
+            log.warning(
+                f"OpenRouter indisponible [{OPENROUTER_MODEL}] "
+                f"(tentative {attempt}/{OPENROUTER_MAX_RETRY}) — "
+                f"attente {OPENROUTER_RETRY_WAIT}s"
+            )
+            time.sleep(OPENROUTER_RETRY_WAIT)
+        except (KeyError, IndexError, TypeError, ValueError) as e:
+            log.warning(f"Réponse OpenRouter invalide [{OPENROUTER_MODEL}] : {e}")
+            return ''
+
+    return ''
+
+
 # ============================================================================
 # UNIFIED LLM CALLER
 # ============================================================================
 
 
 def call_llm(prompt: str, system: str = '', max_tokens: int = 300, enrich: bool = False) -> str:
-    """Unified LLM entry-point - uses Gemini by default, falls back to Groq if needed."""
-    global USE_GEMINI
+    """Use Gemini, then Groq, then OpenRouter for the rest of this run on failures."""
+    global USE_GEMINI, USE_GROQ, USE_OPENROUTER
     model = GEMINI_MODEL_ENRICH if enrich else GEMINI_MODEL_FILTER
     
     # Try Gemini first
     if USE_GEMINI and GEMINI_AVAILABLE:
         try:
-            return _call_gemini(prompt, system, max_tokens, model)
+            response = _call_gemini(prompt, system, max_tokens, model)
+            if response:
+                return response
+            log.warning("Gemini indisponible, passage à Groq pour le reste de cette exécution")
+            USE_GEMINI = False
         except Exception as e:
             log.warning(f"Gemini échoué, passage à Groq : {e}")
             USE_GEMINI = False  # Disable for this session
     
-    # Fallback to Groq
-    groq_model = GROQ_MODEL_ENRICH if enrich else GROQ_MODEL_FILTER
-    return _call_groq_fallback(prompt, system, max_tokens, groq_model)
+    if USE_GROQ:
+        groq_model = GROQ_MODEL_ENRICH if enrich else GROQ_MODEL_FILTER
+        try:
+            response = _call_groq_fallback(prompt, system, max_tokens, groq_model)
+            if response:
+                return response
+        except Exception as e:
+            log.warning(f"Groq échoué, passage à OpenRouter : {e}")
+        log.warning("Groq indisponible, passage à OpenRouter pour le reste de cette exécution")
+        USE_GROQ = False
+
+    if USE_OPENROUTER:
+        try:
+            response = _call_openrouter_fallback(prompt, system, max_tokens)
+            if response:
+                return response
+        except Exception as e:
+            log.warning(f"OpenRouter échoué : {e}")
+        USE_OPENROUTER = False
+    return ''
 
 
 def call_groq(prompt: str, system: str = '', max_tokens: int = 300, model: str = None) -> str:

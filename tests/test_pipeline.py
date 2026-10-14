@@ -7,6 +7,88 @@ import pytest
 from datetime import datetime
 
 
+# ── LLM provider fallback ────────────────────────────────────────────────────
+
+def test_call_llm_falls_back_to_groq_after_empty_gemini_response(monkeypatch):
+    from abc_pipeline import llm
+
+    gemini_calls = []
+    groq_calls = []
+    monkeypatch.setattr(llm, 'USE_GEMINI', True)
+    monkeypatch.setattr(llm, 'GEMINI_AVAILABLE', True)
+    monkeypatch.setattr(
+        llm, '_call_gemini',
+        lambda *args: gemini_calls.append(args) or '',
+    )
+    monkeypatch.setattr(
+        llm, '_call_groq_fallback',
+        lambda *args: groq_calls.append(args) or 'groq response',
+    )
+
+    assert llm.call_llm('prompt', 'system', max_tokens=500) == 'groq response'
+    assert gemini_calls == [('prompt', 'system', 500, llm.GEMINI_MODEL_FILTER)]
+    assert groq_calls == [('prompt', 'system', 500, llm.GROQ_MODEL_FILTER)]
+    assert llm.USE_GEMINI is False
+
+    assert llm.call_llm('next prompt') == 'groq response'
+    assert len(gemini_calls) == 1
+    assert groq_calls[-1] == ('next prompt', '', 300, llm.GROQ_MODEL_FILTER)
+
+
+def test_call_llm_falls_back_to_openrouter_after_groq_fails(monkeypatch):
+    from abc_pipeline import llm
+
+    groq_calls = []
+    openrouter_calls = []
+    monkeypatch.setattr(llm, 'USE_GEMINI', False)
+    monkeypatch.setattr(llm, 'USE_GROQ', True)
+    monkeypatch.setattr(llm, 'USE_OPENROUTER', True)
+    monkeypatch.setattr(
+        llm, '_call_groq_fallback',
+        lambda *args: groq_calls.append(args) or '',
+    )
+    monkeypatch.setattr(
+        llm, '_call_openrouter_fallback',
+        lambda *args: openrouter_calls.append(args) or 'openrouter response',
+    )
+
+    assert llm.call_llm('prompt', 'system', max_tokens=500) == 'openrouter response'
+    assert groq_calls == [('prompt', 'system', 500, llm.GROQ_MODEL_FILTER)]
+    assert openrouter_calls == [('prompt', 'system', 500)]
+    assert llm.USE_GROQ is False
+
+    assert llm.call_llm('next prompt') == 'openrouter response'
+    assert len(groq_calls) == 1
+    assert openrouter_calls[-1] == ('next prompt', '', 300)
+
+
+def test_openrouter_request_uses_secret_model_and_timeout(monkeypatch):
+    from types import SimpleNamespace
+
+    from abc_pipeline import llm
+
+    captured = {}
+
+    def fake_post(url, **kwargs):
+        captured['url'] = url
+        captured.update(kwargs)
+        return SimpleNamespace(
+            status_code=200,
+            raise_for_status=lambda: None,
+            json=lambda: {'choices': [{'message': {'content': '{"ok": true}'}}]},
+        )
+
+    monkeypatch.setenv('OPENROUTER_API_KEY', 'test-secret')
+    monkeypatch.setattr(llm.requests, 'post', fake_post)
+
+    assert llm._call_openrouter_fallback('prompt', 'system', 200) == '{"ok": true}'
+    assert captured['url'] == 'https://openrouter.ai/api/v1/chat/completions'
+    assert captured['headers']['Authorization'].endswith('test-secret')
+    assert captured['json']['model'] == 'google/gemma-4-26b-a4b-it:free'
+    assert captured['json']['max_tokens'] == 1000
+    assert captured['timeout'] == llm.OPENROUTER_TIMEOUT
+
+
 # ── filters ──────────────────────────────────────────────────────────────────
 
 def test_keyword_match_positive():
