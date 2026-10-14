@@ -251,10 +251,17 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .feed-empty-prio-sub { font-size: 12px; color: var(--muted); line-height: 1.5; }
 @keyframes empty-pulse { 0%,100% { transform: scale(0.8); opacity: .15; } 50% { transform: scale(1.2); opacity: .07; } }
 
-#jo-view, #flux-view { padding: 0; overflow-y: auto; }
-.flux-content { max-width: 760px; margin: 0 auto; width: 100%; padding: 8px 20px 40px; display: flex; flex-direction: column; }
-.flux-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; padding: 14px 4px; border-bottom: 1px solid var(--border); }
-.flux-row:last-child { border-bottom: none; }
+#jo-view { padding: 0; overflow-y: auto; }
+#flux-view { padding: 0; }
+.flux-scroll-wrap { position: relative; flex: 1; min-height: 0; overflow: hidden; }
+.flux-content { position: absolute; inset: 0; max-width: 760px; margin: 0 auto; padding: 14px 20px 40px; display: flex; flex-direction: column; gap: 10px; overflow-y: auto; scrollbar-width: none; }
+.flux-content::-webkit-scrollbar { display: none; }
+.flux-fade { position: absolute; left: 0; right: 0; height: 40px; pointer-events: none; z-index: 1; opacity: 0; transition: opacity .2s ease; }
+.flux-fade-top { top: 0; background: linear-gradient(to bottom, var(--bg) 0%, rgba(246,243,231,0) 100%); }
+.flux-fade-bottom { bottom: 0; background: linear-gradient(to top, var(--bg) 0%, rgba(246,243,231,0) 100%); }
+.flux-fade.show { opacity: 1; }
+.flux-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; background: var(--surface-lowest); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; transition: border-color .15s, box-shadow .15s; }
+.flux-row:hover { border-color: var(--border2); box-shadow: 0 3px 10px rgba(0,76,70,.07); }
 .flux-row-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px; }
 .flux-row-titre { font-size: 13.5px; font-weight: 600; color: var(--text); line-height: 1.4; }
 .flux-row-resume { font-size: 12.5px; color: var(--text2); line-height: 1.5; }
@@ -655,7 +662,11 @@ body { background: var(--bg); }
         </div>
         <div class="jo-stats-row" id="flux-stats"></div>
       </div>
-      <div class="flux-content" id="flux-list"></div>
+      <div class="flux-scroll-wrap">
+        <div class="flux-fade flux-fade-top" id="flux-fade-top"></div>
+        <div class="flux-content" id="flux-list"></div>
+        <div class="flux-fade flux-fade-bottom" id="flux-fade-bottom"></div>
+      </div>
     </div>
     <div class="view" id="jo-view">
       <div class="jo-header">
@@ -1574,7 +1585,7 @@ function renderFluxLive(){
     ?`<span>${items.length} article${items.length>1?'s':''}</span><span>Mis à jour ${fluxTimeAgo(fluxLiveData.generated_at)}</span>`
     :'';
   const list=document.getElementById('flux-list');
-  if(!items.length){list.innerHTML=`<div class="empty-state">Aucun article pour le moment</div>`;return;}
+  if(!items.length){list.innerHTML=`<div class="empty-state">Aucun article pour le moment</div>`;updateFluxFades();return;}
   list.innerHTML=items.map(item=>`
     <div class="flux-row">
       <div class="flux-row-main">
@@ -1587,6 +1598,20 @@ function renderFluxLive(){
         ${item.url?`<a class="flux-row-link" href="${escHtml(item.url)}" target="_blank" rel="noopener">Lire<span class="material-symbols-outlined">open_in_new</span></a>`:''}
       </div>
     </div>`).join('');
+  if(!list._fadeBound){
+    list.addEventListener('scroll',updateFluxFades);
+    window.addEventListener('resize',updateFluxFades);
+    list._fadeBound=true;
+  }
+  updateFluxFades();
+}
+function updateFluxFades(){
+  const list=document.getElementById('flux-list');
+  const top=document.getElementById('flux-fade-top'),bottom=document.getElementById('flux-fade-bottom');
+  if(!list||!top||!bottom)return;
+  const canScroll=list.scrollHeight>list.clientHeight+1;
+  top.classList.toggle('show',canScroll&&list.scrollTop>4);
+  bottom.classList.toggle('show',canScroll&&list.scrollTop<list.scrollHeight-list.clientHeight-4);
 }
 function formatDate(iso){
   if(!iso)return'—';
