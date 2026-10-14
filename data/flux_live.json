@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-14T12:02:17.841684+00:00",
+  "generated_at": "2026-10-14T12:16:12.909430+00:00",
   "items": [
+    {
+      "id": "d5db66b10fa4b79c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "LBD, grenades... Une pétition contre les armes des policiers récolte plus de 130 000 signatures",
+      "resume": "Une pétition mise en ligne sur le site de l'Assemblée nationale pour demander l'interdiction des « techniques et armes inappropriées dans les manifestations de lycéens » a récolté plus de 130 600 signatures le 14 octobre à la mi-journée. Le",
+      "url": "https://reporterre.net/LBD-grenades-Une-petition-contre-les-armes-des-policiers-recolte-plus-de-130-000-signatures",
+      "published_at": "2026-10-14T12:12:49+00:00"
+    },
+    {
+      "id": "04d23de638077f74",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESMA Guides Investment Firms on Avoiding Greenwashing in Impact, Climate Transition Claims",
+      "resume": "EU markets regulator the European Securities and Markets Authority (ESMA) announced the release of a […]",
+      "url": "https://www.esgtoday.com/esma-guides-investment-firms-on-avoiding-greenwashing-in-impact-climate-transition-claims/?utm_source=rss&utm_medium=rss&utm_campaign=esma-guides-investment-firms-on-avoiding-greenwashing-in-impact-climate-transition-claims",
+      "published_at": "2026-10-14T12:02:30+00:00"
+    },
     {
       "id": "bbdca5f5a64f4a4a",
       "source": "Actu-Environnement",
@@ -353,15 +371,6 @@
       "published_at": "2026-10-13T14:00:00+00:00"
     },
     {
-      "id": "de13d70a8e546462",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Il a étouffé un ruisseau, la justice l'a condamné : récit d'un jugement inhabituel",
-      "resume": "C'est l'histoire d'une parcelle de forêt rasée par un sylviculteur, avec des conséquences en cascade jusqu'à la disparition de la biodiversité d'une rivière. L'exploitant, qui n'avait pas conscience des conséquences de ses actes, a été cond",
-      "url": "https://reporterre.net/Il-a-etouffe-un-ruisseau-la-justice-l-a-condamne-recit-d-un-jugement-inhabituel",
-      "published_at": "2026-10-13T14:00:00+00:00"
-    },
-    {
       "id": "50398b4a17220baf",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -369,15 +378,6 @@
       "resume": "Le candidat LR à l’élection présidentielle préfère les réacteurs de quatrième génération, a-t-il déclaré au sommet pour la compétitivité de POLITICO.",
       "url": "https://www.politico.eu/article/bruno-retailleau-temporise-sur-la-relance-du-nucleaire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T13:47:24+00:00"
-    },
-    {
-      "id": "c5b9bd6b869be4fa",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Epyr Raises $17 Million to Scale Industrial Heat Electrification Platform",
-      "resume": "French energy tech startup Epyr announced today that it has raised €15 million (USD$16.8 million) […]",
-      "url": "https://www.esgtoday.com/epyr-raises-17-million-to-scale-industrial-heat-electrification-platform/?utm_source=rss&utm_medium=rss&utm_campaign=epyr-raises-17-million-to-scale-industrial-heat-electrification-platform",
-      "published_at": "2026-10-13T13:18:52+00:00"
     },
     {
       "id": "e90c675cf9b57a29",
