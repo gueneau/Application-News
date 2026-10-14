@@ -339,49 +339,11 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .parl-progress-track { height: 4px; background: var(--surface3); border-radius: 2px; overflow: hidden; }
 .parl-progress-bar { height: 100%; background: var(--blue); border-radius: 2px; }
 .parl-stade-badge { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: 500; background: var(--blue-bg); color: var(--blue); border: 1px solid var(--blue-border); }
-/* ── Parlement — stats + tabs + cards ───────────────────────────────── */
-.parl-stats-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 4px; }
-.parl-stat { display: flex; flex-direction: column; align-items: center; background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 6px 14px; min-width: 80px; }
-.parl-stat.accent { border-color: var(--orange-border); background: var(--orange-bg); }
-.parl-stat-val { font-family: var(--mono); font-size: 18px; font-weight: 500; color: var(--text); line-height: 1; }
-.parl-stat.accent .parl-stat-val { color: var(--orange); }
-.parl-stat-lbl { font-size: 9px; color: var(--muted); margin-top: 2px; letter-spacing: .04em; text-transform: uppercase; }
-.parl-tabs { display: flex; gap: 0; border-bottom: 1px solid var(--border); background: var(--surface); padding: 0 20px; }
-.parl-tab { padding: 10px 16px; font-size: 13px; font-weight: 500; color: var(--muted); cursor: pointer; border-bottom: 2px solid transparent; transition: all .15s; user-select: none; white-space: nowrap; }
-.parl-tab:hover { color: var(--text2); }
-.parl-tab.active { color: var(--blue); border-bottom-color: var(--blue); }
-.parl-tab-panel { display: none; flex: 1; flex-direction: column; overflow-y: auto; }
-.parl-tab-panel.active { display: flex; }
-.parl-content { padding: 12px 20px; display: flex; flex-direction: column; gap: 0; }
-.parl-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; border-left: 3px solid var(--border2); transition: background .1s; cursor: pointer; margin-bottom: 1px; border-radius: 0; border-top: none; }
-.parl-card:first-child { border-radius: var(--radius) var(--radius) 0 0; border-top: 1px solid var(--border); }
-.parl-card:last-child { border-radius: 0 0 var(--radius) var(--radius); }
-.parl-card:hover { background: var(--surface2); }
-.parl-card.score3 { border-left-color: var(--red); }
-.parl-card.score2 { border-left-color: var(--orange); }
-.parl-card.score1 { border-left-color: var(--border2); }
-.parl-card-top { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; }
-.parl-card-titre { font-size: 13px; font-weight: 500; color: var(--text); line-height: 1.4; flex: 1; }
-.parl-badges { display: flex; gap: 6px; flex-wrap: wrap; flex-shrink: 0; align-items: flex-start; }
-.parl-score-badge { font-size: 10px; font-weight: 500; padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
-.parl-score3 { background: var(--red-bg); color: var(--red); }
-.parl-score2 { background: var(--orange-bg); color: var(--orange); }
-.parl-score1 { background: var(--surface2); color: var(--muted); }
-.parl-new-badge { font-size: 10px; font-weight: 500; padding: 2px 8px; border-radius: 4px; background: #fdf4ff; color: #7e22ce; border: 1px solid #e9d5ff; white-space: nowrap; }
-.parl-resume { font-size: 12px; color: var(--text2); line-height: 1.55; margin-bottom: 8px; }
-.parl-meta { display: flex; gap: 10px; margin-top: 6px; font-size: 11px; color: var(--muted); flex-wrap: wrap; align-items: center; }
-.parl-meta a { color: var(--blue); text-decoration: none; font-family: var(--mono); font-size: 11px; }
-.parl-meta a:hover { text-decoration: underline; }
-.parl-historique { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border); display: none; }
-.parl-card.open .parl-historique { display: block; }
-.parl-hist-item { display: flex; gap: 8px; align-items: baseline; font-size: 11px; color: var(--muted); padding: 2px 0; }
-.parl-hist-date { flex-shrink: 0; }
-.parl-empty { padding: 48px 20px; text-align: center; font-size: 13px; color: var(--muted); }
+#suivi-panel { display: flex; flex-direction: column; flex: 1; overflow-y: auto; }
 /* ── Avancement badge on suivi items ─────────────────────────────────── */
 .suivi-avt-badge { display:inline-flex; align-items:center; gap:4px; font-size:11px; font-weight:500; padding:2px 8px; border-radius:4px; background:var(--blue-bg); color:var(--blue); border:1px solid var(--blue-border); white-space:nowrap; }
 
 /* ── Suivi tab ───────────────────────────────────────────────────────── */
-#suivi-panel { flex-direction: column; }
 .suivi-toolbar { display: flex; align-items: center; gap: 8px; padding: 12px 20px; background: var(--surface); border-bottom: 1px solid var(--border); flex-wrap: wrap; flex-shrink: 0; }
 .suivi-toolbar-left { display: flex; align-items: center; gap: 8px; flex: 1; }
 .btn-add-dossier { display: inline-flex; align-items: center; gap: 6px; padding: 7px 14px; background: var(--blue); color: #fff; border: none; border-radius: var(--radius-sm); font-size: 13px; font-weight: 500; font-family: var(--sans); cursor: pointer; transition: opacity .15s; white-space: nowrap; }
@@ -509,14 +471,10 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
   .card-content { grid-template-columns: minmax(0, 1fr) auto; gap: 8px; padding: 8px; }
   .card-meta { flex-wrap: wrap; }
   .jo-header, .parl-header, .likes-header { padding-left: 14px; padding-right: 14px; }
-  .jo-content, .parl-content, .likes-grid { padding-left: 12px; padding-right: 12px; }
+  .jo-content, .likes-grid { padding-left: 12px; padding-right: 12px; }
   #parlement-view { overflow: visible; }
   .parl-header { position: static; }
-  .parl-tabs { padding: 0 8px; }
-  .parl-tab { padding: 10px 12px; }
-  .parl-tab-panel.active { overflow: visible; }
-  .parl-card-top { flex-wrap: wrap; }
-  .parl-badges { flex-shrink: 1; }
+  #suivi-panel { overflow: visible; }
   .suivi-toolbar-left { align-items: flex-start; flex-direction: column; }
   .suivi-filter-group { max-width: 100%; overflow-x: auto; }
   .suivi-list { overflow: visible; }
@@ -541,7 +499,7 @@ body { background: var(--bg); }
 .nav-item { border-radius: 4px; }
 .nav-item.active { color: #fff; }
 .nav-item.active .nav-icon { color: var(--sb-accent); }
-.sb-status, .pipeline-error-badge, .suivi-filter-btn, .jo-theme-count, .parl-score-badge { border-radius: 4px; }
+.sb-status, .pipeline-error-badge, .suivi-filter-btn, .jo-theme-count { border-radius: 4px; }
 .sb-stats { padding-bottom: max(16px, env(safe-area-inset-bottom)); }
 .stat-val.zero { color: rgba(255,255,255,0.78); }
 #main { background: var(--bg); }
@@ -570,7 +528,7 @@ body { background: var(--bg); }
 .card-compact:hover { background: var(--surface); border-color: var(--border2); box-shadow: 0 3px 12px rgba(0,76,70,0.06); }
 .card-compact-source, .card-badge { background: var(--surface3); color: var(--primary); border-radius: 3px; }
 .card-compact-titre { font-family: 'Poppins', Arial, sans-serif; font-size: 14px; font-weight: 600; }
-.card-compact-link, .card-link, .btn-details, .like-footer a, .jo-item-link, .parl-meta a { color: var(--secondary); font-family: var(--sans); }
+.card-compact-link, .card-link, .btn-details, .like-footer a, .jo-item-link { color: var(--secondary); font-family: var(--sans); }
 .src-link-btn { border-radius: 4px; }
 .src-link-btn:hover { background: var(--primary); color: #fff; border-color: var(--primary); transform: none; box-shadow: none; }
 .feed-empty-prio { background: transparent; border: 1px solid var(--border); border-radius: 6px; }
@@ -590,14 +548,10 @@ body { background: var(--bg); }
 .briefing-header { color: var(--primary); font-family: 'Poppins', Arial, sans-serif; }
 .jo-theme-header { background: var(--surface2); border-color: var(--border); border-radius: 4px; }
 .jo-theme-header:hover, .jo-item:hover { background: var(--surface3); }
-.parl-tabs { background: var(--bg); border-color: var(--border); }
-.parl-tab.active { color: var(--primary); border-bottom-color: var(--secondary); }
-.parl-card, .like-card, .suivi-item { border-left: 1px solid var(--border); border-radius: 6px; }
-.parl-card:first-child, .parl-card:last-child { border-radius: 6px; border-top: 1px solid var(--border); }
-.parl-card.score3, .parl-card.score2, .parl-card.score1,
+.like-card, .suivi-item { border-left: 1px solid var(--border); border-radius: 6px; }
 .like-card.prio3, .like-card.prio2,
 .suivi-item.s-critique, .suivi-item.s-a_surveiller, .suivi-item.s-pour_info { border-left-color: var(--border); }
-.parl-card-titre, .suivi-item-titre, .like-titre { font-family: 'Poppins', Arial, sans-serif; }
+.suivi-item-titre, .like-titre { font-family: 'Poppins', Arial, sans-serif; }
 .parl-pourquoi { background: var(--orange-bg); border: 1px solid var(--orange-border); border-radius: 4px; }
 .suivi-item { border-bottom-color: var(--border); }
 .btn-add-dossier, .btn-save { background: var(--primary); border-radius: 4px; }
@@ -609,7 +563,6 @@ body { background: var(--bg); }
 .like-card:hover { background: var(--surface); }
 .likes-count { font-family: 'Poppins', Arial, sans-serif; border-radius: 4px; }
 .like-btn:hover, .like-btn.liked { color: #b77a00; }
-.parl-new-badge { background: var(--orange-bg); color: var(--orange); border-color: var(--orange-border); border-radius: 3px; }
 
 @media (max-width: 768px) {
   .sb-nav { padding: 6px 4px calc(6px + env(safe-area-inset-bottom)); }
@@ -622,7 +575,6 @@ body { background: var(--bg); }
   .jo-page-title, .parl-page-title, .likes-page-title { font-size: 21px; }
   .feed-col-consulter { border-top: 1px solid var(--border); border-radius: 0; }
   .card-content { padding: 12px; }
-  .parl-card:first-child, .parl-card:last-child { border-radius: 6px; }
 }
 </style>
 </head>
@@ -686,19 +638,9 @@ body { background: var(--bg); }
     </div>
     <div class="view" id="parlement-view">
       <div class="parl-header">
-        <div class="parl-title-row"><div class="parl-page-title">Veille Parlementaire</div></div>
-        <div class="parl-stats-row" id="parl-stats"></div>
-        <div class="parl-tabs">
-          <div class="parl-tab active" data-panel="legislatif" onclick="switchParlTab('legislatif')">Pipeline auto</div>
-          <div class="parl-tab" data-panel="suivi" onclick="switchParlTab('suivi')">Mes dossiers <span id="nav-suivi-count" style="font-size:10px;font-family:var(--mono);background:rgba(37,99,235,.12);color:var(--blue);padding:1px 5px;border-radius:10px;margin-left:4px;display:none"></span></div>
-        </div>
+        <div class="parl-title-row"><div class="parl-page-title">Mes dossiers</div></div>
       </div>
-      <!-- Tab Pipeline auto -->
-      <div class="parl-tab-panel active" id="legislatif-panel">
-        <div class="parl-content" id="parl-content"></div>
-      </div>
-      <!-- Tab Mes dossiers -->
-      <div class="parl-tab-panel" id="suivi-panel">
+      <div id="suivi-panel">
         <div class="suivi-toolbar">
           <div class="suivi-toolbar-left">
             <button class="btn-add-dossier" onclick="openAddDossierModal()">+ Nouveau dossier</button>
@@ -838,7 +780,6 @@ function renderAll(){
   document.getElementById('stat-jo-analyses').textContent=s.jo_analyses??'—';
   renderFeed();
   if(currentView==='jo')renderJO();
-  if(currentView==='parlement')renderParlement();
 }
 
 
@@ -1003,6 +944,30 @@ function renderJO(){
     <div style="font-size:13px;color:var(--text2);line-height:1.6">${escHtml(briefing)}</div>
   </div>`:'';
 
+  // Ordre du jour — Assemblée nationale (séance publique)
+  const anSessions=D?.an_agenda||[];
+  let anAgendaHtml='';
+  if(anSessions.length){
+    const byDate={};
+    anSessions.forEach(s=>{(byDate[s.date]=byDate[s.date]||[]).push(s);});
+    anAgendaHtml=`<div class="briefing-card" style="margin-bottom:16px">
+      <div class="briefing-header" style="justify-content:space-between;cursor:default">
+        <span>Ordre du jour — Assemblée nationale</span>
+        <a class="jo-item-link" href="https://www.assemblee-nationale.fr/dyn/seance-publique" target="_blank" rel="noopener" style="text-transform:none;letter-spacing:normal;font-weight:500">Voir tout →</a>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:10px">
+        ${Object.keys(byDate).sort().map(date=>`
+          <div>
+            <div style="font-size:12px;font-weight:600;color:var(--text);margin-bottom:4px">${escHtml(formatDate(date))}</div>
+            ${byDate[date].map(s=>`<div style="display:flex;gap:10px;font-size:12.5px;color:var(--text2);line-height:1.5;padding:2px 0">
+              <span style="flex-shrink:0;font-family:var(--mono);color:var(--muted2)">${escHtml(s.heure)}</span>
+              <span>${escHtml(s.ordre_du_jour)}</span>
+            </div>`).join('')}
+          </div>`).join('')}
+      </div>
+    </div>`;
+  }
+
   // Section signaux ABC (jo_retenus) — en haut, bien visible
   let joAbcHtml = '';
   if(joRetenus.length){
@@ -1033,12 +998,12 @@ function renderJO(){
     }
   }
 
-  if(!items.length&&!demotedItems.length){groupEl.innerHTML=joAbcHtml+briefingHtml+'<div class="jo-empty">Aucun autre texte JO pour cette date</div>';return;}
+  if(!items.length&&!demotedItems.length){groupEl.innerHTML=joAbcHtml+briefingHtml+anAgendaHtml+'<div class="jo-empty">Aucun autre texte JO pour cette date</div>';return;}
   const groups={};
   [...items,...demotedItems].forEach(item=>{const nat=(item.nature||'AUTRE').toUpperCase(),label=JO_NATURES[nat]||nat||'Autre';if(!groups[label])groups[label]=[];if(!search||(item.titre||'').toLowerCase().includes(search))groups[label].push(item);});
   const total=Object.values(groups).reduce((s,g)=>s+g.length,0);
-  if(!total){groupEl.innerHTML=joAbcHtml+briefingHtml+'<div class="jo-empty">Aucun résultat</div>';return;}
-  groupEl.innerHTML=joAbcHtml+briefingHtml+Object.entries(groups).sort(([a],[b])=>a.localeCompare(b)).map(([label,its])=>`<div class="jo-theme-group open"><div class="jo-theme-header" onclick="this.parentElement.classList.toggle('open')"><span class="jo-theme-name">${escHtml(label)}</span><span class="jo-theme-count">${its.length}</span><span class="jo-chevron">▶</span></div><div class="jo-items">${its.map(item=>`<div class="jo-item"><div class="jo-item-nature">${escHtml(item.nature||label)}</div><div class="jo-item-titre">${escHtml(item.titre)}</div>${item.url?`<a class="jo-item-link" href="${escHtml(item.url)}" target="_blank" rel="noopener">Légifrance →</a>`:'<span style="font-size:10px;color:var(--muted2)">Pas de lien</span>'}</div>`).join('')}</div></div>`).join('');
+  if(!total){groupEl.innerHTML=joAbcHtml+briefingHtml+anAgendaHtml+'<div class="jo-empty">Aucun résultat</div>';return;}
+  groupEl.innerHTML=joAbcHtml+briefingHtml+anAgendaHtml+Object.entries(groups).sort(([a],[b])=>a.localeCompare(b)).map(([label,its])=>`<div class="jo-theme-group"><div class="jo-theme-header" onclick="this.parentElement.classList.toggle('open')"><span class="jo-theme-name">${escHtml(label)}</span><span class="jo-theme-count">${its.length}</span><span class="jo-chevron">▶</span></div><div class="jo-items">${its.map(item=>`<div class="jo-item"><div class="jo-item-nature">${escHtml(item.nature||label)}</div><div class="jo-item-titre">${escHtml(item.titre)}</div>${item.url?`<a class="jo-item-link" href="${escHtml(item.url)}" target="_blank" rel="noopener">Légifrance →</a>`:'<span style="font-size:10px;color:var(--muted2)">Pas de lien</span>'}</div>`).join('')}</div></div>`).join('');
 }
 // STADES_ORDRE used in parlement + drawer progress bars
 const STADES_ORDRE=['Dépôt','Commission','Première lecture à l\'Assemblée nationale','Première lecture au Sénat','Commission mixte paritaire','Deuxième lecture au Sénat','Deuxième lecture à l\'Assemblée nationale','Texte définitivement adopté','Promulgation'];
@@ -1047,109 +1012,6 @@ function parlementStageProgress(stade){
   if(stade==='Texte rejeté')return null;
   const idx=STADES_ORDRE.indexOf(stade);
   return idx<0?null:Math.round((idx/(STADES_ORDRE.length-1))*100);
-}
-
-function renderParlement(){
-  const fiches=D?.pjl_fiches||[];
-  const autres=D?.pjl_autres||[];
-  const statsEl=document.getElementById('parl-stats');
-  const contentEl=document.getElementById('parl-content');
-  if(!contentEl)return;
-
-  const nbAdv=fiches.filter(f=>f.nouveau_stade).length;
-  const nbScore3=fiches.filter(f=>f.score>=3).length;
-  const nbAutres=autres.reduce((s,g)=>s+(g.items||[]).length,0);
-
-  if(statsEl)statsEl.innerHTML=[
-    [fiches.length,'PJL suivis',false],
-    [nbAdv,"Avancements aujourd'hui",nbAdv>0],
-    [nbScore3,'Impact direct',nbScore3>0],
-    [nbAutres,'Textes du jour',false],
-  ].map(([v,l,a])=>`<div class="parl-stat ${a?'accent':''}"><div class="parl-stat-val">${v}</div><div class="parl-stat-lbl">${l}</div></div>`).join('');
-
-  let html='';
-  if(fiches.length){
-    html+=`<div class="feed-section-hd prio" style="border-radius:6px 6px 0 0;position:static">
-      <span class="feed-section-lbl">Projets de loi suivis</span>
-      <span class="feed-section-badge">${fiches.length}</span>
-    </div>`;
-    const fichesSorted=[...fiches].sort((a,b)=>(b.date_depot||'').localeCompare(a.date_depot||''));
-    html+=fichesSorted.map(f=>{
-      const pct=parlementStageProgress(f.stade);
-      const sc=f.score||1;
-      const hist=(f.historique||[]);
-      const histHtml=hist.length>1?hist.slice().reverse().map(h=>
-        `<div class="parl-hist-item"><span class="parl-hist-date">${h.date}</span><span>${escHtml(h.event||h.stade)}</span></div>`
-      ).join(''):'';
-      return `<div class="parl-card score${sc}" onclick="this.classList.toggle('open')">
-        <div class="parl-card-top">
-          <div class="parl-card-titre">${escHtml(f.titre)}</div>
-          <div class="parl-badges">
-            ${f.nouveau_stade?'<span class="parl-new-badge">↑ Avancé</span>':''}
-            <span class="parl-score-badge parl-score${sc}">${SCORE_LABEL[sc]||'Veille'}</span>
-          </div>
-        </div>
-        ${(f.pourquoi||f.resume_abc)?`<div class="parl-pourquoi">${escHtml(f.pourquoi||f.resume_abc)}</div>`:''}
-        <div class="parl-progress">
-          <div class="parl-progress-label">
-            <span class="parl-stade-badge">${escHtml(f.stade||'Dépôt')}</span>
-            ${pct===null?'':`<span>${pct}%</span>`}
-          </div>
-          ${pct===null?'':`<div class="parl-progress-track"><div class="parl-progress-bar" style="width:${pct}%"></div></div>`}
-        </div>
-        <div class="parl-meta">
-          ${f.horizon?`<span>Entrée en vigueur : <strong>${escHtml(f.horizon)}</strong></span>`:''}
-          ${f.url_an?`<a href="${escHtml(f.url_an)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">AN →</a>`:''}
-        </div>
-        ${histHtml?`<div class="parl-historique">${histHtml}</div>`:''}
-      </div>`;
-    }).join('');
-    html+='<div style="margin-bottom:20px"></div>';
-  }else{
-    html+=`<div class="parl-empty">Aucun PJL environnemental retenu ce run.<br><span style="font-size:11px;color:var(--muted2)">Le pipeline détectera automatiquement les nouveaux PJL lors des prochains runs.</span></div>`;
-  }
-
-  if(autres.length){
-    html+=`<div class="feed-consulter-hd" style="border-radius:6px 6px 0 0">
-      <span class="feed-consulter-lbl">Autres textes — activité parlementaire du jour</span>
-      <span class="feed-section-badge" style="margin-left:auto">${nbAutres} textes</span>
-    </div>
-    <div class="feed-consulter-items" style="border:1px solid var(--border);border-top:none;border-radius:0 0 6px 6px">`;
-    autres.forEach(group=>{
-      const items=[...group.items||[]].sort((a,b)=>(b.date||'').localeCompare(a.date||''));
-      const isAdopt=group.source==='AN Textes adoptés';
-      html+=`<div class="jo-theme-group${isAdopt?' open':''}">
-        <div class="jo-theme-header" onclick="this.parentElement.classList.toggle('open')">
-          <span class="jo-theme-name">${escHtml(group.source)}</span>
-          <span class="jo-theme-count">${items.length}</span>
-          <span class="jo-chevron">▶</span>
-        </div>
-        <div class="jo-items">${items.map(item=>{
-          const today=new Date();today.setHours(0,0,0,0);
-          const itemDate=item.date?new Date(item.date):null;
-          const daysDiff=itemDate?Math.round((today-itemDate)/86400000):999;
-          const isNew=daysDiff===0;
-          const showDate=daysDiff>0&&item.date;
-          return `<div class="jo-item" style="display:flex;align-items:center;gap:10px">
-          <div style="flex:1;font-size:12px;color:var(--text)">${escHtml(item.titre)}</div>
-          <div style="display:flex;align-items:center;gap:8px;flex-shrink:0">
-            ${isNew?`<span style="font-size:10px;font-weight:600;color:#fff;background:var(--secondary);padding:2px 6px;border-radius:3px">Nouveau</span>`:''}
-            ${showDate?`<span style="font-size:11px;color:var(--muted2)">${formatDate(item.date)}</span>`:''}
-            ${item.url?`<a class="jo-item-link" href="${escHtml(item.url)}" target="_blank" rel="noopener">→</a>`:''}
-          </div>
-        </div>`;}).join('')}</div>
-      </div>`;
-    });
-    html+='</div>';
-  }
-
-  contentEl.innerHTML=html;
-}
-
-function switchParlTab(tab){
-  document.querySelectorAll('.parl-tab').forEach(t=>t.classList.toggle('active',t.dataset.panel===tab));
-  document.querySelectorAll('.parl-tab-panel').forEach(p=>p.classList.toggle('active',p.id===tab+'-panel'));
-  if(tab==='suivi')loadDossiersSuivi();
 }
 
 function filterJO(){renderJO();}
@@ -1226,12 +1088,9 @@ async function deleteDossier(id, titre){
     const{data,error}=await getSupa().from('legislative_dossiers').delete().eq('id',id).select('id').maybeSingle();
     if(error)throw error;
     if(!data)throw new Error('Dossier introuvable ou suppression refusée par Supabase.');
-    const urlAn=dossiersSuivi.find(d=>d.id===id)?.url_an;
     dossiersSuivi=dossiersSuivi.filter(d=>d.id!==id);
     delete recentEvents[id];
-    if(urlAn&&D?.pjl_fiches)D.pjl_fiches=D.pjl_fiches.filter(f=>f.url_an!==urlAn);
     renderSuivi();
-    renderParlement();
     const el=document.getElementById('stat-suivi');
     if(el){el.textContent=dossiersSuivi.length||'0';el.className='stat-val'+(dossiersSuivi.length?'':' zero');}
     showToast('Dossier supprimé');
@@ -1543,7 +1402,7 @@ function switchView(view){
   document.querySelectorAll('.nav-item').forEach(el=>el.classList.toggle('active',el.dataset.view===view));
   if(view==='jo')renderJO();
   if(view==='likes')renderLikes();
-  if(view==='parlement'){renderParlement();loadDossiersSuivi();}
+  if(view==='parlement')loadDossiersSuivi();
   if(view==='flux')loadFluxLive();
 }
 
