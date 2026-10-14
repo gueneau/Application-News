@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-14T15:13:20.351858+00:00",
+  "generated_at": "2026-10-14T16:28:54.804296+00:00",
   "items": [
+    {
+      "id": "30e8609b8a9997fc",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Flexibilité : Voltalis et Siemens s’attaquent au secteur tertiaire",
+      "resume": "Voltalis veut exploiter le gisement de flexibilité dans les bâtiments tertiaires de petite et moyenne taille, en collaboration avec Siemens. Le spécialiste de l’effacement propose L’article Flexibilité : Voltalis et Siemens s’attaquent au s",
+      "url": "https://www.greenunivers.com/2026/10/flexibilite-voltalis-et-siemens-sattaquent-au-secteur-tertiaire-436102/",
+      "published_at": "2026-10-14T16:00:00+00:00"
+    },
+    {
+      "id": "1351118c56eb1aed",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Pollutions diffuses : la liste des substances soumises à la redevance en 2027 en consultation",
+      "resume": "La version réactualisée de la liste des substances soumises à la redevance pour pollutions diffuses pour 2027 est en consultation jusqu'au 6 novembre. Comme chaque année, celle-ci est revue à la lumière des dernières connaissances disponibl",
+      "url": "https://www.actu-environnement.com/ae/news/pollutions-diffuses-listes-substances-soumises-redevances-2027-consultation-48666.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T15:47:40+00:00"
+    },
+    {
+      "id": "57b975b38ea59cf0",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Réemploi : la future stratégie nationale plus incertaine que jamais",
+      "resume": "Les Assises du réemploi devaient lever le flou qui entoure la future stratégie nationale de réemploi. Mais le ministre a donné rendez-vous début 2027, sans clarifier les attentes. En outre, les premiers échanges sur la SN3R ont été reportés",
+      "url": "https://www.actu-environnement.com/ae/news/future-strategie-nationale-reemploi-incertaines-report-sn3r-48665.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T15:44:13+00:00"
+    },
+    {
+      "id": "fac840864e59c70e",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Gymnases et salles de sport : les polluants de l'air intérieur passés au crible",
+      "resume": "Deux nouvelles études publiées par l'Ademe évaluent la qualité de l'air intérieur dans les gymnases et les salles de sport. Les polluants mesurés ont globalement des valeurs inférieures aux seuils réglementaires.",
+      "url": "https://www.actu-environnement.com/ae/news/qualite-air-salles-sport-ademe-etudes-gymnases-48664.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T15:36:55+00:00"
+    },
+    {
+      "id": "5ff65dcb60ec7191",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "En Guadeloupe, les lycéens dénoncent des classes surchauffées et les coupures d'eau",
+      "resume": "Alors que la répression policière contre la mobilisation des lycéens se poursuit les élèves de Guadeloupe ne se découragent pas. Parents et professeurs soutiennent leur blocage dans l'espoir de limiter les violences des forces de l'ordre. L",
+      "url": "https://reporterre.net/En-Guadeloupe-les-lyceens-denoncent-des-classes-surchauffees-et-les-coupures-d-eau",
+      "published_at": "2026-10-14T15:16:10+00:00"
+    },
     {
       "id": "de44a10183d98683",
       "source": "ESG Today",
@@ -26,7 +71,7 @@
       "titre": "En France, la pollution de l’air repart à la hausse, après des années de recul",
       "resume": "Le bilan 2025 de la qualité de l’air révèle une « légère » progression des concentrations en particules fines, dioxyde d’azote et ozone avec six épisodes de pollution d’ampleur nationale.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/14/en-france-la-pollution-de-l-air-repart-a-la-hausse-apres-des-annees-de-recul_6793758_3244.html",
-      "published_at": "2026-10-14T14:43:47+00:00"
+      "published_at": "2026-10-14T14:43:43+00:00"
     },
     {
       "id": "851b32124efc9f23",
@@ -128,24 +173,6 @@
       "published_at": "2026-10-14T12:02:30+00:00"
     },
     {
-      "id": "bbdca5f5a64f4a4a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Recyclage chimique : l'Ademe pointe les faibles gains environnementaux et la dépendance à l'industrie chimique",
-      "resume": "Les gains environnementaux du recyclage chimique par rapport à la production de résines vierges sont limités, voire inexistants, estime l'Ademe. Quant au développement des projets, il n'est pas envisageable sans une industrie pétrochimique ",
-      "url": "https://www.actu-environnement.com/ae/news/avis-ademe-recyclage-chimique-impact-environnemental-48658.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T12:00:17+00:00"
-    },
-    {
-      "id": "dae1dd469c1ddff1",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Les effets de l'été sec et caniculaire sur la faune restent encore largement méconnus",
-      "resume": "« Les animaux retrouvés morts ne sont que la partie visible du problème et beaucoup d'effets ne se verront que dans les mois ou les années à venir », prévient l'Office français pour la biodiversité (OFB) après les épisodes climatiques (séch",
-      "url": "https://www.actu-environnement.com/ae/news/faune-secheresse-canicule-2026-ofb-48661.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T11:37:00+00:00"
-    },
-    {
       "id": "08d77b99714a0058",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -171,15 +198,6 @@
       "resume": "Les banquiers se renforcent au conseil d’administration de Voltalia, qui évolue encore avec notamment une nomination à la tête du comité d’audit. Il sera L’article Le conseil d’administration de Voltalia évolue encore est apparu en premier ",
       "url": "https://www.greenunivers.com/2026/10/le-conseil-dadministration-de-voltalia-evolue-encore-436027/",
       "published_at": "2026-10-14T10:25:17+00:00"
-    },
-    {
-      "id": "e67160db8ef81121",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Décarbonation de l'aviation civile : aucune des feuilles de route étudiées n'est parfaitement durable",
-      "resume": "Dans une étude portée conjointement par l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (Inrae), l'École nationale de l'aviation civile (Enac), l'Institut supérieur de l'aéronautique et de l'espace (Is",
-      "url": "https://www.actu-environnement.com/ae/news/decarbonation-aviation-feuilles-route-limites-planetaires-48659.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T10:16:45+00:00"
     },
     {
       "id": "32783ed18a31061f",
@@ -239,7 +257,7 @@
       "id": "4fdfd3b0f3255f9a",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« Qui veut du thieb ? C'est gratuit ! » La solidarité s'organise autour des lycéens",
+      "titre": "« On a tous en ligne de mire le 17 octobre » : chez les lycéens, la convergence comme horizon",
       "resume": "Ici des sandwichs et de l'eau, là du sérum physiologique, plus loin des sifflets imprimés en 3D... Des manifestants « solidaires » (parents, étudiants, profs, musiciens...) apportent leur soutien aux mobilisations lycéennes, comme à Paris l",
       "url": "https://reporterre.net/Qui-veut-du-thieb-C-est-gratuit-La-solidarite-s-organise-autour-des-lyceens",
       "published_at": "2026-10-14T07:16:36+00:00"
@@ -287,15 +305,6 @@
       "titre": "Le cidre en souffrance : la récolte de pommes s'annonce « dramatique »",
       "resume": "La récolte de pommes à cidre s'annonce « dramatique » en 2026, a alerté le directeur de l'Union nationale interprofessionnelle cidricole. Si le gouvernement prévoit une aide, la question de l'adaptation à long terme reste en suspens. Saint-",
       "url": "https://reporterre.net/Ca-ne-sent-pas-bon-et-il-n-y-a-pas-de-jus-les-pommes-a-cidre-eprouvees-par-l-ete",
-      "published_at": "2026-10-14T05:30:00+00:00"
-    },
-    {
-      "id": "561ae145644b86da",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« J'ai découvert à quel point ce cancer allait m'appauvrir » : les femmes paient le prix de la maladie",
-      "resume": "Des revenus en baisse, des dépenses qui augmentent... Le cancer du sein fait basculer de nombreuses femmes dans la précarité. Cancer Colère, qui a lancé le mouvement Octobre Colère, réclame un plan d'urgence, avec le remboursement intégral ",
-      "url": "https://reporterre.net/Je-suis-sortie-de-chimio-endettee-le-cancer-du-sein-appauvrit-les-femmes",
       "published_at": "2026-10-14T05:30:00+00:00"
     },
     {
@@ -369,15 +378,6 @@
       "resume": "Après avoir renoncé au projet Salamandre, censé produire du biométhane par pyrogazéfication, Engie relance sur le même site, au Havre, un nouveau L’article Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher est",
       "url": "https://www.greenunivers.com/2026/10/engie-et-cma-cgm-relancent-la-production-de-biomethane-au-havre-pour-moins-cher-435991/",
       "published_at": "2026-10-13T15:30:55+00:00"
-    },
-    {
-      "id": "6ce68ce30a8d32b5",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Stratégies prix, Agregio, EEX… : les coulisses de Gazélec 2026",
-      "resume": "Lieu d’échanges entre les acheteurs professionnels de gaz et d’électricité et leurs fournisseurs, le congrès Gazélec, organisé à Paris du 12 au 15 octobre et fréquenté par 1 200 personnes, ne manque pas d’animation cette année : les prix so",
-      "url": "https://www.greenunivers.com/2026/10/strategies-prix-agregio-eex-les-coulisses-de-gazelec-2026-435970/",
-      "published_at": "2026-10-13T15:28:35+00:00"
     },
     {
       "id": "6cfa94ebb70251fc",
@@ -533,15 +533,6 @@
       "published_at": "2026-10-08T06:00:00+00:00"
     },
     {
-      "id": "677c3834c04eaf26",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
-      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
-      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
-      "published_at": "2026-10-07T13:03:27+00:00"
-    },
-    {
       "id": "7bc23f9c2e0b7e6e",
       "source": "Fédération de la Propreté",
       "categorie": "Presse",
@@ -605,15 +596,6 @@
       "published_at": "2026-10-01T14:54:03+00:00"
     },
     {
-      "id": "c7c5fd524d735a2a",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
-      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
-      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
-      "published_at": "2026-09-30T09:38:27+00:00"
-    },
-    {
       "id": "4daf2710e9f7921b",
       "source": "I4CE",
       "categorie": "Climat",
@@ -650,42 +632,6 @@
       "published_at": "2026-09-22T14:23:17+00:00"
     },
     {
-      "id": "807bedcb7a719896",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "« France 2035, France 2050 » - Découvrez le projet",
-      "resume": "« France 2035, France 2050 » - Découvrez le projet Comment vivrons-nous en France demain ? Dans la lignée historique des travaux du Plan depuis Jean Monnet, le Haut-commissariat à la Stratégie et au Plan a lancé un grand exercice de prospec",
-      "url": "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet",
-      "published_at": "2026-09-10T10:16:39+00:00"
-    },
-    {
-      "id": "673f485ce8732418",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Conférence | Quels nouveaux moteurs pour la productivité française ?",
-      "resume": "Conférence | Quels nouveaux moteurs pour la productivité française ? La France entre dans une nouvelle phase de son histoire économique : l’accélération technologique portée par l’intelligence artificielle, le vieillissement démographique e",
-      "url": "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise",
-      "published_at": "2026-09-09T13:14:11+00:00"
-    },
-    {
-      "id": "f6a85cff203ccfc9",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps",
-      "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
-      "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
-      "published_at": "2026-09-08T13:11:58+00:00"
-    },
-    {
-      "id": "2eb28f1334062f55",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ?",
-      "resume": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ? Comment les entreprises peuvent-elles contribuer, aux côtés des collectivités, des associations, des ",
-      "url": "https://www.strategie-plan.gouv.fr/webconference-responsabilite-territoriale-de-lentreprise-quels-leviers-pour-des-territoires-plus",
-      "published_at": "2026-09-03T14:56:56+00:00"
-    },
-    {
       "id": "cf48f14c1a1e7e16",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -720,6 +666,60 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "ebbcaca171cba5d1",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
+      "published_at": "2026-06-30T08:03:48+00:00"
+    },
+    {
+      "id": "ac6ecc926252c5cb",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
+      "published_at": "2026-06-23T12:24:00+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
+    },
+    {
+      "id": "f6ba6a33ef09a89a",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
+      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
+      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
