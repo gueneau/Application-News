@@ -638,7 +638,7 @@ body { background: var(--bg); }
       <div class="jo-header">
         <div class="jo-title-row">
           <div class="jo-page-title">Flux Live — derniers articles publiés</div>
-          <button class="btn-add-dossier" style="margin-left:auto" onclick="loadFluxLive(true)">Actualiser</button>
+          <button class="btn-add-dossier" style="margin-left:auto" id="flux-refresh-btn" onclick="triggerFluxRefresh()">Actualiser</button>
         </div>
         <div class="jo-stats-row" id="flux-stats"></div>
       </div>
@@ -1521,6 +1521,27 @@ async function loadFluxLive(force){
   }catch(e){
     console.error(e);
     list.innerHTML=`<div class="empty-state">Flux Live indisponible pour le moment.</div>`;
+  }
+}
+const FLUX_TRIGGER_URL=`${SUPA_URL}/functions/v1/trigger-flux-live`;
+async function triggerFluxRefresh(){
+  const btn=document.getElementById('flux-refresh-btn');
+  btn.disabled=true;btn.textContent='Déclenchement…';
+  try{
+    const resp=await fetch(FLUX_TRIGGER_URL,{
+      method:'POST',
+      headers:{apikey:SUPA_KEY,Authorization:`Bearer ${SUPA_KEY}`,'Content-Type':'application/json'},
+    });
+    const data=await resp.json().catch(()=>({}));
+    if(!resp.ok){showToast(data.error||'Échec du déclenchement');return;}
+    showToast('Nouveaux articles dans ~1 min…');
+    btn.textContent='En cours…';
+    setTimeout(()=>loadFluxLive(true),60000);
+    setTimeout(()=>{btn.disabled=false;btn.textContent='Actualiser';},90000);
+  }catch(e){
+    console.error(e);
+    showToast('Impossible de contacter le service de rafraîchissement');
+    btn.disabled=false;btn.textContent='Actualiser';
   }
 }
 function fluxTimeAgo(iso){
