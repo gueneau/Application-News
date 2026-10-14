@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-14T12:16:12.909430+00:00",
+  "generated_at": "2026-10-14T12:28:07.617306+00:00",
   "items": [
+    {
+      "id": "c1dd7f0e3eda8e56",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Écoulement des petits cours d'eau : des ruptures à un niveau exceptionnellement élevé",
+      "resume": "La moitié (49,6 %) des petits cours d'eau sont touchés par des ruptures d'écoulement ou des assecs au 1er octobre, soit 1594. Cette situation n'a jamais été observée en quinze ans de suivi du réseau Onde (Observatoire national des étiages),",
+      "url": "https://www.actu-environnement.com/ae/news/ruptures-ecoulement-petits-cours-eau-assecs-reseau-onde-48660.php4#xtor=RSS-6",
+      "published_at": "2026-10-14T12:19:39+00:00"
+    },
     {
       "id": "d5db66b10fa4b79c",
       "source": "Reporterre",
@@ -315,15 +324,6 @@
       "resume": "Les inspecteurs ont proposé une centaine de mises en demeure et quatre sanctions administratives. De son côté, le BEA-RI a ouvert une enquête sur l'incendie survenu en septembre sur un site de Paprec en Meurthe-et-Moselle.",
       "url": "https://www.actu-environnement.com/ae/news/resultat-operation-coup-poing-icpe-dechets-incendie-48652.php4#xtor=RSS-6",
       "published_at": "2026-10-13T15:30:20+00:00"
-    },
-    {
-      "id": "eea19ca101b70a8a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Certificats d'économies d'énergie : les entrepôts logistiques bientôt exclus de quinze fiches",
-      "resume": "Dans le cadre des certificats d'économies d'énergie (CEE), un projet d'arrêté prévoit d'exclure les entrepôts logistiques, les réserves, les entrepôts frigorifiques ou non, et les locaux de stockage du champ de quinze fiches d'opérations st",
-      "url": "https://www.actu-environnement.com/ae/news/arrete-consultation-cee-entrepots-logistiques-fiches-tertiaires-florence-lievyn-sonergia-48657.php4#xtor=RSS-6",
-      "published_at": "2026-10-13T15:29:54+00:00"
     },
     {
       "id": "6ce68ce30a8d32b5",
