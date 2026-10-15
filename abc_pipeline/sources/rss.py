@@ -131,11 +131,14 @@ def _review_rss_candidates(
     for candidate in promising:
         titre = candidate['titre']
         url = candidate.get('url', '')
-        contenu = (
-            crawl_article(url) or candidate.get('contenu', '')
-            if url
-            else candidate.get('contenu', '')
-        )
+        # Le résumé du flux RSS est déjà du texte propre (titre/description de
+        # l'éditeur) ; on le place en tête et on ajoute le crawl de la page en
+        # complément. Un simple "crawl or résumé" jetait le résumé dès que le
+        # crawl renvoyait quoi que ce soit de non-vide — y compris un bandeau
+        # cookies/paywall sans aucun rapport avec l'article (cf. actu-environnement.com).
+        feed_contenu = candidate.get('contenu', '')
+        crawled = crawl_article(url) if url else ''
+        contenu = f"{feed_contenu} {crawled}".strip()
         article_date = candidate.get('date') or today_str
 
         if freshness_cutoff and url:

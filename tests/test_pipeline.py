@@ -231,9 +231,71 @@ def test_rss_batch_screens_all_recent_candidates_then_validates_shortlisted_full
     assert screened[0]['titre'] == 'Historical heating demand shifts across Europe'
     assert screened[0]['contenu'] == 'A data-led comparison of long-term demand patterns.'
     assert crawled == ['https://example.com/heating']
-    assert final_reviews[0][1].startswith('Full article')
+    # Le résumé du flux RSS passe en tête, le crawl de la page en complément —
+    # pour qu'un crawl bruité (ex. bandeau cookies) ne puisse jamais effacer
+    # un résumé de flux déjà exploitable.
+    assert final_reviews[0][1] == (
+        'A data-led comparison of long-term demand patterns. '
+        'Full article with historical figures and sector-wide energy trends.'
+    )
     assert len(items) == 1
     assert items[0]['criticite'] == 1
+
+
+def test_rss_final_review_keeps_feed_summary_when_crawl_returns_only_boilerplate(monkeypatch):
+    """Reproduit le cas réel actu-environnement.com du 2026-10-15 : la page de
+    l'article est précédée d'un bandeau cookies que le crawl renvoie intégralement,
+    sans aucun contenu d'article. Le résumé du flux RSS (déjà exploitable, avec les
+    vrais chiffres) ne doit pas être écrasé par ce crawl bruyant."""
+    from types import SimpleNamespace
+    import time
+
+    from abc_pipeline.sources import rss
+
+    class FixedDateTime(datetime):
+        @classmethod
+        def now(cls, tz=None):
+            return cls(2026, 10, 15, 14)
+
+    monkeypatch.setattr(rss, 'datetime', FixedDateTime)
+    monkeypatch.setattr(rss.requests, 'get', lambda *args, **kwargs: SimpleNamespace(content=b'<rss/>'))
+    monkeypatch.setattr(rss.feedparser, 'parse', lambda *_: SimpleNamespace(
+        bozo=False,
+        entries=[{
+            'title': "Sécheresse 2026 : l'OFB bat un record avec 16 000 contrôles cet été",
+            'summary': (
+                "Les agents de l'OFB ont réalisé plus de 16 000 contrôles pour vérifier "
+                "le respect des arrêtés de restrictions d'eau, soit une hausse de 30% "
+                "par rapport à l'année précédente."
+            ),
+            'link': 'https://example.com/ofb-secheresse',
+            'published_parsed': time.strptime('2026-10-15', '%Y-%m-%d'),
+        }],
+    ))
+    monkeypatch.setattr(rss, 'groq_analyse_batch', lambda *args, **kwargs: [{'pertinent': True}])
+    monkeypatch.setattr(
+        rss, 'crawl_article',
+        lambda url: 'Nous utilisons des cookies sur notre site. Préférences Cookies. ' * 20,
+    )
+    monkeypatch.setattr(rss, 'get_crawled_date', lambda url: '')
+
+    seen_contenu = []
+
+    def fake_analyse_rss(titre, contenu):
+        seen_contenu.append(contenu)
+        return {'pertinent': True, 'score': 1, 'categorie': 'Eau'}
+
+    monkeypatch.setattr(rss, 'groq_analyse_rss', fake_analyse_rss)
+
+    items = rss.fetch_rss_source({
+        'name': 'Actu-Environnement',
+        'url': 'https://example.com/feed',
+        'fallback_crawl': 'https://example.com/news',
+    }, '2026-10-15')
+
+    assert seen_contenu, "groq_analyse_rss aurait dû être appelé"
+    assert '16 000 contrôles' in seen_contenu[0]
+    assert len(items) == 1
 
 
 # ── extract_json ──────────────────────────────────────────────────────────────
@@ -461,6 +523,33 @@ def test_crawl_article_can_return_full_text(monkeypatch):
     full_text = crawl.crawl_article("https://example.com", max_chars=None)
     assert len(full_text) > 2500
     assert full_text.endswith("texte complet")
+
+
+def test_crawl_article_strips_cookie_consent_banner(monkeypatch):
+    """Un bandeau CMP (Didomi/Tarteaucitron/...) n'est pas couvert par le strip
+    nav/header/footer/aside : sans filtre dédié, il peut occuper toute la tranche
+    de texte envoyée au LLM et masquer le vrai article (cf. actu-environnement.com)."""
+    from abc_pipeline import crawl
+
+    cookie_text = "Nous utilisons des cookies sur notre site. Préférences Cookies. " * 20
+
+    class Response:
+        text = (
+            "<html><body>"
+            f"<div class='didomi-consent-popup'>{cookie_text}</div>"
+            "<article>Sécheresse 2026 : l'OFB bat un record avec 16 000 contrôles.</article>"
+            "</body></html>"
+        )
+
+        @staticmethod
+        def raise_for_status():
+            pass
+
+    monkeypatch.setattr(crawl.requests, 'get', lambda *args, **kwargs: Response())
+
+    text = crawl.crawl_article("https://example.com", max_chars=600)
+    assert "cookies" not in text.lower()
+    assert "16 000 contrôles" in text
 
 
 def test_jorf_full_analysis_only_runs_for_screened_items_with_full_text(monkeypatch):

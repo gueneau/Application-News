@@ -11,6 +11,29 @@ log = logging.getLogger(__name__)
 _image_cache: dict = {}
 _date_cache:  dict = {}
 
+# Marqueurs de class/id des bandeaux de consentement cookies / paywall les plus
+# courants sur la presse FR — jamais du contenu d'article, mais pas couverts
+# par le strip nav/header/footer/aside (souvent de simples <div> injectés en
+# tête de page par la CMP). Sans ce filtre, ce bandeau peut occuper toute la
+# tranche de texte envoyée au LLM et masquer entièrement le vrai article.
+_BOILERPLATE_MARKERS = (
+    'cookie', 'consent', 'rgpd', 'gdpr', 'cmp-', 'paywall',
+    'didomi', 'tarteaucitron', 'axeptio', 'onetrust', 'cookiebot', 'quantcast',
+)
+
+
+def _strip_boilerplate(soup) -> None:
+    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
+        tag.decompose()
+    for tag in soup.find_all(True):
+        # Un decompose() plus haut dans l'arbre peut avoir déjà détaché ce tag
+        # (toujours présent dans ce snapshot de find_all) ; ses attrs deviennent alors None.
+        if tag.attrs is None:
+            continue
+        marker_text = f"{' '.join(tag.get('class') or [])} {tag.get('id') or ''}".lower()
+        if any(marker in marker_text for marker in _BOILERPLATE_MARKERS):
+            tag.decompose()
+
 
 def get_crawled_image(url: str) -> str:
     """Return the og:image URL cached during the last crawl_article() call for this URL."""
@@ -81,8 +104,7 @@ def crawl_article(url: str, max_chars: int | None = 2500) -> str:
         if pub_date:
             _date_cache[url] = pub_date
 
-        for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
-            tag.decompose()
+        _strip_boilerplate(soup)
 
         text = soup.get_text(separator=' ', strip=True)
         return text if max_chars is None else text[:max_chars]
