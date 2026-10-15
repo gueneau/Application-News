@@ -1,0 +1,1271 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "06:42",
+  "elapsed_seconds": 596,
+  "errors": [],
+  "stats": {
+    "jo_analyses": 19,
+    "jo_retenus": 0,
+    "depts_restriction": 93
+  },
+  "pipeline_meta": {
+    "run_at": "2026-10-15T06:42:12",
+    "sources": {
+      "JORF": 0,
+      "RSS": 2,
+      "VigiEau": 93,
+      "AN Agenda": 8
+    },
+    "errors": [
+      "SOURCE VIDE — JORF : 0 textes retenus"
+    ],
+    "llm_calls": 56,
+    "llm_seconds": 64.5
+  },
+  "items": [
+    {
+      "id": "cb392a0dad6e",
+      "source": "Actuel HSE",
+      "categorie": "Énergie",
+      "titre": "Raccordement au réseau électrique : du «premier arrivé, premier servi» au «premier prêt, premier servi»",
+      "resume": "L'évolution des règles de raccordement au réseau électrique de RTE vers un principe de maturité (« premier prêt, premier servi ») modifie à partir de 2027 les conditions d'accès à l'énergie pour les industriels et acteurs tertiaires.",
+      "pourquoi": "Ce changement de règle vers le « premier prêt, premier servi » à l'horizon 2027 impacte directement la stratégie d'électrification de la flotte de véhicules d'ABC et l'efficacité énergétique de ses interventions. C'est un signal pour anticiper dès maintenant les demandes de raccordement de ses infrastructures afin de sécuriser ses approvisionnements décarbonés et de répondre aux exigences croissantes de résilience de ses clients.",
+      "criticite": 2,
+      "url": "https://www.actuel-hse.fr/content/raccordement-au-reseau-electrique-du-premier-arrive-premier-servi-au-premier-pret-premier-4",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "46cb459baebc",
+      "source": "Le Monde Planète",
+      "categorie": "Émissions",
+      "titre": "En France, la pollution de l’air repart à la hausse, après des années de recul",
+      "resume": "Le bilan de la qualité de l'air met en évidence une légère hausse des concentrations de polluants et six épisodes de pollution d'ampleur nationale en France.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/10/14/en-france-la-pollution-de-l-air-repart-a-la-hausse-apres-des-annees-de-recul_6793758_3244.html",
+      "date": "2026-10-14"
+    }
+  ],
+  "restrictions_eau": [
+    {
+      "dept_code": "50",
+      "dept_nom": "Manche",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "14",
+      "dept_nom": "Calvados",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "22",
+      "dept_nom": "Côtes-d'Armor",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "61",
+      "dept_nom": "Orne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "29",
+      "dept_nom": "Finistère",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "56",
+      "dept_nom": "Morbihan",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "35",
+      "dept_nom": "Ille-et-Vilaine",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "44",
+      "dept_nom": "Loire-Atlantique",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "53",
+      "dept_nom": "Mayenne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "49",
+      "dept_nom": "Maine-et-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "79",
+      "dept_nom": "Deux-Sèvres",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "85",
+      "dept_nom": "Vendée",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "17",
+      "dept_nom": "Charente-Maritime",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "86",
+      "dept_nom": "Vienne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "33",
+      "dept_nom": "Gironde",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "16",
+      "dept_nom": "Charente",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "24",
+      "dept_nom": "Dordogne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "40",
+      "dept_nom": "Landes",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "64",
+      "dept_nom": "Pyrénées-Atlantiques",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "47",
+      "dept_nom": "Lot-et-Garonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "32",
+      "dept_nom": "Gers",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "65",
+      "dept_nom": "Hautes-Pyrénées",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "37",
+      "dept_nom": "Indre-et-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "59",
+      "dept_nom": "Nord",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "27",
+      "dept_nom": "Eure",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "95",
+      "dept_nom": "Val-d'Oise",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "77",
+      "dept_nom": "Seine-et-Marne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "55",
+      "dept_nom": "Meuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "94",
+      "dept_nom": "Val-de-Marne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "41",
+      "dept_nom": "Loir-et-Cher",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "36",
+      "dept_nom": "Indre",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "45",
+      "dept_nom": "Loiret",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "18",
+      "dept_nom": "Cher",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "87",
+      "dept_nom": "Haute-Vienne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "19",
+      "dept_nom": "Corrèze",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "23",
+      "dept_nom": "Creuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "03",
+      "dept_nom": "Allier",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "63",
+      "dept_nom": "Puy-de-Dôme",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "15",
+      "dept_nom": "Cantal",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "10",
+      "dept_nom": "Aube",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "89",
+      "dept_nom": "Yonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "58",
+      "dept_nom": "Nièvre",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "21",
+      "dept_nom": "Côte-d'Or",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "70",
+      "dept_nom": "Haute-Saône",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "42",
+      "dept_nom": "Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "43",
+      "dept_nom": "Haute-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "01",
+      "dept_nom": "Ain",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "39",
+      "dept_nom": "Jura",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "38",
+      "dept_nom": "Isère",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "07",
+      "dept_nom": "Ardèche",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "26",
+      "dept_nom": "Drôme",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "46",
+      "dept_nom": "Lot",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "82",
+      "dept_nom": "Tarn-et-Garonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "31",
+      "dept_nom": "Haute-Garonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "09",
+      "dept_nom": "Ariège",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "81",
+      "dept_nom": "Tarn",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "11",
+      "dept_nom": "Aude",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "34",
+      "dept_nom": "Hérault",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "48",
+      "dept_nom": "Lozère",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "04",
+      "dept_nom": "Alpes-de-Haute-Provence",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "88",
+      "dept_nom": "Vosges",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "25",
+      "dept_nom": "Doubs",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "68",
+      "dept_nom": "Haut-Rhin",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "90",
+      "dept_nom": "Territoire de Belfort",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "74",
+      "dept_nom": "Haute-Savoie",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "73",
+      "dept_nom": "Savoie",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "06",
+      "dept_nom": "Alpes-Maritimes",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "2B",
+      "dept_nom": "Haute-Corse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "76",
+      "dept_nom": "Seine-Maritime",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "72",
+      "dept_nom": "Sarthe",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "62",
+      "dept_nom": "Pas-de-Calais",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "80",
+      "dept_nom": "Somme",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "60",
+      "dept_nom": "Oise",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "78",
+      "dept_nom": "Yvelines",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "02",
+      "dept_nom": "Aisne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "51",
+      "dept_nom": "Marne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "57",
+      "dept_nom": "Moselle",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "67",
+      "dept_nom": "Bas-Rhin",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "91",
+      "dept_nom": "Essonne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "52",
+      "dept_nom": "Haute-Marne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "66",
+      "dept_nom": "Pyrénées-Orientales",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "84",
+      "dept_nom": "Vaucluse",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "13",
+      "dept_nom": "Bouches-du-Rhône",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "83",
+      "dept_nom": "Var",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "2A",
+      "dept_nom": "Corse-du-Sud",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "05",
+      "dept_nom": "Hautes-Alpes",
+      "niveau": "alerte"
+    },
+    {
+      "dept_code": "92",
+      "dept_nom": "Hauts-de-Seine",
+      "niveau": "vigilance"
+    },
+    {
+      "dept_code": "75",
+      "dept_nom": "Paris",
+      "niveau": "vigilance"
+    },
+    {
+      "dept_code": "93",
+      "dept_nom": "Seine-Saint-Denis",
+      "niveau": "vigilance"
+    }
+  ],
+  "jo_autres": [
+    {
+      "titre": "Arrêté du 5 octobre 2026 fixant les taux de promotion dans les corps des services du Premier ministre pour l'année 2027",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983273",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret n° 2026-954 du 14 octobre 2026 relatif à la mise en œuvre par les établissements d'enseignement d'un dispositif permettant la prévention, le recueil, la détection et le traitement des situations d'atteintes à l'intégrité physique ou morale des élèves et des personnels et autorisant la mise en œuvre de traitements de données à caractère personnel dénommés « Questionnaire violences sexistes et sexuelles »",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983401",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret n° 2026-956 du 14 octobre 2026 portant ouverture et annulation de crédits à titre d'avance",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983503",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-512 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS Business FM pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé BFM Business",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983979",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-513 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS Europe 1 Télécompagnie pour l'exploitation d'un service de radio de catégorie E par voie hertzienne terrestre en modulation de fréquence dénommé Europe 1",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984004",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-515 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SARL Proximédia pour l'exploitation d'un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommé Flash FM",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984060",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-516 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SARL Jazz France pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Jazz Radio",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984085",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-517 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS Radio Classique pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Radio Classique",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984110",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-518 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SARL Disc Nohain pour l'exploitation d'un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommé Radio Numéro 1",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984135",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-519 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS Rire et Chansons pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Rire et Chansons",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984160",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-520 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAM Radio Monte-Carlo pour l'exploitation d'un service de radio de catégorie E par voie hertzienne terrestre en modulation de fréquence dénommé RMC",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984185",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-521 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS RTL France Radio pour l'exploitation d'un service de radio de catégorie E par voie hertzienne terrestre en modulation de fréquence dénommé RTL",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984224",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-522 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SA SODERA pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé RTL2",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984249",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-523 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS Vortex pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Skyrock",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984274",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-524 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SARL TSF Jazz pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé TSF Jazz",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984301",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Avis n° 2026-1305 du 21 juillet 2026 sur un arrêté relatif aux objectifs de qualité de service fixés à La Poste pour 2026 au titre de l'offre de service universel que La Poste est tenue d'assurer en application de l'article L. 2 du code des postes et des communications électroniques",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984327",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/94/LISTE GARANTS/33 du 7 octobre 2026 portant inscription sur la liste nationale des garantes et des garants de la Commission nationale du débat public",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984444",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret n° 2026-953 du 14 octobre 2026 relatif à l'entrée en vigueur immédiate de deux arrêtés",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983265",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision du 12 octobre 2026 portant délégation de signature aux fins d'exercice d'astreintes (direction des libertés publiques et des affaires juridiques)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983285",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision du 13 octobre 2026 portant délégation de signature (direction générale de la gendarmerie nationale - cabinet)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983301",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2026 fixant pour l'année 2026 le contingent des pécules prévu par l'article L. 4139-8 du code de la défense pour les officiers de carrière",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983318",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 relatif à la liste des pièces justificatives attestant des fonctions et de l'exercice d'un mandat complet en application de l'article R. 161-17-1 du code de la sécurité sociale",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983330",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision du 12 octobre 2026 portant délégation de signature (direction générale de l'aménagement, du logement et de la nature)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983341",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision du 12 octobre 2026 portant délégation de signature (Ecole nationale de la concurrence, de la consommation et de la répression des fraudes)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983373",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant extension de l'accord interprofessionnel de l'Association nationale interprofessionnelle bétail et viande (INTERBEV) du 3 juin 2026 sur les droits et devoirs des marchés aux bestiaux et de leurs usagers",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983383",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 homologuant le règlement technique d'examen des variétés de pois chiche en vue de leur inscription au Catalogue officiel des espèces et variétés de plantes cultivées en France",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983391",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret n° 2026-955 du 13 octobre 2026 portant mise en cohérence des dispositions relatives aux actes professionnels des infirmiers",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983458",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2026 portant délégation de signature (direction de la sécurité sociale)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983473",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Rapport relatif au décret n° 2026-956 du 14 octobre 2026 portant ouverture et annulation de crédits à titre d'avance",
+      "nature": "RAPPORT",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983501",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 portant délégation de signature (direction générale des finances publiques)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983515",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret n° 2026-957 du 13 octobre 2026 modifiant la composition du conseil d'administration de l'Ecole nationale des sports de montagne",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983561",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 6 octobre 2026 modifiant l'arrêté du 8 juillet 2024 relatif à l'organisation du temps de travail des personnels de la direction générale de l'aviation civile assurant le service du contrôle dans les organismes de contrôle de la circulation aérienne et des instructeurs de formation pratique au contrôle de l'Ecole nationale de l'aviation civile",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983569",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 6 octobre 2026 modifiant l'arrêté du 8 juillet 2024 fixant les modalités d'application du complément de la part liée aux fonctions en application de l'article 7 du décret n° 2016-1869 du 26 décembre 2016 fixant le régime indemnitaire applicable aux corps techniques de la direction générale de l'aviation civile",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983609",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret n° 2026-958 du 14 octobre 2026 portant application de l'article 9-1 de la loi n° 2023-491 du 22 juin 2023 relative à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983619",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 13 octobre 2026 portant nomination du sous-préfet chargé de mission auprès du préfet de Mayotte - M. CASSETTE (Bruno)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983652",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant déchéance de la nationalité française (Accès protégé)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983660",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 portant nomination (secrétariats généraux pour les affaires régionales)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983663",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant nomination d'un contrôleur général des armées - M. MAIGNE (Olivier)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983670",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant nomination d'une contrôleuse générale des armées - Mme ACHARI-BAUDRY (Myriam)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983678",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant admission à la retraite (ingénieurs civils de la défense)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983688",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant nomination (Conseil d'Etat) - Mme FONTANEL (Marie)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983691",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant nomination d'un directeur, secrétaire général adjoint, au ministère de la justice - M. DULIN (Grégoire)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983698",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 modifiant l'arrêté du 29 septembre 2026 portant nomination des candidats admis à l'issue du concours professionnel de recrutement de magistrats du premier grade et du deuxième grade de la hiérarchie judiciaire (session 2026)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983706",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant désignation d'un rapporteur public près l'assemblée du contentieux et les autres formations de jugement du Conseil d'Etat",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983709",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 13 octobre 2026 portant nomination au conseil d'administration de l'Agence française de développement - Mme BOBIN (Shanti)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983723",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 portant admission à la retraite (attachés d'administration de l'Etat hors classe)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983728",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 portant nomination (administration centrale)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983730",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 portant nomination au conseil d'administration de l'Agence nationale pour les chèques-vacances",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983736",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2026 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983739",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2026 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983741",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 7 octobre 2026 portant autorisation temporaire d'exercice de la médecine en France",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983744",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « hépato-gastro-entérologie » en application des dispositions de l'article L. 4111-2 (I) du code de la santé publique et du IV de l'article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983760",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « radiologie et imagerie médicale » en application des dispositions de l'article L. 4111-2 (I) du code de la santé publique et du IV de l'article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983770",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant nomination au conseil d'administration de l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983781",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 5 octobre 2026 portant nomination au conseil de surveillance du Fonds de réserve pour les retraites",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983784",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant nomination (agents comptables)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983786",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 portant cessation de fonctions (administration centrale)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983788",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 7 octobre 2026 portant nomination au conseil d'administration du centre de ressources, d'expertise et de performance sportive de La Réunion et désignation de sa présidente",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983794",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant nomination du commissaire aux transports et aux travaux publics et de bâtiment - M. VUILLEMIN (Alexis)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983797",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2026 fixant la composition du jury des examens pour l'obtention de la capacité professionnelle permettant l'exercice de la profession de transporteur public routier de personnes, de marchandises et de commissionnaire de transport",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983804",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 portant nomination au conseil d'administration de l'Agence nationale pour la rénovation urbaine",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983807",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant extension d'un accord conclu dans le cadre de la convention collective nationale de l'optique-lunetterie de détail (n° 1431)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983839",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant extension d'un avenant à la convention collective nationale des hôtels, cafés, restaurants (n° 1979)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983870",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-487 du 7 octobre 2026 portant abrogation partielle de la décision n° 2018-411 du 23 mai 2018 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Nantes étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983891",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-488 du 7 octobre 2026 portant abrogation de la décision n° 2021-1244 du 10 novembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Angers étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983895",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-489 du 7 octobre 2026 portant abrogation de la décision n° 2020-667 du 7 octobre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Annecy étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983899",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-490 du 7 octobre 2026 portant abrogation de la décision n° 2020-72 du 5 février 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Avignon étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983903",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-491 du 7 octobre 2026 portant abrogation de la décision n° 2021-1317 du 24 novembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Bayonne étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983907",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-492 du 7 octobre 2026 portant abrogation de la décision n° 2021-651 du 19 mai 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Besançon étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983911",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-494 du 7 octobre 2026 portant abrogation de la décision n° 2025-312 du 28 mai 2025 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Brest étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983919",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-495 du 7 octobre 2026 portant abrogation de la décision n° 2025-739 du 24 septembre 2025 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Cherbourg-en-Cotentin étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983923",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-496 du 7 octobre 2026 portant abrogation de la décision n° 2021-1458 du 15 décembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Clermont-Ferrand étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983927",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-497 du 7 octobre 2026 portant abrogation de la décision n° 2020-723 du 7 octobre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Grenoble étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983931",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-498 du 7 octobre 2026 portant abrogation de la décision n° 2021-699 du 19 mai 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone La Rochelle étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983935",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-499 du 7 octobre 2026 portant abrogation de la décision n° 2021-1176 du 10 novembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Le Mans étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983939",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-501 du 7 octobre 2026 portant abrogation de la décision n° 2021-1439 du 1er décembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Metz étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983947",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-502 du 7 octobre 2026 portant abrogation de la décision n° 2025-1048 du 12 décembre 2025 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Mont-de-Marsan étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983951",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-503 du 7 octobre 2026 portant abrogation de la décision n° 2021-925 du 28 juillet 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Montpellier étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983955",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-505 du 7 octobre 2026 portant abrogation de la décision n° 2021-1285 du 24 novembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Pau étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983959",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-506 du 7 octobre 2026 portant abrogation de la décision n° 2021-955 du 28 juillet 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Perpignan étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983963",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-507 du 7 octobre 2026 portant abrogation de la décision n° 2021-1085 du 22 septembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Reims étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983967",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-508 du 7 octobre 2026 portant abrogation de la décision n° 2021-1565 du 22 décembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Rennes étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983971",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-509 du 7 octobre 2026 portant abrogation de la décision n° 2020-692 du 7 octobre 2020 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Saint-Étienne étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983975",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/83/LNMP Phase 2/14 du 7 octobre 2026 portant désignation des garants de la concertation continue relative à la phase 2 (Béziers-Perpignan) du projet ferroviaire de ligne nouvelle Montpellier-Perpignan",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984342",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/86/JOP ALPES 2030 LE DESERT BOZEL/1 du 7 octobre 2026 portant désignation d'une garante de la procédure de participation par voie électronique relative au projet Le Désert - Village Olympique à Bozel (73)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984370",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/87/JOP ALPES 2030 PERFAS/1 du 7 octobre 2026 portant désignation des garants de la procédure de participation par voie électronique relative au projet Performance ferroviaire des Alpes du Sud (04, 05, 13, 84)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984379",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/90/EOLIEN MEDITERRANEE/13 du 7 octobre 2026 prenant acte de la démission d'une garante de la concertation continue relative aux projets de parcs éoliens flottants en mer Méditerranée",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984414",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/91/PANN 8/3 du 7 octobre 2026 d'engager la concertation préalable relative au projet de huitième édition du programme d'actions national pour la protection des eaux contre la pollution par les nitrates d'origine agricole",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984420",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/93/REUNION EXPRESS/6 du 7 octobre 2026 portant désignation d'un membre de la commission particulière du débat public relatif au projet de train express régional de La Réunion dit « Réunion Express »",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984438",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Ordre du jour",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984463",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Commissions et organes de contrôle",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984465",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Documents et publications",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984467",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Documents déposés",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984470",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Documents publiés",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984472",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Informations diverses",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984474",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de directeur régional adjoint de l'alimentation, de l'agriculture et de la forêt (Normandie)",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984479",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de consul général de France",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984491",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Avis relatif aux prix de spécialités pharmaceutiques",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984513",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Demandes de changement de nom (Accès protégé textes 118 à 133)",
+      "nature": "ANNONCES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984520",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-514 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS Europe 2 Entreprises pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Europe 2",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984033",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant nomination d'un officier général (corps d'officiers de la marine nationale administrés par le ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983685",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 modifiant l'arrêté du 29 octobre 2024 portant nomination des membres du comité de pilotage et du comité d'évaluation de l'expérimentation du tribunal des activités économiques",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983711",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 portant extension d'un accord conclu dans le cadre de la convention collective nationale du personnel des entreprises de manutention ferroviaire et travaux connexes (n° 538)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983811",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 portant modification de l'arrêté du 1er juin 2026 portant extension d'un avenant à la convention collective nationale des entreprises de propreté et services associés (n° 3043)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983821",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant extension d'un accord conclu dans le cadre de la convention collective nationale de travail des industries de la maroquinerie, articles de voyage, chasse-sellerie, gainerie, bracelets en cuir - secteur cuirs et peaux (n° 2528)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983829",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant extension d'un avenant à la convention collective nationale de la distribution et du commerce de gros des papiers-cartons (IDCC n° 3224)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983850",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant extension d'accords conclus dans le cadre de la convention collective nationale des ouvriers, employés, techniciens et agents de maîtrise de l'exploitation d'équipements thermiques et de génie climatique (n° 998)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983860",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant extension d'un accord conclu dans le cadre de la convention collective nationale des cadres, ingénieurs et assimilés des entreprises de gestion d'équipements thermiques et de climatisation (n° 1256)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983880",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-493 du 7 octobre 2026 portant abrogation de la décision n° 2025-645 du 24 septembre 2025 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Bourges étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983915",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026-500 du 7 octobre 2026 portant abrogation de la décision n° 2021-1488 du 15 décembre 2021 autorisant la SARL TSF Jazz à exploiter un service de radio de catégorie D par voie hertzienne terrestre en mode numérique dénommé TSF Jazz dans la zone Limoges étendu",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983943",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/84/CENTRE CALCUL SOFTBANK RTE GPMD LOON-PLAGE/1 du 7 octobre 2026 portant désignation des garants de la concertation préalable relative au projet de centre de calcul, son raccordement électrique et ses aménagements sur le Grand port maritime de Dunkerque à Loon-Plage (59)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984352",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/85/CENTRE DE DONNEES GOOGLE/2 du 7 octobre 2026 d'engager la concertation préalable relative au projet de centre de données d'Ozans-Châteauroux et de son raccordement électrique sur la commune d'Etrechet (36)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984361",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/88/LANDES DE GASCOGNE/4 du 7 octobre 2026 d'engager la concertation préalable relative au projet Landes de Gascogne de création d'un poste électrique et d'une nouvelle ligne électrique aérienne à 400 000 volts (33, 40, 47)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984389",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/89/SAGE OISE MOYENNE/1 du 7 octobre 2026 portant désignation de la garante de la concertation préalable relative au projet de schéma d'aménagement et de gestion des eaux Oise Moyenne (02,60)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984398",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/92/POITIERS-LIMOGES/6 du 7 octobre 2026 prenant acte de la démission d'une garante de la concertation continue relative au projet de mise en concession autoroutière de l'itinéraire POITIERS-LIMOGES (86-87)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984432",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2026/95/THERMO SUR SEINE/3 du 7 octobre 2026 complétant les modalités de la concertation préalable relative au projet « Thermo-sur-Seine » d'équipement industriel dédié au chauffage urbain à Vitry-sur-Seine (94) et à Ris-Orangis (91)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984454",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Avis relatif à l'ouverture d'une procédure nationale d'opposition pour la demande de modification du cahier des charges relatif à l'indication géographique protégée « Pays de Brive »",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984508",
+      "date": "2026-10-15"
+    },
+    {
+      "titre": "Avis relatif à l'élection pour le renouvellement des représentants des régions, des départements, des communes et des établissements publics de coopération intercommunale à fiscalité propre au sein du Conseil national d'évaluation des normes (CNEN)",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054984516",
+      "date": "2026-10-15"
+    }
+  ],
+  "jo_retenus": [],
+  "jorf_issue_date": "2026-10-15",
+  "briefing_jorf": "Aucun texte présélectionné n’a été confirmé comme pertinent après vérification intégrale.",
+  "an_agenda": [
+    {
+      "date": "2026-10-15",
+      "heure": "09:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-15",
+      "heure": "15:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-15",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "09:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "15:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-19",
+      "heure": "15:00",
+      "ordre_du_jour": "Débat sur les finances locales · Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-19",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    }
+  ]
+}
