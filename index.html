@@ -326,6 +326,12 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 /* ── Toast ───────────────────────────────────────────────────────────── */
 #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%) translateY(60px); background: var(--text); color: #fff; padding: 8px 18px; border-radius: 20px; font-size: 13px; opacity: 0; transition: all .25s; z-index: 9999; pointer-events: none; white-space: nowrap; }
 #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+#update-banner { position: fixed; top: 0; left: 50%; transform: translateX(-50%) translateY(-100%); background: var(--primary); color: #fff; padding: 10px 14px; border-radius: 0 0 12px 12px; font-size: 13px; display: flex; align-items: center; gap: 10px; z-index: 10000; transition: transform .25s ease; box-shadow: 0 3px 14px rgba(0,0,0,.18); white-space: nowrap; }
+#update-banner.show { transform: translateX(-50%) translateY(0); }
+#update-banner button { background: rgba(255,255,255,.18); border: none; color: #fff; font-family: var(--sans); font-weight: 600; font-size: 12px; padding: 5px 12px; border-radius: 14px; cursor: pointer; transition: background .15s; }
+#update-banner button:hover { background: rgba(255,255,255,.3); }
+#update-banner button.dismiss { background: none; padding: 2px 6px; font-size: 13px; opacity: .75; font-weight: 400; }
+@media (max-width: 768px) { #update-banner { top: 0; border-radius: 0 0 10px 10px; font-size: 12px; padding: 8px 12px; } }
 
 /* ── Parlement view ──────────────────────────────────────────────────── */
 #parlement-view { padding: 0; overflow-y: auto; flex-direction: column; }
@@ -666,6 +672,12 @@ body { background: var(--bg); }
   </div>
 </div>
 <div id="toast"></div>
+<div id="update-banner">
+  <span class="material-symbols-outlined" style="font-size:16px">refresh</span>
+  <span>Nouvelles données disponibles</span>
+  <button onclick="location.reload()">Actualiser</button>
+  <button class="dismiss" onclick="dismissUpdateBanner()" title="Ignorer">✕</button>
+</div>
 
 <!-- Drawer dossier -->
 <div id="drawer-overlay" onclick="closeDossierDrawer()"></div>
@@ -756,16 +768,39 @@ function sourceType(src){return JORF_SOURCES.includes(src)?'jorf':'presse'}
 
 async function init(){
   try{
-    archive=await(await fetch('archive.json')).json();
-    if(archive?.dates?.length){currentDate=archive.dates[0];D=await(await fetch(`data/${currentDate}.json`)).json();}
+    archive=await(await fetch(`archive.json?t=${Date.now()}`)).json();
+    if(archive?.dates?.length){currentDate=archive.dates[0];D=await(await fetch(`data/${currentDate}.json?t=${Date.now()}`)).json();}
     renderAll();
     updateLikesBadge();
     document.getElementById('loading').style.display='none';
     loadLikesFromSupa();
+    knownUpdatedAt=archive?.updated_at||null;
+    startUpdateWatcher();
   }catch(e){
     document.getElementById('loading').style.display='none';
     showToast('Impossible de charger les données');console.error(e);
   }
+}
+
+// ── Mise à jour live : détecte un nouveau run pendant que l'onglet reste ouvert ──
+let knownUpdatedAt=null, dismissedUpdatedAt=null, pendingUpdatedAt=null, updateWatcherTimer=null;
+function startUpdateWatcher(){
+  if(updateWatcherTimer)return;
+  updateWatcherTimer=setInterval(checkForUpdate,3*60*1000);
+}
+async function checkForUpdate(){
+  try{
+    const fresh=await(await fetch(`archive.json?t=${Date.now()}`)).json();
+    const ts=fresh?.updated_at;
+    if(ts&&knownUpdatedAt&&ts!==knownUpdatedAt&&ts!==dismissedUpdatedAt){
+      pendingUpdatedAt=ts;
+      document.getElementById('update-banner').classList.add('show');
+    }
+  }catch(e){console.warn('Vérification de mise à jour échouée:',e);}
+}
+function dismissUpdateBanner(){
+  dismissedUpdatedAt=pendingUpdatedAt;
+  document.getElementById('update-banner').classList.remove('show');
 }
 
 function renderAll(){
