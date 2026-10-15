@@ -260,6 +260,10 @@ html, body { height: 100%; background: var(--bg); color: var(--text); font-famil
 .flux-fade-top { top: 0; background: linear-gradient(to bottom, var(--bg) 0%, rgba(246,243,231,0) 100%); }
 .flux-fade-bottom { bottom: 0; background: linear-gradient(to top, var(--bg) 0%, rgba(246,243,231,0) 100%); }
 .flux-fade.show { opacity: 1; }
+.flux-pull-indicator { position: absolute; top: 0; left: 0; right: 0; height: 54px; z-index: 2; display: flex; align-items: center; justify-content: center; color: var(--primary); transform: translateY(-54px); pointer-events: none; }
+.flux-pull-indicator .material-symbols-outlined { font-size: 22px; transition: transform .15s ease; }
+.flux-pull-indicator.ready .material-symbols-outlined { transform: rotate(180deg); }
+.flux-pull-indicator.is-refreshing .material-symbols-outlined { animation: flux-spin .8s linear infinite; }
 .flux-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; background: var(--surface-lowest); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; transition: border-color .15s, box-shadow .15s; }
 .flux-row:hover { border-color: var(--border2); box-shadow: 0 3px 10px rgba(0,76,70,.07); }
 .flux-row-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px; }
@@ -623,6 +627,7 @@ body { background: var(--bg); }
         <div class="jo-stats-row" id="flux-stats"></div>
       </div>
       <div class="flux-scroll-wrap">
+        <div class="flux-pull-indicator" id="flux-pull-indicator"><span class="material-symbols-outlined">refresh</span></div>
         <div class="flux-fade flux-fade-top" id="flux-fade-top"></div>
         <div class="flux-content" id="flux-list"></div>
         <div class="flux-fade flux-fade-bottom" id="flux-fade-bottom"></div>
@@ -1468,6 +1473,53 @@ async function triggerFluxRefresh(){
     reset();
   }
 }
+
+// ── Pull-to-refresh (mobile) sur Flux Live : tirer vers le bas depuis le haut
+// de la liste déclenche le même rafraîchissement réel que le bouton "Actualiser" ──
+(function initFluxPullToRefresh(){
+  const list=document.getElementById('flux-list');
+  const indicator=document.getElementById('flux-pull-indicator');
+  if(!list||!indicator)return;
+  const THRESHOLD=70,MAX_PULL=110;
+  let startY=0,pulling=false,dist=0;
+  function refreshBtnBusy(){
+    const btn=document.getElementById('flux-refresh-btn');
+    return !!btn&&btn.disabled;
+  }
+  function resetIndicator(){
+    indicator.style.transform='';
+    indicator.classList.remove('ready','is-refreshing');
+  }
+  list.addEventListener('touchstart',e=>{
+    if(list.scrollTop>0||refreshBtnBusy())return;
+    startY=e.touches[0].clientY;
+    pulling=true;dist=0;
+  },{passive:true});
+  list.addEventListener('touchmove',e=>{
+    if(!pulling)return;
+    const deltaY=e.touches[0].clientY-startY;
+    if(deltaY<=0||list.scrollTop>0){pulling=false;resetIndicator();return;}
+    dist=Math.min(deltaY*0.5,MAX_PULL);
+    indicator.style.transform=`translateY(${dist}px)`;
+    indicator.classList.toggle('ready',dist>=THRESHOLD);
+    e.preventDefault();
+  },{passive:false});
+  list.addEventListener('touchend',()=>{
+    if(!pulling)return;
+    pulling=false;
+    if(dist>=THRESHOLD&&!refreshBtnBusy()){
+      indicator.classList.add('is-refreshing');
+      indicator.style.transform=`translateY(${THRESHOLD}px)`;
+      triggerFluxRefresh();
+      setTimeout(resetIndicator,1800);
+    }else{
+      resetIndicator();
+    }
+    dist=0;
+  },{passive:true});
+  list.addEventListener('touchcancel',()=>{pulling=false;dist=0;resetIndicator();},{passive:true});
+})();
+
 function fluxTimeAgo(iso){
   if(!iso)return'';
   const diffMin=Math.round((Date.now()-new Date(iso).getTime())/60000);
