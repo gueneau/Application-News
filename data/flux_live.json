@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-15T12:59:26.451039+00:00",
+  "generated_at": "2026-10-15T14:00:45.017480+00:00",
   "items": [
+    {
+      "id": "9e0333d24368f109",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Le gouvernement fusionne les Autorités environnementales, « au détriment de la protection de l'environnement »",
+      "resume": "Changement d'organisation. Le ministre délégué chargé de la Transition écologique, Mathieu Lefèvre, a annoncé le 15 octobre la création d'une Autorité environnementale unique, au sein de l'Inspection générale de l'environnement et du dévelo",
+      "url": "https://reporterre.net/Le-gouvernement-fusionne-les-Autorites-environnementales-au-detriment-de-la-protection-de",
+      "published_at": "2026-10-15T13:47:43+00:00"
+    },
+    {
+      "id": "2ff83d1505aba6e7",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Le plan pour la nature de la France n'a aucune ambition malgré l'insistance de l'Europe",
+      "resume": "La Commission européenne demande à ses États membres de restaurer l'ensemble des écosystèmes dégradés d'ici 2050. Réponse de la France ? Un plan sans nouvelles mesures, ni nouveaux moyens financiers. Le consensus est largement partagé parmi",
+      "url": "https://reporterre.net/Le-plan-pour-la-nature-de-la-France-n-a-aucune-ambition-malgre-l-insistance-de-l-Europe",
+      "published_at": "2026-10-15T13:45:22+00:00"
+    },
+    {
+      "id": "c464f74d006bbda8",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les deux derniers pandas du ZooParc de Beauval partiront en Chine le 17 décembre",
+      "resume": "Un nouveau couple de pandas devrait arriver « tout début 2027 » pour une durée « de dix ans », a assuré le directeur du parc animalier.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/15/les-deux-derniers-pandas-du-zooparc-de-beauval-partiront-en-chine-le-17-decembre_6794454_3244.html",
+      "published_at": "2026-10-15T13:39:33+00:00"
+    },
+    {
+      "id": "7d24b752d3b12515",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "358 procès de militants écologistes depuis 2020 : ils répertorient des « arguments puissants » pour gagner en justice",
+      "resume": "Les militants écologistes connaissent une répression et des condamnations qui s'intensifient. Pour les aider à gagner leur procès, une plateforme répertorie toutes les décisions de justice afin d'avoir des « arguments puissants face aux jug",
+      "url": "https://reporterre.net/358-proces-de-militants-ecologistes-depuis-2020-ils-repertorient-des-arguments-puissants",
+      "published_at": "2026-10-15T13:30:00+00:00"
+    },
+    {
+      "id": "a093f985ae0cbd46",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables - Les Echos",
+      "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
+      "published_at": "2026-10-15T13:00:08+00:00"
+    },
     {
       "id": "82af6242ad1dac0a",
       "source": "Le Monde Planète",
@@ -15,7 +60,7 @@
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "L’acte 2 du plan d’électrification national insiste sur la flexibilité",
-      "resume": "Maud Bregeon a présenté ce matin une nouvelle batteries de mesures pour électrifier l’économie. La liste complète et amplifie une première phase mise en branle en avril. En ces temps de crise des carburants et des prix de l’énergie, la mini",
+      "resume": "Maud Bregeon a présenté ce matin une nouvelle batteries de mesures pour électrifier l’économie. La liste complète et amplifie la première phase mise en branle en avril. En ces temps de crise des carburants et des prix du gaz et de l’électri",
       "url": "https://www.greenunivers.com/2026/10/lacte-2-du-plan-delectrification-national-insiste-sur-la-flexibilite-436128/",
       "published_at": "2026-10-15T12:24:28+00:00"
     },
@@ -146,15 +191,6 @@
       "published_at": "2026-10-15T06:26:46+00:00"
     },
     {
-      "id": "1f4bc21dc4f42d5c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Ne jetez plus vos parapluies cassés, ces artisanes les réparent",
-      "resume": "Des millions de parapluies sont jetés chaque année en France. Pour y remédier à leur échelle, Claire et Aude, qui travaillaient dans le milieu médical, ont lancé leur entreprise de réparation de ces objets si fragiles. Mordelles (Ille-et-Vi",
-      "url": "https://reporterre.net/Nous-ne-sommes-que-2-en-France-elles-reparent-les-parapluies-casses",
-      "published_at": "2026-10-15T05:30:00+00:00"
-    },
-    {
       "id": "83a451bca54e4369",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -189,15 +225,6 @@
       "resume": "Le Haut conseil pour le climat publie une note détaillant les points de vigilance pour la révision post-2030 du marché […] L’article Points de vigilance pour la révision post-2030 du marché carbone européen est apparu en premier sur Haut Co",
       "url": "https://www.hautconseilclimat.fr/actualites/points-de-vigilance-pour-la-revision-post-2030-du-marche-carbone-europeen/",
       "published_at": "2026-10-14T17:08:03+00:00"
-    },
-    {
-      "id": "1c03b3ca9c17907f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Aux Etats-Unis, l’inflation atteint 3,7 % en septembre, portée par la flambée des cours du pétrole",
-      "resume": "Le coût de l’énergie a augmenté de 20 % en un an, selon les statistiques publiées mercredi 14 octobre. Une mauvaise nouvelle pour Donald Trump, élu il y a deux ans sur la promesse de faire baisser les prix.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/14/aux-etats-unis-l-inflation-atteint-3-7-en-septembre-portee-par-la-flambee-des-cours-du-petrole_6793785_3234.html",
-      "published_at": "2026-10-14T17:06:20+00:00"
     },
     {
       "id": "539b65620e01f78f",
@@ -245,15 +272,6 @@
       "published_at": "2026-10-14T15:36:55+00:00"
     },
     {
-      "id": "5ff65dcb60ec7191",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "En Guadeloupe, les lycéens dénoncent des classes surchauffées et les coupures d'eau",
-      "resume": "Alors que la répression policière contre la mobilisation des lycéens se poursuit, les élèves de Guadeloupe ne se découragent pas. Parents et professeurs soutiennent leur blocage dans l'espoir de limiter les violences des forces de l'ordre. ",
-      "url": "https://reporterre.net/En-Guadeloupe-les-lyceens-denoncent-des-classes-surchauffees-et-les-coupures-d-eau",
-      "published_at": "2026-10-14T15:16:10+00:00"
-    },
-    {
       "id": "de44a10183d98683",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -279,15 +297,6 @@
       "resume": "Article modifié le 14/10/2026 avec des précisions d’EDF – EDF a trouvé un accord avec le fonds Hy24 pour lui céder Hynamics, sa filiale spécialisée dans le développement de projets d’électrolyse. Cet accord a été signé le 12 octobre. L’élec",
       "url": "https://www.greenunivers.com/2026/10/edf-cede-sa-filiale-hydrogene-hynamics-a-hy24-436050/",
       "published_at": "2026-10-14T14:26:25+00:00"
-    },
-    {
-      "id": "78fad289336b698e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Des scientifiques dressent le bilan de santé de la planète, et c'est dramatique",
-      "resume": "Concentration de CO 2 , fonte des glaces... Alors que plusieurs signaux « vitaux » de la planète atteignent des niveaux record de dégradation, des « bascules sociétales » sont encore possibles, estime une étude parue le 14 octobre. Imaginez",
-      "url": "https://reporterre.net/Des-scientifiques-dressent-le-bilan-de-sante-de-la-planete-et-c-est-dramatique",
-      "published_at": "2026-10-14T13:05:00+00:00"
     },
     {
       "id": "f38b3640458e3a73",
@@ -459,15 +468,6 @@
       "resume": "Ana Reyes demands Trump officials explain East Potomac tree cutting saying it will probably cause ‘irreparable harm’ US district judge Ana Reyes on Monday ordered a 24-hour halt to tree cutting at the historic East Potomac golf course while",
       "url": "https://www.theguardian.com/us-news/2026/oct/12/order-halt-tree-removal-washington-dc-golf-course-trump",
       "published_at": "2026-10-12T16:55:37+00:00"
-    },
-    {
-      "id": "da605346bc820a51",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Immobilier : les émissions de CO2 des bâtiments reculent en Europe plus vite que leur consommation d'énergie - Les Echos",
-      "resume": "Immobilier : les émissions de CO2 des bâtiments reculent en Europe plus vite que leur consommation d'énergie Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbkJGclR3Q1dqbTBPdXVmYm1VOWZNS3NQMTJlNFUxNE1hNENycnBBV1NaWUQ3dlpxcXVSZ0picUt4OXNFZWdIWlh6NUVsVjhmQ0I2MHFmTm04YWt5M2h4NUVrbnFYU2p6cV9qRHBCSFdOTUZiOElrVFRQQ19HV3dVQlpGNGFiVDVjZDFyanZ4RHZQQkIwd2xTS3lLRzRjWGFtNk90YzZZcGExTzNjSEwzcl9ULXRVZDJLejJaYXRrQURtY25CbmVZTjZ6aFc0eXM0Nlc0d2g1cmJBcDFjenVlR0k4SjI0c3dCcnJxZ0NrbGNhNU43OEVySElXXzBNSHNj?oc=5",
-      "published_at": "2026-10-12T15:19:16+00:00"
     },
     {
       "id": "56576a67766ca3c9",
