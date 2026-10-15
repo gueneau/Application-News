@@ -771,7 +771,9 @@ async function init(){
 }
 
 // ── Mise à jour live : recharge automatiquement dès qu'un nouveau run est détecté ──
-let knownUpdatedAt=null, updateWatcherTimer=null;
+// Deux sources indépendantes : archive.json (run veille 8h/14h) et data/flux_live.json
+// (run flux-live toutes les 30 min) — chacune avec son propre horodatage.
+let knownUpdatedAt=null, knownFluxAt=null, updateWatcherTimer=null;
 function startUpdateWatcher(){
   if(updateWatcherTimer)return;
   updateWatcherTimer=setInterval(checkForUpdate,3*60*1000);
@@ -780,8 +782,14 @@ async function checkForUpdate(){
   try{
     const fresh=await(await fetch(`archive.json?t=${Date.now()}`)).json();
     const ts=fresh?.updated_at;
-    if(ts&&knownUpdatedAt&&ts!==knownUpdatedAt)location.reload();
+    if(ts&&knownUpdatedAt&&ts!==knownUpdatedAt){location.reload();return;}
   }catch(e){console.warn('Vérification de mise à jour échouée:',e);}
+  try{
+    const fresh=await(await fetch(`data/flux_live.json?t=${Date.now()}`)).json();
+    const ts=fresh?.generated_at;
+    if(ts&&knownFluxAt&&ts!==knownFluxAt){location.reload();return;}
+    if(ts)knownFluxAt=ts;
+  }catch(e){console.warn('Vérification Flux Live échouée:',e);}
 }
 
 function renderAll(){
@@ -1431,6 +1439,7 @@ async function loadFluxLive(force){
     const resp=await fetch(`data/flux_live.json?t=${Date.now()}`);
     if(!resp.ok)throw new Error('HTTP '+resp.status);
     fluxLiveData=await resp.json();
+    if(fluxLiveData?.generated_at)knownFluxAt=fluxLiveData.generated_at;
     renderFluxLive();
   }catch(e){
     console.error(e);
