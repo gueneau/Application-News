@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-15T04:57:40.810147+00:00",
+  "generated_at": "2026-10-15T06:02:58.692717+00:00",
   "items": [
+    {
+      "id": "1f4bc21dc4f42d5c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Nous ne sommes que 2 en France » : elles réparent les parapluies cassés",
+      "resume": "Des millions de parapluies sont jetés chaque année en France. Pour y remédier à leur échelle, Claire et Aude, qui travaillaient dans le milieu médical, ont lancé leur entreprise de réparation de ces objets si fragiles. Mordelles (Ille-et-Vi",
+      "url": "https://reporterre.net/Nous-ne-sommes-que-2-en-France-elles-reparent-les-parapluies-casses",
+      "published_at": "2026-10-15T05:30:00+00:00"
+    },
+    {
+      "id": "83a451bca54e4369",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Mobilité et RSE : conjuguer écologie et rentabilité - Les Echos",
+      "resume": "Mobilité et RSE : conjuguer écologie et rentabilité Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A5TjBiM1lkTUpzYkdrVllzTGxsOGF6eGRGM0VhSmc5WVZBc0xRRkhZRlN4ZThOZmZfQTNhTTFHXzZKVDMyRjJnaG1Pc2NIVzFkWHI2TTFZbjVNUnFCaFpMM0VEMXhxWDFzNTVqTnFwRGV6VGpobXphV0lobXVuN0J5UW53cjllbVVTWnJ6R0k0UnhVUkpQU0JWSGY?oc=5",
+      "published_at": "2026-10-15T05:25:26+00:00"
+    },
     {
       "id": "4dffde1406fc8759",
       "source": "Novethic",
@@ -15,18 +33,9 @@
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Des incendies géants continuent de ravager l’Indonésie, plongeant la région dans un brouillard toxique",
-      "resume": "Depuis des mois, des millions d’habitants sont soumis à d’épaisses fumées qui s’étendent jusqu’aux pays voisins. Attisés par El Niño, mais largement d’origine humaine, Ces mégafeux provoquent une crise sanitaire et suscitent des critiques à",
+      "resume": "Depuis des mois, des millions d’habitants sont soumis à d’épaisses fumées qui s’étendent jusqu’aux pays voisins. Attisés par El Niño, mais largement d’origine humaine, ces mégafeux provoquent une crise sanitaire et suscitent des critiques à",
       "url": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
-      "published_at": "2026-10-15T04:17:33+00:00"
-    },
-    {
-      "id": "c29f0bbe22526d31",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année - Les Echos",
-      "resume": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXlycnNNU2d3RFllbzBWRUtvR1N2RFN6cERNRHo5UTVWd09SM0ZsLXhsQjRoakM4NjF6R0M4S3VUV1J2Ym03UlYxcV8yQ1RRMHZ0YVNXdmxjNllvSzlwaHQ0c3l6VU0tcm51Y3l4VmUzUDZDOU02MktVb1RKVTZmYS1NZjR5bUViUXQ5Y0xwNmplY1pNaHpSdjl1cUdDNm5BUTdBTEs2ZGFsYXEycEtYYXUwcDdkRk9JTWxSaTVZai1CY2tnM2IwcHIxdkVuVlJYa09xVXp1QzBGY0VTT3RZSVdNQURmb3FuTzdmeUYzTnFFVkVN?oc=5",
-      "published_at": "2026-10-14T17:18:34+00:00"
+      "published_at": "2026-10-15T04:17:31+00:00"
     },
     {
       "id": "39a934e94444e6db",
@@ -342,15 +351,6 @@
       "resume": "Visionnez le replay de notre Contexte Live consacré à la COP17 biodiversité, qui se tiendra du 19 au 30 octobre à Erevan (Arménie).",
       "url": "https://www.contexte.com/fr/article/environnement/cop17-a-erevan-le-cadre-mondial-de-la-biodiversite-a-lepreuve-des-engagements_281163?source=rss",
       "published_at": "2026-10-14T06:00:00+00:00"
-    },
-    {
-      "id": "25f3e1e9082863a9",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le cidre en souffrance : la récolte de pommes s'annonce « dramatique »",
-      "resume": "La récolte de pommes à cidre s'annonce « dramatique » en 2026, a alerté le directeur de l'Union nationale interprofessionnelle cidricole. Si le gouvernement prévoit une aide, la question de l'adaptation à long terme reste en suspens. Saint-",
-      "url": "https://reporterre.net/Le-cidre-en-souffrance-la-recolte-de-pommes-s-annonce-dramatique",
-      "published_at": "2026-10-14T05:30:00+00:00"
     },
     {
       "id": "61c0d3b1bc021edc",
