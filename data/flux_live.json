@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-15T09:37:54.775771+00:00",
+  "generated_at": "2026-10-15T09:47:08.998479+00:00",
   "items": [
+    {
+      "id": "5e23b43fbbda21c1",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Salaires des EnR : 40 postes au crible [3/3]",
+      "resume": "Dernier volet de notre dossier Recrutement & Salaires – Au mieux, les salaires stagnent. Mais la tendance est plutôt à la baisse. Et certains métiers sont particulièrement exposés comme en témoigne l’édition 2026 du benchmark des salaires d",
+      "url": "https://www.greenunivers.com/2026/10/salaires-des-enr-40-postes-au-crible-3-3-435348/",
+      "published_at": "2026-10-15T09:39:24+00:00"
+    },
     {
       "id": "e2a14e8a1495e3cb",
       "source": "ESG Today",
@@ -68,7 +77,7 @@
       "id": "ae9895c8e441a49d",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Des incendies gigantesques continuent de ravager l’Indonésie, plongeant la région dans un brouillard toxique",
+      "titre": "En Indonésie, des incendies gigantesques continuent de ravager la région, plongée dans un brouillard toxique",
       "resume": "Depuis des mois, des millions d’habitants sont soumis à d’épaisses fumées qui s’étendent jusqu’aux pays voisins. Attisés par El Niño, mais largement d’origine humaine, ces mégafeux provoquent une crise sanitaire et suscitent des critiques à",
       "url": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
       "published_at": "2026-10-15T04:17:31+00:00"
@@ -396,15 +405,6 @@
       "resume": "Les trois candidats à la présidentielle ont répondu aux questions de nos journalistes sur l’Europe, l’intelligence artificielle ou l’énergie. Thèmes sur lesquels les clivages ont été nombreux.",
       "url": "https://www.politico.eu/article/philippe-glucksmann-retailleau-les-temps-forts-du-sommet-sur-la-competitivite-economique-de-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T16:00:25+00:00"
-    },
-    {
-      "id": "a1e860577422b87f",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher",
-      "resume": "Après avoir renoncé au projet Salamandre, censé produire du biométhane par pyrogazéfication, Engie relance sur le même site, au Havre, un nouveau L’article Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher est",
-      "url": "https://www.greenunivers.com/2026/10/engie-et-cma-cgm-relancent-la-production-de-biomethane-au-havre-pour-moins-cher-435991/",
-      "published_at": "2026-10-13T15:30:55+00:00"
     },
     {
       "id": "6cfa94ebb70251fc",
