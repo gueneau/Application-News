@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "generated_at": "12:13",
-  "elapsed_seconds": 436,
+  "generated_at": "12:40",
+  "elapsed_seconds": 411,
   "errors": [],
   "stats": {
     "jo_analyses": 0,
@@ -9,18 +9,18 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-15T12:13:03",
+    "run_at": "2026-10-15T12:40:33",
     "sources": {
       "JORF": 0,
-      "RSS": 2,
+      "RSS": 6,
       "VigiEau": 93,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 40,
-    "llm_seconds": 50.9
+    "llm_calls": 39,
+    "llm_seconds": 59.2
   },
   "items": [
     {
@@ -33,6 +33,50 @@
       "criticite": 2,
       "url": "https://www.actuel-hse.fr/content/raccordement-au-reseau-electrique-du-premier-arrive-premier-servi-au-premier-pret-premier-4",
       "date": "2026-10-15"
+    },
+    {
+      "id": "376ce9aab9d0",
+      "source": "Actu-Environnement",
+      "categorie": "Eau",
+      "titre": "Sécheresse 2026 : l'OFB bat un record avec 16 000 contrôles cet été",
+      "resume": "L'Office français de la biodiversité a réalisé un nombre record de 16 000 contrôles liés aux restrictions d'eau durant l'été 2026, révélant plus de 1 200 infractions dans un contexte de tension hydrique persistante.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/ofb-controles-secheresse-ete-2026-48668.php4#xtor=RSS-6",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "0df5b0dac0fa",
+      "source": "Actu-Environnement",
+      "categorie": "Déchets",
+      "titre": "Réemploi : la future stratégie nationale plus incertaine que jamais",
+      "resume": "Les Assises nationales du réemploi en France n'ont pas permis de clarifier la future stratégie nationale (SN3R), reportée à début 2027, maintenant le flou réglementaire et économique pour le secteur.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/future-strategie-nationale-reemploi-incertaines-report-sn3r-48665.php4#xtor=RSS-6",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "89653e6614ee",
+      "source": "Actu-Environnement",
+      "categorie": "Déchets",
+      "titre": "Recyclage chimique : l'Ademe pointe les faibles gains environnementaux et la dépendance à l'industrie chimique",
+      "resume": "L'Ademe pointe les gains environnementaux limités, voire inexistants, du recyclage chimique des plastiques par rapport aux résines vierges, ainsi que sa forte dépendance à l'industrie pétrochimique.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/avis-ademe-recyclage-chimique-impact-environnemental-48658.php4#xtor=RSS-6",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "19551e5db8ad",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Émissions",
+      "titre": "Points de vigilance pour la révision post-2030 du marché carbone européen",
+      "resume": "Le Haut Conseil pour le climat publie une note détaillant les points de vigilance pour la révision post-2030 du marché carbone européen (SEQE-UE 1), soulignant l'importance d'un instrument robuste, prévisible et articulé à l'investissement industriel bas-carbone.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.hautconseilclimat.fr/actualites/points-de-vigilance-pour-la-revision-post-2030-du-marche-carbone-europeen/",
+      "date": "2026-10-14"
     },
     {
       "id": "46cb459baebc",
