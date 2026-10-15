@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-15T09:47:08.998479+00:00",
+  "generated_at": "2026-10-15T11:59:00.952609+00:00",
   "items": [
+    {
+      "id": "eddcaa4967890945",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Règlement méthane : la Commission européenne cède aux pressions et propose un report d’un an",
+      "resume": "Le méthane atteint des niveaux 2,6 fois plus élevés qu’à l’époque préindustrielle. @iStock C’était attendu, c’est désormais officiel. La Commission européenne a proposé, mercredi 14 octobre, de reporter d’un an l’entrée en vigueur du règlem",
+      "url": "https://www.novethic.fr/environnement/climat/reglement-methane-la-commission-europeenne-cede-aux-pressions-et-propose-un-report-dun-an",
+      "published_at": "2026-10-15T11:45:55+00:00"
+    },
+    {
+      "id": "2a41cfcf33ba91f9",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Hy24 Acquires Clean Hydrogen Platform Hynamics from EDF",
+      "resume": "French clean hydrogen-focused investment firm Hy24 announced that it has signed an agreement to acquire […]",
+      "url": "https://www.esgtoday.com/hy24-acquires-clean-hydrogen-platform-hynamics-from-edf/?utm_source=rss&utm_medium=rss&utm_campaign=hy24-acquires-clean-hydrogen-platform-hynamics-from-edf",
+      "published_at": "2026-10-15T10:49:45+00:00"
+    },
+    {
+      "id": "70755c6edbbc23fd",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Biodiversité : la France présente un plan de restauration de la nature sans ambition et sous-financé",
+      "resume": "Les Etats membres de l’Union européenne doivent traduire au niveau national les intentions de la loi européenne sur la restauration de la nature. La France s’est soumise à l’exercice, mais le résultat fait l’objet de multiples critiques.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/15/biodiversite-la-france-presente-un-plan-de-restauration-de-la-nature-sans-ambition-et-sous-finance_6794433_3244.html",
+      "published_at": "2026-10-15T10:30:12+00:00"
+    },
+    {
+      "id": "5087de495c44663b",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Sécheresse 2026 : l'OFB bat un record avec 16 000 contrôles cet été",
+      "resume": "« Historique ». C'est le terme employé par l'Office français de la biodiversité (OFB) pour qualifier sa campagne de contrôle pendant l'été 2026. Les agents de l'office ont réalisé de juin à septembre plus de 16 000 contrôles pour vérifier l",
+      "url": "https://www.actu-environnement.com/ae/news/ofb-controles-secheresse-ete-2026-48668.php4#xtor=RSS-6",
+      "published_at": "2026-10-15T10:20:22+00:00"
+    },
+    {
+      "id": "3f50186e1984ba9a",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "California Locks in November Deadline for First Corporate Climate Reports",
+      "resume": "The California Office of Administrative Law (OAL) has approved the California Corporate Greenhouse Gas Reporting […]",
+      "url": "https://www.esgtoday.com/california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline",
+      "published_at": "2026-10-15T09:55:45+00:00"
+    },
     {
       "id": "5e23b43fbbda21c1",
       "source": "GreenUnivers",
@@ -32,7 +77,7 @@
       "id": "cd4431b10fc08a7a",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "La FNSEA sort un « guide juridique » pour faire taire L214 ou Les Soulèvements de la Terre",
+      "titre": "Contre les militants qui se « radicalisent », la FNSEA lance un tuto juridique",
       "resume": "Le syndicat agricole productiviste publie un guide visant à « punir » les « détracteurs » du modèle conventionnel, comme L214, Les Soulèvements de la Terre et Extinction Rebellion. Les militants dénoncent un « acharnement » visant à les mus",
       "url": "https://reporterre.net/La-FNSEA-sort-un-guide-juridique-pour-faire-taire-L214-ou-Les-Soulevements-de-la-Terre",
       "published_at": "2026-10-15T07:13:07+00:00"
@@ -164,15 +209,6 @@
       "published_at": "2026-10-14T15:31:17+00:00"
     },
     {
-      "id": "1351118c56eb1aed",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Pollutions diffuses : la liste des substances soumises à la redevance en 2027 en consultation",
-      "resume": "La version réactualisée de la liste des substances soumises à la redevance pour pollutions diffuses pour 2027 est en consultation jusqu'au 6 novembre. Comme chaque année, celle-ci est revue à la lumière des dernières connaissances disponibl",
-      "url": "https://www.actu-environnement.com/ae/news/pollutions-diffuses-listes-substances-soumises-redevances-2027-consultation-48666.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T15:30:40+00:00"
-    },
-    {
       "id": "5ff65dcb60ec7191",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -207,15 +243,6 @@
       "resume": "Le bilan 2025 de la qualité de l’air révèle une « légère » progression des concentrations en particules fines, dioxyde d’azote et ozone avec six épisodes de pollution d’ampleur nationale.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/14/en-france-la-pollution-de-l-air-repart-a-la-hausse-apres-des-annees-de-recul_6793758_3244.html",
       "published_at": "2026-10-14T14:43:43+00:00"
-    },
-    {
-      "id": "851b32124efc9f23",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Combien de lycées français sont prêts face aux canicules ?",
-      "resume": "Chaque semaine, l’équipe du podcast « Chaleur humaine » répond à vos questions sur la transition climatique",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/14/combien-de-lycees-francais-sont-prets-face-aux-canicules_6793755_3244.html",
-      "published_at": "2026-10-14T14:30:10+00:00"
     },
     {
       "id": "f5838dc8d986a8c8",
@@ -290,15 +317,6 @@
       "published_at": "2026-10-14T10:25:17+00:00"
     },
     {
-      "id": "32783ed18a31061f",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "IKEA Appoints Erika Intiso as Chief Sustainability Officer",
-      "resume": "Ingka Group, the largest IKEA retailer accounting for more than 85% of the chain’s retail […]",
-      "url": "https://www.esgtoday.com/ikea-appoints-erika-intiso-as-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=ikea-appoints-erika-intiso-as-chief-sustainability-officer",
-      "published_at": "2026-10-14T10:01:59+00:00"
-    },
-    {
       "id": "edfa135d654c95e6",
       "source": "Novethic",
       "categorie": "Presse",
@@ -306,15 +324,6 @@
       "resume": "La SEC s'est penché sur le rôle de Climate Action 100+ lors de l'assemblée générale d'ExxonMobil de 2021. @CCO La vengeance est un plat qui se mange (très) froid ! La Securities and exchange commission (SEC) a publié un long rapport sur l’e",
       "url": "https://www.novethic.fr/finance-durable/engagement-actionnarial/etats-unis-gendarme-financier-prend-climate-action-100",
       "published_at": "2026-10-14T09:45:39+00:00"
-    },
-    {
-      "id": "ed4aa269859ced17",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Amundi, BNP Paribas AM Win €1.6 Billion Sustainable Investment Mandates from Ircantec",
-      "resume": "French pension plan Ircantec announced that it has selected European asset managers Amundi and BNP […]",
-      "url": "https://www.esgtoday.com/amundi-bnp-paribas-am-win-e1-6-billion-sustainable-investment-mandates-from-ircantec/?utm_source=rss&utm_medium=rss&utm_campaign=amundi-bnp-paribas-am-win-e1-6-billion-sustainable-investment-mandates-from-ircantec",
-      "published_at": "2026-10-14T09:18:55+00:00"
     },
     {
       "id": "8ebe41b8afaa2365",
@@ -369,15 +378,6 @@
       "resume": "Visionnez le replay de notre Contexte Live consacré à la COP17 biodiversité, qui se tiendra du 19 au 30 octobre à Erevan (Arménie).",
       "url": "https://www.contexte.com/fr/article/environnement/cop17-a-erevan-le-cadre-mondial-de-la-biodiversite-a-lepreuve-des-engagements_281163?source=rss",
       "published_at": "2026-10-14T06:00:00+00:00"
-    },
-    {
-      "id": "61c0d3b1bc021edc",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "TikTok, Meta : pourquoi les géants des réseaux sociaux acceptent de modifier leur algorithme",
-      "resume": "Tiktok a signé un accord avec l'Alabama le 25 septembre dernier. @CHRIS DELMAS / AFP Aux Etats-Unis, les procès se succèdent, les accords aussi. Après Meta le 26 août dernier, TikTok a annoncé le 25 septembre signer un accord avec l’Alabama",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/tiktok-meta-pourquoi-les-geants-des-reseaux-sociaux-acceptent-de-modifier-leur-algorithme",
-      "published_at": "2026-10-14T04:45:05+00:00"
     },
     {
       "id": "1986cb15de2e50e3",
@@ -542,6 +542,15 @@
       "published_at": "2026-10-08T06:00:00+00:00"
     },
     {
+      "id": "677c3834c04eaf26",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
+      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
+      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
+      "published_at": "2026-10-07T13:03:27+00:00"
+    },
+    {
       "id": "7bc23f9c2e0b7e6e",
       "source": "Fédération de la Propreté",
       "categorie": "Presse",
@@ -605,6 +614,15 @@
       "published_at": "2026-10-01T14:54:03+00:00"
     },
     {
+      "id": "c7c5fd524d735a2a",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
+      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
+      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
+      "published_at": "2026-09-30T09:38:27+00:00"
+    },
+    {
       "id": "4daf2710e9f7921b",
       "source": "I4CE",
       "categorie": "Climat",
@@ -630,6 +648,42 @@
       "resume": "Des représentants des ministères des Finances d’Afrique, d’Amérique latine et des Caraïbes se sont réunis à Salvador de Bahia, au Brésil, à l’occasion de la 2e Rencontre interrégionale des ministères des Finances sur climat. L’article Secon",
       "url": "https://www.i4ce.org/seconde-rencontre-interregionale-ministeres-finances-climat/",
       "published_at": "2026-09-24T09:09:42+00:00"
+    },
+    {
+      "id": "807bedcb7a719896",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "« France 2035, France 2050 » - Découvrez le projet",
+      "resume": "« France 2035, France 2050 » - Découvrez le projet Comment vivrons-nous en France demain ? Dans la lignée historique des travaux du Plan depuis Jean Monnet, le Haut-commissariat à la Stratégie et au Plan a lancé un grand exercice de prospec",
+      "url": "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet",
+      "published_at": "2026-09-10T10:16:39+00:00"
+    },
+    {
+      "id": "673f485ce8732418",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Conférence | Quels nouveaux moteurs pour la productivité française ?",
+      "resume": "Conférence | Quels nouveaux moteurs pour la productivité française ? La France entre dans une nouvelle phase de son histoire économique : l’accélération technologique portée par l’intelligence artificielle, le vieillissement démographique e",
+      "url": "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise",
+      "published_at": "2026-09-09T13:14:11+00:00"
+    },
+    {
+      "id": "f6a85cff203ccfc9",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps",
+      "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
+      "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
+      "published_at": "2026-09-08T13:11:58+00:00"
+    },
+    {
+      "id": "2eb28f1334062f55",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ?",
+      "resume": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ? Comment les entreprises peuvent-elles contribuer, aux côtés des collectivités, des associations, des ",
+      "url": "https://www.strategie-plan.gouv.fr/webconference-responsabilite-territoriale-de-lentreprise-quels-leviers-pour-des-territoires-plus",
+      "published_at": "2026-09-03T14:56:56+00:00"
     },
     {
       "id": "cf48f14c1a1e7e16",
@@ -666,60 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "ac6ecc926252c5cb",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
-      "published_at": "2026-06-23T12:24:00+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
-    },
-    {
-      "id": "f6ba6a33ef09a89a",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
-      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
-      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
-      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
