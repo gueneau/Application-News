@@ -1,11 +1,38 @@
 {
-  "generated_at": "2026-10-15T14:00:45.017480+00:00",
+  "generated_at": "2026-10-15T14:36:22.127611+00:00",
   "items": [
+    {
+      "id": "933d794bfeaff198",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Fuites de méthane : l'Europe cède aux lobbies de l'énergie",
+      "resume": "La Commission européenne a cédé à la pression des géants du gaz en acceptant d'ajourner d'un an la mise en place d'une obligation de reporting sur les fuites de méthane. C'est une demande des lobbies de l'énergie qui utilisent la situation ",
+      "url": "https://reporterre.net/Fuites-de-methane-l-Europe-cede-aux-lobbies-les-ONG-inquietes",
+      "published_at": "2026-10-15T14:35:23+00:00"
+    },
+    {
+      "id": "3ffbf6159a874271",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Risques inondation : l'aléa de référence va être modifié afin de tenir compte des changements climatiques",
+      "resume": "Sont soumis à la consultation du public un projet de décret et d'arrêté relatifs aux risques d'inondations. Ces textes s'inscrivent dans la mise en oeuvre du troisième plan national d'adaptation au changement climatique (PNACC-3) ainsi que ",
+      "url": "https://www.actu-environnement.com/ae/news/pprn-alea-reference-inondation-changement-climatique-48670.php4#xtor=RSS-6",
+      "published_at": "2026-10-15T14:16:02+00:00"
+    },
+    {
+      "id": "bc6cfe7d50229025",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "In-House Research, Engagement Overtake ESG Ratings as Investors’ Top Sustainability Tools: Survey",
+      "resume": "Investors are increasingly turning to internal resources to gauge companies’ ESG performance, with in-house research […]",
+      "url": "https://www.esgtoday.com/in-house-research-and-engagement-overtake-esg-ratings-as-investors-top-tools-to-assess-sustainability-performance-survey/?utm_source=rss&utm_medium=rss&utm_campaign=in-house-research-and-engagement-overtake-esg-ratings-as-investors-top-tools-to-assess-sustainability-performance-survey",
+      "published_at": "2026-10-15T14:12:25+00:00"
+    },
     {
       "id": "9e0333d24368f109",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Le gouvernement fusionne les Autorités environnementales, « au détriment de la protection de l'environnement »",
+      "titre": "Le gouvernement fusionne les Autorités environnementales, les associations inquiètes",
       "resume": "Changement d'organisation. Le ministre délégué chargé de la Transition écologique, Mathieu Lefèvre, a annoncé le 15 octobre la création d'une Autorité environnementale unique, au sein de l'Inspection générale de l'environnement et du dévelo",
       "url": "https://reporterre.net/Le-gouvernement-fusionne-les-Autorites-environnementales-au-detriment-de-la-protection-de",
       "published_at": "2026-10-15T13:47:43+00:00"
@@ -173,15 +200,6 @@
       "published_at": "2026-10-15T07:22:41+00:00"
     },
     {
-      "id": "cd4431b10fc08a7a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Contre les militants qui se « radicalisent », la FNSEA lance un tuto juridique",
-      "resume": "Le syndicat agricole productiviste publie un guide visant à « punir » les « détracteurs » du modèle conventionnel, comme L214, Les Soulèvements de la Terre et Extinction Rebellion. Les militants dénoncent un « acharnement » visant à les mus",
-      "url": "https://reporterre.net/La-FNSEA-sort-un-guide-juridique-pour-faire-taire-L214-ou-Les-Soulevements-de-la-Terre",
-      "published_at": "2026-10-15T07:13:07+00:00"
-    },
-    {
       "id": "3ef30a3c84ee9f88",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -263,15 +281,6 @@
       "published_at": "2026-10-14T15:37:02+00:00"
     },
     {
-      "id": "fac840864e59c70e",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Gymnases et salles de sport : les polluants de l'air intérieur passés au crible",
-      "resume": "Deux nouvelles études publiées par l'Ademe évaluent la qualité de l'air intérieur dans les gymnases et les salles de sport. Les polluants mesurés ont globalement des valeurs inférieures aux seuils réglementaires.",
-      "url": "https://www.actu-environnement.com/ae/news/qualite-air-salles-sport-ademe-etudes-gymnases-48664.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T15:36:55+00:00"
-    },
-    {
       "id": "de44a10183d98683",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -306,15 +315,6 @@
       "resume": "Le groupe Malakoff Humanis fait l'objet d'une enquête du Parquet national financier pour des soupçons de corruption. @ Magali Cohen AFP L’étau se resserre autour de Thomas Saunier, le directeur général de Malakoff Humanis. Selon une informa",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/dirigeant-malakoff-humanis-viseur-partenaires-sociaux",
       "published_at": "2026-10-14T12:43:28+00:00"
-    },
-    {
-      "id": "04d23de638077f74",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "ESMA Guides Investment Firms on Avoiding Greenwashing in Impact, Climate Transition Claims",
-      "resume": "EU markets regulator the European Securities and Markets Authority (ESMA) announced the release of a […]",
-      "url": "https://www.esgtoday.com/esma-guides-investment-firms-on-avoiding-greenwashing-in-impact-climate-transition-claims/?utm_source=rss&utm_medium=rss&utm_campaign=esma-guides-investment-firms-on-avoiding-greenwashing-in-impact-climate-transition-claims",
-      "published_at": "2026-10-14T12:02:30+00:00"
     },
     {
       "id": "08d77b99714a0058",
