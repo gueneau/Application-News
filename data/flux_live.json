@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-15T06:55:27.690573+00:00",
+  "generated_at": "2026-10-15T07:40:42.234163+00:00",
   "items": [
+    {
+      "id": "437cde25bc18fba9",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Des futurs médecins (enfin) formés aux liens entre pollutions et cancer",
+      "resume": "Pollution de l'air, pesticides… Une première formation spécifique sur les causes environnementales du cancer a été donnée aux internes en oncologie de l'université d'Aix-Marseille. Elle leur donne des clés pour mieux penser la prévention. M",
+      "url": "https://reporterre.net/Des-futurs-medecins-enfin-formes-aux-liens-entre-pollutions-et-cancer",
+      "published_at": "2026-10-15T07:22:41+00:00"
+    },
+    {
+      "id": "cd4431b10fc08a7a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La FNSEA sort un « guide juridique » pour faire taire L214 ou Les Soulèvements de la Terre",
+      "resume": "Le syndicat agricole productiviste publie un guide visant à « punir » les « détracteurs » du modèle conventionnel, comme L214, Les Soulèvements de la Terre et Extinction Rebellion. Les militants dénoncent un « acharnement » visant à les mus",
+      "url": "https://reporterre.net/La-FNSEA-sort-un-guide-juridique-pour-faire-taire-L214-ou-Les-Soulevements-de-la-Terre",
+      "published_at": "2026-10-15T07:13:07+00:00"
+    },
     {
       "id": "3ef30a3c84ee9f88",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Au Mexique, la tempête Rachel cause au moins huit morts",
-      "resume": "Le pays connaît une saison des ouragans de mai à novembre, renforcée cette année par le phénomène El Niño.",
+      "titre": "Au Mexique, la tempête Rachel cause au moins huit morts",
+      "resume": "Rachel a également causé d’importantes inondations en Californie, notamment à Long Beach et Newport Beach, sans faire de victime. Le pays connaît une saison des ouragans de mai à novembre, renforcée cette année par le phénomène El Niño.",
       "url": "https://www.lemonde.fr/international/article/2026/10/15/au-mexique-la-tempete-rachel-cause-au-moins-huit-morts_6794216_3210.html",
       "published_at": "2026-10-15T06:26:46+00:00"
     },
@@ -41,7 +59,7 @@
       "id": "ae9895c8e441a49d",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Des incendies géants continuent de ravager l’Indonésie, plongeant la région dans un brouillard toxique",
+      "titre": "Des incendies gigantesques continuent de ravager l’Indonésie, plongeant la région dans un brouillard toxique",
       "resume": "Depuis des mois, des millions d’habitants sont soumis à d’épaisses fumées qui s’étendent jusqu’aux pays voisins. Attisés par El Niño, mais largement d’origine humaine, ces mégafeux provoquent une crise sanitaire et suscitent des critiques à",
       "url": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
       "published_at": "2026-10-15T04:17:31+00:00"
@@ -141,7 +159,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "En Guadeloupe, les lycéens dénoncent des classes surchauffées et les coupures d'eau",
-      "resume": "Alors que la répression policière contre la mobilisation des lycéens se poursuit les élèves de Guadeloupe ne se découragent pas. Parents et professeurs soutiennent leur blocage dans l'espoir de limiter les violences des forces de l'ordre. L",
+      "resume": "Alors que la répression policière contre la mobilisation des lycéens se poursuit, les élèves de Guadeloupe ne se découragent pas. Parents et professeurs soutiennent leur blocage dans l'espoir de limiter les violences des forces de l'ordre. ",
       "url": "https://reporterre.net/En-Guadeloupe-les-lyceens-denoncent-des-classes-surchauffees-et-les-coupures-d-eau",
       "published_at": "2026-10-14T15:16:10+00:00"
     },
@@ -216,15 +234,6 @@
       "resume": "Le groupe Malakoff Humanis fait l'objet d'une enquête du Parquet national financier pour des soupçons de corruption. @ Magali Cohen AFP L’étau se resserre autour de Thomas Saunier, le directeur général de Malakoff Humanis. Selon une informa",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/dirigeant-malakoff-humanis-viseur-partenaires-sociaux",
       "published_at": "2026-10-14T12:43:28+00:00"
-    },
-    {
-      "id": "d5db66b10fa4b79c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "LBD, grenades... Une pétition contre les armes des policiers récolte plus de 130 000 signatures",
-      "resume": "Une pétition mise en ligne sur le site de l'Assemblée nationale pour demander l'interdiction des « techniques et armes inappropriées dans les manifestations de lycéens » a récolté plus de 130 600 signatures le 14 octobre à la mi-journée. Le",
-      "url": "https://reporterre.net/LBD-grenades-Une-petition-contre-les-armes-des-policiers-recolte-plus-de-130-000-signatures",
-      "published_at": "2026-10-14T12:12:49+00:00"
     },
     {
       "id": "04d23de638077f74",
@@ -306,15 +315,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
       "published_at": "2026-10-14T07:27:21+00:00"
-    },
-    {
-      "id": "4fdfd3b0f3255f9a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« On a tous en ligne de mire le 17 octobre » : chez les lycéens, la convergence comme horizon",
-      "resume": "Ici des sandwichs et de l'eau, là du sérum physiologique, plus loin des sifflets imprimés en 3D... Des manifestants « solidaires » (parents, étudiants, profs, musiciens...) apportent leur soutien aux mobilisations lycéennes, comme à Paris l",
-      "url": "https://reporterre.net/Qui-veut-du-thieb-C-est-gratuit-La-solidarite-s-organise-autour-des-lyceens",
-      "published_at": "2026-10-14T07:16:36+00:00"
     },
     {
       "id": "0822e7b70b886a3f",
