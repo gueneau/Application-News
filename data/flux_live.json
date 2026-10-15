@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-10-15T11:59:00.952609+00:00",
+  "generated_at": "2026-10-15T12:42:37.414791+00:00",
   "items": [
+    {
+      "id": "82af6242ad1dac0a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Ligne à très haute tension en Camargue : une étape-clé du projet franchie, la contestation reste vive",
+      "resume": "Le préfet des Bouches-du-Rhône a lancé, mardi 13 octobre, l’enquête préalable à la déclaration d’utilité publique de cette ligne électrique qui suscite une très forte opposition locale, mais que l’Etat semble décidé à construire rapidement.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/15/ligne-a-tres-haute-tension-en-camargue-une-etape-cle-du-projet-franchie-la-contestation-reste-vive_6794444_3244.html",
+      "published_at": "2026-10-15T12:30:08+00:00"
+    },
+    {
+      "id": "d36dfdc91ae051e6",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’acte 2 du plan d’électrification national insiste sur la flexibilité",
+      "resume": "Maud Bregeon a présenté ce matin une nouvelle batteries de mesures pour électrifier l’économie. La liste complète et amplifie une première phase mise en branle en avril. En ces temps de crise des carburants et des prix de l’énergie, la mini",
+      "url": "https://www.greenunivers.com/2026/10/lacte-2-du-plan-delectrification-national-insiste-sur-la-flexibilite-436128/",
+      "published_at": "2026-10-15T12:24:28+00:00"
+    },
+    {
+      "id": "8bd92b1eb8f0a644",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Loi souveraineté agricole : le projet d'arrêté pour les plans d'eau de moins d'un hectare en consultation",
+      "resume": "Le texte qui encadre l'allègement polémique des prescriptions pour les plans d'eau de moins d'un hectare en zone humide est en consultation. Cette disposition est inscrite dans la loi de protection et souveraineté agricole (Upsa), adoptée e",
+      "url": "https://www.actu-environnement.com/ae/news/plans-eau-zones-humides-arrete-upsa-48669.php4#xtor=RSS-6",
+      "published_at": "2026-10-15T12:08:16+00:00"
+    },
+    {
+      "id": "9c6ad7b8a842eb6d",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "L&G, NTR Raise $370 Million for New Clean Power Transition Fund",
+      "resume": "UK financial services group Legal & General (L&G) and sustainable infrastructure investor NTR announced today […]",
+      "url": "https://www.esgtoday.com/lg-ntr-raise-370-million-for-new-clean-power-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=lg-ntr-raise-370-million-for-new-clean-power-transition-fund",
+      "published_at": "2026-10-15T12:05:26+00:00"
+    },
+    {
+      "id": "7144bd95e59bfa85",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "3 activistes arrêtés pour avoir perturbé un convoi de déchets radioactifs en Allemagne",
+      "resume": "Un convoi de déchets radioactifs a été perturbé dans la nuit du 13 au 14 octobre près de Dorsten, dans l'ouest de l'Allemagne. Des activistes sont descendus en rappel d'un pont près d'un échangeur routier, avec une bannière « Arrêtez ces co",
+      "url": "https://reporterre.net/3-activistes-arretes-pour-avoir-perturbe-un-convoi-de-dechets-radioactifs-en-Allemagne",
+      "published_at": "2026-10-15T12:03:15+00:00"
+    },
+    {
+      "id": "43aaf3dc77490b62",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe comprise « entre 500 et 700 millions d’euros »",
+      "resume": "Au début septembre, quelque 1,2 milliard d’euros ont déjà été débloqués pour aider un secteur touché par les canicules à répétition mais aussi l’augmentation du prix des carburants.",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/15/plan-de-relance-agricole-entre-500-et-700-millions-d-euros-annonces-par-sebastien-lecornu_6794441_823448.html",
+      "published_at": "2026-10-15T12:02:53+00:00"
+    },
     {
       "id": "eddcaa4967890945",
       "source": "Novethic",
@@ -95,7 +149,7 @@
       "id": "1f4bc21dc4f42d5c",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« Nous ne sommes que 2 en France » : elles réparent les parapluies cassés",
+      "titre": "Ne jetez plus vos parapluies cassés, ces artisanes les réparent",
       "resume": "Des millions de parapluies sont jetés chaque année en France. Pour y remédier à leur échelle, Claire et Aude, qui travaillaient dans le milieu médical, ont lancé leur entreprise de réparation de ces objets si fragiles. Mordelles (Ille-et-Vi",
       "url": "https://reporterre.net/Nous-ne-sommes-que-2-en-France-elles-reparent-les-parapluies-casses",
       "published_at": "2026-10-15T05:30:00+00:00"
@@ -146,15 +200,6 @@
       "published_at": "2026-10-14T17:06:20+00:00"
     },
     {
-      "id": "f0fd1f33ae37d364",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’industrialisation des océans, source de rivalités géostratégiques entre grandes puissances",
-      "resume": "Dans « Océans. Le nouveau partage du monde », Guillaume Pitron, spécialiste de géopolitique et des matières premières, examine les prémices d’un bouleversement longtemps passé inaperçu et en phase d’accélération, lié à l’exploitation des re",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/14/l-industrialisation-des-oceans-source-de-rivalites-geostrategiques-entre-grandes-puissances_6793782_3232.html",
-      "published_at": "2026-10-14T17:00:09+00:00"
-    },
-    {
       "id": "539b65620e01f78f",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -200,15 +245,6 @@
       "published_at": "2026-10-14T15:36:55+00:00"
     },
     {
-      "id": "bbdca5f5a64f4a4a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Recyclage chimique : l'Ademe pointe les faibles gains environnementaux et la dépendance à l'industrie chimique",
-      "resume": "Les gains environnementaux du recyclage chimique par rapport à la production de résines vierges sont limités, voire inexistants, estime l'Ademe. Quant au développement des projets, il n'est pas envisageable sans une industrie pétrochimique ",
-      "url": "https://www.actu-environnement.com/ae/news/avis-ademe-recyclage-chimique-impact-environnemental-48658.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T15:31:17+00:00"
-    },
-    {
       "id": "5ff65dcb60ec7191",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -236,15 +272,6 @@
       "published_at": "2026-10-14T14:45:17+00:00"
     },
     {
-      "id": "66f468864e93b124",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En France, la pollution de l’air repart à la hausse, après des années de recul",
-      "resume": "Le bilan 2025 de la qualité de l’air révèle une « légère » progression des concentrations en particules fines, dioxyde d’azote et ozone avec six épisodes de pollution d’ampleur nationale.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/14/en-france-la-pollution-de-l-air-repart-a-la-hausse-apres-des-annees-de-recul_6793758_3244.html",
-      "published_at": "2026-10-14T14:43:43+00:00"
-    },
-    {
       "id": "f5838dc8d986a8c8",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -261,15 +288,6 @@
       "resume": "Concentration de CO 2 , fonte des glaces... Alors que plusieurs signaux « vitaux » de la planète atteignent des niveaux record de dégradation, des « bascules sociétales » sont encore possibles, estime une étude parue le 14 octobre. Imaginez",
       "url": "https://reporterre.net/Des-scientifiques-dressent-le-bilan-de-sante-de-la-planete-et-c-est-dramatique",
       "published_at": "2026-10-14T13:05:00+00:00"
-    },
-    {
-      "id": "5bf0d1e2b5c71125",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Budget 2027 : réduire le déficit au détriment du climat est un calcul risqué",
-      "resume": "L'Assemblée nationale se penche sur l'examen du budget 2027 depuis le 13 octobre. Au centre des inquiétudes, l'envolée de la dette publique qui pousse le gouvernement à serrer la vis. Une stratégie qui pourrait faire bondir la dette climati",
-      "url": "https://reporterre.net/Budget-2027-reduire-le-deficit-au-detriment-du-climat-est-un-calcul-risque",
-      "published_at": "2026-10-14T12:58:38+00:00"
     },
     {
       "id": "f38b3640458e3a73",
@@ -297,15 +315,6 @@
       "resume": "Deuxième volet de notre dossier Recrutement & Salaires – Dans un contexte très morose pour le recrutement dans la transition énergétique, les profils tech restent prisés. Lorsque les entreprises prévoient d’élargir leurs équipes informatiqu",
       "url": "https://www.greenunivers.com/2026/10/recrutement-lia-une-competence-cle-a-double-tranchant-2-3-435892/",
       "published_at": "2026-10-14T11:08:56+00:00"
-    },
-    {
-      "id": "1b3f268a708f16a5",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
-      "resume": "German clean energy startup 1KOMMA5° announced that it has raised over €70 million (USD$78 million) […]",
-      "url": "https://www.esgtoday.com/home-energy-cleantech-startup-1komma5-raises-e70-million-at-unicorn-1-35-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=home-energy-cleantech-startup-1komma5-raises-e70-million-at-unicorn-1-35-billion-valuation",
-      "published_at": "2026-10-14T10:41:17+00:00"
     },
     {
       "id": "361786dd398f832f",
@@ -342,15 +351,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
       "published_at": "2026-10-14T07:27:21+00:00"
-    },
-    {
-      "id": "0822e7b70b886a3f",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Solaire : Solstyce accélère son plan anticrise, étend son offre",
-      "resume": "Article modifié suite aux précisions de Solstyce le 14/10/2026 – L’année 2026 confirme la transformation de Solstyce en un « opérateur de transition énergétique ». Historiquement positionné sur les toitures solaires, le groupe présidé par G",
-      "url": "https://www.greenunivers.com/2026/10/solaire-solstyce-accelere-son-plan-anticrise-etend-son-offre-435962/",
-      "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
       "id": "e04b87d3611be2d3",
