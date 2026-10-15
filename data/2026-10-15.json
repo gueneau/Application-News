@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "generated_at": "12:40",
-  "elapsed_seconds": 411,
+  "generated_at": "15:40",
+  "elapsed_seconds": 398,
   "errors": [],
   "stats": {
     "jo_analyses": 0,
@@ -9,20 +9,31 @@
     "depts_restriction": 93
   },
   "pipeline_meta": {
-    "run_at": "2026-10-15T12:40:33",
+    "run_at": "2026-10-15T15:40:46",
     "sources": {
       "JORF": 0,
-      "RSS": 6,
+      "RSS": 10,
       "VigiEau": 93,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 39,
-    "llm_seconds": 59.2
+    "llm_calls": 37,
+    "llm_seconds": 56.5
   },
   "items": [
+    {
+      "id": "d4c88d6c2fa9",
+      "source": "Actu-Environnement",
+      "categorie": "Climat",
+      "titre": "Risques inondation : l'aléa de référence va être modifié afin de tenir compte des changements climatiques",
+      "resume": "Un projet de décret et d'arrêté soumis à consultation publique modifie l'aléa de référence des inondations dans les PPRN pour intégrer le changement climatique, dans le cadre du PNACC-3.",
+      "pourquoi": "Ce changement réglementaire redéfinit les zones à risque d'inondation en y intégrant le climat, impactant directement la résilience des 3 000+ sites clients d'ABC et la continuité de ses prestations de propreté et maintenance. ABC doit anticiper ces nouvelles cartes de aléas dans ses plans de continuité d'activité (PCA) dès l'adoption des décrets pour sécuriser ses contrats et proposer des services d'adaptation renforcés à ses clients.",
+      "criticite": 2,
+      "url": "https://www.actu-environnement.com/ae/news/pprn-alea-reference-inondation-changement-climatique-48670.php4#xtor=RSS-6",
+      "date": "2026-10-15"
+    },
     {
       "id": "cb392a0dad6e",
       "source": "Actuel HSE",
@@ -46,6 +57,17 @@
       "date": "2026-10-15"
     },
     {
+      "id": "056e35435ed4",
+      "source": "Novethic",
+      "categorie": "Émissions",
+      "titre": "Le rapport de durabilité de la France ne passerait pas l'audit",
+      "resume": "Le rapport de la Cour des comptes sur la transition écologique dresse un bilan critique des objectifs, des trajectoires et des financements publics de la France, analysé à travers le prisme des exigences du reporting de durabilité.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/le-rapport-de-durabilite-de-la-france-ne-passerait-pas-laudit",
+      "date": "2026-10-15"
+    },
+    {
       "id": "0df5b0dac0fa",
       "source": "Actu-Environnement",
       "categorie": "Déchets",
@@ -57,14 +79,25 @@
       "date": "2026-10-14"
     },
     {
-      "id": "89653e6614ee",
+      "id": "aff40cbc8872",
       "source": "Actu-Environnement",
-      "categorie": "Déchets",
-      "titre": "Recyclage chimique : l'Ademe pointe les faibles gains environnementaux et la dépendance à l'industrie chimique",
-      "resume": "L'Ademe pointe les gains environnementaux limités, voire inexistants, du recyclage chimique des plastiques par rapport aux résines vierges, ainsi que sa forte dépendance à l'industrie pétrochimique.",
+      "categorie": "Environnement",
+      "titre": "Afnor Spec One Health : un nouvel outil pour passer du concept à l'action",
+      "resume": "Publication par l'Afnor et l'Anses du référentiel opérationnel Afnor Spec One Health, fondé sur les principes des systèmes de management ISO 14001, pour aider les organisations à intégrer les enjeux de santé globale.",
       "pourquoi": "",
       "criticite": 1,
-      "url": "https://www.actu-environnement.com/ae/news/avis-ademe-recyclage-chimique-impact-environnemental-48658.php4#xtor=RSS-6",
+      "url": "https://www.actu-environnement.com/ae/news/afnor-spec-one-health-referentiel-organisations-48663.php4#xtor=RSS-6",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "7d9dc2430e18",
+      "source": "Actu-Environnement",
+      "categorie": "Environnement",
+      "titre": "Gymnases et salles de sport : les polluants de l'air intérieur passés au crible",
+      "resume": "Deux études de l'Ademe (Qai Sport et Pair'So) évaluant la qualité de l'air intérieur dans les gymnases et salles de sport montrent des concentrations de polluants globalement inférieures aux seuils réglementaires.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/qualite-air-salles-sport-ademe-etudes-gymnases-48664.php4#xtor=RSS-6",
       "date": "2026-10-14"
     },
     {
@@ -76,6 +109,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.hautconseilclimat.fr/actualites/points-de-vigilance-pour-la-revision-post-2030-du-marche-carbone-europeen/",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "89653e6614ee",
+      "source": "Actu-Environnement",
+      "categorie": "Déchets",
+      "titre": "Recyclage chimique : l'Ademe pointe les faibles gains environnementaux et la dépendance à l'industrie chimique",
+      "resume": "L'Ademe pointe les gains environnementaux limités, voire inexistants, du recyclage chimique des plastiques par rapport aux résines vierges, ainsi que sa forte dépendance à l'industrie pétrochimique.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/avis-ademe-recyclage-chimique-impact-environnemental-48658.php4#xtor=RSS-6",
       "date": "2026-10-14"
     },
     {
@@ -217,11 +261,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "28",
-      "dept_nom": "Eure-et-Loir",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "95",
       "dept_nom": "Val-d'Oise",
       "niveau": "crise"
@@ -234,6 +273,11 @@
     {
       "dept_code": "55",
       "dept_nom": "Meuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
       "niveau": "crise"
     },
     {
@@ -332,13 +376,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "01",
-      "dept_nom": "Ain",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "01",
+      "dept_nom": "Ain",
       "niveau": "crise"
     },
     {
@@ -382,13 +426,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
@@ -422,13 +466,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "90",
-      "dept_nom": "Territoire de Belfort",
+      "dept_code": "68",
+      "dept_nom": "Haut-Rhin",
       "niveau": "crise"
     },
     {
-      "dept_code": "68",
-      "dept_nom": "Haut-Rhin",
+      "dept_code": "90",
+      "dept_nom": "Territoire de Belfort",
       "niveau": "crise"
     },
     {
