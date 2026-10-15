@@ -1,40 +1,19 @@
 name: Veille Environnementale ABC
 
 on:
-  schedule:
-    # GitHub cron is UTC; the guard below keeps only 08:00 and 14:00 Paris time.
-    - cron: '0 6,7,12,13 * * *'
-
-  workflow_dispatch:         # déclenchement manuel depuis l'onglet Actions
+  # No `schedule:` trigger here on purpose — GitHub Actions' own cron was
+  # observed dropping the large majority of its ticks on this repo (see
+  # commit history / README). The reliable 8h/14h Paris trigger now lives
+  # in Supabase (pg_cron + pg_net calling workflow_dispatch below), which
+  # also handles CET/CEST automatically via Postgres's timezone database.
+  # See supabase/migrations/007_veille_cron_trigger.sql.
+  workflow_dispatch:         # déclenchement manuel depuis l'onglet Actions, et cible du cron Supabase
 
 permissions:
   contents: write            # nécessaire pour le push gh-pages
 
 jobs:
-  schedule-check:
-    runs-on: ubuntu-latest
-    outputs:
-      should_run: ${{ steps.check.outputs.should_run }}
-    steps:
-      - name: Check Paris schedule
-        id: check
-        shell: bash
-        run: |
-          if [[ "$GITHUB_EVENT_NAME" != "schedule" ]]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          paris_hour=$(TZ=Europe/Paris date +%H)
-          if [[ "$paris_hour" == "08" || "$paris_hour" == "14" ]]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "should_run=false" >> "$GITHUB_OUTPUT"
-          fi
-
   pipeline:
-    needs: schedule-check
-    if: needs.schedule-check.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
