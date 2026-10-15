@@ -641,7 +641,7 @@ def groq_analyse_rss(titre: str, contenu: str) -> dict:
         "confirmer un élément précis, reste prudent dans le résumé et le score plutôt que de le présenter "
         "comme un fait établi.\n\n"
         f"TITRE: {titre}\n"
-        f"CONTENU: {contenu[:600]}\n\n"
+        f"CONTENU: {contenu[:1500]}\n\n"
         'JSON: {"pertinent": boolean, "resume": "résumé conforme aux règles ci-dessus (vide si non pertinent)", '
         '"pourquoi": "", "score": 1, "categorie": "..."}'
     )

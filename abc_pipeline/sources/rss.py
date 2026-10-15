@@ -161,10 +161,11 @@ def _review_rss_candidates(
             log.warning(f"RSS validation finale {source_name} ({titre[:60]}) : {e}")
             continue
         if analysis.get('pertinent') is not True:
-            log.debug(f"Non pertinent après lecture complète, exclu : {titre[:60]}")
+            log.info(f"RSS rejeté après lecture complète ({source_name}) : {titre[:80]}")
             continue
 
         score = int(analysis.get('score') or 1)
+        log.info(f"RSS retenu score={score} ({source_name}) : {titre[:80]}")
         items.append({
             'id': make_id(source_name, titre),
             'source': source_name,
