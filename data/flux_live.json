@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-15T15:33:08.945187+00:00",
+  "generated_at": "2026-10-15T17:15:22.475798+00:00",
   "items": [
+    {
+      "id": "ff891454bedc0827",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le ministre délégué à la transition écologique annonce une réforme de l’évaluation environnementale",
+      "resume": "Mathieu Lefèvre a présenté, jeudi, une réorganisation des autorités environnementales chargées d’émettre un avis sur l’impact sur l’environnement de grands projets, avec la création d’une instance « unique » et « une simplification des proc",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/15/le-ministre-delegue-a-la-transition-ecologique-annonce-une-reforme-de-l-evaluation-environnementale_6794620_3244.html",
+      "published_at": "2026-10-15T16:45:01+00:00"
+    },
+    {
+      "id": "8344eeb33775bcf3",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’Arabie saoudite, sous la pression des attaques des houthistes, tente de protéger ses exportations de pétrole",
+      "resume": "La résilience du principal producteur d’or noir du Golfe est mise à l’épreuve par les frappes des houthistes du Yémen, alliés de l’Iran, contre ses infrastructures civiles et énergétiques.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/15/petrole-sous-pression-des-attaques-l-arabie-saoudite-tente-de-proteger-ses-exportations_6794616_3234.html",
+      "published_at": "2026-10-15T16:30:10+00:00"
+    },
+    {
+      "id": "79b653deca4d1f7c",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique - Les Echos",
+      "resume": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTNCc2hFV1hralZsT0RNYTBDVkNmNlNYbFhCVVA4c0hxOGl1UUZZT0FiS2QtSVdzMGVKRWE2QldVejRtU1JKcVRxWUZzb2dySkhSRjd0TDJpMmV4ajFBRU5vRXp6NkRET2l5UVdkZ05YaXdMMG1jZTR6ODUxT0JzbGFiSW9LU0VQOXFkeEdxQ1c2WHg3T0txSEs3YmxHWkxHSU9RMlRfT2dLc2RfWkFaM00yY052eHJvTzZyblY1MFZuTlJLR0k5VzcwNjFWb3NOTGg1SkZTTUpoZUlhU05Id0ZMalYtMFRhRzBCTU1nTkJRaVdQYXRPZWNlbDAzLVpYMzkwckJLM1FEbVVDdjdCOFlIUWUzSE9QaUE?oc=5",
+      "published_at": "2026-10-15T16:02:49+00:00"
+    },
+    {
+      "id": "3646db3289aa5046",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Déchets radioactifs : l'ASNR veut savoir rapidement quels déchets pourront effectivement rejoindre Cigeo",
+      "resume": "Selon l'ASNR, certains déchets MA-VL et HA-VL ne sont pas conditionnés ou le sont sans garantie de pouvoir être pris en charge dans de bonnes conditions par Cigéo. Quant aux déchets TFA, il faut anticiper la saturation du Cires à l'horizon ",
+      "url": "https://www.actu-environnement.com/ae/news/projet-pngmdr-avis-asnr-gestion-mavl-havl-tfa-cigeo-cires-48673.php4#xtor=RSS-6",
+      "published_at": "2026-10-15T15:59:50+00:00"
+    },
+    {
+      "id": "2944ffcf099118f2",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Seulement 25 M€ levés par les cleantech en septembre",
+      "resume": "Le mois de septembre aura été une période de vaches maigres pour les cleantech françaises. Le baromètre mensuel L’article Seulement 25 M€ levés par les cleantech en septembre est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/10/seulement-25-me-leves-par-les-cleantech-en-septembre-436067/",
+      "published_at": "2026-10-15T15:44:48+00:00"
+    },
+    {
+      "id": "65611bcca3b8eee5",
+      "source": "I4CE",
+      "categorie": "Climat",
+      "titre": "Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investissement ?",
+      "resume": "Comment prioriser les financements publics ? Et comment financer l’action climatique locale sans mobiliser plus de financements publics ? L’article Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investis",
+      "url": "https://www.i4ce.org/collectivites-urgence-climatique-nouvelle-approche-mur-investissement/",
+      "published_at": "2026-10-15T15:43:50+00:00"
+    },
+    {
+      "id": "0fbb38fbc404c947",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le Gouvernement dévoile de nouvelles mesures pour électrifier la France",
+      "resume": "La deuxième phase du plan d'électrification, présentée ce 15 octobre, inclut 17 nouvelles mesures. Avec un soutien accéléré aux pompes à chaleur et aux véhicules électriques, et un accompagnement renforcé pour les 109 territoires d'électrif",
+      "url": "https://www.actu-environnement.com/ae/news/deuxieme-phase-plan-electrification-pac-vehicules-territoires-ministere-energie-48672.php4#xtor=RSS-6",
+      "published_at": "2026-10-15T15:42:22+00:00"
+    },
+    {
+      "id": "71d87a95dd69dad9",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "EDF, NW, Octopus, RTE… : les nouveautés business du plan d’électrification",
+      "resume": "La suite du plan d’électrification national présentée aujourd’hui par la ministre de l’Energie prévoit un train de mesures sur la flexibilité. Maud Bregeon a fait parapher un « pacte de flexibilité » (pages 16-18 du document ci-dessous) à h",
+      "url": "https://www.greenunivers.com/2026/10/edf-nw-octopus-rte-les-nouveautes-business-du-plan-delectrification-436193/",
+      "published_at": "2026-10-15T15:34:33+00:00"
+    },
     {
       "id": "3644c8bb823636e0",
       "source": "Le Monde Planète",
@@ -150,7 +222,7 @@
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "L’acte 2 du plan d’électrification national insiste sur la flexibilité",
-      "resume": "Maud Bregeon a présenté ce matin une nouvelle batteries de mesures pour électrifier l’économie. La liste complète et amplifie la première phase mise en branle en avril. En ces temps de crise des carburants et des prix du gaz et de l’électri",
+      "resume": "Maud Bregeon a présenté ce matin une nouvelle batterie de mesures pour électrifier l’économie. La liste complète et amplifie le premier train mis en branle en avril. En ces temps de crise des carburants et des prix du gaz et de l’électricit",
       "url": "https://www.greenunivers.com/2026/10/lacte-2-du-plan-delectrification-national-insiste-sur-la-flexibilite-436128/",
       "published_at": "2026-10-15T12:24:28+00:00"
     },
@@ -200,15 +272,6 @@
       "published_at": "2026-10-15T10:49:45+00:00"
     },
     {
-      "id": "70755c6edbbc23fd",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Biodiversité : la France présente un plan de restauration de la nature sans ambition et sous-financé",
-      "resume": "Les Etats membres de l’Union européenne doivent traduire au niveau national les intentions de la loi européenne sur la restauration de la nature. La France s’est soumise à l’exercice, mais le résultat fait l’objet de multiples critiques.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/15/biodiversite-la-france-presente-un-plan-de-restauration-de-la-nature-sans-ambition-et-sous-finance_6794433_3244.html",
-      "published_at": "2026-10-15T10:30:12+00:00"
-    },
-    {
       "id": "5087de495c44663b",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -245,15 +308,6 @@
       "published_at": "2026-10-15T08:05:53+00:00"
     },
     {
-      "id": "3ef30a3c84ee9f88",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Au Mexique, la tempête Rachel cause au moins huit morts",
-      "resume": "Rachel a également causé d’importantes inondations en Californie, notamment à Long Beach et Newport Beach, sans faire de victime. Le pays connaît une saison des ouragans de mai à novembre, renforcée cette année par le phénomène El Niño.",
-      "url": "https://www.lemonde.fr/international/article/2026/10/15/au-mexique-la-tempete-rachel-cause-au-moins-huit-morts_6794216_3210.html",
-      "published_at": "2026-10-15T06:26:46+00:00"
-    },
-    {
       "id": "83a451bca54e4369",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -281,15 +335,6 @@
       "published_at": "2026-10-14T17:08:03+00:00"
     },
     {
-      "id": "539b65620e01f78f",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Petit tertiaire : Voltalis met la flexibilité au service des projets de GTB Siemens",
-      "resume": "Accélérer l'adoption des dispositifs de gestion technique du bâtiment (GTB) dans le petit et moyen tertiaire, telle est l'ambition de l'offre présentée par Siemens et Voltalis sur le salon IBS. La clé ? Financer une partie du coût par la fl",
-      "url": "https://www.actu-environnement.com/ae/news/une-solution-de-flexibilite-electrique-voltalis-pour-les-gtb-siemens-48667.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T16:39:08+00:00"
-    },
-    {
       "id": "30e8609b8a9997fc",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -297,15 +342,6 @@
       "resume": "Voltalis veut exploiter le gisement de flexibilité dans les bâtiments tertiaires de petite et moyenne taille, en collaboration avec Siemens. Le spécialiste de l’effacement propose L’article Flexibilité : Voltalis et Siemens s’attaquent au s",
       "url": "https://www.greenunivers.com/2026/10/flexibilite-voltalis-et-siemens-sattaquent-au-secteur-tertiaire-436102/",
       "published_at": "2026-10-14T16:00:00+00:00"
-    },
-    {
-      "id": "57b975b38ea59cf0",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Réemploi : la future stratégie nationale plus incertaine que jamais",
-      "resume": "Les Assises du réemploi devaient lever le flou qui entoure la future stratégie nationale de réemploi. Mais le ministre a donné rendez-vous début 2027, sans clarifier les attentes. En outre, les premiers échanges sur la SN3R ont été reportés",
-      "url": "https://www.actu-environnement.com/ae/news/future-strategie-nationale-reemploi-incertaines-report-sn3r-48665.php4#xtor=RSS-6",
-      "published_at": "2026-10-14T15:44:13+00:00"
     },
     {
       "id": "7c036e199901df70",
@@ -317,15 +353,6 @@
       "published_at": "2026-10-14T14:45:17+00:00"
     },
     {
-      "id": "f5838dc8d986a8c8",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "EDF cède sa filiale hydrogène Hynamics à Hy24",
-      "resume": "Article modifié le 14/10/2026 avec des précisions d’EDF – EDF a trouvé un accord avec le fonds Hy24 pour lui céder Hynamics, sa filiale spécialisée dans le développement de projets d’électrolyse. Cet accord a été signé le 12 octobre. L’élec",
-      "url": "https://www.greenunivers.com/2026/10/edf-cede-sa-filiale-hydrogene-hynamics-a-hy24-436050/",
-      "published_at": "2026-10-14T14:26:25+00:00"
-    },
-    {
       "id": "f38b3640458e3a73",
       "source": "Novethic",
       "categorie": "Presse",
@@ -333,15 +360,6 @@
       "resume": "Le groupe Malakoff Humanis fait l'objet d'une enquête du Parquet national financier pour des soupçons de corruption. @ Magali Cohen AFP L’étau se resserre autour de Thomas Saunier, le directeur général de Malakoff Humanis. Selon une informa",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/dirigeant-malakoff-humanis-viseur-partenaires-sociaux",
       "published_at": "2026-10-14T12:43:28+00:00"
-    },
-    {
-      "id": "08d77b99714a0058",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Recrutement : l’IA, une compétence clé à double tranchant [2/3]",
-      "resume": "Deuxième volet de notre dossier Recrutement & Salaires – Dans un contexte très morose pour le recrutement dans la transition énergétique, les profils tech restent prisés. Lorsque les entreprises prévoient d’élargir leurs équipes informatiqu",
-      "url": "https://www.greenunivers.com/2026/10/recrutement-lia-une-competence-cle-a-double-tranchant-2-3-435892/",
-      "published_at": "2026-10-14T11:08:56+00:00"
     },
     {
       "id": "edfa135d654c95e6",
@@ -414,15 +432,6 @@
       "resume": "Les trois candidats à la présidentielle ont répondu aux questions de nos journalistes sur l’Europe, l’intelligence artificielle ou l’énergie. Thèmes sur lesquels les clivages ont été nombreux.",
       "url": "https://www.politico.eu/article/philippe-glucksmann-retailleau-les-temps-forts-du-sommet-sur-la-competitivite-economique-de-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T16:00:25+00:00"
-    },
-    {
-      "id": "6cfa94ebb70251fc",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Apporter ma pierre à cet édifice » : l'ancien patron d'Alstom prend la tête du plus grand projet de parc solaire en Europe - Les Echos",
-      "resume": "Apporter ma pierre à cet édifice » : l'ancien patron d'Alstom prend la tête du plus grand projet de parc solaire en Europe Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOODhFRzN5Tk5qM0dpODV3MmRQWTdzcTYzYmVGQ1JqdTNrZDNZeE94SDMySDhWX2dRN18tWmI3cm13SXJWUmVyVWRjSkRQZFkxOGo0T0pvSnlpSXVMeTB6cGNBV3lmenF1a1RUNmtGQWNlVEtrbEtUZ25CZjNDb0FEN0phcHlfd2Q2UnRob2FsN1JWYzRmanlYTnNWR2xOUHhwYnJWUFkxU0ZjVElXTk5Ra29zM2RmemhKZWItc214ckkxRDJtOWxnVkVnNTN1RjZ0SlpQRlJxSEM3R2JHbV92NHZmTndZakt5eXlLdERUMXBZeVJqcVVlRDdRR3JDdEZXOEMtT0dkakdUWWlQQlV3NEtBOHI1dHFf?oc=5",
-      "published_at": "2026-10-13T14:59:00+00:00"
     },
     {
       "id": "50398b4a17220baf",
@@ -639,15 +648,6 @@
       "resume": "Pour des économies durables, il faut aligner les flux financiers sur un développement sobre en carbone, résilient et durable. L’article Vers des économies résilientes : du progrès à la transformation est apparu en premier sur I4CE .",
       "url": "https://www.i4ce.org/economies-resilientes-progres-transformation-climat/",
       "published_at": "2026-09-25T08:45:20+00:00"
-    },
-    {
-      "id": "8c76b6f5c08bab63",
-      "source": "I4CE",
-      "categorie": "Climat",
-      "titre": "Seconde Rencontre interrégionale des ministères des Finances sur le climat",
-      "resume": "Des représentants des ministères des Finances d’Afrique, d’Amérique latine et des Caraïbes se sont réunis à Salvador de Bahia, au Brésil, à l’occasion de la 2e Rencontre interrégionale des ministères des Finances sur climat. L’article Secon",
-      "url": "https://www.i4ce.org/seconde-rencontre-interregionale-ministeres-finances-climat/",
-      "published_at": "2026-09-24T09:09:42+00:00"
     },
     {
       "id": "807bedcb7a719896",
