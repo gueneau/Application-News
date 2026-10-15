@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-15T06:02:58.692717+00:00",
+  "generated_at": "2026-10-15T06:55:27.690573+00:00",
   "items": [
+    {
+      "id": "3ef30a3c84ee9f88",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Au Mexique, la tempête Rachel cause au moins huit morts",
+      "resume": "Le pays connaît une saison des ouragans de mai à novembre, renforcée cette année par le phénomène El Niño.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/15/au-mexique-la-tempete-rachel-cause-au-moins-huit-morts_6794216_3210.html",
+      "published_at": "2026-10-15T06:26:46+00:00"
+    },
     {
       "id": "1f4bc21dc4f42d5c",
       "source": "Reporterre",
@@ -180,15 +189,6 @@
       "resume": "Article modifié le 14/10/2026 avec des précisions d’EDF – EDF a trouvé un accord avec le fonds Hy24 pour lui céder Hynamics, sa filiale spécialisée dans le développement de projets d’électrolyse. Cet accord a été signé le 12 octobre. L’élec",
       "url": "https://www.greenunivers.com/2026/10/edf-cede-sa-filiale-hydrogene-hynamics-a-hy24-436050/",
       "published_at": "2026-10-14T14:26:25+00:00"
-    },
-    {
-      "id": "2beb589147642798",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les pompiers professionnels reconduisent leur grève jusqu’au 4 décembre",
-      "resume": "L’intersyndicale estime que le gouvernement n’a toujours pas répondu à leurs revendications, notamment à celle portant sur l’augmentation des moyens humains et financiers.",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/14/les-pompiers-professionnels-reconduisent-leur-greve-jusqu-au-4-decembre_6793751_3224.html",
-      "published_at": "2026-10-14T13:58:33+00:00"
     },
     {
       "id": "78fad289336b698e",
@@ -413,7 +413,7 @@
       "titre": "Apporter ma pierre à cet édifice » : l'ancien patron d'Alstom prend la tête du plus grand projet de parc solaire en Europe - Les Echos",
       "resume": "Apporter ma pierre à cet édifice » : l'ancien patron d'Alstom prend la tête du plus grand projet de parc solaire en Europe Les Echos",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOODhFRzN5Tk5qM0dpODV3MmRQWTdzcTYzYmVGQ1JqdTNrZDNZeE94SDMySDhWX2dRN18tWmI3cm13SXJWUmVyVWRjSkRQZFkxOGo0T0pvSnlpSXVMeTB6cGNBV3lmenF1a1RUNmtGQWNlVEtrbEtUZ25CZjNDb0FEN0phcHlfd2Q2UnRob2FsN1JWYzRmanlYTnNWR2xOUHhwYnJWUFkxU0ZjVElXTk5Ra29zM2RmemhKZWItc214ckkxRDJtOWxnVkVnNTN1RjZ0SlpQRlJxSEM3R2JHbV92NHZmTndZakt5eXlLdERUMXBZeVJqcVVlRDdRR3JDdEZXOEMtT0dkakdUWWlQQlV3NEtBOHI1dHFf?oc=5",
-      "published_at": "2026-10-13T14:57:36+00:00"
+      "published_at": "2026-10-13T14:59:00+00:00"
     },
     {
       "id": "50398b4a17220baf",
