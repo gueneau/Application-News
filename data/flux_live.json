@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-16T13:40:42.119421+00:00",
+  "generated_at": "2026-10-16T14:24:40.301350+00:00",
   "items": [
+    {
+      "id": "8e1557efd3ad040a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "A412 : le juge des référés rejette le recours à l'encontre de l'autorisation environnementale",
+      "resume": "Par une ordonnance du 15 octobre 2026, le juge des référés de la cour administrative d'appel de Lyon a rejeté la requête de plusieurs associations et riverains qui demandaient la suspension de l'arrêté du préfet de la Haute-Savoie portant a",
+      "url": "https://www.actu-environnement.com/ae/news/a412-refere-suspension-autorisation-environnementale-48677.php4#xtor=RSS-6",
+      "published_at": "2026-10-16T14:20:33+00:00"
+    },
+    {
+      "id": "512cdcdc9f4e4dfe",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "L'aéroport Lyon-Saint-Exupéry va grossir, avec le prétexte des JO d'hiver",
+      "resume": "Les aéroports multiplient leurs efforts pour stimuler la croissance du trafic aérien, malgré l'urgence de diminuer les vols. Le 16 octobre, la première pierre a été posée par Philippe Tabarot, ministre des Transports, pour une extension du ",
+      "url": "https://reporterre.net/L-aeroport-Lyon-Saint-Exupery-va-grossir-avec-le-pretexte-des-JO-d-hiver",
+      "published_at": "2026-10-16T14:05:59+00:00"
+    },
+    {
+      "id": "cfbbe1e2b95b9e28",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Des aides aux énergies renouvelables... redirigées vers le carburant",
+      "resume": "Financer les aides aux carburants en ponctionnant dans les énergies renouvelables. Le gouvernement a pris un décret d'annulation portant sur 406 millions d'euros d'aides destinées à soutenir la production solaire et éolienne, pour les réall",
+      "url": "https://reporterre.net/Des-aides-aux-energies-renouvelables-redirigees-vers-le-carburant",
+      "published_at": "2026-10-16T14:04:48+00:00"
+    },
+    {
+      "id": "50b289a29041bff8",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Delphine Batho : « Je ne multiplie pas les candidatures à gauche, je suis la seule candidate de l'écologie »",
+      "resume": "Delphine Batho, qui se considère comme la « seule candidate de l'écologie », se lance seule dans la course à la présidentielle, sans rallier de parti. Estimant que « le discours du barrage ne suffit plus », elle entend mettre l'écologie de ",
+      "url": "https://reporterre.net/Delphine-Batho-Je-ne-multiplie-pas-les-candidatures-a-gauche-je-suis-la-seule-candidate-de-l-ecologie",
+      "published_at": "2026-10-16T14:00:00+00:00"
+    },
+    {
+      "id": "e05ae074766c7373",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "LanzaTech Boosts Stake in SAF Business LanzaJet in New Financing Round",
+      "resume": "Sustainable aviation fuel (SAF) technology and production company LanzaJet announced that it has secured at […]",
+      "url": "https://www.esgtoday.com/lanzajet-secures-20-million-financing-to-scale-sustainable-aviation-fuel-production/?utm_source=rss&utm_medium=rss&utm_campaign=lanzajet-secures-20-million-financing-to-scale-sustainable-aviation-fuel-production",
+      "published_at": "2026-10-16T13:47:59+00:00"
+    },
     {
       "id": "32e01253df31c15a",
       "source": "Reporterre",
@@ -83,15 +128,6 @@
       "published_at": "2026-10-16T10:14:54+00:00"
     },
     {
-      "id": "4b4a88e44a1e2b6d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Mégaferme à saumons : une nouvelle manifestation prévue en Gironde",
-      "resume": "« Pure Salmon au Verdon, c'est à jamais non ! » Quelques semaines après avoir déposé deux recours devant la cour administrative d'appel de Bordeaux contre le projet d'usine à saumons Pure Salmon, les opposants appellent de nouveau à manifes",
-      "url": "https://reporterre.net/Megaferme-a-saumons-une-nouvelle-manifestation-prevue-en-Gironde",
-      "published_at": "2026-10-16T10:00:00+00:00"
-    },
-    {
       "id": "ad4c145180a8d9db",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -137,15 +173,6 @@
       "published_at": "2026-10-16T09:03:33+00:00"
     },
     {
-      "id": "89fa5b2fdfd1234a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "A412 : la justice refuse de suspendre le chantier, les opposants restent mobilisés",
-      "resume": "Un recours contre les travaux de l'A412 a été rejeté par la justice le 15 octobre. Les opposants au projet, qui espéraient suspendre le chantier, affirment poursuivre leur lutte et pourraient se pourvoir devant le Conseil d'État. Lyon (Rhôn",
-      "url": "https://reporterre.net/A412-la-justice-refuse-de-suspendre-le-chantier-les-opposants-restent-mobilises",
-      "published_at": "2026-10-16T09:00:00+00:00"
-    },
-    {
       "id": "963b2542dcfca748",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -189,15 +216,6 @@
       "resume": "Canicule, inflation et crise du textile… Damartex fait face à une conjoncture toujours plus difficile Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbVM5dzFnZW9vY2dHNXg0eHlOUUlmODlfMjhCaW84eXZ3WVhUX2h3Njl2Vkxyek9Zc2NONG9wNEdOd0F6WU9qU0VQQm9taFdwSDF5RjhVSXoyNWpQMW14OVNqc1YxUTgybFJUbFphNXdGNXNLUF9Rb3JUOEZvdzc1VTFINFhKOFNqN3JqR1FLM1ZJQzdjV1Ezay16ai03N3pzdU5GZW9Ra3pJei1RN1oxQUlQOG9lV19SajJvbExKWXlTUWx6WVJSalY3dmcyVXNfTkcxM29zSUlTZk9mUGltTnM3UzJ6bFVRNEEzT3ZaQTFOMFN6TWxDY1FKQlBGUmp0UHc?oc=5",
       "published_at": "2026-10-16T06:54:27+00:00"
-    },
-    {
-      "id": "7e6ec23ca1a706f3",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Grotte de Lascaux, château de Carcassonne... Les sites patrimoniaux menacés par le changement climatique",
-      "resume": "Le changement climatique touche le monde entier, et n'épargne pas les plus beaux sites français. Le Réseau Action Climat ( RAC ), qui regroupe une trentaine d'associations nationales et locales, a publié le 15 octobre un rapport analysant l",
-      "url": "https://reporterre.net/Grotte-de-Lascaux-chateau-de-Carcassonne-Les-sites-patrimoniaux-menaces-par-le-changement-climatique",
-      "published_at": "2026-10-16T06:35:07+00:00"
     },
     {
       "id": "99e86161ff4ca488",
@@ -299,15 +317,6 @@
       "published_at": "2026-10-15T15:43:50+00:00"
     },
     {
-      "id": "0fbb38fbc404c947",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le Gouvernement dévoile de nouvelles mesures pour électrifier la France",
-      "resume": "La deuxième phase du plan d'électrification, présentée ce 15 octobre, inclut 17 nouvelles mesures. Avec un soutien accéléré aux pompes à chaleur et aux véhicules électriques, et un accompagnement renforcé pour les 109 territoires d'électrif",
-      "url": "https://www.actu-environnement.com/ae/news/deuxieme-phase-plan-electrification-pac-vehicules-territoires-ministere-energie-48672.php4#xtor=RSS-6",
-      "published_at": "2026-10-15T15:42:22+00:00"
-    },
-    {
       "id": "71d87a95dd69dad9",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -369,15 +378,6 @@
       "resume": "Le méthane atteint des niveaux 2,6 fois plus élevés qu’à l’époque préindustrielle. @iStock C’était attendu, c’est désormais officiel. La Commission européenne a proposé, mercredi 14 octobre, de reporter d’un an l’entrée en vigueur du règlem",
       "url": "https://www.novethic.fr/environnement/climat/reglement-methane-la-commission-europeenne-cede-aux-pressions-et-propose-un-report-dun-an",
       "published_at": "2026-10-15T11:45:55+00:00"
-    },
-    {
-      "id": "2a41cfcf33ba91f9",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Hy24 Acquires Clean Hydrogen Platform Hynamics from EDF",
-      "resume": "French clean hydrogen-focused investment firm Hy24 announced that it has signed an agreement to acquire […]",
-      "url": "https://www.esgtoday.com/hy24-acquires-clean-hydrogen-platform-hynamics-from-edf/?utm_source=rss&utm_medium=rss&utm_campaign=hy24-acquires-clean-hydrogen-platform-hynamics-from-edf",
-      "published_at": "2026-10-15T10:49:45+00:00"
     },
     {
       "id": "83a451bca54e4369",
