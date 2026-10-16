@@ -1,21 +1,66 @@
 {
-  "generated_at": "2026-10-16T03:59:03.322128+00:00",
+  "generated_at": "2026-10-16T05:50:05.812747+00:00",
   "items": [
+    {
+      "id": "e460a1955ecb2948",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Pour freiner la LGV Bordeaux-Toulouse, élus et habitants jouent à cache-cache avec les abatteuses",
+      "resume": "Grâce à l'action pacifique d'habitants et d'élus, le déboisement prévu pour le chantier de la LGV Bordeaux-Toulouse est freiné à Ayguemorte-les-Graves. La commune tente également d'activer des leviers réglementaires. Ayguemorte-les-Graves (",
+      "url": "https://reporterre.net/Pour-freiner-la-LGV-Bordeaux-Toulouse-elus-et-habitants-jouent-a-cache-cache-avec-les",
+      "published_at": "2026-10-16T05:30:00+00:00"
+    },
+    {
+      "id": "80277ff1879a0bc7",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Mobilisation du 17 octobre : « La droite et l'extrême droite sont en panique »",
+      "resume": "Plus de 750 mobilisations sont prévues en France le 17 octobre, nourries par le mouvement des lycéens et des Gilets jaunes. « On assiste à une superposition des crises et des contestations », analyse le sociologue Manuel Cervera-Marzal. « M",
+      "url": "https://reporterre.net/Mobilisation-du-17-octobre-La-droite-et-l-extreme-droite-sont-en-panique",
+      "published_at": "2026-10-16T05:30:00+00:00"
+    },
+    {
+      "id": "40827656c730f5ef",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Derrière les atteintes aux droits humains, la corruption, angle mort des entreprises",
+      "resume": "Derrière l'effondrement du Rana Plaza, la corruption plane. MUNIR-UZ-ZAMAN-AFP Le 24 avril 2013, au Bangladesh, le Rana Plaza, un immeuble de plusieurs étages abritant des ateliers de confection travaillant pour de nombreuses marques textil",
+      "url": "https://www.novethic.fr/economie-et-social/droits-humains/derriere-les-atteintes-aux-droits-humains-la-corruption-angle-mort-des-entreprises",
+      "published_at": "2026-10-16T04:45:55+00:00"
+    },
+    {
+      "id": "11f63b96c3e0d019",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Faut-il manger moins de fromage pour le climat ?",
+      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/16/faut-il-manger-moins-de-fromage-pour-le-climat_6795186_3244.html",
+      "published_at": "2026-10-16T04:30:06+00:00"
+    },
+    {
+      "id": "2a82384a20a069fa",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le Groenland vise l’interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
+      "resume": "Ce territoire autonome danois redoute les conséquences que pourrait avoir l’exploitation minière en haute mer sur l’environnement. En vertu de la proposition adoptée jeudi par le Parlement, le gouvernement groenlandais peut prolonger le mor",
+      "url": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html",
+      "published_at": "2026-10-16T04:15:12+00:00"
+    },
     {
       "id": "a73122ca7d13e609",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Carburants : les Vingt-Sept peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
+      "titre": "Les pays membres de l’UE peinent à s’entendre pour faire baisser les prix de l’énergie",
       "resume": "Les chefs d’Etat et de gouvernement, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre et manquent d’outils, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’a",
       "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
-      "published_at": "2026-10-16T03:30:27+00:00"
+      "published_at": "2026-10-16T03:30:15+00:00"
     },
     {
       "id": "05d88b9dabb5e585",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Au Népal, la vallée meurtrie par le « tsunami des montagnes » cherche le chemin du retour à la vie",
-      "resume": "Le 26 août, un glissement de terrain emportant un glacier provoquait une crue dévastatrice et meurtrière dans la vallée de la Trishuli. Alors que plus de 5 000 personnes n’ont pas été retrouvées, beaucoup de ceux qui restent « souffrent de ",
+      "titre": "Au Népal, la vallée de la Trishuli, dévastée par le « tsunami des montagnes », cherche le chemin du retour à la vie",
+      "resume": "Le 26 août, un glissement de terrain emportant un glacier provoquait une crue dévastatrice et meurtrière. Plus de 5 000 personnes n’ont pas été retrouvées, et beaucoup de ceux qui restent « souffrent de la culpabilité du survivant ».",
       "url": "https://www.lemonde.fr/planete/article/2026/10/16/au-nepal-la-vallee-meurtrie-par-le-tsunami-des-montagnes-cherche-le-chemin-du-retour-a-la-vie_6795110_3244.html",
       "published_at": "2026-10-16T03:30:15+00:00"
     },
@@ -56,15 +101,6 @@
       "published_at": "2026-10-15T15:59:50+00:00"
     },
     {
-      "id": "2944ffcf099118f2",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Seulement 25 M€ levés par les cleantech en septembre",
-      "resume": "Le mois de septembre aura été une période de vaches maigres pour les cleantech françaises. Le baromètre mensuel L’article Seulement 25 M€ levés par les cleantech en septembre est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/10/seulement-25-me-leves-par-les-cleantech-en-septembre-436067/",
-      "published_at": "2026-10-15T15:44:48+00:00"
-    },
-    {
       "id": "65611bcca3b8eee5",
       "source": "I4CE",
       "categorie": "Climat",
@@ -81,33 +117,6 @@
       "resume": "La deuxième phase du plan d'électrification, présentée ce 15 octobre, inclut 17 nouvelles mesures. Avec un soutien accéléré aux pompes à chaleur et aux véhicules électriques, et un accompagnement renforcé pour les 109 territoires d'électrif",
       "url": "https://www.actu-environnement.com/ae/news/deuxieme-phase-plan-electrification-pac-vehicules-territoires-ministere-energie-48672.php4#xtor=RSS-6",
       "published_at": "2026-10-15T15:42:22+00:00"
-    },
-    {
-      "id": "71d87a95dd69dad9",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "EDF, NW, Octopus, RTE… : les nouveautés business du plan d’électrification",
-      "resume": "La suite du plan d’électrification national présentée aujourd’hui par la ministre de l’Energie prévoit un train de mesures sur la flexibilité. Maud Bregeon a fait parapher un « pacte de flexibilité » (pages 16-18 du document ci-dessous) à h",
-      "url": "https://www.greenunivers.com/2026/10/edf-nw-octopus-rte-les-nouveautes-business-du-plan-delectrification-436193/",
-      "published_at": "2026-10-15T15:34:33+00:00"
-    },
-    {
-      "id": "3644c8bb823636e0",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le président de la Coordination rurale condamné à une amende pour avoir appelé à « faire la peau aux écolos »",
-      "resume": "Bertrand Venteau, président du second syndicat agricole de France, s’est rendu coupable de « provocation publique et directe non suivie d’effet à commettre un crime ou un délit », a expliqué le tribunal correctionnel d’Auch dans un communiq",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/15/le-president-de-la-coordination-rurale-condamne-a-une-amende-pour-avoir-appele-a-faire-la-peau-aux-ecolos_6794569_3244.html",
-      "published_at": "2026-10-15T15:27:23+00:00"
-    },
-    {
-      "id": "16b431ee223ae36b",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "M0 baseload, Symphonics, Mylight 150… : les coulisses de Solar&Storage",
-      "resume": "Développeurs ayant encore des projets destinés au S21 et cherchant des solutions, installateurs devant se familiariser avec une nouvelle technologie, spécialistes des nouveaux débouchés dans la flexibilité et les marchés de l’énergie… L’édi",
-      "url": "https://www.greenunivers.com/2026/10/m0-baseload-symphonics-mylight-150-les-coulisses-de-solarstorage-436179/",
-      "published_at": "2026-10-15T15:23:56+00:00"
     },
     {
       "id": "f340afc47c098ae2",
@@ -191,33 +200,6 @@
       "published_at": "2026-10-15T13:47:43+00:00"
     },
     {
-      "id": "2ff83d1505aba6e7",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le plan pour la nature de la France n'a aucune ambition malgré l'insistance de l'Europe",
-      "resume": "La Commission européenne demande à ses États membres de restaurer l'ensemble des écosystèmes dégradés d'ici 2050. Réponse de la France ? Un plan sans nouvelles mesures, ni nouveaux moyens financiers. Le consensus est largement partagé parmi",
-      "url": "https://reporterre.net/Le-plan-pour-la-nature-de-la-France-n-a-aucune-ambition-malgre-l-insistance-de-l-Europe",
-      "published_at": "2026-10-15T13:45:22+00:00"
-    },
-    {
-      "id": "c464f74d006bbda8",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les deux derniers pandas du ZooParc de Beauval partiront en Chine le 17 décembre",
-      "resume": "Un nouveau couple de pandas devrait arriver « tout début 2027 » pour une durée « de dix ans », a assuré le directeur du parc animalier.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/15/les-deux-derniers-pandas-du-zooparc-de-beauval-partiront-en-chine-le-17-decembre_6794454_3244.html",
-      "published_at": "2026-10-15T13:39:33+00:00"
-    },
-    {
-      "id": "7d24b752d3b12515",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "358 procès de militants écologistes depuis 2020 : ils répertorient des « arguments puissants » pour gagner en justice",
-      "resume": "Les militants écologistes connaissent une répression et des condamnations qui s'intensifient. Pour les aider à gagner leur procès, une plateforme répertorie toutes les décisions de justice afin d'avoir des « arguments puissants face aux jug",
-      "url": "https://reporterre.net/358-proces-de-militants-ecologistes-depuis-2020-ils-repertorient-des-arguments-puissants",
-      "published_at": "2026-10-15T13:30:00+00:00"
-    },
-    {
       "id": "a093f985ae0cbd46",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -225,15 +207,6 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
-    },
-    {
-      "id": "d36dfdc91ae051e6",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’acte 2 du plan d’électrification national insiste sur la flexibilité",
-      "resume": "Maud Bregeon a présenté ce matin une nouvelle batterie de mesures pour électrifier l’économie. La liste complète et amplifie le premier train mis en branle en avril. En ces temps de crise des carburants et des prix du gaz et de l’électricit",
-      "url": "https://www.greenunivers.com/2026/10/lacte-2-du-plan-delectrification-national-insiste-sur-la-flexibilite-436128/",
-      "published_at": "2026-10-15T12:24:28+00:00"
     },
     {
       "id": "8bd92b1eb8f0a644",
@@ -290,15 +263,6 @@
       "published_at": "2026-10-15T09:55:45+00:00"
     },
     {
-      "id": "5e23b43fbbda21c1",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Salaires des EnR : 40 postes au crible [3/3]",
-      "resume": "Dernier volet de notre dossier Recrutement & Salaires – Au mieux, les salaires stagnent. Mais la tendance est plutôt à la baisse. Et certains métiers sont particulièrement exposés comme en témoigne l’édition 2026 du benchmark des salaires d",
-      "url": "https://www.greenunivers.com/2026/10/salaires-des-enr-40-postes-au-crible-3-3-435348/",
-      "published_at": "2026-10-15T09:39:24+00:00"
-    },
-    {
       "id": "e2a14e8a1495e3cb",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -335,15 +299,6 @@
       "published_at": "2026-10-14T17:08:03+00:00"
     },
     {
-      "id": "30e8609b8a9997fc",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Flexibilité : Voltalis et Siemens s’attaquent au secteur tertiaire",
-      "resume": "Voltalis veut exploiter le gisement de flexibilité dans les bâtiments tertiaires de petite et moyenne taille, en collaboration avec Siemens. Le spécialiste de l’effacement propose L’article Flexibilité : Voltalis et Siemens s’attaquent au s",
-      "url": "https://www.greenunivers.com/2026/10/flexibilite-voltalis-et-siemens-sattaquent-au-secteur-tertiaire-436102/",
-      "published_at": "2026-10-14T16:00:00+00:00"
-    },
-    {
       "id": "7c036e199901df70",
       "source": "Novethic",
       "categorie": "Presse",
@@ -360,15 +315,6 @@
       "resume": "Le groupe Malakoff Humanis fait l'objet d'une enquête du Parquet national financier pour des soupçons de corruption. @ Magali Cohen AFP L’étau se resserre autour de Thomas Saunier, le directeur général de Malakoff Humanis. Selon une informa",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/dirigeant-malakoff-humanis-viseur-partenaires-sociaux",
       "published_at": "2026-10-14T12:43:28+00:00"
-    },
-    {
-      "id": "edfa135d654c95e6",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Aux Etats-Unis, le gendarme financier s’en prend à Climate Action 100+",
-      "resume": "La SEC s'est penché sur le rôle de Climate Action 100+ lors de l'assemblée générale d'ExxonMobil de 2021. @CCO La vengeance est un plat qui se mange (très) froid ! La Securities and exchange commission (SEC) a publié un long rapport sur l’e",
-      "url": "https://www.novethic.fr/finance-durable/engagement-actionnarial/etats-unis-gendarme-financier-prend-climate-action-100",
-      "published_at": "2026-10-14T09:45:39+00:00"
     },
     {
       "id": "1dd6edcb81f83b4f",
@@ -720,6 +666,60 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "ebbcaca171cba5d1",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
+      "published_at": "2026-06-30T08:03:48+00:00"
+    },
+    {
+      "id": "ac6ecc926252c5cb",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
+      "published_at": "2026-06-23T12:24:00+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
+    },
+    {
+      "id": "f6ba6a33ef09a89a",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
+      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
+      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
