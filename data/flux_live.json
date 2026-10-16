@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-16T05:50:05.812747+00:00",
+  "generated_at": "2026-10-16T07:36:20.759353+00:00",
   "items": [
+    {
+      "id": "7e6ec23ca1a706f3",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Grotte de Lascaux, château de Carcassonne... Les sites patrimoniaux menacés par le changement climatique",
+      "resume": "Le changement climatique touche le monde entier, et n'épargne pas les plus beaux sites français. Le Réseau Action Climat ( RAC ), qui regroupe une trentaine d'associations nationales et locales, a publié le 15 octobre un rapport analysant l",
+      "url": "https://reporterre.net/Grotte-de-Lascaux-chateau-de-Carcassonne-Les-sites-patrimoniaux-menaces-par-le-changement-climatique",
+      "published_at": "2026-10-16T06:35:07+00:00"
+    },
+    {
+      "id": "e9a3fb0d8eeb72db",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« On est souvent les derniers à être écoutés » : les lycéens des quartiers créent leur syndicat",
+      "resume": "Elles et ils sont parmi les visages du mouvement lycéen : Soumaya, Walid et Karima ont lancé un syndicat par et pour les élèves des quartiers populaires, où la crise écologique se vit dans les salles de classe. Bruxelles (Belgique), reporta",
+      "url": "https://reporterre.net/On-est-souvent-les-derniers-a-etre-ecoutes-les-lyceens-des-quartiers-creent-leur-syndicat",
+      "published_at": "2026-10-16T06:28:28+00:00"
+    },
+    {
+      "id": "99e86161ff4ca488",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Réemploi : l’État veut bâtir en six mois ce qu’il n’a pas fait en six ans",
+      "resume": "Le ministre délégué à la transition écologique assure vouloir présenter une stratégie nationale du réemploi avant l’élection présidentielle. Un projet qui révèle l’échec des deux quinquennats Macron en la matière, plus de six ans après l’ad",
+      "url": "https://www.contexte.com/fr/article/environnement/reemploi-letat-veut-batir-en-six-mois-ce-quil-na-pas-fait-en-six-ans_281361?source=rss",
+      "published_at": "2026-10-16T06:00:00+00:00"
+    },
     {
       "id": "e460a1955ecb2948",
       "source": "Reporterre",
@@ -35,7 +62,7 @@
       "titre": "Faut-il manger moins de fromage pour le climat ?",
       "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
       "url": "https://www.lemonde.fr/planete/article/2026/10/16/faut-il-manger-moins-de-fromage-pour-le-climat_6795186_3244.html",
-      "published_at": "2026-10-16T04:30:06+00:00"
+      "published_at": "2026-10-16T04:30:03+00:00"
     },
     {
       "id": "2a82384a20a069fa",
@@ -44,14 +71,14 @@
       "titre": "Le Groenland vise l’interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
       "resume": "Ce territoire autonome danois redoute les conséquences que pourrait avoir l’exploitation minière en haute mer sur l’environnement. En vertu de la proposition adoptée jeudi par le Parlement, le gouvernement groenlandais peut prolonger le mor",
       "url": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html",
-      "published_at": "2026-10-16T04:15:12+00:00"
+      "published_at": "2026-10-16T04:15:09+00:00"
     },
     {
       "id": "a73122ca7d13e609",
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Les pays membres de l’UE peinent à s’entendre pour faire baisser les prix de l’énergie",
-      "resume": "Les chefs d’Etat et de gouvernement, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre et manquent d’outils, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’a",
+      "resume": "Les dirigeants européens, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’accord entre Trump et Poutine sur",
       "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
       "published_at": "2026-10-16T03:30:15+00:00"
     },
@@ -101,6 +128,15 @@
       "published_at": "2026-10-15T15:59:50+00:00"
     },
     {
+      "id": "2944ffcf099118f2",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Seulement 25 M€ levés par les cleantech en septembre",
+      "resume": "Le mois de septembre aura été une période de vaches maigres pour les cleantech françaises. Le baromètre mensuel L’article Seulement 25 M€ levés par les cleantech en septembre est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/10/seulement-25-me-leves-par-les-cleantech-en-septembre-436067/",
+      "published_at": "2026-10-15T15:44:48+00:00"
+    },
+    {
       "id": "65611bcca3b8eee5",
       "source": "I4CE",
       "categorie": "Climat",
@@ -117,6 +153,24 @@
       "resume": "La deuxième phase du plan d'électrification, présentée ce 15 octobre, inclut 17 nouvelles mesures. Avec un soutien accéléré aux pompes à chaleur et aux véhicules électriques, et un accompagnement renforcé pour les 109 territoires d'électrif",
       "url": "https://www.actu-environnement.com/ae/news/deuxieme-phase-plan-electrification-pac-vehicules-territoires-ministere-energie-48672.php4#xtor=RSS-6",
       "published_at": "2026-10-15T15:42:22+00:00"
+    },
+    {
+      "id": "71d87a95dd69dad9",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "EDF, NW, Octopus, RTE… : les nouveautés business du plan d’électrification",
+      "resume": "La suite du plan d’électrification national présentée aujourd’hui par la ministre de l’Energie prévoit un train de mesures sur la flexibilité. Maud Bregeon a fait parapher un « pacte de flexibilité » (pages 16-18 du document ci-dessous) à h",
+      "url": "https://www.greenunivers.com/2026/10/edf-nw-octopus-rte-les-nouveautes-business-du-plan-delectrification-436193/",
+      "published_at": "2026-10-15T15:34:33+00:00"
+    },
+    {
+      "id": "16b431ee223ae36b",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "M0 baseload, Symphonics, Mylight 150… : les coulisses de Solar&Storage",
+      "resume": "Développeurs ayant encore des projets destinés au S21 et cherchant des solutions, installateurs devant se familiariser avec une nouvelle technologie, spécialistes des nouveaux débouchés dans la flexibilité et les marchés de l’énergie… L’édi",
+      "url": "https://www.greenunivers.com/2026/10/m0-baseload-symphonics-mylight-150-les-coulisses-de-solarstorage-436179/",
+      "published_at": "2026-10-15T15:23:56+00:00"
     },
     {
       "id": "f340afc47c098ae2",
@@ -164,15 +218,6 @@
       "published_at": "2026-10-15T14:47:00+00:00"
     },
     {
-      "id": "933d794bfeaff198",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Fuites de méthane : l'Europe cède aux lobbies de l'énergie",
-      "resume": "La Commission européenne a cédé à la pression des géants du gaz en acceptant d'ajourner d'un an la mise en place d'une obligation de reporting sur les fuites de méthane. C'est une demande des lobbies de l'énergie qui utilisent la situation ",
-      "url": "https://reporterre.net/Fuites-de-methane-l-Europe-cede-aux-lobbies-les-ONG-inquietes",
-      "published_at": "2026-10-15T14:35:23+00:00"
-    },
-    {
       "id": "3ffbf6159a874271",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -191,15 +236,6 @@
       "published_at": "2026-10-15T14:12:25+00:00"
     },
     {
-      "id": "9e0333d24368f109",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le gouvernement fusionne les Autorités environnementales, les associations inquiètes",
-      "resume": "Changement d'organisation. Le ministre délégué chargé de la Transition écologique, Mathieu Lefèvre, a annoncé le 15 octobre la création d'une Autorité environnementale unique, au sein de l'Inspection générale de l'environnement et du dévelo",
-      "url": "https://reporterre.net/Le-gouvernement-fusionne-les-Autorites-environnementales-au-detriment-de-la-protection-de",
-      "published_at": "2026-10-15T13:47:43+00:00"
-    },
-    {
       "id": "a093f985ae0cbd46",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -207,6 +243,15 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
+    },
+    {
+      "id": "d36dfdc91ae051e6",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’acte 2 du plan d’électrification national insiste sur la flexibilité",
+      "resume": "Maud Bregeon a présenté ce matin une nouvelle batterie de mesures pour électrifier l’économie. La liste complète et amplifie le premier train mis en branle en avril. En ces temps de crise des carburants et des prix du gaz et de l’électricit",
+      "url": "https://www.greenunivers.com/2026/10/lacte-2-du-plan-delectrification-national-insiste-sur-la-flexibilite-436128/",
+      "published_at": "2026-10-15T12:24:28+00:00"
     },
     {
       "id": "8bd92b1eb8f0a644",
@@ -263,6 +308,15 @@
       "published_at": "2026-10-15T09:55:45+00:00"
     },
     {
+      "id": "5e23b43fbbda21c1",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Salaires des EnR : 40 postes au crible [3/3]",
+      "resume": "Dernier volet de notre dossier Recrutement & Salaires – Au mieux, les salaires stagnent. Mais la tendance est plutôt à la baisse. Et certains métiers sont particulièrement exposés comme en témoigne l’édition 2026 du benchmark des salaires d",
+      "url": "https://www.greenunivers.com/2026/10/salaires-des-enr-40-postes-au-crible-3-3-435348/",
+      "published_at": "2026-10-15T09:39:24+00:00"
+    },
+    {
       "id": "e2a14e8a1495e3cb",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -297,6 +351,15 @@
       "resume": "Le Haut conseil pour le climat publie une note détaillant les points de vigilance pour la révision post-2030 du marché […] L’article Points de vigilance pour la révision post-2030 du marché carbone européen est apparu en premier sur Haut Co",
       "url": "https://www.hautconseilclimat.fr/actualites/points-de-vigilance-pour-la-revision-post-2030-du-marche-carbone-europeen/",
       "published_at": "2026-10-14T17:08:03+00:00"
+    },
+    {
+      "id": "30e8609b8a9997fc",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Flexibilité : Voltalis et Siemens s’attaquent au secteur tertiaire",
+      "resume": "Voltalis veut exploiter le gisement de flexibilité dans les bâtiments tertiaires de petite et moyenne taille, en collaboration avec Siemens. Le spécialiste de l’effacement propose L’article Flexibilité : Voltalis et Siemens s’attaquent au s",
+      "url": "https://www.greenunivers.com/2026/10/flexibilite-voltalis-et-siemens-sattaquent-au-secteur-tertiaire-436102/",
+      "published_at": "2026-10-14T16:00:00+00:00"
     },
     {
       "id": "7c036e199901df70",
@@ -378,15 +441,6 @@
       "resume": "Les trois candidats à la présidentielle ont répondu aux questions de nos journalistes sur l’Europe, l’intelligence artificielle ou l’énergie. Thèmes sur lesquels les clivages ont été nombreux.",
       "url": "https://www.politico.eu/article/philippe-glucksmann-retailleau-les-temps-forts-du-sommet-sur-la-competitivite-economique-de-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T16:00:25+00:00"
-    },
-    {
-      "id": "6cfa94ebb70251fc",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Apporter ma pierre à cet édifice » : l'ancien patron d'Alstom prend la tête du plus grand projet de parc solaire en Europe - Les Echos",
-      "resume": "Apporter ma pierre à cet édifice » : l'ancien patron d'Alstom prend la tête du plus grand projet de parc solaire en Europe Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOODhFRzN5Tk5qM0dpODV3MmRQWTdzcTYzYmVGQ1JqdTNrZDNZeE94SDMySDhWX2dRN18tWmI3cm13SXJWUmVyVWRjSkRQZFkxOGo0T0pvSnlpSXVMeTB6cGNBV3lmenF1a1RUNmtGQWNlVEtrbEtUZ25CZjNDb0FEN0phcHlfd2Q2UnRob2FsN1JWYzRmanlYTnNWR2xOUHhwYnJWUFkxU0ZjVElXTk5Ra29zM2RmemhKZWItc214ckkxRDJtOWxnVkVnNTN1RjZ0SlpQRlJxSEM3R2JHbV92NHZmTndZakt5eXlLdERUMXBZeVJqcVVlRDdRR3JDdEZXOEMtT0dkakdUWWlQQlV3NEtBOHI1dHFf?oc=5",
-      "published_at": "2026-10-13T14:59:00+00:00"
     },
     {
       "id": "50398b4a17220baf",
@@ -522,15 +576,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
       "published_at": "2026-10-06T10:23:17+00:00"
-    },
-    {
-      "id": "1e690f79eafe2877",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Pollution de l’eau : chronique d’une déception annoncée",
-      "resume": "Le projet de décret sur la protection des captages, que révèle Contexte, ne devrait pas réduire la fracture existante entre les collectivités et le ministère de la transition écologique. Pour les premières, la version envisagée constitue un",
-      "url": "https://www.contexte.com/fr/article/environnement/pollution-de-leau-chronique-dune-deception-annoncee_278075?source=rss",
-      "published_at": "2026-10-06T06:00:00+00:00"
     },
     {
       "id": "35b556788e6ad67e",
@@ -675,51 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
       "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "ac6ecc926252c5cb",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
-      "published_at": "2026-06-23T12:24:00+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
-    },
-    {
-      "id": "f6ba6a33ef09a89a",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
-      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
-      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
-      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
