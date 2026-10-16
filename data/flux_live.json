@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-15T23:59:56.936175+00:00",
+  "generated_at": "2026-10-16T03:59:03.322128+00:00",
   "items": [
+    {
+      "id": "a73122ca7d13e609",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Carburants : les Vingt-Sept peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
+      "resume": "Les chefs d’Etat et de gouvernement, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre et manquent d’outils, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’a",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
+      "published_at": "2026-10-16T03:30:27+00:00"
+    },
+    {
+      "id": "05d88b9dabb5e585",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Au Népal, la vallée meurtrie par le « tsunami des montagnes » cherche le chemin du retour à la vie",
+      "resume": "Le 26 août, un glissement de terrain emportant un glacier provoquait une crue dévastatrice et meurtrière dans la vallée de la Trishuli. Alors que plus de 5 000 personnes n’ont pas été retrouvées, beaucoup de ceux qui restent « souffrent de ",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/16/au-nepal-la-vallee-meurtrie-par-le-tsunami-des-montagnes-cherche-le-chemin-du-retour-a-la-vie_6795110_3244.html",
+      "published_at": "2026-10-16T03:30:15+00:00"
+    },
     {
       "id": "ff891454bedc0827",
       "source": "Le Monde Planète",
@@ -209,15 +227,6 @@
       "published_at": "2026-10-15T13:00:08+00:00"
     },
     {
-      "id": "82af6242ad1dac0a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Ligne à très haute tension en Camargue : une étape-clé du projet franchie, la contestation reste vive",
-      "resume": "Le préfet des Bouches-du-Rhône a lancé, mardi 13 octobre, l’enquête préalable à la déclaration d’utilité publique de cette ligne électrique qui suscite une très forte opposition locale, mais que l’Etat semble décidé à construire rapidement.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/15/ligne-a-tres-haute-tension-en-camargue-une-etape-cle-du-projet-franchie-la-contestation-reste-vive_6794444_3244.html",
-      "published_at": "2026-10-15T12:30:04+00:00"
-    },
-    {
       "id": "d36dfdc91ae051e6",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -243,15 +252,6 @@
       "resume": "UK financial services group Legal & General (L&G) and sustainable infrastructure investor NTR announced today […]",
       "url": "https://www.esgtoday.com/lg-ntr-raise-370-million-for-new-clean-power-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=lg-ntr-raise-370-million-for-new-clean-power-transition-fund",
       "published_at": "2026-10-15T12:05:26+00:00"
-    },
-    {
-      "id": "43aaf3dc77490b62",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe comprise « entre 500 et 700 millions d’euros »",
-      "resume": "Au début septembre, quelque 1,2 milliard d’euros ont déjà été débloqués pour aider un secteur touché par les canicules à répétition mais aussi l’augmentation du prix des carburants.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/15/plan-de-relance-agricole-entre-500-et-700-millions-d-euros-annonces-par-sebastien-lecornu_6794441_823448.html",
-      "published_at": "2026-10-15T12:02:53+00:00"
     },
     {
       "id": "eddcaa4967890945",
