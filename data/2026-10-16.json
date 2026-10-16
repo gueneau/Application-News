@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "generated_at": "06:10",
-  "elapsed_seconds": 306,
+  "generated_at": "10:13",
+  "elapsed_seconds": 250,
   "errors": [],
   "stats": {
     "jo_analyses": 16,
@@ -9,20 +9,42 @@
     "depts_restriction": 91
   },
   "pipeline_meta": {
-    "run_at": "2026-10-16T06:10:48",
+    "run_at": "2026-10-16T10:13:29",
     "sources": {
       "JORF": 0,
-      "RSS": 4,
+      "RSS": 6,
       "VigiEau": 91,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 17,
-    "llm_seconds": 42.2
+    "llm_calls": 12,
+    "llm_seconds": 7.8
   },
   "items": [
+    {
+      "id": "d8238f94aaf7",
+      "source": "ESG Today",
+      "categorie": "Environnement",
+      "titre": "Over 800 Companies Commit to TNFD-Aligned Nature Reporting Ahead of New ISSB, ISO Standards",
+      "resume": "Over 800 Companies Commit to TNFD-Aligned Nature Reporting Ahead of New ISSB, ISO Standards",
+      "pourquoi": "Mention de réglementation prioritaire.",
+      "criticite": 3,
+      "url": "https://www.esgtoday.com/over-800-companies-commit-to-tnfd-aligned-nature-reporting-ahead-of-new-issb-iso-standards/?utm_source=rss&utm_medium=rss&utm_campaign=over-800-companies-commit-to-tnfd-aligned-nature-reporting-ahead-of-new-issb-iso-standards",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "fd1871440267",
+      "source": "Actu-Environnement",
+      "categorie": "Eau",
+      "titre": "Le chiffre du jour : 1,5 million",
+      "resume": "Le chiffre du jour : 1,5 million indique que 1,5 million d’habitants sont touchés par des unités de distribution d’eau potable en tension, avec des mesures d’urgence (citernage, coupures, distribution de bouteilles). Cet exemple concret illustre le risque de pénurie d’eau pouvant entraîner des interruptions de service et des coûts supplémentaires pour les entreprises dépendant de l’eau, comme les prestations de nettoyage d’ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1844.html#xtor=RSS-6",
+      "date": "2026-10-16"
+    },
     {
       "id": "01ecd1d42599",
       "source": "Actu-Environnement",
@@ -280,11 +302,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "21",
       "dept_nom": "Côte-d'Or",
       "niveau": "crise"
@@ -292,6 +309,11 @@
     {
       "dept_code": "70",
       "dept_nom": "Haute-Saône",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
@@ -305,13 +327,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "01",
+      "dept_nom": "Ain",
       "niveau": "crise"
     },
     {
-      "dept_code": "01",
-      "dept_nom": "Ain",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
