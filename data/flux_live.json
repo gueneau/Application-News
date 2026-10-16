@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-16T15:50:24.066061+00:00",
+  "generated_at": "2026-10-16T17:46:48.011285+00:00",
   "items": [
+    {
+      "id": "ccabc984d74b51e7",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Adoption d’un plan-clé de gestion de l’eau sur un vaste territoire en Bretagne et Pays de la Loire, après quatre ans de conflit",
+      "resume": "La révision du schéma d’aménagement et de gestion de l’eau (SAGE) de la Vilaine, adoptée après de vifs débats, pourrait inspirer d’autres territoires. De son côté, la FNSEA envisage des recours juridiques.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/16/adoption-d-un-plan-cle-de-gestion-de-l-eau-sur-un-vaste-territoire-en-bretagne-et-pays-de-la-loire-apres-quatre-ans-de-conflit_6795593_3244.html",
+      "published_at": "2026-10-16T17:13:58+00:00"
+    },
     {
       "id": "f4eb4c2e561b5bc5",
       "source": "Actu-Environnement",
@@ -87,7 +96,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Delphine Batho : « Je ne multiplie pas les candidatures à gauche, je suis la seule candidate de l'écologie »",
-      "resume": "Delphine Batho, qui se considère comme la « seule candidate de l'écologie », se lance seule dans la course à la présidentielle, sans rallier de parti. Estimant que « le discours du barrage ne suffit plus », elle entend mettre l'écologie de ",
+      "resume": "Delphine Batho, qui se considère comme la « seule candidate de l'écologie », se lance seule dans la course à la présidentielle. Estimant que « le discours du barrage ne suffit plus », elle entend mettre l'écologie de la beauté au centre de ",
       "url": "https://reporterre.net/Delphine-Batho-Je-ne-multiplie-pas-les-candidatures-a-gauche-je-suis-la-seule-candidate-de-l-ecologie",
       "published_at": "2026-10-16T14:00:00+00:00"
     },
@@ -297,15 +306,6 @@
       "resume": "Ce territoire autonome danois redoute les conséquences que pourrait avoir l’exploitation minière en haute mer sur l’environnement. En vertu de la proposition adoptée jeudi par le Parlement, le gouvernement groenlandais peut prolonger le mor",
       "url": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html",
       "published_at": "2026-10-16T04:15:09+00:00"
-    },
-    {
-      "id": "a73122ca7d13e609",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Carburants : les Etats membres de l’UE peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
-      "resume": "Les dirigeants européens, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’accord entre Trump et Poutine sur",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
-      "published_at": "2026-10-16T03:30:15+00:00"
     },
     {
       "id": "79b653deca4d1f7c",
