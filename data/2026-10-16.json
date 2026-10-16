@@ -1,26 +1,26 @@
 {
   "date": "2026-10-16",
-  "generated_at": "10:13",
-  "elapsed_seconds": 250,
+  "generated_at": "12:09",
+  "elapsed_seconds": 202,
   "errors": [],
   "stats": {
     "jo_analyses": 16,
     "jo_retenus": 0,
-    "depts_restriction": 91
+    "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-16T10:13:29",
+    "run_at": "2026-10-16T12:09:12",
     "sources": {
       "JORF": 0,
-      "RSS": 6,
-      "VigiEau": 91,
+      "RSS": 7,
+      "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 12,
-    "llm_seconds": 7.8
+    "llm_calls": 11,
+    "llm_seconds": 8.4
   },
   "items": [
     {
@@ -65,6 +65,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/pprn-alea-reference-inondation-changement-climatique-48670.php4#xtor=RSS-6",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "ef159a330c89",
+      "source": "Actu-Environnement",
+      "categorie": "Biodiversité",
+      "titre": "La France a transmis son plan de restauration de la nature à Bruxelles",
+      "resume": "France a présenté son plan national de restauration de la nature, fixant des objectifs pour 2030 et 2050, ce qui indique un engagement croissant en matière de biodiversité et peut anticiper de futures exigences réglementaires pour les entreprises.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/plan-restauration-nature-france-bruxelles-48671.php4#xtor=RSS-6",
       "date": "2026-10-15"
     },
     {
@@ -332,13 +343,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "39",
+      "dept_nom": "Jura",
       "niveau": "crise"
     },
     {
-      "dept_code": "39",
-      "dept_nom": "Jura",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -377,13 +388,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
@@ -417,13 +428,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "68",
-      "dept_nom": "Haut-Rhin",
+      "dept_code": "90",
+      "dept_nom": "Territoire de Belfort",
       "niveau": "crise"
     },
     {
-      "dept_code": "90",
-      "dept_nom": "Territoire de Belfort",
+      "dept_code": "68",
+      "dept_nom": "Haut-Rhin",
       "niveau": "crise"
     },
     {
@@ -514,11 +525,6 @@
     {
       "dept_code": "84",
       "dept_nom": "Vaucluse",
-      "niveau": "alerte renforcée"
-    },
-    {
-      "dept_code": "83",
-      "dept_nom": "Var",
       "niveau": "alerte renforcée"
     },
     {
