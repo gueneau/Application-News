@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-10-16T14:24:40.301350+00:00",
+  "generated_at": "2026-10-16T15:50:24.066061+00:00",
   "items": [
+    {
+      "id": "f4eb4c2e561b5bc5",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Cadre mondial pour la biodiversité : la COP 17 appelée à accélérer sa mise en oeuvre",
+      "resume": "La COP Biodiversité s'ouvre ce lundi en Arménie. Au programme : l'examen du rapport sur les progrès accomplis dans la mise en oeuvre du cadre mondial de Kunming-Montréal et l'adoption d'une décision destinée à accélérer sa mise en oeuvre.",
+      "url": "https://www.actu-environnement.com/ae/news/cop17-biodiversite-kunming-montreal-mise-en-oeuvre-48679.php4#xtor=RSS-6",
+      "published_at": "2026-10-16T15:31:42+00:00"
+    },
+    {
+      "id": "f5336409d267d992",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US voters want action on global heating. So why are midterm candidates ‘climate hushing’?",
+      "resume": "Polls show that Democrats and Republicans in battleground states want to hear more from candidates about the climate crisis Most Americans feel unease or alarm about the climate crisis and, in both red and blue states, want to know how poli",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates",
+      "published_at": "2026-10-16T15:00:04+00:00"
+    },
+    {
+      "id": "0f8c4f63ca9036e5",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Éolien : pas d'urgence à suspendre le refus d'une mairie à l'instauration de servitudes",
+      "resume": "Par un arrêt du 9 octobre 2026, le Conseil d'État a annulé, pour erreur de droit, une ordonnance de la cour administrative d'appel de Bordeaux qui n'avait pas retenu, pour les bons motifs, le refus de reconnaître la situation d'urgence soul",
+      "url": "https://www.actu-environnement.com/ae/news/eolien-servitudes-commune-refus-urgence-48678.php4#xtor=RSS-6",
+      "published_at": "2026-10-16T14:59:45+00:00"
+    },
+    {
+      "id": "dee98075cd644ed8",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Comment RTE veut raccorder les data centers en Île-de-France",
+      "resume": "En plus de sa réforme des règles de raccordement autour de « premier prêt, premier servi », dont la consultation arrive à sa fin et que GreenUnivers a détaillée, RTE prépare des plans spécifiques pour l’Île-de-France. Ce territoire est conf",
+      "url": "https://www.greenunivers.com/2026/10/comment-rte-veut-raccorder-les-data-centers-en-ile-de-france-436284/",
+      "published_at": "2026-10-16T14:56:28+00:00"
+    },
+    {
+      "id": "3c6b35e21ab9e37b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment le RN a fait de la voiture un outil électoral et de notabilisation",
+      "resume": "Depuis la crise des « gilets jaunes », l’extrême droite saisit chaque occasion de se poser en défenseur des automobilistes et de leur pouvoir d’achat. Les constructeurs français, dont le Rassemblement national relaie les combats contre les ",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html",
+      "published_at": "2026-10-16T14:45:17+00:00"
+    },
+    {
+      "id": "a28e649584421a28",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le sud de l’Angleterre confronté à la première « sécheresse sévère » de son histoire",
+      "resume": "Les autorités s’inquiètent du niveau des grands réservoirs qui alimentent la population en eau potable. Les gestionnaires sont autorisés à déroger aux règles environnementales de protection du milieu naturel.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/16/le-sud-de-l-angleterre-confronte-a-la-premiere-secheresse-severe-de-son-histoire_6795555_3244.html",
+      "published_at": "2026-10-16T14:30:04+00:00"
+    },
     {
       "id": "8e1557efd3ad040a",
       "source": "Actu-Environnement",
@@ -132,7 +186,7 @@
       "source": "Actu-Environnement",
       "categorie": "Presse",
       "titre": "A69 : le juge des référés refuse de suspendre l'autorisation modificative",
-      "resume": "Par deux ordonnances du 13&#8239;octobre 2026, le juge des référés de la cour administrative d'appel de Toulouse a rejeté les demandes de suspension de l'autorisation environnementale modificative du 10 juillet 2026, délivrée pour le projet",
+      "resume": "Par deux ordonnances du 13 octobre 2026, le juge des référés de la cour administrative d'appel de Toulouse a rejeté les demandes de suspension de l'autorisation environnementale modificative du 10 juillet 2026, délivrée pour le projet de li",
       "url": "https://www.actu-environnement.com/ae/news/a69-refere-suspension-autorisation-environnementale-48674.php4#xtor=RSS-6",
       "published_at": "2026-10-16T09:52:50+00:00"
     },
@@ -189,15 +243,6 @@
       "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
       "url": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-281-431464/",
       "published_at": "2026-10-16T09:00:00+00:00"
-    },
-    {
-      "id": "c079610498f7f1db",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le chiffre du jour : 1,5 million",
-      "resume": "1,5 million : c'est le nombre d'habitants concernés au 15 octobre par une unité de distribution d'eau potable en tension (risque de rupture ou rupture), selon le ministère de la transition écologique. Les mesures d’urgence (citernage, la di",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1844.html#xtor=RSS-6",
-      "published_at": "2026-10-16T08:58:20+00:00"
     },
     {
       "id": "3647aec79f6cc6d4",
@@ -263,24 +308,6 @@
       "published_at": "2026-10-16T03:30:15+00:00"
     },
     {
-      "id": "05d88b9dabb5e585",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Au Népal, la vallée de la Trishuli, dévastée par le « tsunami des montagnes », cherche le chemin du retour à la vie",
-      "resume": "Le 26 août, un glissement de terrain emportant un glacier provoquait une crue dévastatrice et meurtrière. Plus de 5 000 personnes n’ont pas été retrouvées, et beaucoup de ceux qui restent « souffrent de la culpabilité du survivant ».",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/16/au-nepal-la-vallee-meurtrie-par-le-tsunami-des-montagnes-cherche-le-chemin-du-retour-a-la-vie_6795110_3244.html",
-      "published_at": "2026-10-16T03:30:15+00:00"
-    },
-    {
-      "id": "ff891454bedc0827",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le ministre délégué à la transition écologique annonce une réforme de l’évaluation environnementale",
-      "resume": "Mathieu Lefèvre a présenté, jeudi, une réorganisation des autorités environnementales chargées d’émettre un avis sur l’impact sur l’environnement de grands projets, avec la création d’une instance « unique » et « une simplification des proc",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/15/le-ministre-delegue-a-la-transition-ecologique-annonce-une-reforme-de-l-evaluation-environnementale_6794620_3244.html",
-      "published_at": "2026-10-15T16:45:01+00:00"
-    },
-    {
       "id": "79b653deca4d1f7c",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -288,15 +315,6 @@
       "resume": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique Les Echos",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTNCc2hFV1hralZsT0RNYTBDVkNmNlNYbFhCVVA4c0hxOGl1UUZZT0FiS2QtSVdzMGVKRWE2QldVejRtU1JKcVRxWUZzb2dySkhSRjd0TDJpMmV4ajFBRU5vRXp6NkRET2l5UVdkZ05YaXdMMG1jZTR6ODUxT0JzbGFiSW9LU0VQOXFkeEdxQ1c2WHg3T0txSEs3YmxHWkxHSU9RMlRfT2dLc2RfWkFaM00yY052eHJvTzZyblY1MFZuTlJLR0k5VzcwNjFWb3NOTGg1SkZTTUpoZUlhU05Id0ZMalYtMFRhRzBCTU1nTkJRaVdQYXRPZWNlbDAzLVpYMzkwckJLM1FEbVVDdjdCOFlIUWUzSE9QaUE?oc=5",
       "published_at": "2026-10-15T16:02:49+00:00"
-    },
-    {
-      "id": "3646db3289aa5046",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Déchets radioactifs : l'ASNR veut savoir rapidement quels déchets pourront effectivement rejoindre Cigeo",
-      "resume": "Selon l'ASNR, certains déchets MA-VL et HA-VL ne sont pas conditionnés ou le sont sans garantie de pouvoir être pris en charge dans de bonnes conditions par Cigéo. Quant aux déchets TFA, il faut anticiper la saturation du Cires à l'horizon ",
-      "url": "https://www.actu-environnement.com/ae/news/projet-pngmdr-avis-asnr-gestion-mavl-havl-tfa-cigeo-cires-48673.php4#xtor=RSS-6",
-      "published_at": "2026-10-15T15:59:50+00:00"
     },
     {
       "id": "2944ffcf099118f2",
@@ -315,15 +333,6 @@
       "resume": "Comment prioriser les financements publics ? Et comment financer l’action climatique locale sans mobiliser plus de financements publics ? L’article Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investis",
       "url": "https://www.i4ce.org/collectivites-urgence-climatique-nouvelle-approche-mur-investissement/",
       "published_at": "2026-10-15T15:43:50+00:00"
-    },
-    {
-      "id": "71d87a95dd69dad9",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "EDF, NW, Octopus, RTE… : les nouveautés business du plan d’électrification",
-      "resume": "La suite du plan d’électrification national présentée aujourd’hui par la ministre de l’Energie prévoit un train de mesures sur la flexibilité. Maud Bregeon a fait parapher un « pacte de flexibilité » (pages 16-18 du document ci-dessous) à h",
-      "url": "https://www.greenunivers.com/2026/10/edf-nw-octopus-rte-les-nouveautes-business-du-plan-delectrification-436193/",
-      "published_at": "2026-10-15T15:34:33+00:00"
     },
     {
       "id": "779776d07b9726d6",
@@ -540,15 +549,6 @@
       "resume": "Heat and humidity have led to one of the worst mosquito years in recent history, with West Nile virus at a decade high Los Angeles might be best known for blue skies, beaches and film premiers — but for the last several years it’s held anot",
       "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
       "published_at": "2026-10-11T11:00:25+00:00"
-    },
-    {
-      "id": "d62df39f570047d1",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Hurricane Isaias updates: at least four people dead and hundreds of thousands without power – as it happened",
-      "resume": "This liveblog is now closed. Read the full story here Key things to know about Hurricane Isaias Sign up for the US Breaking News email Florida’s governor, Ron DeSantis , said no requests for search and rescue assistance had been received fo",
-      "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-      "published_at": "2026-10-10T22:18:05+00:00"
     },
     {
       "id": "29632628c172cc87",
