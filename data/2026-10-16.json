@@ -1,0 +1,1139 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "06:10",
+  "elapsed_seconds": 306,
+  "errors": [],
+  "stats": {
+    "jo_analyses": 16,
+    "jo_retenus": 0,
+    "depts_restriction": 91
+  },
+  "pipeline_meta": {
+    "run_at": "2026-10-16T06:10:48",
+    "sources": {
+      "JORF": 0,
+      "RSS": 4,
+      "VigiEau": 91,
+      "AN Agenda": 8
+    },
+    "errors": [
+      "SOURCE VIDE — JORF : 0 textes retenus"
+    ],
+    "llm_calls": 17,
+    "llm_seconds": 42.2
+  },
+  "items": [
+    {
+      "id": "01ecd1d42599",
+      "source": "Actu-Environnement",
+      "categorie": "Énergie",
+      "titre": "Le Gouvernement dévoile de nouvelles mesures pour électrifier la France",
+      "resume": "Le gouvernement lance la phase 2 du plan d’électrification, renforçant les aides aux pompes à chaleur et aux véhicules électriques, ce qui indique une accélération des politiques de transition énergétique susceptibles d’impacter la flotte de véhicules d’ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/deuxieme-phase-plan-electrification-pac-vehicules-territoires-ministere-energie-48672.php4#xtor=RSS-6",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "d4c88d6c2fa9",
+      "source": "Actu-Environnement",
+      "categorie": "Climat",
+      "titre": "Risques inondation : l'aléa de référence va être modifié afin de tenir compte des changements climatiques",
+      "resume": "Modification du seuil de risque d’inondation dans les plans de prévention des risques naturels (PPRN) afin d’intégrer les projections climatiques, ce qui peut reclasser certains sites clients d’ABC et modifier leurs obligations de prévention et de continuité de service.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/pprn-alea-reference-inondation-changement-climatique-48670.php4#xtor=RSS-6",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "5b2b7762223a",
+      "source": "Reporterre",
+      "categorie": "Émissions",
+      "titre": "Fuites de méthane : l'Europe cède aux lobbies de l'énergie",
+      "resume": "L'Union européenne a reporté d'un an la mise en place d'une obligation de reporting sur les fuites de méthane, retardant ainsi la prise de mesures de réduction des émissions de gaz à effet de serre.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://reporterre.net/Fuites-de-methane-l-Europe-cede-aux-lobbies-les-ONG-inquietes",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "ab7d98fc598d",
+      "source": "Reporterre",
+      "categorie": "Environnement",
+      "titre": "Le gouvernement fusionne les Autorités environnementales, les associations inquiètes",
+      "resume": "Le gouvernement français prévoit de fusionner les autorités environnementales en une seule entité au sein de l’Igedd d’ici le 1er mai 2027, ce qui pourrait simplifier ou modifier les procédures de contrôle et de reporting environnemental.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://reporterre.net/Le-gouvernement-fusionne-les-Autorites-environnementales-au-detriment-de-la-protection-de",
+      "date": "2026-10-15"
+    }
+  ],
+  "restrictions_eau": [
+    {
+      "dept_code": "50",
+      "dept_nom": "Manche",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "14",
+      "dept_nom": "Calvados",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "22",
+      "dept_nom": "Côtes-d'Armor",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "61",
+      "dept_nom": "Orne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "29",
+      "dept_nom": "Finistère",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "56",
+      "dept_nom": "Morbihan",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "35",
+      "dept_nom": "Ille-et-Vilaine",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "44",
+      "dept_nom": "Loire-Atlantique",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "53",
+      "dept_nom": "Mayenne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "49",
+      "dept_nom": "Maine-et-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "79",
+      "dept_nom": "Deux-Sèvres",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "85",
+      "dept_nom": "Vendée",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "17",
+      "dept_nom": "Charente-Maritime",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "86",
+      "dept_nom": "Vienne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "33",
+      "dept_nom": "Gironde",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "16",
+      "dept_nom": "Charente",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "24",
+      "dept_nom": "Dordogne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "40",
+      "dept_nom": "Landes",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "64",
+      "dept_nom": "Pyrénées-Atlantiques",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "47",
+      "dept_nom": "Lot-et-Garonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "32",
+      "dept_nom": "Gers",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "65",
+      "dept_nom": "Hautes-Pyrénées",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "37",
+      "dept_nom": "Indre-et-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "59",
+      "dept_nom": "Nord",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "27",
+      "dept_nom": "Eure",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "95",
+      "dept_nom": "Val-d'Oise",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "77",
+      "dept_nom": "Seine-et-Marne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "55",
+      "dept_nom": "Meuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "94",
+      "dept_nom": "Val-de-Marne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "41",
+      "dept_nom": "Loir-et-Cher",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "36",
+      "dept_nom": "Indre",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "45",
+      "dept_nom": "Loiret",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "18",
+      "dept_nom": "Cher",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "87",
+      "dept_nom": "Haute-Vienne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "19",
+      "dept_nom": "Corrèze",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "23",
+      "dept_nom": "Creuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "63",
+      "dept_nom": "Puy-de-Dôme",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "15",
+      "dept_nom": "Cantal",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "10",
+      "dept_nom": "Aube",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "89",
+      "dept_nom": "Yonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "58",
+      "dept_nom": "Nièvre",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "21",
+      "dept_nom": "Côte-d'Or",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "70",
+      "dept_nom": "Haute-Saône",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "42",
+      "dept_nom": "Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "43",
+      "dept_nom": "Haute-Loire",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "01",
+      "dept_nom": "Ain",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "39",
+      "dept_nom": "Jura",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "38",
+      "dept_nom": "Isère",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "07",
+      "dept_nom": "Ardèche",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "26",
+      "dept_nom": "Drôme",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "46",
+      "dept_nom": "Lot",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "82",
+      "dept_nom": "Tarn-et-Garonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "31",
+      "dept_nom": "Haute-Garonne",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "09",
+      "dept_nom": "Ariège",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "81",
+      "dept_nom": "Tarn",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "11",
+      "dept_nom": "Aude",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "34",
+      "dept_nom": "Hérault",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "48",
+      "dept_nom": "Lozère",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "04",
+      "dept_nom": "Alpes-de-Haute-Provence",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "88",
+      "dept_nom": "Vosges",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "25",
+      "dept_nom": "Doubs",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "68",
+      "dept_nom": "Haut-Rhin",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "90",
+      "dept_nom": "Territoire de Belfort",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "74",
+      "dept_nom": "Haute-Savoie",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "73",
+      "dept_nom": "Savoie",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "06",
+      "dept_nom": "Alpes-Maritimes",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "2B",
+      "dept_nom": "Haute-Corse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "76",
+      "dept_nom": "Seine-Maritime",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "72",
+      "dept_nom": "Sarthe",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "62",
+      "dept_nom": "Pas-de-Calais",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "80",
+      "dept_nom": "Somme",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "60",
+      "dept_nom": "Oise",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "78",
+      "dept_nom": "Yvelines",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "02",
+      "dept_nom": "Aisne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "51",
+      "dept_nom": "Marne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "57",
+      "dept_nom": "Moselle",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "67",
+      "dept_nom": "Bas-Rhin",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "91",
+      "dept_nom": "Essonne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "52",
+      "dept_nom": "Haute-Marne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "66",
+      "dept_nom": "Pyrénées-Orientales",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "84",
+      "dept_nom": "Vaucluse",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "83",
+      "dept_nom": "Var",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "2A",
+      "dept_nom": "Corse-du-Sud",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "05",
+      "dept_nom": "Hautes-Alpes",
+      "niveau": "alerte"
+    },
+    {
+      "dept_code": "92",
+      "dept_nom": "Hauts-de-Seine",
+      "niveau": "vigilance"
+    },
+    {
+      "dept_code": "75",
+      "dept_nom": "Paris",
+      "niveau": "vigilance"
+    },
+    {
+      "dept_code": "93",
+      "dept_nom": "Seine-Saint-Denis",
+      "niveau": "vigilance"
+    }
+  ],
+  "jo_autres": [
+    {
+      "titre": "Arrêté du 13 octobre 2026 fixant au titre de l'année 2027 les taux de promotion de grade dans les corps gérés par le ministre du travail et des solidarités et la ministre de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988083",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 répartissant par filière les taux de promotion pour l'avancement de grade dans le corps d'encadrement et d'application du personnel de surveillance de l'administration pénitentiaire au titre de l'année 2027",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988127",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le montant de la répartition entre départements des crédits du Fonds national d'action sanitaire et sociale de la Mutualité sociale agricole destinés à la prise en charge des cotisations sociales des personnes non salariées des professions agricoles et des employeurs de main-d'œuvre agricole",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988419",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 modifiant l'arrêté du 5 février 2008 pris en application du décret n° 2002-22 du 4 janvier 2002 relatif à la situation administrative et financière des personnels des établissements d'enseignement français à l'étranger",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988429",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 modifiant la liste des spécialités pharmaceutiques remboursables aux assurés sociaux",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988440",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 modifiant la liste des spécialités pharmaceutiques agréées à l'usage des collectivités et divers services publics",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988451",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 relatif à la formation des pédicures-podologues au traitement physique des verrues",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988464",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 modifiant la liste des spécialités pharmaceutiques agréées à l'usage des collectivités et divers services publics",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988476",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision n° 2026-511 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS Alouette pour l'exploitation d'un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommé Alouette",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988760",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision n° 2026-525 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SA SERC pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Fun Radio",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988789",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision n° 2026-526 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SARL Jazz France pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé Jazz Radio",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988814",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision du 13 octobre 2026 portant délégation de signature (direction de l'intégration et de l'accès à la nationalité)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054987951",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 autorisant au titre de l'année 2027 l'ouverture d'un concours externe pour l'accès au grade de contrôleur spécialisé de classe normale de la direction générale de la sécurité extérieure",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054987973",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 fixant le nombre de postes à pourvoir au titre des concours interne et externe ouverts en 2027 pour l'accès au corps du personnel de surveillance de la direction générale de la sécurité extérieure",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054987993",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places maximum offertes en 2027 aux concours d'admission à l'Ecole spéciale militaire de Saint-Cyr",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988007",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places maximum offertes en 2027 pour l'admission en formation initiale en vue du recrutement dans le corps des officiers des armes de l'armée de terre",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988013",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places maximum offertes en 2027 pour l'admission en formation initiale en vue du recrutement interne semi-direct dans le corps des officiers des armes de l'armée de terre",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988019",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places offertes en 2027 pour le concours sur titres pour le recrutement dans le corps des médecins, des pharmaciens, des vétérinaires et des chirurgiens-dentistes des armées",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988026",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant au titre de l'année 2027 le nombre de places offertes au concours sur titres pour le recrutement dans le corps des cadres de santé paramédicaux des militaires infirmiers et techniciens des hôpitaux des armées",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988036",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places offertes au titre de l'année 2027 au concours de recrutement sur épreuves dans le corps des directeurs de soins relevant du statut des militaires infirmiers et techniciens des hôpitaux des armées",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988043",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places offertes au titre de l'année 2027 pour le recrutement dans le corps des ingénieurs militaires des essences",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988049",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places offertes en 2027 pour le concours sur épreuves de recrutement dans le corps des internes des hôpitaux des armées",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988063",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision du 14 octobre 2026 modifiant la décision du 27 novembre 2025 portant délégation de signature (service de la sécurité de défense et des systèmes d'information)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988070",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 24 septembre 2026 relatif à l'habilitation nationale d'organismes accueillant des personnes condamnées à une peine de travail d'intérêt général",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988125",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret n° 2026-959 du 15 octobre 2026 relatif à la création, aux conditions et aux modalités de versement d'une indemnité carburant",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988304",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 2 octobre 2026 portant extension de l'accord interprofessionnel de l'association nationale interprofessionnelle bétail et viande (INTERBEV) du 12 mars 2026 relatif au sevrage des agnelets destinés à l'engraissement",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988359",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 8 octobre 2026 portant extension de l'accord interprofessionnel de l'association nationale interprofessionnelle bétail et viande (INTERBEV) du 9 avril 2026 relatif au classement et au contrôle de la couleur des carcasses de veaux en abattoirs",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988367",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 11 octobre 2026 homologuant le règlement technique d'examen des variétés de plantes protéagineuses en vue de leur inscription au Catalogue officiel des espèces et variétés de plantes cultivées en France",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988375",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 11 octobre 2026 homologuant le règlement technique d'examen des variétés de soja en vue de leur inscription au Catalogue officiel des espèces et variétés de plantes cultivées en France",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988384",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 11 octobre 2026 homologuant le règlement technique d'examen des variétés de tournesol en vue de leur inscription au Catalogue officiel des espèces et variétés de plantes cultivées en France",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988397",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 11 octobre 2026 homologuant le règlement technique d'examen des variétés de colza oléagineux d'hiver en vue de leur inscription au Catalogue officiel des espèces et variétés de plantes cultivées en France",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988410",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 autorisant l'ouverture au titre de l'année 2027 d'un examen professionnel pour l'accès au grade de géomètre du corps des géomètres-cadastreurs des finances publiques",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988497",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 7 octobre 2026 modifiant l'arrêté du 7 août 2025 portant création de la mention « activités de glisse aérotractée et disciplines associées » du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité « éducateur sportif »",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988513",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision du 5 octobre 2026 portant délégation de signature (secrétariat général)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988525",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 15 octobre 2026 chargeant une députée d'une mission temporaire",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988536",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 rapportant un décret de naturalisation (Accès protégé)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988543",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 portant nomination (directions départementales interministérielles)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988546",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 9 octobre 2026 portant admission à la retraite (ingénieurs civils de la défense)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988554",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision du 14 octobre 2026 portant inscription au tableau d'avancement spécial pour l'année 2026 (armée active)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988556",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 28 septembre 2026 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988559",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 portant nomination du chef du service de surveillance du marché des véhicules et des moteurs",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988561",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant dispense (magistrature)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988564",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant détachement (magistrature) - M. POISSONNIER (Ghislain)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988571",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant maintien en détachement (magistrature) - Mme BRIARD (Mélanie)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988584",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant détachement (magistrature) - M. AUGUET (Gérald)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988597",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 portant admission à la retraite et maintien en fonction (magistrature) - M. MAUREL (Eric)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988611",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décret du 14 octobre 2026 modifiant le décret du 24 mars 2026 portant changements de noms (Accès protégé)",
+      "nature": "DECRET",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988620",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 relatif à une société civile professionnelle (officiers publics ou ministériels)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988623",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant dissolution d'une société civile professionnelle et nomination d'une société d'exercice libéral à responsabilité limitée (officiers publics ou ministériels)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988628",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 12 octobre 2026 portant nomination d'une société d'exercice libéral à responsabilité limitée (officiers publics ou ministériels)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988638",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 6 octobre 2026 portant admission à la retraite (ingénieurs des ponts, des eaux et des forêts)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988652",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 portant nomination au conseil de la Caisse nationale de solidarité pour l'autonomie",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988655",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à l'extension d'un accord territorial (Dordogne) conclu dans le cadre de la convention collective nationale de la métallurgie",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988679",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision n° 2026-341 L du 15 octobre 2026",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988690",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision n° 2026-340 L du 15 octobre 2026",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988740",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Ordre du jour",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988866",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Conférence des présidents",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988868",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Commissions et organes de contrôle",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988870",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Documents et publications",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988872",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Commissions / organes temporaires",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988875",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Documents déposés",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988877",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Documents publiés",
+      "nature": "INFORMATIONS_PARLEMENTAIRES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988879",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de directeur départemental interministériel (direction départementale des territoires de la Haute-Marne)",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988884",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de directeur du secrétariat général commun départemental (secrétariat général commun départemental de Guadeloupe)",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988914",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de directeur régional et interdépartemental adjoint de l'hébergement et du logement en Ile-de-France, directeur de l'unité départementale des Hauts-de-Seine",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988943",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de sous-directeur",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988951",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à l'organisation au titre de l'année 2027 d'un examen professionnel pour l'accès au grade de géomètre du corps des géomètres-cadastreurs des finances publiques",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988969",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de directeur départemental des finances publiques de Lot-et-Garonne",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988976",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis de vacance d'un emploi de directeur du pôle opérations de l'Etat et missions support de la direction départementale des finances publiques des Yvelines",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988985",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à la délibération n° 2026-15 de l'Agence de l'eau Rhône Méditerranée Corse relative aux taux de redevance prélèvement des années 2027 à 2030",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989001",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à la délibération n° 2026-17 de l'Agence de l'eau Rhône Méditerranée Corse relative à l'extension à la Crau de la zone E - Camargue pour la redevance prélèvement des années 2027 à 2030",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989022",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à la délibération n° 2026-29 de l'Agence de l'eau Rhin Meuse relative à la suspension d'évolution de la redevance irrigation non gravitaire sur le Bassin Rhin-Meuse pour l'année d'activité 2027",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989032",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à l'indice des prix à la consommation",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989038",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif aux index nationaux du bâtiment, des travaux publics et aux index divers de la construction (référence 100 en 2010) et à l'indice de réactualisation des actifs matériels dans la construction d'août 2026, et aux évolutions provisoires des indices de prix des hydrocarbures pour le mois de septembre 2026",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989045",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif aux prix de la spécialité pharmaceutique",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989049",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à la décision de l'Union nationale des caisses d'assurance maladie portant fixation du taux de participation de l'assuré applicable à une spécialité pharmaceutique",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989051",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à la tarification des sondes de drainage vésical intermittent avec et sans collecteur scellé SPEEDICATH COMPACT visées à l'article L. 165-1 du code de la sécurité sociale",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989053",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Demandes de changement de nom (Accès protégé textes 94 à 109)",
+      "nature": "ANNONCES",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989056",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 relatif aux modalités d'organisation du vote électronique par internet pour l'élection des représentants du personnel au sein des instances de dialogue social du ministère de la justice",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988137",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision n° 2026-527 du 7 octobre 2026 portant reconduction de l'autorisation délivrée à la SAS RFM Entreprises pour l'exploitation d'un service de radio de catégorie D par voie hertzienne terrestre en modulation de fréquence dénommé RFM",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988839",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis modifiant un avis de vacance d'emplois de directeur ou de directrice d'établissements sanitaires, sociaux et médico-sociaux",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988962",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 fixant le nombre de places offertes au titre de l'année 2027 pour le recrutement dans le corps des sous-officiers du service de l'énergie opérationnelle",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988057",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 approuvant les plans de gestion des organisations de producteurs pour l'année 2026",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988116",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 14 octobre 2026 portant délégation de signature (direction générale des entreprises)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988332",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 portant approbation des statuts de l'Institut calédonien de participation (ICAP)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988490",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision du 14 octobre 2026 portant nomination (tribunaux administratifs et cours administratives d'appel)",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988646",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 1er octobre 2026 portant nomination d'une directrice régionale de l'Institut national de la statistique et des études économiques",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988649",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Arrêté du 13 octobre 2026 portant extension d'accords régionaux (Provence-Alpes-Côte d'Azur) conclus dans le cadre des conventions collectives nationales des ouvriers employés par les entreprises du bâtiment visées et non visées par le décret du 1er mars 1962 modifié (entreprises occupant jusqu'à 10 salariés et entreprises occupant plus de 10 salariés) (nos 1596 et 1597) et de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment (n° 2609)",
+      "nature": "ARRETE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988660",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à l'extension d'un avenant à la convention collective nationale de l'assainissement et de la maintenance industrielle",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988674",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à l'extension d'un accord territorial (Bourgogne-Franche-Comté) conclu dans le cadre de la convention collective nationale relative aux conditions de travail dans les industries de carrières et de matériaux (ouvriers - employés, techniciens et agents de maîtrise)",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988684",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Décision du 8 octobre 2026 portant attribution de fonctions de rapporteur général adjoint de l'Autorité de la concurrence",
+      "nature": "DECISION",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988752",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis de vacance de l'emploi de directeur ou de directrice du Fonds pour l'insertion des personnes handicapées dans la fonction publique",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988993",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à la délibération n° 2026-16 de l'Agence de l'eau Rhône Méditerranée Corse relative à la dissociation des trajectoires de taux de redevances pour performance entre bassins et fixation des taux pour la Corse",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989011",
+      "date": "2026-10-16"
+    },
+    {
+      "titre": "Avis relatif à l'indice de référence des loyers, à l'indice de référence des loyers dans les collectivités régies par l'article 73 de la Constitution et à l'indice de référence des loyers dans la collectivité de Corse du troisième trimestre de 2026",
+      "nature": "AVIS",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054989040",
+      "date": "2026-10-16"
+    }
+  ],
+  "jo_retenus": [],
+  "jorf_issue_date": "2026-10-16",
+  "briefing_jorf": "Aucun texte présélectionné n’a été confirmé comme pertinent après vérification intégrale.",
+  "an_agenda": [
+    {
+      "date": "2026-10-16",
+      "heure": "09:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "15:00",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-16",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-19",
+      "heure": "15:00",
+      "ordre_du_jour": "Débat sur les finances locales · Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-19",
+      "heure": "21:30",
+      "ordre_du_jour": "Suite de la discussion du projet de loi de finances pour 2027 (première partie)"
+    },
+    {
+      "date": "2026-10-20",
+      "heure": "15:00",
+      "ordre_du_jour": "Questions au Gouvernement · Vote solennel sur le projet de loi de finances pour 2027 (première partie). · Discussion du projet de loi de financement de la sécurité sociale pour 2027"
+    },
+    {
+      "date": "2026-10-20",
+      "heure": "21:30",
+      "ordre_du_jour": "Discussion du projet de loi de financement de la sécurité sociale pour 2027"
+    },
+    {
+      "date": "2026-10-21",
+      "heure": "14:00",
+      "ordre_du_jour": "Questions au Gouvernement · Suite de la discussion du projet de loi de financement de la sécurité sociale pour 2027"
+    }
+  ]
+}
