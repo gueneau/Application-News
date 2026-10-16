@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-16T07:36:20.759353+00:00",
+  "generated_at": "2026-10-16T08:50:46.765294+00:00",
   "items": [
+    {
+      "id": "3647aec79f6cc6d4",
+      "source": "I4CE",
+      "categorie": "Climat",
+      "titre": "Été caniculaire, hiver budgétaire : les collectivités à l’heure des choix",
+      "resume": "Au moins 5 milliards d’euros, probablement plus : c’est le montant de la contribution au redressement des finances publiques demandée aux collectivités à l’ouverture des discussions sur le budget 2027. L’article Été caniculaire, hiver budgé",
+      "url": "https://www.i4ce.org/ete-caniculaire-hiver-budgetaire-collectivites-choix-climat/",
+      "published_at": "2026-10-16T08:44:34+00:00"
+    },
+    {
+      "id": "27d0002076d0e06d",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Canicule, inflation et crise du textile… Damartex fait face à une conjoncture toujours plus difficile - Investir Les Echos",
+      "resume": "Canicule, inflation et crise du textile… Damartex fait face à une conjoncture toujours plus difficile Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbVM5dzFnZW9vY2dHNXg0eHlOUUlmODlfMjhCaW84eXZ3WVhUX2h3Njl2Vkxyek9Zc2NONG9wNEdOd0F6WU9qU0VQQm9taFdwSDF5RjhVSXoyNWpQMW14OVNqc1YxUTgybFJUbFphNXdGNXNLUF9Rb3JUOEZvdzc1VTFINFhKOFNqN3JqR1FLM1ZJQzdjV1Ezay16ai03N3pzdU5GZW9Ra3pJei1RN1oxQUlQOG9lV19SajJvbExKWXlTUWx6WVJSalY3dmcyVXNfTkcxM29zSUlTZk9mUGltTnM3UzJ6bFVRNEEzT3ZaQTFOMFN6TWxDY1FKQlBGUmp0UHc?oc=5",
+      "published_at": "2026-10-16T06:54:27+00:00"
+    },
     {
       "id": "7e6ec23ca1a706f3",
       "source": "Reporterre",
@@ -14,7 +32,7 @@
       "id": "e9a3fb0d8eeb72db",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« On est souvent les derniers à être écoutés » : les lycéens des quartiers créent leur syndicat",
+      "titre": "« Nous, banlieusards, fils d'immigrés, on n'est pas assez représentés » : les lycéens des quartiers créent leur syndicat",
       "resume": "Elles et ils sont parmi les visages du mouvement lycéen : Soumaya, Walid et Karima ont lancé un syndicat par et pour les élèves des quartiers populaires, où la crise écologique se vit dans les salles de classe. Bruxelles (Belgique), reporta",
       "url": "https://reporterre.net/On-est-souvent-les-derniers-a-etre-ecoutes-les-lyceens-des-quartiers-creent-leur-syndicat",
       "published_at": "2026-10-16T06:28:28+00:00"
@@ -32,7 +50,7 @@
       "id": "e460a1955ecb2948",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Pour freiner la LGV Bordeaux-Toulouse, élus et habitants jouent à cache-cache avec les abatteuses",
+      "titre": "« La forêt, oui merci » : élus et riverains parviennent à freiner le chantier d'une ligne à grande vitesse",
       "resume": "Grâce à l'action pacifique d'habitants et d'élus, le déboisement prévu pour le chantier de la LGV Bordeaux-Toulouse est freiné à Ayguemorte-les-Graves. La commune tente également d'activer des leviers réglementaires. Ayguemorte-les-Graves (",
       "url": "https://reporterre.net/Pour-freiner-la-LGV-Bordeaux-Toulouse-elus-et-habitants-jouent-a-cache-cache-avec-les",
       "published_at": "2026-10-16T05:30:00+00:00"
@@ -59,7 +77,7 @@
       "id": "11f63b96c3e0d019",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Faut-il manger moins de fromage pour le climat ?",
+      "titre": "Faut-il manger moins de fromage pour diminuer son bilan carbone ?",
       "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
       "url": "https://www.lemonde.fr/planete/article/2026/10/16/faut-il-manger-moins-de-fromage-pour-le-climat_6795186_3244.html",
       "published_at": "2026-10-16T04:30:03+00:00"
@@ -632,15 +650,6 @@
       "published_at": "2026-09-25T15:19:52+00:00"
     },
     {
-      "id": "64042c3befd61438",
-      "source": "I4CE",
-      "categorie": "Climat",
-      "titre": "Vers des économies résilientes : du progrès à la transformation",
-      "resume": "Pour des économies durables, il faut aligner les flux financiers sur un développement sobre en carbone, résilient et durable. L’article Vers des économies résilientes : du progrès à la transformation est apparu en premier sur I4CE .",
-      "url": "https://www.i4ce.org/economies-resilientes-progres-transformation-climat/",
-      "published_at": "2026-09-25T08:45:20+00:00"
-    },
-    {
       "id": "807bedcb7a719896",
       "source": "France Stratégie",
       "categorie": "Climat",
@@ -711,15 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
     }
   ]
 }
