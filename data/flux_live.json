@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-16T10:26:38.200808+00:00",
+  "generated_at": "2026-10-16T11:16:30.030702+00:00",
   "items": [
+    {
+      "id": "b86138e61cec27d3",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le marché européen de l’hydrogène va vite manquer de canalisations",
+      "resume": "Même si l’hydrogène se développe moins vite que prévu, le manque d’infrastructures va quand même constituer un goulot d’étranglement. C’est le constat dressé par L’article Le marché européen de l’hydrogène va vite manquer de canalisations e",
+      "url": "https://www.greenunivers.com/2026/10/le-marche-europeen-de-lhydrogene-va-vite-manquer-de-canalisations-436065/",
+      "published_at": "2026-10-16T10:36:09+00:00"
+    },
+    {
+      "id": "b5881592fb8beb48",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Stockage stationnaire : TagEnergy décroche le record français avec 240 MW près de Reims",
+      "resume": "Dans un contexte d'électrification massive des usages, les besoins en stockage stationnaire s'accentuent, et les projets de batteries se multiplient. Focus sur celui de TagEnergy inauguré début octobre dans la Marne, le plus grand à ce jour",
+      "url": "https://www.actu-environnement.com/ae/news/tagenergy-inaugure-a-cernay-les-reims-la-batterie-stationnaire-la-plus-puissante-de-france-48675.php4#xtor=RSS-6",
+      "published_at": "2026-10-16T10:35:11+00:00"
+    },
+    {
+      "id": "c9c03c916ba2e00b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La pratique du vélo décolle de 18 % sur un an",
+      "resume": "Le mois de septembre a été particulièrement propice à la pratique du vélo. En ville comme en zones périurbaines et rurales, l'augmentation totale de la pratique se chiffre à 18 %, selon les données publiées le 15 octobre par le Réseau vélo ",
+      "url": "https://reporterre.net/La-pratique-du-velo-decolle-de-18-sur-un-an",
+      "published_at": "2026-10-16T10:29:21+00:00"
+    },
     {
       "id": "4b1a63b00a95ae98",
       "source": "ESG Today",
@@ -74,6 +101,24 @@
       "published_at": "2026-10-16T09:00:00+00:00"
     },
     {
+      "id": "963b2542dcfca748",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les documents de la semaine",
+      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
+      "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
+      "published_at": "2026-10-16T09:00:00+00:00"
+    },
+    {
+      "id": "94198911b339b424",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’agenda de la transition énergétique",
+      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
+      "url": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-281-431464/",
+      "published_at": "2026-10-16T09:00:00+00:00"
+    },
+    {
       "id": "c079610498f7f1db",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -134,15 +179,6 @@
       "titre": "« La forêt, oui merci » : élus et riverains parviennent à freiner le chantier d'une ligne à grande vitesse",
       "resume": "Grâce à l'action pacifique d'habitants et d'élus, le déboisement prévu pour le chantier de la LGV Bordeaux-Toulouse est freiné à Ayguemorte-les-Graves. La commune tente également d'activer des leviers réglementaires. Ayguemorte-les-Graves (",
       "url": "https://reporterre.net/Pour-freiner-la-LGV-Bordeaux-Toulouse-elus-et-habitants-jouent-a-cache-cache-avec-les",
-      "published_at": "2026-10-16T05:30:00+00:00"
-    },
-    {
-      "id": "80277ff1879a0bc7",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Mobilisation du 17 octobre : « La droite et l'extrême droite sont en panique »",
-      "resume": "Plus de 750 mobilisations sont prévues en France le 17 octobre, nourries par le mouvement des lycéens et des Gilets jaunes. « On assiste à une superposition des crises et des contestations », analyse le sociologue Manuel Cervera-Marzal. « M",
-      "url": "https://reporterre.net/Mobilisation-du-17-octobre-La-droite-et-l-extreme-droite-sont-en-panique",
       "published_at": "2026-10-16T05:30:00+00:00"
     },
     {
@@ -290,15 +326,6 @@
       "published_at": "2026-10-15T14:47:00+00:00"
     },
     {
-      "id": "3ffbf6159a874271",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Risques inondation : l'aléa de référence va être modifié afin de tenir compte des changements climatiques",
-      "resume": "Sont soumis à la consultation du public un projet de décret et d'arrêté relatifs aux risques d'inondations. Ces textes s'inscrivent dans la mise en oeuvre du troisième plan national d'adaptation au changement climatique (PNACC-3) ainsi que ",
-      "url": "https://www.actu-environnement.com/ae/news/pprn-alea-reference-inondation-changement-climatique-48670.php4#xtor=RSS-6",
-      "published_at": "2026-10-15T14:16:02+00:00"
-    },
-    {
       "id": "bc6cfe7d50229025",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -315,15 +342,6 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
-    },
-    {
-      "id": "d36dfdc91ae051e6",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’acte 2 du plan d’électrification national insiste sur la flexibilité",
-      "resume": "Maud Bregeon a présenté ce matin une nouvelle batterie de mesures pour électrifier l’économie. La liste complète et amplifie le premier train mis en branle en avril. En ces temps de crise des carburants et des prix du gaz et de l’électricit",
-      "url": "https://www.greenunivers.com/2026/10/lacte-2-du-plan-delectrification-national-insiste-sur-la-flexibilite-436128/",
-      "published_at": "2026-10-15T12:24:28+00:00"
     },
     {
       "id": "9c6ad7b8a842eb6d",
@@ -353,15 +371,6 @@
       "published_at": "2026-10-15T10:49:45+00:00"
     },
     {
-      "id": "5e23b43fbbda21c1",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Salaires des EnR : 40 postes au crible [3/3]",
-      "resume": "Dernier volet de notre dossier Recrutement & Salaires – Au mieux, les salaires stagnent. Mais la tendance est plutôt à la baisse. Et certains métiers sont particulièrement exposés comme en témoigne l’édition 2026 du benchmark des salaires d",
-      "url": "https://www.greenunivers.com/2026/10/salaires-des-enr-40-postes-au-crible-3-3-435348/",
-      "published_at": "2026-10-15T09:39:24+00:00"
-    },
-    {
       "id": "83a451bca54e4369",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -387,15 +396,6 @@
       "resume": "Le Haut conseil pour le climat publie une note détaillant les points de vigilance pour la révision post-2030 du marché […] L’article Points de vigilance pour la révision post-2030 du marché carbone européen est apparu en premier sur Haut Co",
       "url": "https://www.hautconseilclimat.fr/actualites/points-de-vigilance-pour-la-revision-post-2030-du-marche-carbone-europeen/",
       "published_at": "2026-10-14T17:08:03+00:00"
-    },
-    {
-      "id": "30e8609b8a9997fc",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Flexibilité : Voltalis et Siemens s’attaquent au secteur tertiaire",
-      "resume": "Voltalis veut exploiter le gisement de flexibilité dans les bâtiments tertiaires de petite et moyenne taille, en collaboration avec Siemens. Le spécialiste de l’effacement propose L’article Flexibilité : Voltalis et Siemens s’attaquent au s",
-      "url": "https://www.greenunivers.com/2026/10/flexibilite-voltalis-et-siemens-sattaquent-au-secteur-tertiaire-436102/",
-      "published_at": "2026-10-14T16:00:00+00:00"
     },
     {
       "id": "1dd6edcb81f83b4f",
