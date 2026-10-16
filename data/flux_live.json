@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-16T09:38:40.069728+00:00",
+  "generated_at": "2026-10-16T10:26:38.200808+00:00",
   "items": [
+    {
+      "id": "4b1a63b00a95ae98",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Google, Stripe, Shopify Sign Carbon Removal Deal with CO2-Into-Rock Startup 44.01",
+      "resume": "Carbon removal buyer coalition Frontier announced new offtake agreements with carbon sequestration technology company 44.01, […]",
+      "url": "https://www.esgtoday.com/google-stripe-shopify-sign-carbon-removal-deal-with-co2-into-rock-startup-44-01/?utm_source=rss&utm_medium=rss&utm_campaign=google-stripe-shopify-sign-carbon-removal-deal-with-co2-into-rock-startup-44-01",
+      "published_at": "2026-10-16T10:14:54+00:00"
+    },
+    {
+      "id": "4b4a88e44a1e2b6d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Mégaferme à saumons : une nouvelle manifestation prévue en Gironde",
+      "resume": "« Pure Salmon au Verdon, c'est à jamais non ! » Quelques semaines après avoir déposé deux recours devant la cour administrative d'appel de Bordeaux contre le projet d'usine à saumons Pure Salmon, les opposants appellent de nouveau à manifes",
+      "url": "https://reporterre.net/Megaferme-a-saumons-une-nouvelle-manifestation-prevue-en-Gironde",
+      "published_at": "2026-10-16T10:00:00+00:00"
+    },
+    {
+      "id": "ad4c145180a8d9db",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "A69 : le juge des référés refuse de suspendre l'autorisation modificative",
+      "resume": "Par deux ordonnances du 13&#8239;octobre 2026, le juge des référés de la cour administrative d'appel de Toulouse a rejeté les demandes de suspension de l'autorisation environnementale modificative du 10 juillet 2026, délivrée pour le projet",
+      "url": "https://www.actu-environnement.com/ae/news/a69-refere-suspension-autorisation-environnementale-48674.php4#xtor=RSS-6",
+      "published_at": "2026-10-16T09:52:50+00:00"
+    },
+    {
+      "id": "f4f17b4cecfa52e4",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’Espagne a connu le mois de septembre le plus chaud jamais enregistré avec un écart de 3,4 °C au-dessus de la normale",
+      "resume": "« Pour la première fois, un mois de septembre a présenté une température moyenne supérieure à la moyenne normale de l’été », a insisté l’agence météorologique espagnole.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/16/l-espagne-a-connu-le-mois-de-septembre-le-plus-chaud-jamais-enregistre-avec-un-ecart-de-3-4-c-au-dessus-de-la-normale_6795471_3244.html",
+      "published_at": "2026-10-16T09:48:53+00:00"
+    },
+    {
+      "id": "1b64b445a73d494b",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Climat : des assureurs anonymes alertent sur le risque de crise",
+      "resume": "Les événements climatiques font peser un risque d'inassurabilité dans certaines zones géographiques. @Denis Charlet / AFP Ils tirent la sonnette d’alarme. Une vingtaine de cadres dirigeants de compagnies d’assurance et de réassurance britan",
+      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/risque-climatique-assureurs-anonymes-alertent-risque-crise",
+      "published_at": "2026-10-16T09:45:56+00:00"
+    },
     {
       "id": "b87cd38605c2b153",
       "source": "ESG Today",
@@ -155,15 +200,6 @@
       "published_at": "2026-10-15T16:45:01+00:00"
     },
     {
-      "id": "8344eeb33775bcf3",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’Arabie saoudite, sous la pression des attaques des houthistes, tente de protéger ses exportations de pétrole",
-      "resume": "La résilience du principal producteur d’or noir du Golfe est mise à l’épreuve par les frappes des houthistes du Yémen, alliés de l’Iran, contre ses infrastructures civiles et énergétiques.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/15/petrole-sous-pression-des-attaques-l-arabie-saoudite-tente-de-proteger-ses-exportations_6794616_3234.html",
-      "published_at": "2026-10-15T16:30:10+00:00"
-    },
-    {
       "id": "79b653deca4d1f7c",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -225,15 +261,6 @@
       "resume": "Développeurs ayant encore des projets destinés au S21 et cherchant des solutions, installateurs devant se familiariser avec une nouvelle technologie, spécialistes des nouveaux débouchés dans la flexibilité et les marchés de l’énergie… L’édi",
       "url": "https://www.greenunivers.com/2026/10/m0-baseload-symphonics-mylight-150-les-coulisses-de-solarstorage-436179/",
       "published_at": "2026-10-15T15:23:56+00:00"
-    },
-    {
-      "id": "f340afc47c098ae2",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Cancers de la peau : travailler dehors nous expose davantage",
-      "resume": "Agricultrices, jardiniers et ouvriers du bâtiment ont un triste point commun : ils sont exposés aux rayons UV dans le cadre de leur activité professionnelle, et donc plus exposés aux cancers de la peau. Dans une expertise publiée le 15 octo",
-      "url": "https://reporterre.net/Cancers-de-la-peau-travailler-dehors-nous-expose-davantage",
-      "published_at": "2026-10-15T15:20:43+00:00"
     },
     {
       "id": "1fcb7268897daf89",
@@ -299,15 +326,6 @@
       "published_at": "2026-10-15T12:24:28+00:00"
     },
     {
-      "id": "8bd92b1eb8f0a644",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Loi souveraineté agricole : le projet d'arrêté pour les plans d'eau de moins d'un hectare en consultation",
-      "resume": "Le texte qui encadre l'allègement polémique des prescriptions pour les plans d'eau de moins d'un hectare en zone humide est en consultation. Cette disposition est inscrite dans la loi de protection et souveraineté agricole (Upsa), adoptée e",
-      "url": "https://www.actu-environnement.com/ae/news/plans-eau-zones-humides-arrete-upsa-48669.php4#xtor=RSS-6",
-      "published_at": "2026-10-15T12:08:16+00:00"
-    },
-    {
       "id": "9c6ad7b8a842eb6d",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -333,15 +351,6 @@
       "resume": "French clean hydrogen-focused investment firm Hy24 announced that it has signed an agreement to acquire […]",
       "url": "https://www.esgtoday.com/hy24-acquires-clean-hydrogen-platform-hynamics-from-edf/?utm_source=rss&utm_medium=rss&utm_campaign=hy24-acquires-clean-hydrogen-platform-hynamics-from-edf",
       "published_at": "2026-10-15T10:49:45+00:00"
-    },
-    {
-      "id": "3f50186e1984ba9a",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "California Locks in November Deadline for First Corporate Climate Reports",
-      "resume": "The California Office of Administrative Law (OAL) has approved the state’s new corporate greenhouse gas […]",
-      "url": "https://www.esgtoday.com/california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline",
-      "published_at": "2026-10-15T09:55:45+00:00"
     },
     {
       "id": "5e23b43fbbda21c1",
@@ -387,15 +396,6 @@
       "resume": "Voltalis veut exploiter le gisement de flexibilité dans les bâtiments tertiaires de petite et moyenne taille, en collaboration avec Siemens. Le spécialiste de l’effacement propose L’article Flexibilité : Voltalis et Siemens s’attaquent au s",
       "url": "https://www.greenunivers.com/2026/10/flexibilite-voltalis-et-siemens-sattaquent-au-secteur-tertiaire-436102/",
       "published_at": "2026-10-14T16:00:00+00:00"
-    },
-    {
-      "id": "7c036e199901df70",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Fini la coopérative : Duralex repris pour en faire \"l'usine de verre la plus verte au monde\"",
-      "resume": "Les salariés de Duralex se retrouvent à nouveau en difficulté. @MF Duralex aura eu mille vies, et presque autant de sauvetages. Mercredi 14 octobre, le tribunal de commerce d’Orléans a confié la célèbre verrerie aux verres de cantine à Tomé",
-      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/fini-la-cooperative-duralex-repris-pour-en-faire-lusine-de-verre-la-plus-verte-au-monde",
-      "published_at": "2026-10-14T14:45:17+00:00"
     },
     {
       "id": "1dd6edcb81f83b4f",
