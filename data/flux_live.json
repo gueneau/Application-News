@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-17T09:33:33.599992+00:00",
+  "generated_at": "2026-10-17T13:24:08.783906+00:00",
   "items": [
+    {
+      "id": "10b8e74743259ac1",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+      "resume": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect for",
+      "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+      "published_at": "2026-10-17T11:00:31+00:00"
+    },
     {
       "id": "9d893d4ab1e3be6f",
       "source": "Le Monde Planète",
@@ -14,7 +23,7 @@
       "id": "7494eb34e7034d94",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Comment nous sommes devenus accros au pétrole : « On a rendu normale, désirable son utilisation »",
+      "titre": "Dépendance au pétrole : « On a rendu normale, désirable son utilisation »",
       "resume": "La flambée du prix des carburants est l'un des moteurs de la mobilisation du 17 octobre. La France s'est rendue dépendante du pétrole dès les années 1950, pour tirer profit de sa puissance coloniale, et n'a jamais cessé de renforcer les int",
       "url": "https://reporterre.net/Comment-nous-sommes-devenus-accros-au-petrole-On-a-rendu-normale-desirable-son",
       "published_at": "2026-10-17T05:30:00+00:00"
@@ -23,7 +32,7 @@
       "id": "8bd5e5d78bf4e706",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Infirmière, charpentier, apiculteur : comment ils font face à la flambée des prix du carburant",
+      "titre": "Faire face à la flambée des prix du carburant : infirmière, charpentier et apiculteur racontent",
       "resume": "Depuis qu'un plein d'essence coûte aussi cher, certains travailleurs, obligés d'utiliser leur voiture, tirent la langue. L'un essaie de relocaliser au maximum ses chantiers, une autre espère des aides de l'État… Témoignages. Face à la flamb",
       "url": "https://reporterre.net/Infirmiere-charpentier-apiculteur-comment-ils-font-face-a-la-flambee-des-prix-du",
       "published_at": "2026-10-17T05:30:00+00:00"
@@ -63,15 +72,6 @@
       "resume": "La COP Biodiversité s'ouvre ce lundi en Arménie. Au programme : l'examen du rapport sur les progrès accomplis dans la mise en oeuvre du cadre mondial de Kunming-Montréal et l'adoption d'une décision destinée à accélérer sa mise en oeuvre.",
       "url": "https://www.actu-environnement.com/ae/news/cop17-biodiversite-kunming-montreal-mise-en-oeuvre-48679.php4#xtor=RSS-6",
       "published_at": "2026-10-16T15:31:42+00:00"
-    },
-    {
-      "id": "672afa4f1f685c2c",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Biodiversité : il était une fois un éléphant de mer austral en danger - Les Echos",
-      "resume": "Biodiversité : il était une fois un éléphant de mer austral en danger Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcXJIYjYzbkdJUUxVSlY3ZFZhUk5tWFhVRW1yLVhJMm0tZzJJQWlMQ2tRMUpiM1U2cHFoYTl3bUFIVTNrQ2toY0NZMlFEdVNqSWpjdmJpRVRvZGJMN0tOM2lmVzd1RUp3MVpsMXdVbC1hVEVpdmFzZDUxalU4NW93RkIyMC04ZHpVU2lGbUx3cmFCbWRIYzB1ZGJnRmVrLS00V0p2Q21qX01zN1cwTVpkTUpuWm96U3ZzYXdzaUhLZFE5cl9HT0tmVlNSbTduQ2FNTVRrc2VqZw?oc=5",
-      "published_at": "2026-10-16T15:00:35+00:00"
     },
     {
       "id": "f5336409d267d992",
@@ -407,6 +407,15 @@
       "published_at": "2026-10-15T05:25:26+00:00"
     },
     {
+      "id": "c29f0bbe22526d31",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année - Les Echos",
+      "resume": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXlycnNNU2d3RFllbzBWRUtvR1N2RFN6cERNRHo5UTVWd09SM0ZsLXhsQjRoakM4NjF6R0M4S3VUV1J2Ym03UlYxcV8yQ1RRMHZ0YVNXdmxjNllvSzlwaHQ0c3l6VU0tcm51Y3l4VmUzUDZDOU02MktVb1RKVTZmYS1NZjR5bUViUXQ5Y0xwNmplY1pNaHpSdjl1cUdDNm5BUTdBTEs2ZGFsYXEycEtYYXUwcDdkRk9JTWxSaTVZai1CY2tnM2IwcHIxdkVuVlJYa09xVXp1QzBGY0VTT3RZSVdNQURmb3FuTzdmeUYzTnFFVkVN?oc=5",
+      "published_at": "2026-10-14T17:18:34+00:00"
+    },
+    {
       "id": "39a934e94444e6db",
       "source": "Haut Conseil pour le Climat",
       "categorie": "Climat",
@@ -540,15 +549,6 @@
       "resume": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians As what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and th",
       "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
       "published_at": "2026-10-11T13:45:27+00:00"
-    },
-    {
-      "id": "fd89bee062df53c5",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "‘A living hell’: how Los Angeles got taken over by mosquitoes",
-      "resume": "Heat and humidity have led to one of the worst mosquito years in recent history, with West Nile virus at a decade high Los Angeles might be best known for blue skies, beaches and film premiers — but for the last several years it’s held anot",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
-      "published_at": "2026-10-11T11:00:25+00:00"
     },
     {
       "id": "29632628c172cc87",
