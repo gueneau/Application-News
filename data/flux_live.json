@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-17T16:33:59.780042+00:00",
+  "generated_at": "2026-10-17T17:27:22.326662+00:00",
   "items": [
+    {
+      "id": "6016507fa5bd0656",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les Gilets jaunes et la jeunesse ont convergé",
+      "resume": "500 000 manifestants ont manifesté dans les rues en France, selon la CGT , lors de la journée de mobilisation sociale du 17 octobre. Ils dénonçaient la vie chère, mais réclamaient aussi la « justice climatique », des moyens pour l'éducation",
+      "url": "https://reporterre.net/Prix-de-l-essence-manque-de-profs-et-forets-en-feu-le-17-octobre-les-Gilets-jaunes-et-la-jeunesse-ont-converge",
+      "published_at": "2026-10-17T17:20:34+00:00"
+    },
     {
       "id": "8a45e995cf9158c7",
       "source": "Reporterre",
@@ -144,15 +153,6 @@
       "resume": "Les aéroports multiplient leurs efforts pour stimuler la croissance du trafic aérien, malgré l'urgence de diminuer les vols. Le 16 octobre, la première pierre a été posée par Philippe Tabarot, ministre des Transports, pour une extension du ",
       "url": "https://reporterre.net/L-aeroport-Lyon-Saint-Exupery-va-grossir-avec-le-pretexte-des-JO-d-hiver",
       "published_at": "2026-10-16T14:05:59+00:00"
-    },
-    {
-      "id": "cfbbe1e2b95b9e28",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Des aides aux énergies renouvelables... redirigées vers le carburant",
-      "resume": "Financer les aides aux carburants en ponctionnant dans les énergies renouvelables. Le gouvernement a pris un décret d'annulation portant sur 406 millions d'euros d'aides destinées à soutenir la production solaire et éolienne, pour les réall",
-      "url": "https://reporterre.net/Des-aides-aux-energies-renouvelables-redirigees-vers-le-carburant",
-      "published_at": "2026-10-16T14:04:48+00:00"
     },
     {
       "id": "e05ae074766c7373",
