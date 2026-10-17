@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
-  "generated_at": "06:12",
-  "elapsed_seconds": 387,
+  "generated_at": "12:10",
+  "elapsed_seconds": 288,
   "errors": [],
   "stats": {
     "jo_analyses": 10,
@@ -9,20 +9,31 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-17T06:12:06",
+    "run_at": "2026-10-17T12:10:32",
     "sources": {
       "JORF": 0,
-      "RSS": 4,
+      "RSS": 5,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 36,
-    "llm_seconds": 57.5
+    "llm_calls": 26,
+    "llm_seconds": 20.8
   },
   "items": [
+    {
+      "id": "765210358bc0",
+      "source": "Le Monde Planète",
+      "categorie": "Eau",
+      "titre": "Dans le nord du Finistère, un approvisionnement en eau potable rendu périlleux par la sécheresse : « On commence tous à craindre un hiver sec »",
+      "resume": "Dans le nord du Finistère, la sécheresse et les risques de rupture d'alimentation en eau potable illustrent la vulnérabilité des approvisionnements locaux face aux aléas climatiques.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/10/17/dans-le-nord-du-finistere-un-approvisionnement-en-eau-potable-rendu-perilleux-par-la-secheresse-on-commence-tous-a-craindre-un-hiver-sec_6795810_3244.html",
+      "date": "2026-10-17"
+    },
     {
       "id": "d8238f94aaf7",
       "source": "ESG Today",
