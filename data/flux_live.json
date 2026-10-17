@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-17T05:25:28.447277+00:00",
+  "generated_at": "2026-10-17T09:18:29.922354+00:00",
   "items": [
+    {
+      "id": "9d893d4ab1e3be6f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le niveau d’alerte maximal sur la qualité de l’air déclenché dans une partie de l’Asie du Sud-Est, à la suite des incendies qui ravagent l’Indonésie",
+      "resume": "L’Indonésie est confrontée à de violents feux de forêt, qui ont ravagé des parties de Sumatra, de Bornéo et de la Papouasie, provoquant d’épaisses fumées toxiques qui traversent les frontières, notamment vers la Malaisie et Singapour.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/17/le-niveau-d-alerte-maximal-sur-la-qualite-de-l-air-declenche-dans-une-partie-de-l-asie-du-sud-est-apres-les-incendies-qui-ravagent-l-indonesie_6795956_3244.html",
+      "published_at": "2026-10-17T06:09:07+00:00"
+    },
+    {
+      "id": "7494eb34e7034d94",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Comment nous sommes devenus accros au pétrole : « On a rendu normale, désirable son utilisation »",
+      "resume": "La flambée du prix des carburants est l'un des moteurs de la mobilisation du 17 octobre. La France s'est rendue dépendante du pétrole dès les années 1950, pour tirer profit de sa puissance coloniale, et n'a jamais cessé de renforcer les int",
+      "url": "https://reporterre.net/Comment-nous-sommes-devenus-accros-au-petrole-On-a-rendu-normale-desirable-son",
+      "published_at": "2026-10-17T05:30:00+00:00"
+    },
+    {
+      "id": "8bd5e5d78bf4e706",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Infirmière, charpentier, apiculteur : comment ils font face à la flambée des prix du carburant",
+      "resume": "Depuis qu'un plein d'essence coûte aussi cher, certains travailleurs, obligés d'utiliser leur voiture, tirent la langue. L'un essaie de relocaliser au maximum ses chantiers, une autre espère des aides de l'État… Témoignages. Face à la flamb",
+      "url": "https://reporterre.net/Infirmiere-charpentier-apiculteur-comment-ils-font-face-a-la-flambee-des-prix-du",
+      "published_at": "2026-10-17T05:30:00+00:00"
+    },
+    {
+      "id": "a368dc762e216210",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La littérature se met à l'écologie : notre sélection de la rentrée",
+      "resume": "L'autobiographie d'un hêtre, un hommage poétique à une biologiste emblématique, un oiseau qui change la vie des humains qui l'observent... Découvrez notre sélection de romans écologistes parus ces derniers mois. D'année en année, le roman r",
+      "url": "https://reporterre.net/La-litterature-se-met-a-l-ecologie-notre-selection-de-la-rentree",
+      "published_at": "2026-10-17T05:30:00+00:00"
+    },
     {
       "id": "d195e5ffba5d9143",
       "source": "Le Monde Planète",
@@ -114,7 +150,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Delphine Batho : « Je ne multiplie pas les candidatures à gauche, je suis la seule candidate de l'écologie »",
-      "resume": "Delphine Batho, qui se considère comme la « seule candidate de l'écologie », se lance seule dans la course à la présidentielle. Estimant que « le discours du barrage ne suffit plus », elle entend mettre l'écologie de la beauté au centre de ",
+      "resume": "Delphine Batho, qui se considère comme la « seule candidate de l'écologie », se lance dans la course à la présidentielle. Estimant que « le discours du barrage ne suffit plus », elle entend mettre l'écologie de la beauté au centre de sa cam",
       "url": "https://reporterre.net/Delphine-Batho-Je-ne-multiplie-pas-les-candidatures-a-gauche-je-suis-la-seule-candidate-de-l-ecologie",
       "published_at": "2026-10-16T14:00:00+00:00"
     },
@@ -126,15 +162,6 @@
       "resume": "Sustainable aviation fuel (SAF) technology and production company LanzaJet announced that it has secured at […]",
       "url": "https://www.esgtoday.com/lanzajet-secures-20-million-financing-to-scale-sustainable-aviation-fuel-production/?utm_source=rss&utm_medium=rss&utm_campaign=lanzajet-secures-20-million-financing-to-scale-sustainable-aviation-fuel-production",
       "published_at": "2026-10-16T13:47:59+00:00"
-    },
-    {
-      "id": "32e01253df31c15a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
-      "resume": "Arrachage des yeux à vif (épédonculation) et mort par suffocation dans de l'eau glacée : ce sont les sévices que subissent une grande partie des 9 milliards de crevettes consommées chaque année en France, et essentiellement importées. Des p",
-      "url": "https://reporterre.net/Arrachage-des-yeux-des-crevettes-les-supermarches-sommes-d-arreter-une-pratique-cruelle",
-      "published_at": "2026-10-16T12:44:23+00:00"
     },
     {
       "id": "d1cb005ad6355d31",
@@ -164,15 +191,6 @@
       "published_at": "2026-10-16T12:04:03+00:00"
     },
     {
-      "id": "2ebd21b4ff5e4d64",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les pressions de la FNSEA ont échoué : le schéma de gestion de l'eau de la Vilaine enfin adopté",
-      "resume": "Le Sage de la Vilaine, l'un des plus importants schémas d'aménagement et de gestion de l'eau, a été adopté le 16 octobre. Ce, après des mois de report en raison de blocages des syndicats agricoles productivistes. Enfin. Après de longs mois ",
-      "url": "https://reporterre.net/Les-pressions-de-la-FNSEA-ont-echoue-le-schema-de-gestion-de-l-eau-de-la-Vilaine-enfin-adopte",
-      "published_at": "2026-10-16T11:51:10+00:00"
-    },
-    {
       "id": "b86138e61cec27d3",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -189,15 +207,6 @@
       "resume": "Dans un contexte d'électrification massive des usages, les besoins en stockage stationnaire s'accentuent, et les projets de batteries se multiplient. Focus sur celui de TagEnergy inauguré début octobre dans la Marne, le plus grand à ce jour",
       "url": "https://www.actu-environnement.com/ae/news/tagenergy-inaugure-a-cernay-les-reims-la-batterie-stationnaire-la-plus-puissante-de-france-48675.php4#xtor=RSS-6",
       "published_at": "2026-10-16T10:35:11+00:00"
-    },
-    {
-      "id": "c9c03c916ba2e00b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "La pratique du vélo décolle de 18 % sur un an",
-      "resume": "Le mois de septembre a été particulièrement propice à la pratique du vélo. En ville comme en zones périurbaines et rurales, l'augmentation totale de la pratique se chiffre à 18 %, selon les données publiées le 15 octobre par le Réseau vélo ",
-      "url": "https://reporterre.net/La-pratique-du-velo-decolle-de-18-sur-un-an",
-      "published_at": "2026-10-16T10:29:21+00:00"
     },
     {
       "id": "4b1a63b00a95ae98",
@@ -308,15 +317,6 @@
       "published_at": "2026-10-16T04:45:55+00:00"
     },
     {
-      "id": "11f63b96c3e0d019",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Faut-il manger moins de fromage pour diminuer son bilan carbone ?",
-      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/16/faut-il-manger-moins-de-fromage-pour-le-climat_6795186_3244.html",
-      "published_at": "2026-10-16T04:30:03+00:00"
-    },
-    {
       "id": "79b653deca4d1f7c",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -398,6 +398,15 @@
       "published_at": "2026-10-15T11:45:55+00:00"
     },
     {
+      "id": "83a451bca54e4369",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Mobilité et RSE : conjuguer écologie et rentabilité - Les Echos",
+      "resume": "Mobilité et RSE : conjuguer écologie et rentabilité Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A5TjBiM1lkTUpzYkdrVllzTGxsOGF6eGRGM0VhSmc5WVZBc0xRRkhZRlN4ZThOZmZfQTNhTTFHXzZKVDMyRjJnaG1Pc2NIVzFkWHI2TTFZbjVNUnFCaFpMM0VEMXhxWDFzNTVqTnFwRGV6VGpobXphV0lobXVuN0J5UW53cjllbVVTWnJ6R0k0UnhVUkpQU0JWSGY?oc=5",
+      "published_at": "2026-10-15T05:25:26+00:00"
+    },
+    {
       "id": "39a934e94444e6db",
       "source": "Haut Conseil pour le Climat",
       "categorie": "Climat",
@@ -441,15 +450,6 @@
       "resume": "Visionnez le replay de notre Contexte Live consacré à la COP17 biodiversité, qui se tiendra du 19 au 30 octobre à Erevan (Arménie).",
       "url": "https://www.contexte.com/fr/article/environnement/cop17-a-erevan-le-cadre-mondial-de-la-biodiversite-a-lepreuve-des-engagements_281163?source=rss",
       "published_at": "2026-10-14T06:00:00+00:00"
-    },
-    {
-      "id": "1986cb15de2e50e3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Nucléaire : EDF a-t-il été victime de « corruption en bande organisée et d'entente anticoncurrentielle » de la part d'entreprises de maintenance - Les Echos",
-      "resume": "Nucléaire : EDF a-t-il été victime de « corruption en bande organisée et d'entente anticoncurrentielle » de la part d'entreprises de maintenance Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObzRhbWtmb081VXZSV3lkN1NxNlYwVlRTXzQ2cVRlYjhQQ1hZUzZDVjJYVEFtcGtOVzRrSnNWUzV0U2QzclZIaVU4dm5CVnVpWkMxWm93ekZVbXRVdVNUWC1INUJ3VXlHTURuV3NjWWp1eGhRbEpqN2Fmb0ZCMG55RHUtQy1Pdm5wQ2UxdVFFaUJNeDNsZ3Y0Ni00WkhfN1NlVDh3MmRhUExVbUk1aTFmSWNDM1d4MWE5b2ZjRzhzMVo1dDNwVy1rT3B0WjVKdXVLZUlFTjBMQXczS0Y5Z2FKNjZRQ1E4c2d0a3c?oc=5",
-      "published_at": "2026-10-13T17:15:56+00:00"
     },
     {
       "id": "30381d5fea126d6f",
