@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-17T13:24:08.783906+00:00",
+  "generated_at": "2026-10-17T16:33:59.780042+00:00",
   "items": [
+    {
+      "id": "8a45e995cf9158c7",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Même les débuts de mois sont difficiles » : ces Gilets jaunes ont remis le couvert le 17 octobre",
+      "resume": "Près de 80 personnes se sont rassemblées à Montpon-Ménestérol, en Dordogne, où le mouvement des Gilets jaunes s'était solidement implanté. Dans cette commune rurale, la hausse du prix de l'essence et le coût de la vie ravivent la colère. Mo",
+      "url": "https://reporterre.net/Meme-les-debuts-de-mois-sont-difficiles-ces-Gilets-jaunes-ont-remis-le-couvert-le-17-octobre",
+      "published_at": "2026-10-17T15:52:37+00:00"
+    },
     {
       "id": "10b8e74743259ac1",
       "source": "The Guardian Environment",
@@ -23,7 +32,7 @@
       "id": "7494eb34e7034d94",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Dépendance au pétrole : « On a rendu normale, désirable son utilisation »",
+      "titre": "« On a rendu normale, désirable son utilisation » : aux origines de notre addiction au pétrole",
       "resume": "La flambée du prix des carburants est l'un des moteurs de la mobilisation du 17 octobre. La France s'est rendue dépendante du pétrole dès les années 1950, pour tirer profit de sa puissance coloniale, et n'a jamais cessé de renforcer les int",
       "url": "https://reporterre.net/Comment-nous-sommes-devenus-accros-au-petrole-On-a-rendu-normale-desirable-son",
       "published_at": "2026-10-17T05:30:00+00:00"
@@ -32,7 +41,7 @@
       "id": "8bd5e5d78bf4e706",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Faire face à la flambée des prix du carburant : infirmière, charpentier et apiculteur racontent",
+      "titre": "Prix du carburant : infirmière, charpentier et apiculteur racontent comment ils font face à la flambée",
       "resume": "Depuis qu'un plein d'essence coûte aussi cher, certains travailleurs, obligés d'utiliser leur voiture, tirent la langue. L'un essaie de relocaliser au maximum ses chantiers, une autre espère des aides de l'État… Témoignages. Face à la flamb",
       "url": "https://reporterre.net/Infirmiere-charpentier-apiculteur-comment-ils-font-face-a-la-flambee-des-prix-du",
       "published_at": "2026-10-17T05:30:00+00:00"
@@ -144,15 +153,6 @@
       "resume": "Financer les aides aux carburants en ponctionnant dans les énergies renouvelables. Le gouvernement a pris un décret d'annulation portant sur 406 millions d'euros d'aides destinées à soutenir la production solaire et éolienne, pour les réall",
       "url": "https://reporterre.net/Des-aides-aux-energies-renouvelables-redirigees-vers-le-carburant",
       "published_at": "2026-10-16T14:04:48+00:00"
-    },
-    {
-      "id": "50b289a29041bff8",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Delphine Batho : « Je ne multiplie pas les candidatures à gauche, je suis la seule candidate de l'écologie »",
-      "resume": "Delphine Batho, qui se considère comme la « seule candidate de l'écologie », se lance dans la course à la présidentielle. Estimant que « le discours du barrage ne suffit plus », elle entend mettre l'écologie de la beauté au centre de sa cam",
-      "url": "https://reporterre.net/Delphine-Batho-Je-ne-multiplie-pas-les-candidatures-a-gauche-je-suis-la-seule-candidate-de-l-ecologie",
-      "published_at": "2026-10-16T14:00:00+00:00"
     },
     {
       "id": "e05ae074766c7373",
