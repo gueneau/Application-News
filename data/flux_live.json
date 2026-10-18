@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-18T11:30:30.594930+00:00",
+  "generated_at": "2026-10-18T13:37:48.786196+00:00",
   "items": [
+    {
+      "id": "c84c21e7c825f9c1",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
+      "resume": "Protéger les terres et les océans, restaurer les écosystèmes dégradés, sortir des pesticides... La COP17 biodiversité s'ouvre le 19 octobre en Arménie afin de freiner l'effondrement du vivant. Un objectif ambitieux, qui accumule déjà des re",
+      "url": "https://reporterre.net/COP17-biodiversite-les-enjeux-du-rendez-vous-en-Armenie-La-COP17-ne-sera-pas-celle-des",
+      "published_at": "2026-10-18T13:00:00+00:00"
+    },
+    {
+      "id": "f33bb14016962c60",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
+      "resume": "Agency changes wording on website as Texas-based chemical firm continues manufacture of plastic containers The Environmental Protection Agency has quietly backtracked on a claim that the US has phased out two of the most dangerous Pfas comp",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+      "published_at": "2026-10-18T12:00:03+00:00"
+    },
+    {
+      "id": "8374bb8ba9f9b0c4",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US workers facing deadly heat borrow from tomato pickers to win key protections",
+      "resume": "As efforts to protect people from extreme heat stall, organizers are embracing an approach that targets major brands’ reputations “It’s the kind of heat that makes you feel like you’re being dehydrated, like your skin is drying out,” said L",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections",
+      "published_at": "2026-10-18T12:00:02+00:00"
+    },
     {
       "id": "b7cfc1948e97181a",
       "source": "The Guardian Environment",
@@ -164,15 +191,6 @@
       "published_at": "2026-10-16T15:00:35+00:00"
     },
     {
-      "id": "f5336409d267d992",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US voters want more action on global heating. Why are Democrats and Republicans staying silent?",
-      "resume": "Polls show that Democrats and Republicans in battleground states want to hear more from candidates about the climate crisis Most Americans feel unease or alarm about the climate crisis and, in both red and blue states, want to know how poli",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/midterms-voters-climate-crisis-candidates",
-      "published_at": "2026-10-16T15:00:04+00:00"
-    },
-    {
       "id": "0f8c4f63ca9036e5",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -207,15 +225,6 @@
       "resume": "Par une ordonnance du 15 octobre 2026, le juge des référés de la cour administrative d'appel de Lyon a rejeté la requête de plusieurs associations et riverains qui demandaient la suspension de l'arrêté du préfet de la Haute-Savoie portant a",
       "url": "https://www.actu-environnement.com/ae/news/a412-refere-suspension-autorisation-environnementale-48677.php4#xtor=RSS-6",
       "published_at": "2026-10-16T14:20:33+00:00"
-    },
-    {
-      "id": "512cdcdc9f4e4dfe",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "L'aéroport Lyon-Saint-Exupéry va grossir, avec le prétexte des JO d'hiver",
-      "resume": "Les aéroports multiplient leurs efforts pour stimuler la croissance du trafic aérien, malgré l'urgence de diminuer les vols. Le 16 octobre, la première pierre a été posée par Philippe Tabarot, ministre des Transports, pour une extension du ",
-      "url": "https://reporterre.net/L-aeroport-Lyon-Saint-Exupery-va-grossir-avec-le-pretexte-des-JO-d-hiver",
-      "published_at": "2026-10-16T14:05:59+00:00"
     },
     {
       "id": "e05ae074766c7373",
@@ -513,15 +522,6 @@
       "resume": "Le candidat LR à l’élection présidentielle préfère les réacteurs de quatrième génération, a-t-il déclaré au sommet pour la compétitivité de POLITICO.",
       "url": "https://www.politico.eu/article/bruno-retailleau-temporise-sur-la-relance-du-nucleaire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T13:47:24+00:00"
-    },
-    {
-      "id": "e90c675cf9b57a29",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
-      "resume": "Team works to restore the sunflower sea star as 95% of these key underwater ecosystems have been decimated along the Pacific coast in past decade Off the coast of Monterey, California , a team of researchers is gearing up for its first dive",
-      "url": "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests",
-      "published_at": "2026-10-13T12:00:01+00:00"
     },
     {
       "id": "dbf051cde67573f8",
