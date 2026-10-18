@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-18T06:14:22.193925+00:00",
+  "generated_at": "2026-10-18T11:30:30.594930+00:00",
   "items": [
+    {
+      "id": "b7cfc1948e97181a",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "A California town’s beaches are washing away. Can its residents turn the tide?",
+      "resume": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate crisis San Clemente is one of southern California’s most picture-perfect beach towns – a ca",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
+      "published_at": "2026-10-18T11:00:03+00:00"
+    },
+    {
+      "id": "e5c02134f06668d4",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "If Trump fells 430 trees in the middle of a golf course, do they make a sound?",
+      "resume": "In attempting to turn a public space in DC into an enclave for elites, Trump is moving the US capital closer to Graceland When is a tree not a tree? When it’s an obstacle to a par-3. If a tree falls in the middle of a golf course, does it m",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/trump-golf-course-washington-dc",
+      "published_at": "2026-10-18T10:00:56+00:00"
+    },
+    {
+      "id": "b3a5a6428dd4e056",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESG Today: Week in Review",
+      "resume": "This week in ESG news: BNP Paribas AM launches new global sustainability strategy following AXA […]",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-279/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-279",
+      "published_at": "2026-10-18T09:20:44+00:00"
+    },
+    {
+      "id": "58afa8764d8b2806",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Décarbonation de l'aviation : même la feuille de route la plus ambitieuse dépasse les limites planétaires - Les Echos",
+      "resume": "Décarbonation de l'aviation : même la feuille de route la plus ambitieuse dépasse les limites planétaires Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTmJuTmpzcEhmTmZhUGZZSEg3T0VSR0RncDBSTXdzTlFLTnVVdy1NTWI0XzdHQlgxOWl2YzUxbFQ2S3dUaDlIT2hQazNUNVZJNVZyNWRJT0l4Y2ZZRjJNV3ZzVjJlU0VfcFBHSTRyTUpZbzdBVDFRVWpBdGdXOWo5cUYtNzJ3dUVpa3dYY0dqSURMUHdKdW40LTJXNlByTWdzd1oyZkZUWVFoZ05SZ1NLNk9MNlNmQ0t1NWNOaVBZSEJGTDFrVmRFLUlPRWVOS2Ftd2h1N3dZQzRKV2pfa3UtdDFIMzhicWlnckZIMWc5LUlxSk9Dd1VxaENxelBpeWVIQzA2Q2tB?oc=5",
+      "published_at": "2026-10-18T06:40:11+00:00"
+    },
     {
       "id": "cc42af6d5c4375e0",
       "source": "Le Monde Planète",
@@ -308,15 +344,6 @@
       "published_at": "2026-10-16T08:44:34+00:00"
     },
     {
-      "id": "27d0002076d0e06d",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Canicule, inflation et crise du textile… Damartex fait face à une conjoncture toujours plus difficile - Investir Les Echos",
-      "resume": "Canicule, inflation et crise du textile… Damartex fait face à une conjoncture toujours plus difficile Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbVM5dzFnZW9vY2dHNXg0eHlOUUlmODlfMjhCaW84eXZ3WVhUX2h3Njl2Vkxyek9Zc2NONG9wNEdOd0F6WU9qU0VQQm9taFdwSDF5RjhVSXoyNWpQMW14OVNqc1YxUTgybFJUbFphNXdGNXNLUF9Rb3JUOEZvdzc1VTFINFhKOFNqN3JqR1FLM1ZJQzdjV1Ezay16ai03N3pzdU5GZW9Ra3pJei1RN1oxQUlQOG9lV19SajJvbExKWXlTUWx6WVJSalY3dmcyVXNfTkcxM29zSUlTZk9mUGltTnM3UzJ6bFVRNEEzT3ZaQTFOMFN6TWxDY1FKQlBGUmp0UHc?oc=5",
-      "published_at": "2026-10-16T06:54:27+00:00"
-    },
-    {
       "id": "99e86161ff4ca488",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -396,15 +423,6 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
-    },
-    {
-      "id": "9c6ad7b8a842eb6d",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "L&G, NTR Raise $370 Million for New Clean Power Transition Fund",
-      "resume": "UK financial services group Legal & General (L&G) and sustainable infrastructure investor NTR announced today […]",
-      "url": "https://www.esgtoday.com/lg-ntr-raise-370-million-for-new-clean-power-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=lg-ntr-raise-370-million-for-new-clean-power-transition-fund",
-      "published_at": "2026-10-15T12:05:26+00:00"
     },
     {
       "id": "eddcaa4967890945",
@@ -522,24 +540,6 @@
       "resume": "Les énergies renouvelables doivent être développées pour garantir la sécurité d'approvisionnement en France, a indiqué le candidat Horizons à l’élection présidentielle.",
       "url": "https://www.politico.eu/article/energie-face-au-risque-lie-au-nucleaire-edouard-philippe-juge-les-renouvelables-utiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T10:16:49+00:00"
-    },
-    {
-      "id": "e5fa366103d9c55d",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Judge halts tree removal at Washington golf course Trump eyes for expansion",
-      "resume": "Ana Reyes demands Trump officials explain East Potomac tree cutting saying it will probably cause ‘irreparable harm’ US district judge Ana Reyes on Monday ordered a 24-hour halt to tree cutting at the historic East Potomac golf course while",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/order-halt-tree-removal-washington-dc-golf-course-trump",
-      "published_at": "2026-10-12T16:55:37+00:00"
-    },
-    {
-      "id": "56576a67766ca3c9",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "A super el Niño threatens our food system. Here’s how farms can prepare | Liz Carlisle",
-      "resume": "Planting cover crops or perennial plants can protect soil amid potential flooding. Congress must act to protect these practices As forecasters warn that this year’s El Niño could become the strongest on record , concerns are growing about i",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/12/super-el-nino-farms-prepare",
-      "published_at": "2026-10-12T13:00:55+00:00"
     },
     {
       "id": "38b200c48ff9f171",
