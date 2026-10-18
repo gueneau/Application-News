@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-18T14:45:46.146845+00:00",
+  "generated_at": "2026-10-18T17:42:49.765646+00:00",
   "items": [
+    {
+      "id": "f28497f78f29c43c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Une large partie de la communauté scientifique considère que les risques liés à l’IA sont significatifs »",
+      "resume": "L’idée qu’un « marketing de la peur » serait développé dans l’intérêt des entreprises d’intelligence artificielle fait fi des menaces réelles que l’IA fait peser sur l’humanité, alertent des spécialistes du secteur dans une tribune au « Mon",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/18/une-large-partie-de-la-communaute-scientifique-considere-que-les-risques-lies-a-l-ia-sont-significatifs_6797088_3232.html",
+      "published_at": "2026-10-18T16:00:01+00:00"
+    },
     {
       "id": "c84c21e7c825f9c1",
       "source": "Reporterre",
@@ -207,15 +216,6 @@
       "resume": "En plus de sa réforme des règles de raccordement autour de « premier prêt, premier servi », dont la consultation arrive à sa fin et que GreenUnivers a détaillée, RTE prépare des plans spécifiques pour l’Île-de-France. Ce territoire est conf",
       "url": "https://www.greenunivers.com/2026/10/comment-rte-veut-raccorder-les-data-centers-en-ile-de-france-436284/",
       "published_at": "2026-10-16T14:56:28+00:00"
-    },
-    {
-      "id": "3c6b35e21ab9e37b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Comment le RN a fait de la voiture un outil électoral et de notabilisation",
-      "resume": "Depuis la crise des « gilets jaunes », l’extrême droite saisit chaque occasion de se poser en défenseur des automobilistes et de leur pouvoir d’achat. Les constructeurs français, dont le Rassemblement national relaie les combats contre les ",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html",
-      "published_at": "2026-10-16T14:45:17+00:00"
     },
     {
       "id": "8e1557efd3ad040a",
