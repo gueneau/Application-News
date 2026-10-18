@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-18T01:19:26.085953+00:00",
+  "generated_at": "2026-10-18T06:14:22.193925+00:00",
   "items": [
+    {
+      "id": "cc42af6d5c4375e0",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Au Brésil, la perspective d’un retour de l’extrême droite fait craindre de nouveaux reculs pour l’environnement",
+      "resume": "S’il est élu le 25 octobre, Flavio Bolsonaro entend notamment restreindre la démarcation de nouvelles terres indigènes, encourager la production de pesticides et l’exploitation minière, pétrolière et gazière.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/18/au-bresil-la-perspective-d-un-retour-de-l-extreme-droite-fait-craindre-de-nouveaux-reculs-pour-l-environnement_6796998_3244.html",
+      "published_at": "2026-10-18T04:05:10+00:00"
+    },
+    {
+      "id": "601e44efc596b556",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
+      "resume": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés en 2022, et espérer inverser la tendance au déclin d’ici à 2030. La COP17 en Arménie est l’",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
+      "published_at": "2026-10-18T04:00:10+00:00"
+    },
     {
       "id": "2c5d4fd64b64461f",
       "source": "The Guardian Environment",
@@ -146,15 +164,6 @@
       "published_at": "2026-10-16T14:45:17+00:00"
     },
     {
-      "id": "a28e649584421a28",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le sud de l’Angleterre confronté à la première « sécheresse sévère » de son histoire",
-      "resume": "Les autorités s’inquiètent du niveau des grands réservoirs qui alimentent la population en eau potable. Les gestionnaires sont autorisés à déroger aux règles environnementales de protection du milieu naturel.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/16/le-sud-de-l-angleterre-confronte-a-la-premiere-secheresse-severe-de-son-histoire_6795555_3244.html",
-      "published_at": "2026-10-16T14:30:04+00:00"
-    },
-    {
       "id": "8e1557efd3ad040a",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -243,15 +252,6 @@
       "resume": "Par deux ordonnances du 13 octobre 2026, le juge des référés de la cour administrative d'appel de Toulouse a rejeté les demandes de suspension de l'autorisation environnementale modificative du 10 juillet 2026, délivrée pour le projet de li",
       "url": "https://www.actu-environnement.com/ae/news/a69-refere-suspension-autorisation-environnementale-48674.php4#xtor=RSS-6",
       "published_at": "2026-10-16T09:52:50+00:00"
-    },
-    {
-      "id": "f4f17b4cecfa52e4",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’Espagne a connu le mois de septembre le plus chaud jamais enregistré avec un écart de 3,4 °C au-dessus de la normale",
-      "resume": "« Pour la première fois, un mois de septembre a présenté une température moyenne supérieure à la moyenne normale de l’été », a insisté l’agence météorologique espagnole.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/16/l-espagne-a-connu-le-mois-de-septembre-le-plus-chaud-jamais-enregistre-avec-un-ecart-de-3-4-c-au-dessus-de-la-normale_6795471_3244.html",
-      "published_at": "2026-10-16T09:48:53+00:00"
     },
     {
       "id": "1b64b445a73d494b",
