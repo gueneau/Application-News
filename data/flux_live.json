@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-19T00:19:45.349957+00:00",
+  "generated_at": "2026-10-19T05:01:40.165187+00:00",
   "items": [
+    {
+      "id": "765f365cc4707146",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "17 octobre : \"Le monde économique ne peut pas se dédouaner\" de la crise de la cohésion sociale, selon Philippe Zaouati",
+      "resume": "Philippe Zaouti est l'ancien CEO de Mirova, une société de gestion d'actifs internationale destinée à l'investissement responsable. Vous avez publié un post LinkedIn à la suite des manifestations du 17 octobre sur \"le coût de l'inaction\" qu",
+      "url": "https://www.novethic.fr/economie-et-social/droits-humains/17-octobre-le-monde-economique-ne-peut-pas-se-dedouaner-de-la-crise-de-la-cohesion-sociale-selon-philippe-zaouati",
+      "published_at": "2026-10-19T04:45:22+00:00"
+    },
+    {
+      "id": "fb53ba96886a47cf",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pris au piège du détroit d’Ormuz, le Qatar cherche une sortie de crise",
+      "resume": "La guerre au Moyen-Orient affecte durement le riche émirat, en bouleversant le cœur de son modèle économique, bâti autour du gaz naturel liquéfié.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/19/pris-au-piege-du-detroit-d-ormuz-le-qatar-cherche-une-sortie-de-crise_6797486_3234.html",
+      "published_at": "2026-10-19T04:30:02+00:00"
+    },
+    {
+      "id": "ab909b4e32aba26c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP17 sur la biodiversité à Erevan : les leviers dont dispose la communauté internationale pour corriger la trajectoire « avant qu’il ne soit trop tard »",
+      "resume": "A Erevan, pendant deux semaines, 196 délégués vont essayer de faire avancer la protection de la biodiversité. Evaluer les efforts mis en place, négocier des financements entre pays du Nord et du Sud, articuler la place des communautés autoc",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/19/cop17-sur-la-biodiversite-a-erevan-les-leviers-dont-dispose-la-communaute-internationale-pour-corriger-la-trajectoire-avant-qu-il-ne-soit-trop-tard_6797481_3244.html",
+      "published_at": "2026-10-19T04:00:34+00:00"
+    },
+    {
+      "id": "8773f16231716a75",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie et inondations : le Gard et l’Hérault placés en vigilance orange lundi à partir de 14 heures",
+      "resume": "Météo-France anticipe des pluies dans la matinée, suivies d’« orages plus forts » remontant de la Méditerranée, dans l’après-midi.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/19/pluie-et-inondations-le-gard-et-l-herault-places-en-vigilance-orange-lundi-a-partir-de-14-heures_6797409_3244.html",
+      "published_at": "2026-10-19T03:39:22+00:00"
+    },
     {
       "id": "f33bb14016962c60",
       "source": "The Guardian Environment",
@@ -89,7 +125,7 @@
       "titre": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
       "resume": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés en 2022, et espérer inverser la tendance au déclin d’ici à 2030. La COP17 en Arménie est l’",
       "url": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
-      "published_at": "2026-10-18T04:00:10+00:00"
+      "published_at": "2026-10-18T04:00:03+00:00"
     },
     {
       "id": "2c5d4fd64b64461f",
@@ -128,15 +164,6 @@
       "published_at": "2026-10-17T11:00:31+00:00"
     },
     {
-      "id": "9d893d4ab1e3be6f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le niveau d’alerte maximal sur la qualité de l’air déclenché dans une partie de l’Asie du Sud-Est, à la suite des incendies qui ravagent l’Indonésie",
-      "resume": "L’Indonésie est confrontée à de violents feux de forêt, qui ont ravagé des parties de Sumatra, de Bornéo et de la Papouasie, provoquant d’épaisses fumées toxiques qui traversent les frontières, notamment vers la Malaisie et Singapour.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/17/le-niveau-d-alerte-maximal-sur-la-qualite-de-l-air-declenche-dans-une-partie-de-l-asie-du-sud-est-apres-les-incendies-qui-ravagent-l-indonesie_6795956_3244.html",
-      "published_at": "2026-10-17T06:09:07+00:00"
-    },
-    {
       "id": "7494eb34e7034d94",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -162,24 +189,6 @@
       "resume": "L'autobiographie d'un hêtre, un hommage poétique à une biologiste emblématique, un oiseau qui change la vie des humains qui l'observent... Découvrez notre sélection de romans écologistes parus ces derniers mois. D'année en année, le roman r",
       "url": "https://reporterre.net/La-litterature-se-met-a-l-ecologie-notre-selection-de-la-rentree",
       "published_at": "2026-10-17T05:30:00+00:00"
-    },
-    {
-      "id": "d195e5ffba5d9143",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Dans le nord du Finistère, un approvisionnement en eau potable rendu périlleux par la sécheresse : « On commence tous à craindre un hiver sec »",
-      "resume": "Alors que la préfecture du Finistère a alerté le 9 octobre sur des risques de « rupture d’alimentation » en eau dans certaines parties du département, la communauté d’agglomération de Morlaix se livre chaque jour à un exercice d’équilibrist",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/17/dans-le-nord-du-finistere-un-approvisionnement-en-eau-potable-rendu-perilleux-par-la-secheresse-on-commence-tous-a-craindre-un-hiver-sec_6795810_3244.html",
-      "published_at": "2026-10-17T03:30:11+00:00"
-    },
-    {
-      "id": "ccabc984d74b51e7",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Adoption d’un plan-clé de gestion de l’eau sur un vaste territoire en Bretagne et Pays de la Loire, après quatre ans de conflit",
-      "resume": "La révision du schéma d’aménagement et de gestion de l’eau (SAGE) de la Vilaine, adoptée après de vifs débats, pourrait inspirer d’autres territoires. De son côté, la FNSEA envisage des recours juridiques.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/16/adoption-d-un-plan-cle-de-gestion-de-l-eau-sur-un-vaste-territoire-en-bretagne-et-pays-de-la-loire-apres-quatre-ans-de-conflit_6795593_3244.html",
-      "published_at": "2026-10-16T17:13:58+00:00"
     },
     {
       "id": "672afa4f1f685c2c",
@@ -378,15 +387,6 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
-    },
-    {
-      "id": "eddcaa4967890945",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Règlement méthane : la Commission européenne cède aux pressions et propose un report d’un an",
-      "resume": "Le méthane atteint des niveaux 2,6 fois plus élevés qu’à l’époque préindustrielle. @iStock C’était attendu, c’est désormais officiel. La Commission européenne a proposé, mercredi 14 octobre, de reporter d’un an l’entrée en vigueur du règlem",
-      "url": "https://www.novethic.fr/environnement/climat/reglement-methane-la-commission-europeenne-cede-aux-pressions-et-propose-un-report-dun-an",
-      "published_at": "2026-10-15T11:45:55+00:00"
     },
     {
       "id": "83a451bca54e4369",
