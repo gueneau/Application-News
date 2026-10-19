@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "generated_at": "06:12",
-  "elapsed_seconds": 435,
+  "generated_at": "12:14",
+  "elapsed_seconds": 528,
   "errors": [],
   "stats": {
     "jo_analyses": 22,
@@ -9,20 +9,64 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-19T06:12:56",
+    "run_at": "2026-10-19T12:14:33",
     "sources": {
       "JORF": 0,
-      "RSS": 1,
+      "RSS": 5,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 40,
-    "llm_seconds": 67.0
+    "llm_calls": 50,
+    "llm_seconds": 43.1
   },
   "items": [
+    {
+      "id": "fde812cb34f2",
+      "source": "Actu-Environnement",
+      "categorie": "Émissions",
+      "titre": "Qualité de l'air : la France respecte les normes actuelles mais devra réduire ses émissions d'ici 2030",
+      "resume": "Le bilan 2025 du ministère de la Transition écologique montre une amélioration de la qualité de l'air en France, mais 17 agglomérations dépassent déjà les futurs seuils européens de NO2 pour 2030, imposant une réduction de 10 à 30 % des rejets.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/qualite-air-france-normes-2030-48682.php4#xtor=RSS-6",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "e46c90b890ad",
+      "source": "Actu-Environnement",
+      "categorie": "Énergie",
+      "titre": "Photovoltaïque : de nouveaux modèles pour booster l'autoconsommation",
+      "resume": "Le développement de l'autoconsommation photovoltaïque associée au stockage sur batteries et à des outils de pilotage dans le secteur tertiaire offre de nouvelles perspectives pour optimiser la facture énergétique des clients d'ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/photovoltaique-autoconsommation-batteries-pilotage-stockage-48680.php4#xtor=RSS-6",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "afddfc14008d",
+      "source": "ESG Today",
+      "categorie": "Environnement",
+      "titre": "ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities",
+      "resume": "L'ESMA définit ses priorités d'application pour le reporting de durabilité en se concentrant sur la double matérialité (IRO), les politiques, actions, cibles et indicateurs, exigeant notamment une transparence équilibrée entre impacts positifs et négatifs.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.esgtoday.com/esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities/?utm_source=rss&utm_medium=rss&utm_campaign=esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "d8fe635c2b42",
+      "source": "Actuel HSE",
+      "categorie": "Déchets",
+      "titre": "Les acteurs du réemploi en ordre de marche pour changer d’échelle",
+      "resume": "Les acteurs de l'économie circulaire réunis lors des premières Assises nationales du réemploi ont identifié les freins au développement de leur secteur et partagé leurs propositions pour structurer la filière, dans l'attente d'une stratégie nationale.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actuel-hse.fr/content/les-acteurs-du-reemploi-en-ordre-de-marche-pour-changer-dechelle",
+      "date": "2026-10-19"
+    },
     {
       "id": "765210358bc0",
       "source": "Le Monde Planète",
@@ -162,11 +206,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "28",
-      "dept_nom": "Eure-et-Loir",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "95",
       "dept_nom": "Val-d'Oise",
       "niveau": "crise"
@@ -184,6 +223,11 @@
     {
       "dept_code": "55",
       "dept_nom": "Meuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
       "niveau": "crise"
     },
     {
@@ -252,13 +296,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "21",
+      "dept_nom": "Côte-d'Or",
       "niveau": "crise"
     },
     {
-      "dept_code": "21",
-      "dept_nom": "Côte-d'Or",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
@@ -327,13 +371,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
