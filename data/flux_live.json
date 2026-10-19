@@ -1,6 +1,150 @@
 {
-  "generated_at": "2026-10-19T11:02:08.118535+00:00",
+  "generated_at": "2026-10-19T17:38:11.510466+00:00",
   "items": [
+    {
+      "id": "78b150f4b4e02f2a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment les espèces sauvages tentent, tant bien que mal, de s’adapter au changement climatique",
+      "resume": "Selon les prévisions scientifiques, une espèce sur vingt serait aujourd’hui menacée d’extinction. Si le monde vivant dispose de capacités d’adaptation, certains végétaux ou animaux s’approchent de plus en plus de leurs limites physiologique",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/19/comment-les-especes-sauvages-tentent-tant-bien-que-mal-de-s-adapter-au-changement-climatique_6797558_1650684.html",
+      "published_at": "2026-10-19T16:00:11+00:00"
+    },
+    {
+      "id": "c813d1656b0f9f59",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Permis de construire pour l'extension d'une déchèterie : les juges d'appel compétents en premier ressort",
+      "resume": "Par une décision du 13 octobre 2026, la cour administrative d'appel de Versailles a affirmé sa compétence pour statuer en premier ressort sur une demande d'annulation d'un permis de construire portant sur la reconstruction et l'extension d'",
+      "url": "https://www.actu-environnement.com/ae/news/permis-construire-decheterie-appel-premier-ressort-48685.php4#xtor=RSS-6",
+      "published_at": "2026-10-19T15:47:17+00:00"
+    },
+    {
+      "id": "c4bfc956061b25e8",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Recharge : E-Totem placé en redressement judiciaire",
+      "resume": "Le spécialiste de la recharge électrique a été placé en redressement judiciaire par L’article Recharge : E-Totem placé en redressement judiciaire est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/10/recharge-e-totem-place-en-redressement-judiciaire-436371/",
+      "published_at": "2026-10-19T15:43:25+00:00"
+    },
+    {
+      "id": "77c6858e1eabf2b6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La foisonnante inventivité des chercheurs pour étudier les capacités d’adaptation des espèces",
+      "resume": "Prédire l’imprévisible face au changement climatique, c’est le défi que doivent relever les scientifiques. Pour créer des conditions météorologiques extrêmes, ils multiplient les expériences, comme le déplacement de parcelles de végétation,",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/19/la-foisonnante-inventivite-des-chercheurs-pour-etudier-les-capacites-d-adaptation-des-especes_6797552_1650684.html",
+      "published_at": "2026-10-19T15:30:18+00:00"
+    },
+    {
+      "id": "bfd75288ded44935",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Espèces protégées : une mesure ERC peut être renforcée pour éviter une demande de dérogation",
+      "resume": "Par une décision du 8 octobre 2026, la cour administrative d'appel de Douai a rejeté la demande d'annulation d'un arrêté autorisant l'exploitation de deux éoliennes sur la commune de Mesnil-Rousset (Eure). Pour quelle raison&#8239;? Le renf",
+      "url": "https://www.actu-environnement.com/ae/news/bridage-eoliennes-chiropteres-derogation-especes-protegees-48686.php4#xtor=RSS-6",
+      "published_at": "2026-10-19T15:14:22+00:00"
+    },
+    {
+      "id": "3df26ec1c2dd0a85",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie et inondations : huit départements du Sud-Est placés en vigilance orange mardi",
+      "resume": "Les cumuls sur l’ensemble de l’épisode pourront atteindre 200 à 250 millimètres, voire 300 millimètres localement.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/19/pluie-et-inondations-huit-departements-du-sud-est-places-en-vigilance-orange-mardi_6797409_3245.html",
+      "published_at": "2026-10-19T15:10:40+00:00"
+    },
+    {
+      "id": "f542d63a05721dde",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« J'en ai rien à foutre de votre bio » : contaminés par un pesticide, ces agriculteurs sont abandonnés par l'État",
+      "resume": "Victime en 2021 d'une contamination de sa récolte de sarrasin bio par le pesticide d'un voisin, Amandine Dupuy se bat pour être indemnisée. Une situation qui touche beaucoup d'autres agriculteurs et face à laquelle l'État se refuse à toute ",
+      "url": "https://reporterre.net/J-en-ai-rien-a-foutre-de-votre-bio-contamines-par-un-pesticide-ces-agriculteurs-sont",
+      "published_at": "2026-10-19T15:04:16+00:00"
+    },
+    {
+      "id": "451b1389f2591d08",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "La hausse des prix commence à se propager à 2028 et 2029 [Marchés]",
+      "resume": "La hausse des prix fait tâche d’huile sur les marchés : elle s’étale sur le spot et sur 2027 et commence à déborder sur les échéances plus lointaines. Aujourd’hui, le contrat gaz pour 2027 sur la place de marché TTF monte L’article La hauss",
+      "url": "https://www.greenunivers.com/2026/10/la-hausse-des-prix-commence-a-se-propager-a-2028-et-2029-marches-436353/",
+      "published_at": "2026-10-19T14:42:54+00:00"
+    },
+    {
+      "id": "1e7461ddd3a5da34",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Après l’Espagne en 2022, l’Italie plafonne le prix de l’électricité",
+      "resume": "Face à la hausse des prix de l’énergie, l’Italie suit le chemin emprunté par l’Espagne et le Portugal en 2022. Rome a obtenu le feu vert de Bruxelles pour L’article Après l’Espagne en 2022, l’Italie plafonne le prix de l’électricité est app",
+      "url": "https://www.greenunivers.com/2026/10/apres-lespagne-en-2022-litalie-plafonne-le-prix-de-lelectricite-436363/",
+      "published_at": "2026-10-19T14:05:09+00:00"
+    },
+    {
+      "id": "f6e558b3b0a112d6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Turquie, des inondations autour d’Istanbul font huit morts et un disparu",
+      "resume": "Les pluies historiques de mercredi ont été les plus fortes enregistrées depuis le début des relevés, en 1942, selon les autorités.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/19/turquie-huit-morts-dans-des-inondations-autour-d-istanbul_6797531_3210.html",
+      "published_at": "2026-10-19T13:23:36+00:00"
+    },
+    {
+      "id": "d7fbd164a7081631",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Irriguer avec des eaux usées, une idée qui pourrait assécher les rivières",
+      "resume": "Alors que les sécheresses se multiplient en été, la réutilisation des eaux usées devient une solution pour l'irrigation. Mais ces nouveaux besoins risquent de pénaliser des cours d'eaux qui, sans eaux traitées, seraient à sec. La course à l",
+      "url": "https://reporterre.net/Irriguer-avec-des-eaux-usees-une-idee-qui-pourrait-assecher-les-rivieres",
+      "published_at": "2026-10-19T13:02:31+00:00"
+    },
+    {
+      "id": "65657f10bbdba610",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Pesticides dans les tomates : les seuils autorisés de flupyradifurone pourraient être plus que doublés",
+      "resume": "L'Autorité européenne de sécurité des aliments (Efsa) propose de plus que doubler la limite maximale de résidus de flupyradifurone autorisée dans les tomates. Cet insecticide, de la famille des buténolides, est apparenté aux néonicotinoïdes",
+      "url": "https://reporterre.net/Pesticides-dans-les-tomates-les-seuils-autorises-de-flupyradifurone-pourraient-etre-plus",
+      "published_at": "2026-10-19T13:00:44+00:00"
+    },
+    {
+      "id": "91287553fd820f79",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Création de la CRI, la coalition nationale de résistance à l'incinération",
+      "resume": "Dix-huit associations environnementales annoncent la création de la coalition Résistance à l'incinération, la CRI. Composée notamment de Zéro Waste France, de Générations futures ou encore de Terres de lutte, la coalition défend l'instaurat",
+      "url": "https://www.actu-environnement.com/ae/news/coalition-cri-resistance-incineration-moratoire-48684.php4#xtor=RSS-6",
+      "published_at": "2026-10-19T12:58:13+00:00"
+    },
+    {
+      "id": "4138c371555c61cf",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Sosteneo Raises Over $500 Million for Clean Energy Infrastructure Fund",
+      "resume": "Generali Investments’ clean energy infrastructure investment unit Sosteneo announced that it has secured over €450 […]",
+      "url": "https://www.esgtoday.com/sosteneo-raises-over-500-million-for-clean-energy-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=sosteneo-raises-over-500-million-for-clean-energy-infrastructure-fund",
+      "published_at": "2026-10-19T12:46:42+00:00"
+    },
+    {
+      "id": "1c915d1243acea85",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Les règles d'exploitation des élevages de volailles et de porcs relevant de la directive IED sont fixées",
+      "resume": "La Commission européenne a fixé, via une décision d'exécution publiée le 16 octobre au Journal officiel, les conditions d'exploitation des élevages de volailles et de porcs relevant de la directive sur les émissions industrielles (IED). Ce ",
+      "url": "https://www.actu-environnement.com/ae/news/directive-ied-elevages-porcs-volailles-regles-48683.php4#xtor=RSS-6",
+      "published_at": "2026-10-19T12:19:11+00:00"
+    },
+    {
+      "id": "0e6f02406c546f9d",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "COP17 Biodiversité : les cinq principaux enjeux pour les entreprises",
+      "resume": "La COP17 Biodiversité sera marquée par le premier bilan de l'action. @KAREN MINASYAN / AFP Enrayer l’effondrement de la biodiversité d’ici à 2030, c’est l’ambition affichée par les États depuis l’adoption, en 2022, du Cadre mondial de la bi",
+      "url": "https://www.novethic.fr/environnement/biodiversite/cop17-biodiversite-les-cinq-principaux-enjeux-pour-les-entreprises",
+      "published_at": "2026-10-19T11:45:39+00:00"
+    },
     {
       "id": "e2215656c005d0e4",
       "source": "Le Monde Planète",
@@ -38,13 +182,13 @@
       "published_at": "2026-10-19T10:06:12+00:00"
     },
     {
-      "id": "64839c09c169c15e",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Photovoltaïque : de nouveaux modèles pour booster l'autoconsommation",
-      "resume": "Dans le résidentiel et dans le tertiaire, le nombre d'installations solaires avec batteries augmente. En parallèle, de nouvelles offres émergent pour piloter les productions, le stockage et les usages électriques avec la promesse de baisser",
-      "url": "https://www.actu-environnement.com/ae/news/photovoltaique-autoconsommation-batteries-pilotage-stockage-48680.php4#xtor=RSS-6",
-      "published_at": "2026-10-19T09:33:30+00:00"
+      "id": "bd3e0269d860308a",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
+      "resume": "The last long-term federal recovery funds allocated for a major disaster were for Hurricane Milton, which hit in late 2024 Survivors of extreme weather disasters across the US are facing long waits for government assistance funds to rebuild",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
+      "published_at": "2026-10-19T10:00:03+00:00"
     },
     {
       "id": "308d6b077e4b6678",
@@ -54,6 +198,15 @@
       "resume": "AI developer Anthropic announced the launch of “Anthropic Public Benefit Fund,” a new entity described […]",
       "url": "https://www.esgtoday.com/anthropic-commits-5-of-shares-to-a-new-public-benefit-fund/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-commits-5-of-shares-to-a-new-public-benefit-fund",
       "published_at": "2026-10-19T09:02:33+00:00"
+    },
+    {
+      "id": "202e614535a7b2a6",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Présidentielle : Agnès Pannier-Runacher répond aux lecteurs de GreenUnivers",
+      "resume": "Dans la cadre de la campagne pour l’élection présidentielle, GreenUnivers organise un espace d’échange entre ses abonnés et le(a) conseiller(e) sur l’énergie des principaux candidats. Pour la première rencontre de ce club « Présidentielle »",
+      "url": "https://www.greenunivers.com/2026/10/presidentielle-agnes-pannier-runacher-repond-aux-lecteurs-de-greenunivers-436315/",
+      "published_at": "2026-10-19T08:48:38+00:00"
     },
     {
       "id": "52ca2e26d42df576",
@@ -146,33 +299,6 @@
       "published_at": "2026-10-19T04:45:22+00:00"
     },
     {
-      "id": "fb53ba96886a47cf",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le Qatar, pris au piège du détroit d’Ormuz, cherche une sortie de crise",
-      "resume": "La guerre au Moyen-Orient affecte durement le riche émirat, en bouleversant le cœur de son modèle économique, bâti autour du gaz naturel liquéfié.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/19/pris-au-piege-du-detroit-d-ormuz-le-qatar-cherche-une-sortie-de-crise_6797486_3234.html",
-      "published_at": "2026-10-19T04:30:00+00:00"
-    },
-    {
-      "id": "ab909b4e32aba26c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP17 sur la biodiversité à Erevan : les leviers dont dispose la communauté internationale pour corriger la trajectoire « avant qu’il ne soit trop tard »",
-      "resume": "A Erevan, pendant deux semaines, 196 délégués vont essayer de faire avancer la protection de la biodiversité. Evaluer les efforts mis en place, négocier des financements entre pays du Nord et du Sud, articuler la place des communautés autoc",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/19/cop17-sur-la-biodiversite-a-erevan-les-leviers-dont-dispose-la-communaute-internationale-pour-corriger-la-trajectoire-avant-qu-il-ne-soit-trop-tard_6797481_3244.html",
-      "published_at": "2026-10-19T04:00:34+00:00"
-    },
-    {
-      "id": "8773f16231716a75",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie et inondations : le Gard et l’Hérault placés en vigilance orange lundi à partir de 14 heures",
-      "resume": "Météo-France anticipe des pluies dans la matinée, suivies d’« orages plus forts » remontant de la Méditerranée, dans l’après-midi. La Lozère passera en vigilance orange à partir de 18 heures.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/19/pluie-et-inondations-le-gard-et-l-herault-places-en-vigilance-orange-lundi-a-partir-de-14-heures_6797409_3244.html",
-      "published_at": "2026-10-19T03:39:22+00:00"
-    },
-    {
       "id": "f33bb14016962c60",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -180,24 +306,6 @@
       "resume": "Agency changes wording on website as Texas-based firm continues manufacture of plastic container barriers The Environmental Protection Agency has quietly backtracked on a claim that the US has phased out two of the most dangerous Pfas compo",
       "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
       "published_at": "2026-10-18T22:53:27+00:00"
-    },
-    {
-      "id": "f28497f78f29c43c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Une large partie de la communauté scientifique considère que les risques liés à l’IA sont significatifs »",
-      "resume": "L’idée qu’un « marketing de la peur » serait développé dans l’intérêt des entreprises d’intelligence artificielle fait fi des menaces réelles que l’IA fait peser sur l’humanité, alertent des spécialistes du secteur dans une tribune au « Mon",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/18/une-large-partie-de-la-communaute-scientifique-considere-que-les-risques-lies-a-l-ia-sont-significatifs_6797088_3232.html",
-      "published_at": "2026-10-18T16:00:01+00:00"
-    },
-    {
-      "id": "c84c21e7c825f9c1",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
-      "resume": "Protéger les terres et les océans, restaurer les écosystèmes dégradés, sortir des pesticides... La COP17 biodiversité s'ouvre le 19 octobre en Arménie afin de freiner l'effondrement du vivant. Un objectif ambitieux, qui accumule déjà des re",
-      "url": "https://reporterre.net/COP17-biodiversite-les-enjeux-du-rendez-vous-en-Armenie-La-COP17-ne-sera-pas-celle-des",
-      "published_at": "2026-10-18T13:00:00+00:00"
     },
     {
       "id": "8374bb8ba9f9b0c4",
@@ -254,33 +362,6 @@
       "published_at": "2026-10-17T23:40:11+00:00"
     },
     {
-      "id": "6016507fa5bd0656",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les colères ont convergé",
-      "resume": "800 000 manifestants ont manifesté dans les rues en France, selon la CGT , lors de la journée de mobilisation sociale du 17 octobre. Ils dénonçaient la vie chère, mais réclamaient aussi la « justice climatique » et des moyens pour l'éducati",
-      "url": "https://reporterre.net/Prix-de-l-essence-manque-de-profs-et-forets-en-feu-le-17-octobre-les-Gilets-jaunes-et-la-jeunesse-ont-converge",
-      "published_at": "2026-10-17T17:20:34+00:00"
-    },
-    {
-      "id": "8a45e995cf9158c7",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Même les débuts de mois sont difficiles » : ces Gilets jaunes ont remis le couvert le 17 octobre",
-      "resume": "Près de 80 personnes se sont rassemblées à Montpon-Ménestérol, en Dordogne, où le mouvement des Gilets jaunes s'était solidement implanté. Dans cette commune rurale, la hausse du prix de l'essence et le coût de la vie ravivent la colère. Mo",
-      "url": "https://reporterre.net/Meme-les-debuts-de-mois-sont-difficiles-ces-Gilets-jaunes-ont-remis-le-couvert-le-17-octobre",
-      "published_at": "2026-10-17T15:52:37+00:00"
-    },
-    {
-      "id": "10b8e74743259ac1",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
-      "resume": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect for",
-      "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
-      "published_at": "2026-10-17T11:00:31+00:00"
-    },
-    {
       "id": "672afa4f1f685c2c",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -288,15 +369,6 @@
       "resume": "Biodiversité : il était une fois un éléphant de mer austral en danger Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcXJIYjYzbkdJUUxVSlY3ZFZhUk5tWFhVRW1yLVhJMm0tZzJJQWlMQ2tRMUpiM1U2cHFoYTl3bUFIVTNrQ2toY0NZMlFEdVNqSWpjdmJpRVRvZGJMN0tOM2lmVzd1RUp3MVpsMXdVbC1hVEVpdmFzZDUxalU4NW93RkIyMC04ZHpVU2lGbUx3cmFCbWRIYzB1ZGJnRmVrLS00V0p2Q21qX01zN1cwTVpkTUpuWm96U3ZzYXdzaUhLZFE5cl9HT0tmVlNSbTduQ2FNTVRrc2VqZw?oc=5",
       "published_at": "2026-10-16T15:00:35+00:00"
-    },
-    {
-      "id": "dee98075cd644ed8",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Comment RTE veut raccorder les data centers en Île-de-France",
-      "resume": "En plus de sa réforme des règles de raccordement autour de « premier prêt, premier servi », dont la consultation arrive à sa fin et que GreenUnivers a détaillée, RTE prépare des plans spécifiques pour l’Île-de-France. Ce territoire est conf",
-      "url": "https://www.greenunivers.com/2026/10/comment-rte-veut-raccorder-les-data-centers-en-ile-de-france-436284/",
-      "published_at": "2026-10-16T14:56:28+00:00"
     },
     {
       "id": "e05ae074766c7373",
@@ -317,33 +389,6 @@
       "published_at": "2026-10-16T12:32:09+00:00"
     },
     {
-      "id": "d914f755910aa1a7",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Recrutement & Salaires 2026 : les profils qui tirent leur épingle du jeu [Dossier]",
-      "resume": "Alors que les plans de sauvegarde de l’emploi (PSE) se multiplient dans la filière des énergies renouvelables, les perspectives d’embauche des entreprises se sont réduites comme peau de chagrin. Mais il existe des exceptions : en plein déve",
-      "url": "https://www.greenunivers.com/2026/10/recrutement-salaires-2026-les-profils-qui-tirent-leur-epingle-du-jeu-dossier-436248/",
-      "published_at": "2026-10-16T12:04:03+00:00"
-    },
-    {
-      "id": "b86138e61cec27d3",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le marché européen de l’hydrogène va vite manquer de canalisations",
-      "resume": "Même si l’hydrogène se développe moins vite que prévu, le manque d’infrastructures va quand même constituer un goulot d’étranglement. C’est le constat dressé par L’article Le marché européen de l’hydrogène va vite manquer de canalisations e",
-      "url": "https://www.greenunivers.com/2026/10/le-marche-europeen-de-lhydrogene-va-vite-manquer-de-canalisations-436065/",
-      "published_at": "2026-10-16T10:36:09+00:00"
-    },
-    {
-      "id": "4b1a63b00a95ae98",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Google, Stripe, Shopify Sign Carbon Removal Deal with CO2-Into-Rock Startup 44.01",
-      "resume": "Carbon removal buyer coalition Frontier announced new offtake agreements with carbon sequestration technology company 44.01, […]",
-      "url": "https://www.esgtoday.com/google-stripe-shopify-sign-carbon-removal-deal-with-co2-into-rock-startup-44-01/?utm_source=rss&utm_medium=rss&utm_campaign=google-stripe-shopify-sign-carbon-removal-deal-with-co2-into-rock-startup-44-01",
-      "published_at": "2026-10-16T10:14:54+00:00"
-    },
-    {
       "id": "1b64b445a73d494b",
       "source": "Novethic",
       "categorie": "Presse",
@@ -360,15 +405,6 @@
       "resume": "Des lycées manifestent dans la rue à Paris. CHRISTOPHE ARCHAMBAULT AFP On a beaucoup reproché aux jeunes leur individualisme, leur addiction aux réseaux sociaux, leur désintérêt supposé pour le bien commun. Une génération qui ne regarderait",
       "url": "https://www.novethic.fr/economie-et-social/droits-humains/lyceens-dans-la-rue-la-jeunesse-na-pas-renonce-au-collectif",
       "published_at": "2026-10-16T09:03:33+00:00"
-    },
-    {
-      "id": "94198911b339b424",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’agenda de la transition énergétique",
-      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
-      "url": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-281-431464/",
-      "published_at": "2026-10-16T09:00:00+00:00"
     },
     {
       "id": "3647aec79f6cc6d4",
@@ -414,15 +450,6 @@
       "resume": "Comment prioriser les financements publics ? Et comment financer l’action climatique locale sans mobiliser plus de financements publics ? L’article Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investis",
       "url": "https://www.i4ce.org/collectivites-urgence-climatique-nouvelle-approche-mur-investissement/",
       "published_at": "2026-10-15T15:43:50+00:00"
-    },
-    {
-      "id": "779776d07b9726d6",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Le rapport de durabilité de la France ne passerait pas l'audit",
-      "resume": "Corentin de Montmarin Directeur pédagogique de l'ISE Chaque année, des milliers d'entreprises publient un rapport de durabilité. Elles y présentent leurs objectifs, leurs trajectoires et leurs indicateurs, sous le regard d'un auditeur. La F",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/le-rapport-de-durabilite-de-la-france-ne-passerait-pas-laudit",
-      "published_at": "2026-10-15T14:56:34+00:00"
     },
     {
       "id": "a093f985ae0cbd46",
@@ -693,33 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "ac6ecc926252c5cb",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
-      "published_at": "2026-06-23T12:24:00+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
     }
   ]
 }
