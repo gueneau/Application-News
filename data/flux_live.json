@@ -1,6 +1,141 @@
 {
-  "generated_at": "2026-10-19T05:01:40.165187+00:00",
+  "generated_at": "2026-10-19T11:02:08.118535+00:00",
   "items": [
+    {
+      "id": "e2215656c005d0e4",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Espagne : deux morts après de fortes pluies et des inondations ; les habitants de la région de Valence appelés à rester chez eux",
+      "resume": "« Il est demandé à la population d’éviter tout déplacement », a insisté le premier ministre, Pedro Sanchez, qualifiant de « très difficile » la situation dans la région de Valence.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/19/espagne-deux-morts-apres-de-fortes-pluies-et-des-inondations-les-habitants-de-la-region-de-valence-appeles-a-rester-chez-eux_6797518_3210.html",
+      "published_at": "2026-10-19T10:49:37+00:00"
+    },
+    {
+      "id": "fec88ece53fdcbeb",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities",
+      "resume": "EU markets regulator the European Securities and Markets Authority (ESMA) announced the release of its […]",
+      "url": "https://www.esgtoday.com/esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities/?utm_source=rss&utm_medium=rss&utm_campaign=esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities",
+      "published_at": "2026-10-19T10:40:28+00:00"
+    },
+    {
+      "id": "66d513e975cec6a2",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Qualité de l'air : la France respecte les normes actuelles mais devra réduire ses émissions d'ici 2030",
+      "resume": "La qualité de l'air continue de s'améliorer en France, confirme le bilan 2025 publié par le service statistique du ministère de la Transition écologique (SDES). Depuis 2000, les émissions d'oxydes d'azote (NO2) ont baissé de 64 %, respectiv",
+      "url": "https://www.actu-environnement.com/ae/news/qualite-air-france-normes-2030-48682.php4#xtor=RSS-6",
+      "published_at": "2026-10-19T10:38:23+00:00"
+    },
+    {
+      "id": "c27c5a54d43a4b0d",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Espèces protégées : une mesure de protection doit s'avérer efficace avant qu'elle ne soit prescrite",
+      "resume": "Les mesures de protection des espèces menacées par un projet éolien doivent s'avérer efficaces avant qu'elles ne soient prescrites. C'est, en somme, ce qu'a jugé le Conseil d'État dans un arrêt du 15 octobre 2026. Par un arrêté du 17 févri.",
+      "url": "https://www.actu-environnement.com/ae/news/especes-protegees-eolien-mesures-protection-conseil-etat-48681.php4#xtor=RSS-6",
+      "published_at": "2026-10-19T10:06:12+00:00"
+    },
+    {
+      "id": "64839c09c169c15e",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Photovoltaïque : de nouveaux modèles pour booster l'autoconsommation",
+      "resume": "Dans le résidentiel et dans le tertiaire, le nombre d'installations solaires avec batteries augmente. En parallèle, de nouvelles offres émergent pour piloter les productions, le stockage et les usages électriques avec la promesse de baisser",
+      "url": "https://www.actu-environnement.com/ae/news/photovoltaique-autoconsommation-batteries-pilotage-stockage-48680.php4#xtor=RSS-6",
+      "published_at": "2026-10-19T09:33:30+00:00"
+    },
+    {
+      "id": "308d6b077e4b6678",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Anthropic Commits 5% of Shares to a New Public Benefit Fund",
+      "resume": "AI developer Anthropic announced the launch of “Anthropic Public Benefit Fund,” a new entity described […]",
+      "url": "https://www.esgtoday.com/anthropic-commits-5-of-shares-to-a-new-public-benefit-fund/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-commits-5-of-shares-to-a-new-public-benefit-fund",
+      "published_at": "2026-10-19T09:02:33+00:00"
+    },
+    {
+      "id": "52ca2e26d42df576",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "Allègements de charges – l’heure est à la mobilisation générale !",
+      "resume": "Le PLFSS 2027 fait évoluer fortement à la baisse le dispositif d’allègements de charges (AG), sur lequel s’appuie notre modèle économique depuis 30 ans, en poursuivant le gel du rendement des allègements (valeur SMIC dans le barème janvier ",
+      "url": "https://www.federation-proprete.com/allegements-charges-mobilisation-generale/",
+      "published_at": "2026-10-19T08:41:00+00:00"
+    },
+    {
+      "id": "cf35067446b859fb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Canada : « la nation est en deuil » après un incendie sur une base militaire en Alberta, déclare Mark Carney",
+      "resume": "Une enquête est en cours pour déterminer les causes précises du sinistre ainsi que les circonstances de la mort des soldats.",
+      "url": "https://www.lemonde.fr/international/video/2026/10/19/canada-la-nation-est-en-deuil-apres-un-incendie-sur-une-base-militaire-en-alberta-declare-mark-carney_6797496_3210.html",
+      "published_at": "2026-10-19T08:05:14+00:00"
+    },
+    {
+      "id": "4a8dcd300c37dc0b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Pour prendre le train, il faut être militant » : les Alpes du Sud, symbole de l'abandon des petites lignes",
+      "resume": "[Grande tournée de l'écologie] Voies vieillissantes, gares fermées, horaires inadaptés... Les Alpes du Sud cumulent les difficultés liées au manque d'investissement dans le rail. Les usagers s'y battent pour défendre un réseau vieillissant.",
+      "url": "https://reporterre.net/Pour-prendre-le-train-il-faut-etre-militant-les-Alpes-du-Sud-symbole-de-l-abandon-des",
+      "published_at": "2026-10-19T07:29:18+00:00"
+    },
+    {
+      "id": "661b6d879e0b6762",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "NORD/LB Acquires Energy Transition Finance Boutique Voltiq",
+      "resume": "German energy and infrastructure-focused commercial bank NORD/LB announced the acquisition of renewable energy and energy […]",
+      "url": "https://www.esgtoday.com/nord-lb-acquires-energy-transition-finance-boutique-voltiq/?utm_source=rss&utm_medium=rss&utm_campaign=nord-lb-acquires-energy-transition-finance-boutique-voltiq",
+      "published_at": "2026-10-19T07:22:33+00:00"
+    },
+    {
+      "id": "d9452c54606b5a00",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Survoltage en plein boom dans l’agrégation de petites centrales solaires",
+      "resume": "L’année n’est pas finie mais elle semble déjà faste pour Survoltage. Lors d’un événement organisé la semaine dernière à Paris par Le Solaire territorial, le cofondateur Jeff Knoepfli a indiqué agréger autour de 7 000 centrales solaires. Ell",
+      "url": "https://www.greenunivers.com/2026/10/survoltage-en-plein-boom-dans-lagregation-de-petites-centrales-solaires-436289/",
+      "published_at": "2026-10-19T07:00:00+00:00"
+    },
+    {
+      "id": "faef61e8835960a5",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Combien aurait pu gagner une batterie française en septembre [Observatoire]",
+      "resume": "Deuxième rendez-vous de l’observatoire mensuel de GreenUnivers sur les revenus des batteries en France, réalisé en collaboration avec Aurora Energy Research et Clean Horizon. Au mois de septembre, les revenus possibles d’une batterie de deu",
+      "url": "https://www.greenunivers.com/2026/10/combien-aurait-pu-gagner-une-batterie-francaise-en-septembre-observatoire-436268/",
+      "published_at": "2026-10-19T06:45:00+00:00"
+    },
+    {
+      "id": "0747c32465cfc485",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Biodiversité : quels enjeux pour « la COP du bilan » d’Erevan ?",
+      "resume": "À mi-parcours entre l’adoption, en 2022, du cadre mondial de Kunming-Montréal et l’échéance de ses 23 cibles, fixée à 2030, les États se retrouvent en Arménie du 19 au 30 octobre pour une COP placée sous le signe du bilan. Mais l’exercice s",
+      "url": "https://www.contexte.com/fr/article/environnement/biodiversite-quels-enjeux-pour-la-cop-du-bilan-derevan_274928?source=rss",
+      "published_at": "2026-10-19T06:00:00+00:00"
+    },
+    {
+      "id": "3757266875c02cb6",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Pesticides : paysan, il a perdu sa fille d'un cancer et va « régler ses comptes » devant les eurodéputés",
+      "resume": "Alors que l'Europe s'apprête à assouplir la législation sur les pesticides, Édouard Exilard, paysan basque qui a perdu sa fille d'une tumeur au cerveau, va témoigner devant les eurodéputés. Avec la rage de voir que rien ne change. Lohitzun-",
+      "url": "https://reporterre.net/Pesticides-paysan-il-a-perdu-sa-fille-d-un-cancer-et-va-regler-ses-comptes-devant-les",
+      "published_at": "2026-10-19T05:30:00+00:00"
+    },
+    {
+      "id": "f317a02474bfa9f5",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Du maïs à la place de la lavande ? Un immense projet d'irrigation divise la Provence",
+      "resume": "Pomper l'eau du Verdon pour arroser des champs situés 300 m plus haut : en Provence, un immense réseau d'irrigation doit presque tripler les surfaces agricoles irriguées. Les agriculteurs sont partagés entre espoirs et craintes. Saint-Jurs ",
+      "url": "https://reporterre.net/Du-mais-a-la-place-de-la-lavande-Un-immense-projet-d-irrigation-divise-la-Provence",
+      "published_at": "2026-10-19T05:30:00+00:00"
+    },
     {
       "id": "765f365cc4707146",
       "source": "Novethic",
@@ -14,10 +149,10 @@
       "id": "fb53ba96886a47cf",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Pris au piège du détroit d’Ormuz, le Qatar cherche une sortie de crise",
+      "titre": "Le Qatar, pris au piège du détroit d’Ormuz, cherche une sortie de crise",
       "resume": "La guerre au Moyen-Orient affecte durement le riche émirat, en bouleversant le cœur de son modèle économique, bâti autour du gaz naturel liquéfié.",
       "url": "https://www.lemonde.fr/economie/article/2026/10/19/pris-au-piege-du-detroit-d-ormuz-le-qatar-cherche-une-sortie-de-crise_6797486_3234.html",
-      "published_at": "2026-10-19T04:30:02+00:00"
+      "published_at": "2026-10-19T04:30:00+00:00"
     },
     {
       "id": "ab909b4e32aba26c",
@@ -32,8 +167,8 @@
       "id": "8773f16231716a75",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Pluie et inondations : le Gard et l’Hérault placés en vigilance orange lundi à partir de 14 heures",
-      "resume": "Météo-France anticipe des pluies dans la matinée, suivies d’« orages plus forts » remontant de la Méditerranée, dans l’après-midi.",
+      "titre": "Pluie et inondations : le Gard et l’Hérault placés en vigilance orange lundi à partir de 14 heures",
+      "resume": "Météo-France anticipe des pluies dans la matinée, suivies d’« orages plus forts » remontant de la Méditerranée, dans l’après-midi. La Lozère passera en vigilance orange à partir de 18 heures.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/19/pluie-et-inondations-le-gard-et-l-herault-places-en-vigilance-orange-lundi-a-partir-de-14-heures_6797409_3244.html",
       "published_at": "2026-10-19T03:39:22+00:00"
     },
@@ -110,24 +245,6 @@
       "published_at": "2026-10-18T06:40:11+00:00"
     },
     {
-      "id": "cc42af6d5c4375e0",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Au Brésil, la perspective d’un retour de l’extrême droite fait craindre de nouveaux reculs pour l’environnement",
-      "resume": "S’il est élu le 25 octobre, Flavio Bolsonaro entend notamment restreindre la démarcation de nouvelles terres indigènes, encourager la production de pesticides et l’exploitation minière, pétrolière et gazière.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/18/au-bresil-la-perspective-d-un-retour-de-l-extreme-droite-fait-craindre-de-nouveaux-reculs-pour-l-environnement_6796998_3244.html",
-      "published_at": "2026-10-18T04:05:10+00:00"
-    },
-    {
-      "id": "601e44efc596b556",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
-      "resume": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés en 2022, et espérer inverser la tendance au déclin d’ici à 2030. La COP17 en Arménie est l’",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
-      "published_at": "2026-10-18T04:00:03+00:00"
-    },
-    {
       "id": "2c5d4fd64b64461f",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -141,7 +258,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les colères ont convergé",
-      "resume": "800 000 manifestants ont manifesté dans les rues en France, selon la CGT , lors de la journée de mobilisation sociale du 17 octobre. Ils dénonçaient la vie chère, mais réclamaient aussi la « justice climatique », des moyens pour l'éducation",
+      "resume": "800 000 manifestants ont manifesté dans les rues en France, selon la CGT , lors de la journée de mobilisation sociale du 17 octobre. Ils dénonçaient la vie chère, mais réclamaient aussi la « justice climatique » et des moyens pour l'éducati",
       "url": "https://reporterre.net/Prix-de-l-essence-manque-de-profs-et-forets-en-feu-le-17-octobre-les-Gilets-jaunes-et-la-jeunesse-ont-converge",
       "published_at": "2026-10-17T17:20:34+00:00"
     },
@@ -162,33 +279,6 @@
       "resume": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect for",
       "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
       "published_at": "2026-10-17T11:00:31+00:00"
-    },
-    {
-      "id": "7494eb34e7034d94",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« On a rendu normale, désirable son utilisation » : aux origines de notre addiction au pétrole",
-      "resume": "La flambée du prix des carburants est l'un des moteurs de la mobilisation du 17 octobre. La France s'est rendue dépendante du pétrole dès les années 1950, pour tirer profit de sa puissance coloniale, et n'a jamais cessé de renforcer les int",
-      "url": "https://reporterre.net/Comment-nous-sommes-devenus-accros-au-petrole-On-a-rendu-normale-desirable-son",
-      "published_at": "2026-10-17T05:30:00+00:00"
-    },
-    {
-      "id": "8bd5e5d78bf4e706",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Prix du carburant : infirmière, charpentier et apiculteur racontent comment ils font face à la flambée",
-      "resume": "Depuis qu'un plein d'essence coûte aussi cher, certains travailleurs, obligés d'utiliser leur voiture, tirent la langue. L'un essaie de relocaliser au maximum ses chantiers, une autre espère des aides de l'État… Témoignages. Face à la flamb",
-      "url": "https://reporterre.net/Infirmiere-charpentier-apiculteur-comment-ils-font-face-a-la-flambee-des-prix-du",
-      "published_at": "2026-10-17T05:30:00+00:00"
-    },
-    {
-      "id": "a368dc762e216210",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "La littérature se met à l'écologie : notre sélection de la rentrée",
-      "resume": "L'autobiographie d'un hêtre, un hommage poétique à une biologiste emblématique, un oiseau qui change la vie des humains qui l'observent... Découvrez notre sélection de romans écologistes parus ces derniers mois. D'année en année, le roman r",
-      "url": "https://reporterre.net/La-litterature-se-met-a-l-ecologie-notre-selection-de-la-rentree",
-      "published_at": "2026-10-17T05:30:00+00:00"
     },
     {
       "id": "672afa4f1f685c2c",
@@ -263,15 +353,6 @@
       "published_at": "2026-10-16T09:45:56+00:00"
     },
     {
-      "id": "b87cd38605c2b153",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Over 800 Companies Commit to TNFD-Aligned Nature Reporting Ahead of New ISSB, ISO Standards",
-      "resume": "The Taskforce on Nature-related Financial Disclosures (TNFD) revealed that more than 800 companies and financial […]",
-      "url": "https://www.esgtoday.com/over-800-companies-commit-to-tnfd-aligned-nature-reporting-ahead-of-new-issb-iso-standards/?utm_source=rss&utm_medium=rss&utm_campaign=over-800-companies-commit-to-tnfd-aligned-nature-reporting-ahead-of-new-issb-iso-standards",
-      "published_at": "2026-10-16T09:12:41+00:00"
-    },
-    {
       "id": "b66dc52778e94d3d",
       "source": "Novethic",
       "categorie": "Presse",
@@ -279,15 +360,6 @@
       "resume": "Des lycées manifestent dans la rue à Paris. CHRISTOPHE ARCHAMBAULT AFP On a beaucoup reproché aux jeunes leur individualisme, leur addiction aux réseaux sociaux, leur désintérêt supposé pour le bien commun. Une génération qui ne regarderait",
       "url": "https://www.novethic.fr/economie-et-social/droits-humains/lyceens-dans-la-rue-la-jeunesse-na-pas-renonce-au-collectif",
       "published_at": "2026-10-16T09:03:33+00:00"
-    },
-    {
-      "id": "963b2542dcfca748",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Les documents de la semaine",
-      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
-      "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
-      "published_at": "2026-10-16T09:00:00+00:00"
     },
     {
       "id": "94198911b339b424",
@@ -335,15 +407,6 @@
       "published_at": "2026-10-15T16:02:49+00:00"
     },
     {
-      "id": "2944ffcf099118f2",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Seulement 25 M€ levés par les cleantech en septembre",
-      "resume": "Le mois de septembre aura été une période de vaches maigres pour les cleantech françaises. Le baromètre mensuel L’article Seulement 25 M€ levés par les cleantech en septembre est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/10/seulement-25-me-leves-par-les-cleantech-en-septembre-436067/",
-      "published_at": "2026-10-15T15:44:48+00:00"
-    },
-    {
       "id": "65611bcca3b8eee5",
       "source": "I4CE",
       "categorie": "Climat",
@@ -360,24 +423,6 @@
       "resume": "Corentin de Montmarin Directeur pédagogique de l'ISE Chaque année, des milliers d'entreprises publient un rapport de durabilité. Elles y présentent leurs objectifs, leurs trajectoires et leurs indicateurs, sous le regard d'un auditeur. La F",
       "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/le-rapport-de-durabilite-de-la-france-ne-passerait-pas-laudit",
       "published_at": "2026-10-15T14:56:34+00:00"
-    },
-    {
-      "id": "6250afbf93581514",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "AEP to Build $4 Billion Fuel Cell Project to Supply Low-Carbon Power to Google",
-      "resume": "Ohio-based electric utility American Electric Power (AEP) announced a $4 billion investment to develop a […]",
-      "url": "https://www.esgtoday.com/aep-to-build-4-billion-fuel-cell-project-to-supply-low-carbon-power-to-google/?utm_source=rss&utm_medium=rss&utm_campaign=aep-to-build-4-billion-fuel-cell-project-to-supply-low-carbon-power-to-google",
-      "published_at": "2026-10-15T14:47:00+00:00"
-    },
-    {
-      "id": "bc6cfe7d50229025",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "In-House Research, Engagement Overtake ESG Ratings as Investors’ Top Sustainability Tools: Survey",
-      "resume": "Investors are increasingly turning to internal resources to gauge companies’ ESG performance, with in-house research […]",
-      "url": "https://www.esgtoday.com/in-house-research-and-engagement-overtake-esg-ratings-as-investors-top-tools-to-assess-sustainability-performance-survey/?utm_source=rss&utm_medium=rss&utm_campaign=in-house-research-and-engagement-overtake-esg-ratings-as-investors-top-tools-to-assess-sustainability-performance-survey",
-      "published_at": "2026-10-15T14:12:25+00:00"
     },
     {
       "id": "a093f985ae0cbd46",
@@ -506,15 +551,6 @@
       "published_at": "2026-10-09T08:45:20+00:00"
     },
     {
-      "id": "53c059bc68f348ef",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "L’Alliance sur la chimie critique pousse la Commission à sortir du bois",
-      "resume": "Elle remet ce 8 octobre une série de recommandations au vice-président Stéphane Séjourné, sur fond de dissensions au sein de l’industrie et après le départ de plusieurs ONG. L’exécutif s’est jusqu’à présent gardé de s’engager à concrétiser ",
-      "url": "https://www.contexte.com/fr/article/environnement/lalliance-sur-la-chimie-critique-pousse-la-commission-a-sortir-du-bois_276955?source=rss",
-      "published_at": "2026-10-08T06:00:00+00:00"
-    },
-    {
       "id": "677c3834c04eaf26",
       "source": "France Stratégie",
       "categorie": "Climat",
@@ -522,15 +558,6 @@
       "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
       "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
       "published_at": "2026-10-07T13:03:27+00:00"
-    },
-    {
-      "id": "7bc23f9c2e0b7e6e",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "Allègements de charges – l’heure est à la mobilisation générale !",
-      "resume": "ON COMPTE SUR VOUS ! Le PLFSS 2027 fait évoluer fortement à la baisse le dispositif d’allègements de charges (AG), sur lequel s’appuie notre modèle économique depuis 30 ans, en poursuivant le gel du rendement des allègements (valeur SMIC da",
-      "url": "https://www.federation-proprete.com/allegements-de-charges-lheure-est-a-la-mobilisation-generale/",
-      "published_at": "2026-10-07T08:46:03+00:00"
     },
     {
       "id": "e08f4587b21f7778",
@@ -693,33 +720,6 @@
       "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
       "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
       "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
-    },
-    {
-      "id": "f6ba6a33ef09a89a",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
-      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
-      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
-      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
