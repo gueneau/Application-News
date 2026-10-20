@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-10-20T05:36:24.865783+00:00",
+  "generated_at": "2026-10-20T10:46:11.738733+00:00",
   "items": [
+    {
+      "id": "cda2291bdb3d580b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie, inondations et crues : un mort près de Marseille, la Haute-Corse placée en vigilance rouge",
+      "resume": "Deux autres départements, le Gard et la Corse-du-Sud ont été placés en vigilance orange.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-un-mort-pres-de-marseille-la-haute-corse-placee-en-vigilance-rouge_6797908_3244.html",
+      "published_at": "2026-10-20T10:32:45+00:00"
+    },
+    {
+      "id": "8cb1036256c19279",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Mégabassine de Sainte-Soline : le ministère de la Transition écologique rend un avis favorable à sa régularisation",
+      "resume": "Le ministère de la Transition écologique a rendu un avis favorable à la régularisation de la mégabassine de Sainte-Soline, révèle le 20 octobre le média Contexte. La retenue d'eau située dans les Deux-Sèvres avait été jugée illégale en 2024",
+      "url": "https://reporterre.net/Megabassine-de-Sainte-Soline-le-ministere-de-la-Transition-ecologique-rend-un-avis",
+      "published_at": "2026-10-20T10:20:25+00:00"
+    },
+    {
+      "id": "32cf8e8eacac75b4",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Signal-prix carbone : « La France se prépare à un Waterloo » - Les Echos",
+      "resume": "Signal-prix carbone : « La France se prépare à un Waterloo » Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1c5cGFSTzdPYjN3Rm4xU2ozN05QRW1CZWdBUWRRN3B2QS1BSVo0S21lSXh2YnB5NEdnVm5RaGRRQzh6TUlVd0t5QUVEdHhJUlhfdkRUZWZjUmRGQ2pyZVIwSlpEbkp4VThCaHFMYzI0MFlqdkpNN3NxYzVnU0NWU1hXWmQ2QmpIWjlLNlNJU2VpZzJpYmM3SFFVX3BuM28wNEFSeEFpM0dwQQ?oc=5",
+      "published_at": "2026-10-20T10:00:08+00:00"
+    },
+    {
+      "id": "0bee43e51e12f340",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Fonds pour l'innovation : les projets de décarbonation français sélectionnés par la Commission européenne",
+      "resume": "La Commission européenne a annoncé, le 19 octobre, la liste des 77 projets de décarbonation qui bénéficieront d'un soutien financier dans le cadre du Fonds pour l'innovation. Au total, l'aide atteindra 3,4 milliards d'euros (Md&euro;). Ces ",
+      "url": "https://www.actu-environnement.com/ae/news/fonds-innovation-decarbonation-projets-francais-48688.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T09:33:02+00:00"
+    },
+    {
+      "id": "508be1656bd3c912",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Programme Life : l'Union européenne accorde plus de 390 millions d'euros à 135 nouveaux projets",
+      "resume": "Dans le cadre du programme Life, pour l'environnement et l'action pour le climat, la Commission européenne a alloué près de 390 millions d'euros à 135 nouveaux projets dans toute l'Europe, dont 14 projets pour la France. Le montant alloué p",
+      "url": "https://www.actu-environnement.com/ae/news/programme-life-commission-europeenne-financement-projets-48687.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T09:22:20+00:00"
+    },
+    {
+      "id": "ad0122eb7ace3fee",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Être du bon côté de l'histoire, c'est être dans la rue » : les activistes écolos et paysans se joignent à la mobilisation",
+      "resume": "Transmission de connaissances et appui logistique : depuis le début des mobilisations lycéennes, des organisations écolos ont fait le choix d'apporter leur soutien. Dans la rue le 17 octobre, elles ont continué à faire le pont entre les rev",
+      "url": "https://reporterre.net/Etre-du-bon-cote-de-l-histoire-c-est-etre-dans-la-rue-les-activistes-ecolos-et-paysans-se",
+      "published_at": "2026-10-20T08:09:43+00:00"
+    },
+    {
+      "id": "d71990601ebf9076",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Emmanuel Macron annonce avoir sécurisé des livraisons supplémentaires de 200 000 tonnes de gazole par mois de la part des Emirats arabes unis et de Bahreïn",
+      "resume": "En y ajoutant les engagements déjà pris par l’Arabie saoudite, cela correspond à « environ 10 % de [la] consommation de diesel [en France] », selon l’Elysée.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/20/emmanuel-macron-annonce-avoir-securise-des-livraisons-supplementaires-de-200-000-tonnes-de-gazole-par-mois-de-la-part-des-emirats-arabes-unis-et-de-bahrein_6797884_3210.html",
+      "published_at": "2026-10-20T07:57:28+00:00"
+    },
+    {
+      "id": "cf82979b4db76958",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Rabot Raises $56 Million to Create Virtual Power Plants with Home Clean Energy Devices",
+      "resume": "Climate tech and renewable energy company Rabot Energy announced that it has raised €50 million […]",
+      "url": "https://www.esgtoday.com/rabot-raises-56-million-to-create-virtual-power-plants-with-home-clean-energy-devices/?utm_source=rss&utm_medium=rss&utm_campaign=rabot-raises-56-million-to-create-virtual-power-plants-with-home-clean-energy-devices",
+      "published_at": "2026-10-20T07:11:40+00:00"
+    },
+    {
+      "id": "522ac06988075b75",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "AIIB Invests $100 Million in TPG’s Global South-Focused Climate Solutions Strategy",
+      "resume": "The Asian Infrastructure Investment Bank (AIIB) announced an investment of up to $100 million in […]",
+      "url": "https://www.esgtoday.com/aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy",
+      "published_at": "2026-10-20T07:02:25+00:00"
+    },
+    {
+      "id": "749b0ca407d6727d",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Elax Energie lève 30 M€ pour aller au delà du pilotage des chauffe-eaux électriques",
+      "resume": "Elax Énergie boucle une levée de fonds de 30 M€. L’opération est réalisée auprès de L’article Elax Energie lève 30 M€ pour aller au delà du pilotage des chauffe-eaux électriques est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/10/elax-energie-leve-30-me-pour-aller-au-dela-du-pilotage-des-chauffe-eaux-electriques-436408/",
+      "published_at": "2026-10-20T06:30:00+00:00"
+    },
+    {
+      "id": "ccc0c96d9ccffa11",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Biodiversité : chefs d'État et médias boudent la COP17, symptôme d'un désintérêt manifeste",
+      "resume": "Chefs d'État absents, médias peu présents... La COP17 biodiversité s'est ouverte en Arménie dans une certaine indifférence. De nombreux chercheurs et écologistes s'inquiètent du désintérêt suscité par l'effondrement du vivant. Déforestation",
+      "url": "https://reporterre.net/Biodiversite-chefs-d-Etat-et-medias-boudent-la-COP17-symptome-d-un-desinteret-manifeste",
+      "published_at": "2026-10-20T06:00:00+00:00"
+    },
+    {
+      "id": "e7d27d4816f4a35c",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Découvrez Rouages, le podcast de Contexte qui démonte la mécanique des politiques publiques",
+      "resume": "À la fin de l’histoire, il y a une loi ou un règlement européen structurant. Avant d’y arriver, il y a eu des mois de tractations à huis clos et de bras de fer publics, des arbitrages complexes, politiques, et des contraintes techniques. Le",
+      "url": "https://www.contexte.com/fr/article/environnement/decouvrez-rouages-le-podcast-de-contexte-qui-demonte-la-mecanique-des-politiques-publiques_281855?source=rss",
+      "published_at": "2026-10-20T06:00:00+00:00"
+    },
+    {
+      "id": "41897a7a224be87b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment faire face au traumatisme de l’été 2026 ?",
+      "resume": "Canicules, incendies, sécheresses : les effets du réchauffement ont bouleversé les Français pendant plusieurs mois. Pour la psychologue clinicienne Manuela Santa Marina, il faut se réparer pour mieux se préparer aux prochains étés",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/10/20/comment-faire-face-au-traumatisme-de-l-ete-2026_6797876_5463015.html",
+      "published_at": "2026-10-20T05:35:16+00:00"
+    },
     {
       "id": "3b239daa42d379fb",
       "source": "Le Monde Planète",
@@ -35,7 +152,7 @@
       "titre": "COP17 sur la biodiversité à Erevan : la France, une bonne élève à l’échelle internationale, mais dont les « indicateurs nationaux continuent de s’effondrer »",
       "resume": "Lors de la réunion dans la capitale arménienne, la France a mis en avant ses progrès en matière de protection de la nature, notamment la création de zones de conservation. Mais, dans le détail, les espèces en déclin sur le territoire nation",
       "url": "https://www.lemonde.fr/planete/article/2026/10/20/cop17-sur-la-biodiversite-a-erevan-la-france-une-bonne-eleve-a-l-echelle-internationale-mais-dont-les-indicateurs-nationaux-continuent-de-s-effondrer_6797863_3244.html",
-      "published_at": "2026-10-20T04:00:08+00:00"
+      "published_at": "2026-10-20T04:00:03+00:00"
     },
     {
       "id": "34445252a0d73095",
@@ -44,7 +161,7 @@
       "titre": "Comment on fournit de l’électricité à notre quartier en circuit court",
       "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui, des habitants de Rennes ont monté une coopérative pour produire leur électricité localeme",
       "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/20/comment-on-fournit-de-l-electricite-a-notre-quartier-en-circuit-court_6797853_6125299.html",
-      "published_at": "2026-10-20T03:15:20+00:00"
+      "published_at": "2026-10-20T03:15:09+00:00"
     },
     {
       "id": "5e14d7ed18a07d05",
@@ -74,24 +191,6 @@
       "published_at": "2026-10-19T19:22:02+00:00"
     },
     {
-      "id": "8115ad9f6fd38b6c",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Chez Rubis, les fondateurs lâchent du lest et tournent la page de la fronde des actionnaires - Les Echos",
-      "resume": "Chez Rubis, les fondateurs lâchent du lest et tournent la page de la fronde des actionnaires Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU2U0d3pRNnAwYkxZVjViYWg3M2M2YjB3cHhubWpkQkFVRXRTWFl0X0FnQ2psN3BRSGNlLUNZaXFQOE1lVjZxQkd0bzhrNDcyTEpvaURscmN2akhIZHA0b2VQcFM1dElaa3RvbmlFTnRCeUU0c0VsdThEanR1VTR6VjM4Z1dPOTRFaGFkeWwyUFRzX0hjLVhpLUs2LTNwaFcxb3UwUVpDdEp2SHlNRlRyWVR4QWFCcEVUVGlrWEdkSm5pWkNiVldPMFAzVzJGUXRsRXNYZTJZNndtWU03VUhCUU1jc0N3RklyQTNHOVp6RHZ1YjZjUG9R?oc=5",
-      "published_at": "2026-10-19T17:01:13+00:00"
-    },
-    {
-      "id": "78b150f4b4e02f2a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Comment les espèces sauvages tentent, tant bien que mal, de s’adapter au changement climatique",
-      "resume": "Selon les prévisions scientifiques, une espèce sur vingt serait aujourd’hui menacée d’extinction. Si le monde vivant dispose de capacités d’adaptation, certains végétaux ou animaux s’approchent de plus en plus de leurs limites physiologique",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/19/comment-les-especes-sauvages-tentent-tant-bien-que-mal-de-s-adapter-au-changement-climatique_6797558_1650684.html",
-      "published_at": "2026-10-19T16:00:11+00:00"
-    },
-    {
       "id": "c813d1656b0f9f59",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -108,15 +207,6 @@
       "resume": "Article modifié le 19/10/2026 – Le spécialiste de la recharge électrique a été placé en redressement judiciaire par L’article Recharge : E-Totem placé en redressement judiciaire est apparu en premier sur GreenUnivers .",
       "url": "https://www.greenunivers.com/2026/10/recharge-e-totem-place-en-redressement-judiciaire-436371/",
       "published_at": "2026-10-19T15:43:25+00:00"
-    },
-    {
-      "id": "77c6858e1eabf2b6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La foisonnante inventivité des chercheurs pour étudier les capacités d’adaptation des espèces",
-      "resume": "Prédire l’imprévisible face au changement climatique, c’est le défi que doivent relever les scientifiques. Pour créer des conditions météorologiques extrêmes, ils multiplient les expériences, comme le déplacement de parcelles de végétation,",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/19/la-foisonnante-inventivite-des-chercheurs-pour-etudier-les-capacites-d-adaptation-des-especes_6797552_1650684.html",
-      "published_at": "2026-10-19T15:30:18+00:00"
     },
     {
       "id": "bfd75288ded44935",
@@ -155,15 +245,6 @@
       "published_at": "2026-10-19T14:05:09+00:00"
     },
     {
-      "id": "f6e558b3b0a112d6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Turquie, des inondations autour d’Istanbul font huit morts et un disparu",
-      "resume": "Les pluies historiques de mercredi ont été les plus fortes enregistrées depuis le début des relevés, en 1942, selon les autorités.",
-      "url": "https://www.lemonde.fr/international/article/2026/10/19/turquie-huit-morts-dans-des-inondations-autour-d-istanbul_6797531_3210.html",
-      "published_at": "2026-10-19T13:23:36+00:00"
-    },
-    {
       "id": "d7fbd164a7081631",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -171,15 +252,6 @@
       "resume": "Alors que les sécheresses se multiplient en été, la réutilisation des eaux usées devient une solution pour l'irrigation. Mais ces nouveaux besoins risquent de pénaliser des cours d'eaux qui, sans eaux traitées, seraient à sec. La course à l",
       "url": "https://reporterre.net/Irriguer-avec-des-eaux-usees-une-idee-qui-pourrait-assecher-les-rivieres",
       "published_at": "2026-10-19T13:02:31+00:00"
-    },
-    {
-      "id": "65657f10bbdba610",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Pesticides dans les tomates : les seuils autorisés de flupyradifurone pourraient être plus que doublés",
-      "resume": "L'Autorité européenne de sécurité des aliments (Efsa) propose de plus que doubler la limite maximale de résidus de flupyradifurone autorisée dans les tomates. Cet insecticide, de la famille des buténolides, est apparenté aux néonicotinoïdes",
-      "url": "https://reporterre.net/Pesticides-dans-les-tomates-les-seuils-autorises-de-flupyradifurone-pourraient-etre-plus",
-      "published_at": "2026-10-19T13:00:44+00:00"
     },
     {
       "id": "91287553fd820f79",
@@ -227,24 +299,6 @@
       "published_at": "2026-10-19T10:40:28+00:00"
     },
     {
-      "id": "66d513e975cec6a2",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Qualité de l'air : la France respecte les normes actuelles mais devra réduire ses émissions d'ici 2030",
-      "resume": "La qualité de l'air continue de s'améliorer en France, confirme le bilan 2025 publié par le service statistique du ministère de la Transition écologique (SDES). Depuis 2000, les émissions d'oxydes d'azote (NO2) ont baissé de 64 %, respectiv",
-      "url": "https://www.actu-environnement.com/ae/news/qualite-air-france-normes-2030-48682.php4#xtor=RSS-6",
-      "published_at": "2026-10-19T10:38:23+00:00"
-    },
-    {
-      "id": "c27c5a54d43a4b0d",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Espèces protégées : une mesure de protection doit s'avérer efficace avant qu'elle ne soit prescrite",
-      "resume": "Les mesures de protection des espèces menacées par un projet éolien doivent s'avérer efficaces avant qu'elles ne soient prescrites. C'est, en somme, ce qu'a jugé le Conseil d'État dans un arrêt du 15 octobre 2026. Par un arrêté du 17 févri.",
-      "url": "https://www.actu-environnement.com/ae/news/especes-protegees-eolien-mesures-protection-conseil-etat-48681.php4#xtor=RSS-6",
-      "published_at": "2026-10-19T10:06:12+00:00"
-    },
-    {
       "id": "bd3e0269d860308a",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -281,24 +335,6 @@
       "published_at": "2026-10-19T08:41:00+00:00"
     },
     {
-      "id": "4a8dcd300c37dc0b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Pour prendre le train, il faut être militant » : les Alpes du Sud, symbole de l'abandon des petites lignes",
-      "resume": "[Grande tournée de l'écologie] Voies vieillissantes, gares fermées, horaires inadaptés... Les Alpes du Sud cumulent les difficultés liées au manque d'investissement dans le rail. Les usagers s'y battent pour défendre un réseau vieillissant.",
-      "url": "https://reporterre.net/Pour-prendre-le-train-il-faut-etre-militant-les-Alpes-du-Sud-symbole-de-l-abandon-des",
-      "published_at": "2026-10-19T07:29:18+00:00"
-    },
-    {
-      "id": "661b6d879e0b6762",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "NORD/LB Acquires Energy Transition Finance Boutique Voltiq",
-      "resume": "German energy and infrastructure-focused commercial bank NORD/LB announced the acquisition of renewable energy and energy […]",
-      "url": "https://www.esgtoday.com/nord-lb-acquires-energy-transition-finance-boutique-voltiq/?utm_source=rss&utm_medium=rss&utm_campaign=nord-lb-acquires-energy-transition-finance-boutique-voltiq",
-      "published_at": "2026-10-19T07:22:33+00:00"
-    },
-    {
       "id": "d9452c54606b5a00",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -308,15 +344,6 @@
       "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
-      "id": "faef61e8835960a5",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Combien aurait pu gagner une batterie française en septembre [Observatoire]",
-      "resume": "Deuxième rendez-vous de l’observatoire mensuel de GreenUnivers sur les revenus des batteries en France, réalisé en collaboration avec Aurora Energy Research et Clean Horizon. Au mois de septembre, les revenus possibles d’une batterie de deu",
-      "url": "https://www.greenunivers.com/2026/10/combien-aurait-pu-gagner-une-batterie-francaise-en-septembre-observatoire-436268/",
-      "published_at": "2026-10-19T06:45:00+00:00"
-    },
-    {
       "id": "0747c32465cfc485",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -324,15 +351,6 @@
       "resume": "À mi-parcours entre l’adoption, en 2022, du cadre mondial de Kunming-Montréal et l’échéance de ses 23 cibles, fixée à 2030, les États se retrouvent en Arménie du 19 au 30 octobre pour une COP placée sous le signe du bilan. Mais l’exercice s",
       "url": "https://www.contexte.com/fr/article/environnement/biodiversite-quels-enjeux-pour-la-cop-du-bilan-derevan_274928?source=rss",
       "published_at": "2026-10-19T06:00:00+00:00"
-    },
-    {
-      "id": "3757266875c02cb6",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Pesticides : paysan, il a perdu sa fille d'un cancer et va « régler ses comptes » devant les eurodéputés",
-      "resume": "Alors que l'Europe s'apprête à assouplir la législation sur les pesticides, Édouard Exilard, paysan basque qui a perdu sa fille d'une tumeur au cerveau, va témoigner devant les eurodéputés. Avec la rage de voir que rien ne change. Lohitzun-",
-      "url": "https://reporterre.net/Pesticides-paysan-il-a-perdu-sa-fille-d-un-cancer-et-va-regler-ses-comptes-devant-les",
-      "published_at": "2026-10-19T05:30:00+00:00"
     },
     {
       "id": "765f365cc4707146",
@@ -369,15 +387,6 @@
       "resume": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate crisis San Clemente is one of southern California’s most picture-perfect beach towns – a ca",
       "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
       "published_at": "2026-10-18T11:00:03+00:00"
-    },
-    {
-      "id": "b3a5a6428dd4e056",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "ESG Today: Week in Review",
-      "resume": "This week in ESG news: BNP Paribas AM launches new global sustainability strategy following AXA […]",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-279/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-279",
-      "published_at": "2026-10-18T09:20:44+00:00"
     },
     {
       "id": "58afa8764d8b2806",
@@ -434,24 +443,6 @@
       "published_at": "2026-10-16T06:00:00+00:00"
     },
     {
-      "id": "0027dfd3aef23f43",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Crise énergétique : les Européens demandent à Bruxelles une réponse plus musclée mais se divisent sur les remèdes - Les Echos",
-      "resume": "Crise énergétique : les Européens demandent à Bruxelles une réponse plus musclée mais se divisent sur les remèdes Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOURSMnV5aE5fcHdUS0NINGV4NHlncHNtMmxneWhJck4xZEp6bTNzZnBsdFpzNkt0OGZ5czViRWdQcTAzX1pyZFhLRlp2cUZBQjNPZWtyRU4yVThNTmNwanFMMlg5Ukx4WXA2SjcxSEpXeVV4X2lOdG9RUVF3TkFTYjBDT3htbmN2aUJxYUVXYUNtc2g2VHQ1VGpsb1ZHV3NVS2FoU3VaTGNINV9Fd3ltUjVGd2RnamlWTS1fZnlKNUZsa0cwaHBONTJ3VlhaNnpQeWZlNkx5WVlfUE5PSndoR2FBclp0ek1kNkpfNA?oc=5",
-      "published_at": "2026-10-15T16:18:39+00:00"
-    },
-    {
-      "id": "79b653deca4d1f7c",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique - Les Echos",
-      "resume": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTNCc2hFV1hralZsT0RNYTBDVkNmNlNYbFhCVVA4c0hxOGl1UUZZT0FiS2QtSVdzMGVKRWE2QldVejRtU1JKcVRxWUZzb2dySkhSRjd0TDJpMmV4ajFBRU5vRXp6NkRET2l5UVdkZ05YaXdMMG1jZTR6ODUxT0JzbGFiSW9LU0VQOXFkeEdxQ1c2WHg3T0txSEs3YmxHWkxHSU9RMlRfT2dLc2RfWkFaM00yY052eHJvTzZyblY1MFZuTlJLR0k5VzcwNjFWb3NOTGg1SkZTTUpoZUlhU05Id0ZMalYtMFRhRzBCTU1nTkJRaVdQYXRPZWNlbDAzLVpYMzkwckJLM1FEbVVDdjdCOFlIUWUzSE9QaUE?oc=5",
-      "published_at": "2026-10-15T16:02:49+00:00"
-    },
-    {
       "id": "65611bcca3b8eee5",
       "source": "I4CE",
       "categorie": "Climat",
@@ -468,6 +459,15 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
+    },
+    {
+      "id": "83a451bca54e4369",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Mobilité et RSE : conjuguer écologie et rentabilité - Les Echos",
+      "resume": "Mobilité et RSE : conjuguer écologie et rentabilité Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A5TjBiM1lkTUpzYkdrVllzTGxsOGF6eGRGM0VhSmc5WVZBc0xRRkhZRlN4ZThOZmZfQTNhTTFHXzZKVDMyRjJnaG1Pc2NIVzFkWHI2TTFZbjVNUnFCaFpMM0VEMXhxWDFzNTVqTnFwRGV6VGpobXphV0lobXVuN0J5UW53cjllbVVTWnJ6R0k0UnhVUkpQU0JWSGY?oc=5",
+      "published_at": "2026-10-15T05:25:26+00:00"
     },
     {
       "id": "c29f0bbe22526d31",
@@ -558,15 +558,6 @@
       "resume": "Les énergies renouvelables doivent être développées pour garantir la sécurité d'approvisionnement en France, a indiqué le candidat Horizons à l’élection présidentielle.",
       "url": "https://www.politico.eu/article/energie-face-au-risque-lie-au-nucleaire-edouard-philippe-juge-les-renouvelables-utiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T10:16:49+00:00"
-    },
-    {
-      "id": "38b200c48ff9f171",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "COP17 biodiversité : la France et l’UE sont-elles à la hauteur de leurs engagements ?",
-      "resume": "La COP, qui s’ouvre dans une semaine en Arménie, marquera le premier examen mondial des progrès accomplis en faveur de la biodiversité. L’occasion pour Contexte de faire le point sur les progrès et retards à l’égard des dix principaux objec",
-      "url": "https://www.contexte.com/fr/article/environnement/cop17-biodiversite-la-france-et-lue-sont-elles-a-la-hauteur-de-leurs-engagements_279295?source=rss",
-      "published_at": "2026-10-12T06:00:00+00:00"
     },
     {
       "id": "29632628c172cc87",
@@ -720,6 +711,15 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "ebbcaca171cba5d1",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
+      "published_at": "2026-06-30T08:03:48+00:00"
     }
   ]
 }
