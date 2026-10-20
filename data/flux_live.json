@@ -1,6 +1,177 @@
 {
-  "generated_at": "2026-10-20T10:46:11.738733+00:00",
+  "generated_at": "2026-10-20T15:31:28.086236+00:00",
   "items": [
+    {
+      "id": "f373315f2a7f9e52",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Budget : un premier coup de frein à la révision des tarifs d’achat photovoltaïques",
+      "resume": "« C’est un premier but, mais c’est loin d’être la fin du match » résume Floriane de Brabandère, présidente de la Fédération nationale de l’énergie solaire. La commission des affaires économiques de l’Assemblée nationale, saisie pour avis, a",
+      "url": "https://www.greenunivers.com/2026/10/budget-un-premier-coup-de-frein-a-la-revision-des-tarifs-dachat-photovoltaiques-436484/",
+      "published_at": "2026-10-20T15:26:39+00:00"
+    },
+    {
+      "id": "159c9ea5eca36204",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique - Les Echos",
+      "resume": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMFJ1RzhIT0NkUUVRWW8tWWJ6Nnl5UVdTMmtkZXVaNjd1eGxDSlc2c2t5TW5JdzdyTXhzZExxa1JyNU1wby1SU093NDFTQ2cwVVN3RUJGVXIwVjdLTFRrc05aRnJoMFJjQW8xNm9kb3JHRmNYWjdCazVTUExhS0llVExoNFk0b0lNVGJWRzhkOUNpeDRTZW1IZHA1VnZ4QzVXVXlxanJyUmdHeXdmeWtlNFlYcDJLbVJCX0w3OFluMERqX21YeEQ1RjluNlQ4SnY2dHhJSExDU2pYaUQxemZaMW9xbmVlRWdGU0p5VHZndy1ZVkYxc29aVDdSLUJtTnNWMG0zMTJuSDViSTBn?oc=5",
+      "published_at": "2026-10-20T15:15:37+00:00"
+    },
+    {
+      "id": "e73f49524498eeea",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Santé : l'exposition in-utero à des phtalates et phénols pourrait avoir des conséquences sur le QI des enfants",
+      "resume": "L'exposition maternelle, au cours du troisième trimestre de grossesse, à certains phtalates et phénols peut être associée à une baisse des scores de quotient intellectuel (QI) des enfants à l'âge de 3 ans. C'est la conclusion à laquelle par",
+      "url": "https://www.actu-environnement.com/ae/news/phtalates-phenols-exposition-grossesse-qi-enfants-48697.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T15:04:52+00:00"
+    },
+    {
+      "id": "db239f1a48bed342",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Google, McKinsey Sign 320,000 Ton Carbon Removal Deals from Brazil Nature Restoration Project",
+      "resume": "San Francisco-based carbon removal company Working Trees announced that it has signed a series of […]",
+      "url": "https://www.esgtoday.com/google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project/?utm_source=rss&utm_medium=rss&utm_campaign=google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project",
+      "published_at": "2026-10-20T14:44:53+00:00"
+    },
+    {
+      "id": "2ade7b36203b35d5",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "École à distance, pirogues bloquées : un « super El Niño » bouleverse la vie des Guyannais",
+      "resume": "Comme l'ensemble du bassin amazonien, la Guyane subit un El Niño « exceptionnel ». La sécheresse historique menace l'accès à l'eau potable et l'approvisionnement en marchandises. « Bientôt, les pirogues ne pourront plus passer », s'inquiète",
+      "url": "https://reporterre.net/Un-El-Nino-Godzilla-met-la-Guyane-a-l-arret",
+      "published_at": "2026-10-20T14:18:19+00:00"
+    },
+    {
+      "id": "592324923dbfe489",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Système électrique : Enedis veut expérimenter un réseau en courant continu",
+      "resume": "La Commission de régulation de l'énergie (CRE) a accordé au gestionnaire du réseau de distribution Enedis une dérogation pour expérimenter la création d'un réseau basse tension en courant continu, dans le cadre du bac à sable réglementaire.",
+      "url": "https://www.actu-environnement.com/ae/news/enedis-experimentation-reseau-courant-continu-cre-48695.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T13:58:32+00:00"
+    },
+    {
+      "id": "988bda21e1dca53a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Captages d'eau potable : les textes d'application de la loi Upsa en consultation",
+      "resume": "Les projets de décret et d'arrêté qui mettent en musique les dispositions sur les captages de la loi d'urgence agricole sont en consultation. Des ajustements ont été apportés mais des questions demeurent notamment sur le financement.",
+      "url": "https://www.actu-environnement.com/ae/news/captages-eau-potable-loi-upsa-projets-arrete-decret-consultation-48696.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T13:56:21+00:00"
+    },
+    {
+      "id": "92a89bd2378acd6e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les pompiers veulent faire connaître la « valeur du sauvé », le calcul de ce qui ne brûle pas grâce à leurs interventions",
+      "resume": "Après les grands incendies de forêt de cet été, plusieurs services départementaux d’incendie et de secours, dont celui du Var, ont estimé le montant de ce qui a pu être soustrait aux flammes. Un moyen de prouver que l’investissement dans le",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/les-pompiers-veulent-faire-connaitre-la-valeur-du-sauve-le-calcul-de-ce-qui-ne-brule-pas-grace-a-leurs-interventions_6797931_3244.html",
+      "published_at": "2026-10-20T13:45:26+00:00"
+    },
+    {
+      "id": "afdf02e6bc531b76",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Les mutuelles de santé s'organisent en réseau pour déployer les « ordonnances vertes »",
+      "resume": "Limiter l'exposition des femmes enceintes aux polluants chimiques, tel est l'objectif des ordonnances vertes. Par cet outil, les médecins prescrivent un accès à des paniers hebdomadaires de fruits et légumes biologiques, locaux et de saison",
+      "url": "https://www.actu-environnement.com/ae/news/reseau-ordonnances-vertes-mutuelles-femmes-enceintes-48694.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T13:30:32+00:00"
+    },
+    {
+      "id": "e119475c2af18d1a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Un Loto pour sauver les forêts incendiées : la fausse bonne idée du gouvernement",
+      "resume": "Trois tirages du Loto organisés les 19, 21 et 24 octobre par la Française des jeux ( FDJ ) permettront de payer la restauration des forêts dévastées par les incendies cet été. Pour chaque grille Loto vendue 2,20 euros, 54 centimes seront dé",
+      "url": "https://reporterre.net/Un-Loto-pour-sauver-les-forets-incendiees-la-fausse-bonne-idee-du-gouvernement",
+      "published_at": "2026-10-20T13:07:44+00:00"
+    },
+    {
+      "id": "4c2df8a5315ec878",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Catastrophes naturelles : le Parlement soutient la reconstruction résiliente après sinistre",
+      "resume": "Le Sénat a adopté, le 19 octobre 2026, en première lecture, la proposition de loi, portée par le député socialiste Fabrice Barusseau (Charente-Maritime), qui vise à adapter les mécanismes d'assurance face au changement climatique. Déposé le",
+      "url": "https://www.actu-environnement.com/ae/news/catastrophes-naturelles-senat-reconstruction-resiliente-proposition-de-loi-assurances-48693.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T13:05:00+00:00"
+    },
+    {
+      "id": "db6692342114b2cb",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Stockage : Symphonics va expérimenter une tarification pour les usages contracycliques sur le réseau local",
+      "resume": "Dans le cadre du bac à sable réglementaire, Symphonics a obtenu une dérogation de la Commission de régulation de l'énergie (CRE) pour expérimenter, pendant quatre ans, une tarification pour les usages contracycliques des batteries raccordée",
+      "url": "https://www.actu-environnement.com/ae/news/symphonics-tarification-contracyclique-stockage-basse-tension-48692.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T13:01:45+00:00"
+    },
+    {
+      "id": "621b1d78cf940ae0",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Décarbonation industrielle : les entreprises choisissent site par site (1)",
+      "resume": "GreenUnivers publie cette semaine quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d’énergies renouvelables peuvent s’organiser pour pr",
+      "url": "https://www.greenunivers.com/2026/10/decarbonation-industrielle-les-entreprises-choisissent-site-par-site-1-436381/",
+      "published_at": "2026-10-20T12:57:02+00:00"
+    },
+    {
+      "id": "bce53c2d3935100d",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Calogena, Colas, EDF, Holosolis… : 16 projets de décarbonation français encouragés par Bruxelles",
+      "resume": "La Commission européenne a sélectionné 77 projets de technologies de décarbonation dites net zero. Elle va les soutenir à hauteur de 3,4 Mds€ au total au titre du Fonds pour l’innovation. Parmi les lauréats, dont la liste est consultable da",
+      "url": "https://www.greenunivers.com/2026/10/calogena-colas-edf-holosolis-16-projets-de-decarbonation-francais-encourages-par-bruxelles-436428/",
+      "published_at": "2026-10-20T12:50:23+00:00"
+    },
+    {
+      "id": "7eefe014f7cfc50f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Grossesse : les perturbateurs endocriniens pourraient faire baisser le QI des enfants",
+      "resume": "Les phtalates, additifs dans des plastiques, présents dans les parfums, les cosmétiques, des vernis, peintures ; les bisphénols utilisés comme fixateurs d'encre sur les tickets de caisse… Comme l'ensemble de la population, les femmes encein",
+      "url": "https://reporterre.net/Grossesse-les-perturbateurs-endocriniens-pourraient-faire-baisser-le-QI-des-enfants",
+      "published_at": "2026-10-20T12:16:31+00:00"
+    },
+    {
+      "id": "6a538bb20615757b",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Amazon Backs New Advanced Nuclear Power Project at a Former Coal Plant",
+      "resume": "Ohio-based electric utility American Electric Power (AEP), nuclear technology company X-energy and Amazon announced a […]",
+      "url": "https://www.esgtoday.com/amazon-backs-new-advanced-nuclear-energy-project-at-a-former-coal-plant/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-backs-new-advanced-nuclear-energy-project-at-a-former-coal-plant",
+      "published_at": "2026-10-20T11:46:54+00:00"
+    },
+    {
+      "id": "a64bea4d7ae5c45a",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Face aux impacts de l'IA, la \"dissonance cognitive\" des professionnels de la durabilité (2/3)",
+      "resume": "Avec l'intelligence artificielle, les professionnels de la RSE en pleine dissonance cognitive - Photo de LARAM sur Unsplash En s'imposant en quelques mois dans les entreprises, l'intelligence artificielle (IA) a mis à l'épreuve les professi",
+      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/intelligence-artificielle-rse-dissonance-cognitive-durabilite",
+      "published_at": "2026-10-20T11:45:17+00:00"
+    },
+    {
+      "id": "72ddc4b946d711b0",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dans les Pyrénées, 16 nouveaux oursons, mais des problèmes de consanguinité persistants",
+      "resume": "Selon le dernier bilan de suivi de l’ours publié par l’Office français de la biodiversité, près de 130 ours seraient présents dans les Pyrénées. Mais la sauvegarde génétique de la population est loin d’être garantie.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/dans-les-pyrenees-16-nouveaux-oursons-mais-des-problemes-de-consanguinite-persistants_6797909_3244.html",
+      "published_at": "2026-10-20T11:00:02+00:00"
+    },
+    {
+      "id": "4a9ad7ebb7ff1601",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EU Invests $3.8 Billion in More Than 75 Net Zero Technology Projects",
+      "resume": "The European Commission today announced the selection of 77 zero-focused technology projects to receive €3.4 […]",
+      "url": "https://www.esgtoday.com/eu-invests-3-8-billion-in-more-than-75-net-zero-technology-projects/?utm_source=rss&utm_medium=rss&utm_campaign=eu-invests-3-8-billion-in-more-than-75-net-zero-technology-projects",
+      "published_at": "2026-10-20T10:56:46+00:00"
+    },
     {
       "id": "cda2291bdb3d580b",
       "source": "Le Monde Planète",
@@ -9,15 +180,6 @@
       "resume": "Deux autres départements, le Gard et la Corse-du-Sud ont été placés en vigilance orange.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-un-mort-pres-de-marseille-la-haute-corse-placee-en-vigilance-rouge_6797908_3244.html",
       "published_at": "2026-10-20T10:32:45+00:00"
-    },
-    {
-      "id": "8cb1036256c19279",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Mégabassine de Sainte-Soline : le ministère de la Transition écologique rend un avis favorable à sa régularisation",
-      "resume": "Le ministère de la Transition écologique a rendu un avis favorable à la régularisation de la mégabassine de Sainte-Soline, révèle le 20 octobre le média Contexte. La retenue d'eau située dans les Deux-Sèvres avait été jugée illégale en 2024",
-      "url": "https://reporterre.net/Megabassine-de-Sainte-Soline-le-ministere-de-la-Transition-ecologique-rend-un-avis",
-      "published_at": "2026-10-20T10:20:25+00:00"
     },
     {
       "id": "32cf8e8eacac75b4",
@@ -29,28 +191,10 @@
       "published_at": "2026-10-20T10:00:08+00:00"
     },
     {
-      "id": "0bee43e51e12f340",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Fonds pour l'innovation : les projets de décarbonation français sélectionnés par la Commission européenne",
-      "resume": "La Commission européenne a annoncé, le 19 octobre, la liste des 77 projets de décarbonation qui bénéficieront d'un soutien financier dans le cadre du Fonds pour l'innovation. Au total, l'aide atteindra 3,4 milliards d'euros (Md&euro;). Ces ",
-      "url": "https://www.actu-environnement.com/ae/news/fonds-innovation-decarbonation-projets-francais-48688.php4#xtor=RSS-6",
-      "published_at": "2026-10-20T09:33:02+00:00"
-    },
-    {
-      "id": "508be1656bd3c912",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Programme Life : l'Union européenne accorde plus de 390 millions d'euros à 135 nouveaux projets",
-      "resume": "Dans le cadre du programme Life, pour l'environnement et l'action pour le climat, la Commission européenne a alloué près de 390 millions d'euros à 135 nouveaux projets dans toute l'Europe, dont 14 projets pour la France. Le montant alloué p",
-      "url": "https://www.actu-environnement.com/ae/news/programme-life-commission-europeenne-financement-projets-48687.php4#xtor=RSS-6",
-      "published_at": "2026-10-20T09:22:20+00:00"
-    },
-    {
       "id": "ad0122eb7ace3fee",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« Être du bon côté de l'histoire, c'est être dans la rue » : les activistes écolos et paysans se joignent à la mobilisation",
+      "titre": "Petit-dej et formations juridiques : les écologistes prêtent main-forte à la « colère populaire »",
       "resume": "Transmission de connaissances et appui logistique : depuis le début des mobilisations lycéennes, des organisations écolos ont fait le choix d'apporter leur soutien. Dans la rue le 17 octobre, elles ont continué à faire le pont entre les rev",
       "url": "https://reporterre.net/Etre-du-bon-cote-de-l-histoire-c-est-etre-dans-la-rue-les-activistes-ecolos-et-paysans-se",
       "published_at": "2026-10-20T08:09:43+00:00"
@@ -101,12 +245,12 @@
       "published_at": "2026-10-20T06:00:00+00:00"
     },
     {
-      "id": "e7d27d4816f4a35c",
+      "id": "fb6531adfe3d9784",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
       "titre": "Découvrez Rouages, le podcast de Contexte qui démonte la mécanique des politiques publiques",
       "resume": "À la fin de l’histoire, il y a une loi ou un règlement européen structurant. Avant d’y arriver, il y a eu des mois de tractations à huis clos et de bras de fer publics, des arbitrages complexes, politiques, et des contraintes techniques. Le",
-      "url": "https://www.contexte.com/fr/article/environnement/decouvrez-rouages-le-podcast-de-contexte-qui-demonte-la-mecanique-des-politiques-publiques_281855?source=rss",
+      "url": "https://www.contexte.com/fr/article/pouvoirs/decouvrez-rouages-le-podcast-de-contexte-qui-demonte-la-mecanique-des-politiques-publiques_281855?source=rss",
       "published_at": "2026-10-20T06:00:00+00:00"
     },
     {
@@ -146,24 +290,6 @@
       "published_at": "2026-10-20T04:45:44+00:00"
     },
     {
-      "id": "aca57ab4ded6f099",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP17 sur la biodiversité à Erevan : la France, une bonne élève à l’échelle internationale, mais dont les « indicateurs nationaux continuent de s’effondrer »",
-      "resume": "Lors de la réunion dans la capitale arménienne, la France a mis en avant ses progrès en matière de protection de la nature, notamment la création de zones de conservation. Mais, dans le détail, les espèces en déclin sur le territoire nation",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/20/cop17-sur-la-biodiversite-a-erevan-la-france-une-bonne-eleve-a-l-echelle-internationale-mais-dont-les-indicateurs-nationaux-continuent-de-s-effondrer_6797863_3244.html",
-      "published_at": "2026-10-20T04:00:03+00:00"
-    },
-    {
-      "id": "34445252a0d73095",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Comment on fournit de l’électricité à notre quartier en circuit court",
-      "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui, des habitants de Rennes ont monté une coopérative pour produire leur électricité localeme",
-      "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/20/comment-on-fournit-de-l-electricite-a-notre-quartier-en-circuit-court_6797853_6125299.html",
-      "published_at": "2026-10-20T03:15:09+00:00"
-    },
-    {
       "id": "5e14d7ed18a07d05",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -191,15 +317,6 @@
       "published_at": "2026-10-19T19:22:02+00:00"
     },
     {
-      "id": "c813d1656b0f9f59",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Permis de construire pour l'extension d'une déchèterie : les juges d'appel compétents en premier ressort",
-      "resume": "Par une décision du 13 octobre 2026, la cour administrative d'appel de Versailles a affirmé sa compétence pour statuer en premier ressort sur une demande d'annulation d'un permis de construire portant sur la reconstruction et l'extension d'",
-      "url": "https://www.actu-environnement.com/ae/news/permis-construire-decheterie-appel-premier-ressort-48685.php4#xtor=RSS-6",
-      "published_at": "2026-10-19T15:47:17+00:00"
-    },
-    {
       "id": "c4bfc956061b25e8",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -207,24 +324,6 @@
       "resume": "Article modifié le 19/10/2026 – Le spécialiste de la recharge électrique a été placé en redressement judiciaire par L’article Recharge : E-Totem placé en redressement judiciaire est apparu en premier sur GreenUnivers .",
       "url": "https://www.greenunivers.com/2026/10/recharge-e-totem-place-en-redressement-judiciaire-436371/",
       "published_at": "2026-10-19T15:43:25+00:00"
-    },
-    {
-      "id": "bfd75288ded44935",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Espèces protégées : une mesure ERC peut être renforcée pour éviter une demande de dérogation",
-      "resume": "Par une décision du 8 octobre 2026, la cour administrative d'appel de Douai a rejeté la demande d'annulation d'un arrêté autorisant l'exploitation de deux éoliennes sur la commune de Mesnil-Rousset (Eure). Pour quelle raison&#8239;? Le renf",
-      "url": "https://www.actu-environnement.com/ae/news/bridage-eoliennes-chiropteres-derogation-especes-protegees-48686.php4#xtor=RSS-6",
-      "published_at": "2026-10-19T15:14:22+00:00"
-    },
-    {
-      "id": "f542d63a05721dde",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« J'en ai rien à foutre de votre bio » : contaminés par un pesticide, ces agriculteurs sont abandonnés par l'État",
-      "resume": "Victime en 2021 d'une contamination de sa récolte de sarrasin bio par le pesticide d'un voisin, Amandine Dupuy se bat pour être indemnisée. Une situation qui touche beaucoup d'autres agriculteurs et face à laquelle l'État se refuse à toute ",
-      "url": "https://reporterre.net/J-en-ai-rien-a-foutre-de-votre-bio-contamines-par-un-pesticide-ces-agriculteurs-sont",
-      "published_at": "2026-10-19T15:04:16+00:00"
     },
     {
       "id": "451b1389f2591d08",
@@ -236,51 +335,6 @@
       "published_at": "2026-10-19T14:42:54+00:00"
     },
     {
-      "id": "1e7461ddd3a5da34",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Après l’Espagne en 2022, l’Italie plafonne le prix de l’électricité",
-      "resume": "Face à la hausse des prix de l’énergie, l’Italie suit le chemin emprunté par l’Espagne et le Portugal en 2022. Rome a obtenu le feu vert de Bruxelles pour L’article Après l’Espagne en 2022, l’Italie plafonne le prix de l’électricité est app",
-      "url": "https://www.greenunivers.com/2026/10/apres-lespagne-en-2022-litalie-plafonne-le-prix-de-lelectricite-436363/",
-      "published_at": "2026-10-19T14:05:09+00:00"
-    },
-    {
-      "id": "d7fbd164a7081631",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Irriguer avec des eaux usées, une idée qui pourrait assécher les rivières",
-      "resume": "Alors que les sécheresses se multiplient en été, la réutilisation des eaux usées devient une solution pour l'irrigation. Mais ces nouveaux besoins risquent de pénaliser des cours d'eaux qui, sans eaux traitées, seraient à sec. La course à l",
-      "url": "https://reporterre.net/Irriguer-avec-des-eaux-usees-une-idee-qui-pourrait-assecher-les-rivieres",
-      "published_at": "2026-10-19T13:02:31+00:00"
-    },
-    {
-      "id": "91287553fd820f79",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Création de la CRI, la coalition nationale de résistance à l'incinération",
-      "resume": "Dix-huit associations environnementales annoncent la création de la coalition Résistance à l'incinération, la CRI. Composée notamment de Zéro Waste France, de Générations futures ou encore de Terres de lutte, la coalition défend l'instaurat",
-      "url": "https://www.actu-environnement.com/ae/news/coalition-cri-resistance-incineration-moratoire-48684.php4#xtor=RSS-6",
-      "published_at": "2026-10-19T12:58:13+00:00"
-    },
-    {
-      "id": "4138c371555c61cf",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Sosteneo Raises Over $500 Million for Clean Energy Infrastructure Fund",
-      "resume": "Generali Investments’ clean energy infrastructure investment unit Sosteneo announced that it has secured over €450 […]",
-      "url": "https://www.esgtoday.com/sosteneo-raises-over-500-million-for-clean-energy-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=sosteneo-raises-over-500-million-for-clean-energy-infrastructure-fund",
-      "published_at": "2026-10-19T12:46:42+00:00"
-    },
-    {
-      "id": "1c915d1243acea85",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Les règles d'exploitation des élevages de volailles et de porcs relevant de la directive IED sont fixées",
-      "resume": "La Commission européenne a fixé, via une décision d'exécution publiée le 16 octobre au Journal officiel, les conditions d'exploitation des élevages de volailles et de porcs relevant de la directive sur les émissions industrielles (IED). Ce ",
-      "url": "https://www.actu-environnement.com/ae/news/directive-ied-elevages-porcs-volailles-regles-48683.php4#xtor=RSS-6",
-      "published_at": "2026-10-19T12:19:11+00:00"
-    },
-    {
       "id": "0e6f02406c546f9d",
       "source": "Novethic",
       "categorie": "Presse",
@@ -288,15 +342,6 @@
       "resume": "La COP17 Biodiversité sera marquée par le premier bilan de l'action. @KAREN MINASYAN / AFP Enrayer l’effondrement de la biodiversité d’ici à 2030, c’est l’ambition affichée par les États depuis l’adoption, en 2022, du Cadre mondial de la bi",
       "url": "https://www.novethic.fr/environnement/biodiversite/cop17-biodiversite-les-cinq-principaux-enjeux-pour-les-entreprises",
       "published_at": "2026-10-19T11:45:39+00:00"
-    },
-    {
-      "id": "fec88ece53fdcbeb",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities",
-      "resume": "EU markets regulator the European Securities and Markets Authority (ESMA) announced the release of its […]",
-      "url": "https://www.esgtoday.com/esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities/?utm_source=rss&utm_medium=rss&utm_campaign=esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities",
-      "published_at": "2026-10-19T10:40:28+00:00"
     },
     {
       "id": "bd3e0269d860308a",
@@ -308,24 +353,6 @@
       "published_at": "2026-10-19T10:00:03+00:00"
     },
     {
-      "id": "308d6b077e4b6678",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Anthropic Commits 5% of Shares to a New Public Benefit Fund",
-      "resume": "AI developer Anthropic announced the launch of “Anthropic Public Benefit Fund,” a new entity described […]",
-      "url": "https://www.esgtoday.com/anthropic-commits-5-of-shares-to-a-new-public-benefit-fund/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-commits-5-of-shares-to-a-new-public-benefit-fund",
-      "published_at": "2026-10-19T09:02:33+00:00"
-    },
-    {
-      "id": "202e614535a7b2a6",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Présidentielle : Agnès Pannier-Runacher répond aux lecteurs de GreenUnivers",
-      "resume": "Dans la cadre de la campagne pour l’élection présidentielle, GreenUnivers organise un espace d’échange entre ses abonnés et le(a) conseiller(e) sur l’énergie des principaux candidats. Pour la première rencontre de ce club « Présidentielle »",
-      "url": "https://www.greenunivers.com/2026/10/presidentielle-agnes-pannier-runacher-repond-aux-lecteurs-de-greenunivers-436315/",
-      "published_at": "2026-10-19T08:48:38+00:00"
-    },
-    {
       "id": "52ca2e26d42df576",
       "source": "Fédération de la Propreté",
       "categorie": "Presse",
@@ -333,15 +360,6 @@
       "resume": "Le PLFSS 2027 fait évoluer fortement à la baisse le dispositif d’allègements de charges (AG), sur lequel s’appuie notre modèle économique depuis 30 ans, en poursuivant le gel du rendement des allègements (valeur SMIC dans le barème janvier ",
       "url": "https://www.federation-proprete.com/allegements-charges-mobilisation-generale/",
       "published_at": "2026-10-19T08:41:00+00:00"
-    },
-    {
-      "id": "d9452c54606b5a00",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Survoltage en plein boom dans l’agrégation de petites centrales solaires",
-      "resume": "L’année n’est pas finie mais elle semble déjà faste pour Survoltage. Lors d’un événement organisé la semaine dernière à Paris par Le Solaire territorial, le cofondateur Jeff Knoepfli a indiqué agréger autour de 7 000 centrales solaires. Ell",
-      "url": "https://www.greenunivers.com/2026/10/survoltage-en-plein-boom-dans-lagregation-de-petites-centrales-solaires-436289/",
-      "published_at": "2026-10-19T07:00:00+00:00"
     },
     {
       "id": "0747c32465cfc485",
@@ -416,15 +434,6 @@
       "published_at": "2026-10-16T09:45:56+00:00"
     },
     {
-      "id": "b66dc52778e94d3d",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Lycéens dans la rue : la jeunesse n’a pas renoncé au collectif",
-      "resume": "Des lycées manifestent dans la rue à Paris. CHRISTOPHE ARCHAMBAULT AFP On a beaucoup reproché aux jeunes leur individualisme, leur addiction aux réseaux sociaux, leur désintérêt supposé pour le bien commun. Une génération qui ne regarderait",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/lyceens-dans-la-rue-la-jeunesse-na-pas-renonce-au-collectif",
-      "published_at": "2026-10-16T09:03:33+00:00"
-    },
-    {
       "id": "3647aec79f6cc6d4",
       "source": "I4CE",
       "categorie": "Climat",
@@ -459,15 +468,6 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
-    },
-    {
-      "id": "83a451bca54e4369",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Mobilité et RSE : conjuguer écologie et rentabilité - Les Echos",
-      "resume": "Mobilité et RSE : conjuguer écologie et rentabilité Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A5TjBiM1lkTUpzYkdrVllzTGxsOGF6eGRGM0VhSmc5WVZBc0xRRkhZRlN4ZThOZmZfQTNhTTFHXzZKVDMyRjJnaG1Pc2NIVzFkWHI2TTFZbjVNUnFCaFpMM0VEMXhxWDFzNTVqTnFwRGV6VGpobXphV0lobXVuN0J5UW53cjllbVVTWnJ6R0k0UnhVUkpQU0JWSGY?oc=5",
-      "published_at": "2026-10-15T05:25:26+00:00"
     },
     {
       "id": "c29f0bbe22526d31",
