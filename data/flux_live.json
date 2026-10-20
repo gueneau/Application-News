@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-20T15:31:28.086236+00:00",
+  "generated_at": "2026-10-20T19:46:45.701646+00:00",
   "items": [
+    {
+      "id": "2f8daa51f52c754e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie, inondations et crues : un mort près de Marseille, une personne portée disparue en Haute-Corse",
+      "resume": "Les fortes pluies qui sont arrivées lundi ont baissé en intensité à la fin de la journée, « d’où la sortie du niveau rouge » pour la Haute-Corse, a fait savoir Méteo-France. Le Gard, la Corse-du-Sud et la Haute-Corse sont en vigilance orang",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-un-mort-pres-de-marseille-une-personne-portee-disparue-en-haute-corse_6797908_3245.html",
+      "published_at": "2026-10-20T18:31:46+00:00"
+    },
+    {
+      "id": "bd1a2574de3f24be",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Great white shark leaps from water and photobombs California beachgoers",
+      "resume": "Videos show shark launching several feet from water as a group of friends pose for photos along Marina state beach A great white shark put on a spectacular display for California beachgoers over the weekend, leaping from the water off Marin",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+      "published_at": "2026-10-20T16:45:59+00:00"
+    },
+    {
+      "id": "913f8aa235ac40cd",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
+      "resume": "Coyote euthanized after reportedly roaming Atwater Village comfortably for months and attacking one-year-old boy One Los Angeles neighborhood has been at war over a wild coyote, and over the weekend it all came to a head. For months, the an",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+      "published_at": "2026-10-20T16:00:39+00:00"
+    },
+    {
+      "id": "f3ca9a5a1e44ee1f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Le pouvoir n'est pas aussi indigné par les néonazis que par Les Soulèvements de la Terre »",
+      "resume": "La mobilisation du 17 octobre n'est que la traduction d'une « décennie lamentable », analyse le sociologue Michel Kokoreff. Le résultat de dix ans de macronisme, de répression inouïe et de mépris de classe. Il est « vital qu'un contre-récit",
+      "url": "https://reporterre.net/Le-pouvoir-n-est-pas-aussi-indigne-par-les-neonazis-que-par-Les-Soulevements-de-la-Terre",
+      "published_at": "2026-10-20T15:58:12+00:00"
+    },
+    {
+      "id": "4c6ca4ae5c5bd7aa",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’appel d’offres « neutre » ressemble à une possible « dernière station avant l’autoroute »",
+      "resume": "En principe, les mêmes causes produisent les mêmes effets. Close vendredi dernier, la cinquième session de l’appel d’offres public de soutien à l’électricité renouvelable dit « neutre », car ouvert aux projets photovoltaïques, hydroélectriq",
+      "url": "https://www.greenunivers.com/2026/10/lappel-doffres-neutre-ressemble-encore-a-une-possible-derniere-station-avant-lautoroute-436515/",
+      "published_at": "2026-10-20T15:36:08+00:00"
+    },
     {
       "id": "f373315f2a7f9e52",
       "source": "GreenUnivers",
@@ -18,6 +63,15 @@
       "resume": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique Les Echos",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMFJ1RzhIT0NkUUVRWW8tWWJ6Nnl5UVdTMmtkZXVaNjd1eGxDSlc2c2t5TW5JdzdyTXhzZExxa1JyNU1wby1SU093NDFTQ2cwVVN3RUJGVXIwVjdLTFRrc05aRnJoMFJjQW8xNm9kb3JHRmNYWjdCazVTUExhS0llVExoNFk0b0lNVGJWRzhkOUNpeDRTZW1IZHA1VnZ4QzVXVXlxanJyUmdHeXdmeWtlNFlYcDJLbVJCX0w3OFluMERqX21YeEQ1RjluNlQ4SnY2dHhJSExDU2pYaUQxemZaMW9xbmVlRWdGU0p5VHZndy1ZVkYxc29aVDdSLUJtTnNWMG0zMTJuSDViSTBn?oc=5",
       "published_at": "2026-10-20T15:15:37+00:00"
+    },
+    {
+      "id": "c61e470b18034779",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Flexibilité : quand le stockage de chaleur soulage le réseau électrique",
+      "resume": "Décarboner les besoins en chaleur et absorber les surplus d'ENR, tel est le pari de deux projets lancés en 2026. Ils visent à substituer tout ou partie des consommations de gaz, en produisant de la chaleur lorsque les prix de l'électricité ",
+      "url": "https://www.actu-environnement.com/ae/news/stockage-thermique-flexibilite-reseau-electrique-enr-48690.php4#xtor=RSS-6",
+      "published_at": "2026-10-20T15:05:50+00:00"
     },
     {
       "id": "e73f49524498eeea",
@@ -71,7 +125,7 @@
       "titre": "Les pompiers veulent faire connaître la « valeur du sauvé », le calcul de ce qui ne brûle pas grâce à leurs interventions",
       "resume": "Après les grands incendies de forêt de cet été, plusieurs services départementaux d’incendie et de secours, dont celui du Var, ont estimé le montant de ce qui a pu être soustrait aux flammes. Un moyen de prouver que l’investissement dans le",
       "url": "https://www.lemonde.fr/planete/article/2026/10/20/les-pompiers-veulent-faire-connaitre-la-valeur-du-sauve-le-calcul-de-ce-qui-ne-brule-pas-grace-a-leurs-interventions_6797931_3244.html",
-      "published_at": "2026-10-20T13:45:26+00:00"
+      "published_at": "2026-10-20T13:45:23+00:00"
     },
     {
       "id": "afdf02e6bc531b76",
@@ -99,15 +153,6 @@
       "resume": "Le Sénat a adopté, le 19 octobre 2026, en première lecture, la proposition de loi, portée par le député socialiste Fabrice Barusseau (Charente-Maritime), qui vise à adapter les mécanismes d'assurance face au changement climatique. Déposé le",
       "url": "https://www.actu-environnement.com/ae/news/catastrophes-naturelles-senat-reconstruction-resiliente-proposition-de-loi-assurances-48693.php4#xtor=RSS-6",
       "published_at": "2026-10-20T13:05:00+00:00"
-    },
-    {
-      "id": "db6692342114b2cb",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Stockage : Symphonics va expérimenter une tarification pour les usages contracycliques sur le réseau local",
-      "resume": "Dans le cadre du bac à sable réglementaire, Symphonics a obtenu une dérogation de la Commission de régulation de l'énergie (CRE) pour expérimenter, pendant quatre ans, une tarification pour les usages contracycliques des batteries raccordée",
-      "url": "https://www.actu-environnement.com/ae/news/symphonics-tarification-contracyclique-stockage-basse-tension-48692.php4#xtor=RSS-6",
-      "published_at": "2026-10-20T13:01:45+00:00"
     },
     {
       "id": "621b1d78cf940ae0",
@@ -173,15 +218,6 @@
       "published_at": "2026-10-20T10:56:46+00:00"
     },
     {
-      "id": "cda2291bdb3d580b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie, inondations et crues : un mort près de Marseille, la Haute-Corse placée en vigilance rouge",
-      "resume": "Deux autres départements, le Gard et la Corse-du-Sud ont été placés en vigilance orange.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-un-mort-pres-de-marseille-la-haute-corse-placee-en-vigilance-rouge_6797908_3244.html",
-      "published_at": "2026-10-20T10:32:45+00:00"
-    },
-    {
       "id": "32cf8e8eacac75b4",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -194,7 +230,7 @@
       "id": "ad0122eb7ace3fee",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Petit-dej et formations juridiques : les écologistes prêtent main-forte à la « colère populaire »",
+      "titre": "Petits-dej et formations juridiques : les écologistes prêtent main-forte à la « colère populaire »",
       "resume": "Transmission de connaissances et appui logistique : depuis le début des mobilisations lycéennes, des organisations écolos ont fait le choix d'apporter leur soutien. Dans la rue le 17 octobre, elles ont continué à faire le pont entre les rev",
       "url": "https://reporterre.net/Etre-du-bon-cote-de-l-histoire-c-est-etre-dans-la-rue-les-activistes-ecolos-et-paysans-se",
       "published_at": "2026-10-20T08:09:43+00:00"
@@ -272,15 +308,6 @@
       "published_at": "2026-10-20T05:00:56+00:00"
     },
     {
-      "id": "796bb1afd38c64f3",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Un obus en plein poitrail » : en chansons, Delphine Vince politise le cancer et Octobre rose",
-      "resume": "Diagnostiquée d'un cancer du sein, l'artiste Delphine Vince chante dans un spectacle les injonctions faites aux femmes malades et interroge les angles morts de la campagne d'Octobre rose, comme les facteurs environnementaux. Saint-Nazaire e",
-      "url": "https://reporterre.net/Un-obus-en-plein-poitrail-en-chansons-Delphine-Vince-politise-le-cancer-et-Octobre-rose",
-      "published_at": "2026-10-20T05:00:00+00:00"
-    },
-    {
       "id": "4ec9217e9f0b67ba",
       "source": "Novethic",
       "categorie": "Presse",
@@ -324,15 +351,6 @@
       "resume": "Article modifié le 19/10/2026 – Le spécialiste de la recharge électrique a été placé en redressement judiciaire par L’article Recharge : E-Totem placé en redressement judiciaire est apparu en premier sur GreenUnivers .",
       "url": "https://www.greenunivers.com/2026/10/recharge-e-totem-place-en-redressement-judiciaire-436371/",
       "published_at": "2026-10-19T15:43:25+00:00"
-    },
-    {
-      "id": "451b1389f2591d08",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "La hausse des prix commence à se propager à 2028 et 2029 [Marchés]",
-      "resume": "La hausse des prix fait tâche d’huile sur les marchés : elle s’étale sur le spot et sur 2027 et commence à déborder sur les échéances plus lointaines. Aujourd’hui, le contrat gaz pour 2027 sur la place de marché TTF monte L’article La hauss",
-      "url": "https://www.greenunivers.com/2026/10/la-hausse-des-prix-commence-a-se-propager-a-2028-et-2029-marches-436353/",
-      "published_at": "2026-10-19T14:42:54+00:00"
     },
     {
       "id": "0e6f02406c546f9d",
@@ -387,24 +405,6 @@
       "resume": "Agency changes wording on website as Texas-based firm continues manufacture of plastic container barriers The Environmental Protection Agency has quietly backtracked on a claim that the US has phased out two of the most dangerous Pfas compo",
       "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
       "published_at": "2026-10-18T22:53:27+00:00"
-    },
-    {
-      "id": "8374bb8ba9f9b0c4",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US workers facing deadly heat embrace tactic that targets major brands’ reputations",
-      "resume": "Program founded by tomato growers has some of the strongest US worker protections – and its approach is being emulated by other groups “It’s the kind of heat that makes you feel like you’re being dehydrated, like your skin is drying out,” s",
-      "url": "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections",
-      "published_at": "2026-10-18T12:00:02+00:00"
-    },
-    {
-      "id": "b7cfc1948e97181a",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "A California town’s beaches are washing away. Can its residents turn the tide?",
-      "resume": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate crisis San Clemente is one of southern California’s most picture-perfect beach towns – a ca",
-      "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
-      "published_at": "2026-10-18T11:00:03+00:00"
     },
     {
       "id": "58afa8764d8b2806",
