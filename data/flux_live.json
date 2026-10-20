@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-20T00:51:52.019468+00:00",
+  "generated_at": "2026-10-20T05:36:24.865783+00:00",
   "items": [
+    {
+      "id": "3b239daa42d379fb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie, inondations et crues : six départements du Sud-Est et la Haute-Corse placés en vigilance orange",
+      "resume": "L’Ardèche, le Vaucluse, les Bouches-du-Rhône, le Var et la Haute-Corse sont concernés par des risques d’orages et/ou de pluie et inondations, tandis que la vigilance orange pour les crues concerne l’Hérault et le Gard.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-six-departements-du-sud-est-et-la-haute-corse-places-en-vigilance-orange_6797409_3245.html",
+      "published_at": "2026-10-20T05:00:56+00:00"
+    },
+    {
+      "id": "796bb1afd38c64f3",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Un obus en plein poitrail » : en chansons, Delphine Vince politise le cancer et Octobre rose",
+      "resume": "Diagnostiquée d'un cancer du sein, l'artiste Delphine Vince chante dans un spectacle les injonctions faites aux femmes malades et interroge les angles morts de la campagne d'Octobre rose, comme les facteurs environnementaux. Saint-Nazaire e",
+      "url": "https://reporterre.net/Un-obus-en-plein-poitrail-en-chansons-Delphine-Vince-politise-le-cancer-et-Octobre-rose",
+      "published_at": "2026-10-20T05:00:00+00:00"
+    },
+    {
+      "id": "4ec9217e9f0b67ba",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Infrastructures IA : le poids de la dette fait vaciller les investisseurs",
+      "resume": "Coreweave, fournisseur de capacités de calcul aux entreprises de l'IA, a vu son cours de Bourse plonger ces derniers jours. @Panumas Nikhomkhai Pexels Ça commence à craquer du côté de l’endettement IA. Coreweave, une société américaine de \"",
+      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/premiers-signes-tensions-apparaissent-dettes-developpeurs-ia",
+      "published_at": "2026-10-20T04:45:44+00:00"
+    },
+    {
+      "id": "aca57ab4ded6f099",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP17 sur la biodiversité à Erevan : la France, une bonne élève à l’échelle internationale, mais dont les « indicateurs nationaux continuent de s’effondrer »",
+      "resume": "Lors de la réunion dans la capitale arménienne, la France a mis en avant ses progrès en matière de protection de la nature, notamment la création de zones de conservation. Mais, dans le détail, les espèces en déclin sur le territoire nation",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/cop17-sur-la-biodiversite-a-erevan-la-france-une-bonne-eleve-a-l-echelle-internationale-mais-dont-les-indicateurs-nationaux-continuent-de-s-effondrer_6797863_3244.html",
+      "published_at": "2026-10-20T04:00:08+00:00"
+    },
+    {
+      "id": "34445252a0d73095",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment on fournit de l’électricité à notre quartier en circuit court",
+      "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui, des habitants de Rennes ont monté une coopérative pour produire leur électricité localeme",
+      "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/20/comment-on-fournit-de-l-electricite-a-notre-quartier-en-circuit-court_6797853_6125299.html",
+      "published_at": "2026-10-20T03:15:20+00:00"
+    },
     {
       "id": "5e14d7ed18a07d05",
       "source": "The Guardian Environment",
@@ -27,6 +72,15 @@
       "resume": "Florida governor has consistently opposed any legislation to curb planet-heating emissions, calling it a ‘radical climate agenda’ A life-sized statue of Ron DeSantis, the Florida governor, was unveiled and promptly began melting in front of",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/melting-ron-desantis-statue-climate-crisis",
       "published_at": "2026-10-19T19:22:02+00:00"
+    },
+    {
+      "id": "8115ad9f6fd38b6c",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Chez Rubis, les fondateurs lâchent du lest et tournent la page de la fronde des actionnaires - Les Echos",
+      "resume": "Chez Rubis, les fondateurs lâchent du lest et tournent la page de la fronde des actionnaires Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU2U0d3pRNnAwYkxZVjViYWg3M2M2YjB3cHhubWpkQkFVRXRTWFl0X0FnQ2psN3BRSGNlLUNZaXFQOE1lVjZxQkd0bzhrNDcyTEpvaURscmN2akhIZHA0b2VQcFM1dElaa3RvbmlFTnRCeUU0c0VsdThEanR1VTR6VjM4Z1dPOTRFaGFkeWwyUFRzX0hjLVhpLUs2LTNwaFcxb3UwUVpDdEp2SHlNRlRyWVR4QWFCcEVUVGlrWEdkSm5pWkNiVldPMFAzVzJGUXRsRXNYZTJZNndtWU03VUhCUU1jc0N3RklyQTNHOVp6RHZ1YjZjUG9R?oc=5",
+      "published_at": "2026-10-19T17:01:13+00:00"
     },
     {
       "id": "78b150f4b4e02f2a",
@@ -72,15 +126,6 @@
       "resume": "Par une décision du 8 octobre 2026, la cour administrative d'appel de Douai a rejeté la demande d'annulation d'un arrêté autorisant l'exploitation de deux éoliennes sur la commune de Mesnil-Rousset (Eure). Pour quelle raison&#8239;? Le renf",
       "url": "https://www.actu-environnement.com/ae/news/bridage-eoliennes-chiropteres-derogation-especes-protegees-48686.php4#xtor=RSS-6",
       "published_at": "2026-10-19T15:14:22+00:00"
-    },
-    {
-      "id": "3df26ec1c2dd0a85",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie et inondations : huit départements du Sud-Est placés en vigilance orange mardi",
-      "resume": "Les cumuls sur l’ensemble de l’épisode pourront atteindre 200 à 250 millimètres, voire 300 millimètres localement.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/19/pluie-et-inondations-huit-departements-du-sud-est-places-en-vigilance-orange-mardi_6797409_3245.html",
-      "published_at": "2026-10-19T15:10:40+00:00"
     },
     {
       "id": "f542d63a05721dde",
@@ -173,15 +218,6 @@
       "published_at": "2026-10-19T11:45:39+00:00"
     },
     {
-      "id": "e2215656c005d0e4",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Espagne : deux morts après de fortes pluies et des inondations ; les habitants de la région de Valence appelés à rester chez eux",
-      "resume": "« Il est demandé à la population d’éviter tout déplacement », a insisté le premier ministre, Pedro Sanchez, qualifiant de « très difficile » la situation dans la région de Valence.",
-      "url": "https://www.lemonde.fr/international/article/2026/10/19/espagne-deux-morts-apres-de-fortes-pluies-et-des-inondations-les-habitants-de-la-region-de-valence-appeles-a-rester-chez-eux_6797518_3210.html",
-      "published_at": "2026-10-19T10:49:37+00:00"
-    },
-    {
       "id": "fec88ece53fdcbeb",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -245,15 +281,6 @@
       "published_at": "2026-10-19T08:41:00+00:00"
     },
     {
-      "id": "cf35067446b859fb",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Canada : « la nation est en deuil » après un incendie sur une base militaire en Alberta, déclare Mark Carney",
-      "resume": "Une enquête est en cours pour déterminer les causes précises du sinistre ainsi que les circonstances de la mort des soldats.",
-      "url": "https://www.lemonde.fr/international/video/2026/10/19/canada-la-nation-est-en-deuil-apres-un-incendie-sur-une-base-militaire-en-alberta-declare-mark-carney_6797496_3210.html",
-      "published_at": "2026-10-19T08:05:14+00:00"
-    },
-    {
       "id": "4a8dcd300c37dc0b",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -305,15 +332,6 @@
       "titre": "Pesticides : paysan, il a perdu sa fille d'un cancer et va « régler ses comptes » devant les eurodéputés",
       "resume": "Alors que l'Europe s'apprête à assouplir la législation sur les pesticides, Édouard Exilard, paysan basque qui a perdu sa fille d'une tumeur au cerveau, va témoigner devant les eurodéputés. Avec la rage de voir que rien ne change. Lohitzun-",
       "url": "https://reporterre.net/Pesticides-paysan-il-a-perdu-sa-fille-d-un-cancer-et-va-regler-ses-comptes-devant-les",
-      "published_at": "2026-10-19T05:30:00+00:00"
-    },
-    {
-      "id": "f317a02474bfa9f5",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Du maïs à la place de la lavande ? Un immense projet d'irrigation divise la Provence",
-      "resume": "Pomper l'eau du Verdon pour arroser des champs situés 300 m plus haut : en Provence, un immense réseau d'irrigation doit presque tripler les surfaces agricoles irriguées. Les agriculteurs sont partagés entre espoirs et craintes. Saint-Jurs ",
-      "url": "https://reporterre.net/Du-mais-a-la-place-de-la-lavande-Un-immense-projet-d-irrigation-divise-la-Provence",
       "published_at": "2026-10-19T05:30:00+00:00"
     },
     {
@@ -371,15 +389,6 @@
       "published_at": "2026-10-18T06:40:11+00:00"
     },
     {
-      "id": "672afa4f1f685c2c",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Biodiversité : il était une fois un éléphant de mer austral en danger - Les Echos",
-      "resume": "Biodiversité : il était une fois un éléphant de mer austral en danger Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcXJIYjYzbkdJUUxVSlY3ZFZhUk5tWFhVRW1yLVhJMm0tZzJJQWlMQ2tRMUpiM1U2cHFoYTl3bUFIVTNrQ2toY0NZMlFEdVNqSWpjdmJpRVRvZGJMN0tOM2lmVzd1RUp3MVpsMXdVbC1hVEVpdmFzZDUxalU4NW93RkIyMC04ZHpVU2lGbUx3cmFCbWRIYzB1ZGJnRmVrLS00V0p2Q21qX01zN1cwTVpkTUpuWm96U3ZzYXdzaUhLZFE5cl9HT0tmVlNSbTduQ2FNTVRrc2VqZw?oc=5",
-      "published_at": "2026-10-16T15:00:35+00:00"
-    },
-    {
       "id": "d1cb005ad6355d31",
       "source": "Novethic",
       "categorie": "Presse",
@@ -425,13 +434,13 @@
       "published_at": "2026-10-16T06:00:00+00:00"
     },
     {
-      "id": "40827656c730f5ef",
-      "source": "Novethic",
+      "id": "0027dfd3aef23f43",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Derrière les atteintes aux droits humains, la corruption, angle mort des entreprises",
-      "resume": "Derrière l'effondrement du Rana Plaza, la corruption plane. MUNIR-UZ-ZAMAN-AFP Le 24 avril 2013, au Bangladesh, le Rana Plaza, un immeuble de plusieurs étages abritant des ateliers de confection travaillant pour de nombreuses marques textil",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/derriere-les-atteintes-aux-droits-humains-la-corruption-angle-mort-des-entreprises",
-      "published_at": "2026-10-16T04:45:55+00:00"
+      "titre": "Crise énergétique : les Européens demandent à Bruxelles une réponse plus musclée mais se divisent sur les remèdes - Les Echos",
+      "resume": "Crise énergétique : les Européens demandent à Bruxelles une réponse plus musclée mais se divisent sur les remèdes Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOURSMnV5aE5fcHdUS0NINGV4NHlncHNtMmxneWhJck4xZEp6bTNzZnBsdFpzNkt0OGZ5czViRWdQcTAzX1pyZFhLRlp2cUZBQjNPZWtyRU4yVThNTmNwanFMMlg5Ukx4WXA2SjcxSEpXeVV4X2lOdG9RUVF3TkFTYjBDT3htbmN2aUJxYUVXYUNtc2g2VHQ1VGpsb1ZHV3NVS2FoU3VaTGNINV9Fd3ltUjVGd2RnamlWTS1fZnlKNUZsa0cwaHBONTJ3VlhaNnpQeWZlNkx5WVlfUE5PSndoR2FBclp0ek1kNkpfNA?oc=5",
+      "published_at": "2026-10-15T16:18:39+00:00"
     },
     {
       "id": "79b653deca4d1f7c",
@@ -459,15 +468,6 @@
       "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
       "published_at": "2026-10-15T13:00:08+00:00"
-    },
-    {
-      "id": "83a451bca54e4369",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Mobilité et RSE : conjuguer écologie et rentabilité - Les Echos",
-      "resume": "Mobilité et RSE : conjuguer écologie et rentabilité Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A5TjBiM1lkTUpzYkdrVllzTGxsOGF6eGRGM0VhSmc5WVZBc0xRRkhZRlN4ZThOZmZfQTNhTTFHXzZKVDMyRjJnaG1Pc2NIVzFkWHI2TTFZbjVNUnFCaFpMM0VEMXhxWDFzNTVqTnFwRGV6VGpobXphV0lobXVuN0J5UW53cjllbVVTWnJ6R0k0UnhVUkpQU0JWSGY?oc=5",
-      "published_at": "2026-10-15T05:25:26+00:00"
     },
     {
       "id": "c29f0bbe22526d31",
