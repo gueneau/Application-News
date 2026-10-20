@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "generated_at": "06:13",
-  "elapsed_seconds": 444,
+  "generated_at": "12:11",
+  "elapsed_seconds": 360,
   "errors": [],
   "stats": {
     "jo_analyses": 13,
@@ -9,20 +9,64 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-20T06:13:14",
+    "run_at": "2026-10-20T12:11:51",
     "sources": {
       "JORF": 0,
-      "RSS": 4,
+      "RSS": 7,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 32,
-    "llm_seconds": 146.7
+    "llm_calls": 33,
+    "llm_seconds": 54.1
   },
   "items": [
+    {
+      "id": "a558ba5d566c",
+      "source": "Actu-Environnement",
+      "categorie": "Énergie",
+      "titre": "Flexibilité : quand le stockage de chaleur soulage le réseau électrique",
+      "resume": "La hausse des heures de prix négatifs de l'électricité en France pousse des industriels à adopter le stockage thermique pour substituer le gaz et absorber les surplus d'énergies renouvelables.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/stockage-thermique-flexibilite-reseau-electrique-enr-48690.php4#xtor=RSS-6",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "712111fbb9d9",
+      "source": "Actu-Environnement",
+      "categorie": "Émissions",
+      "titre": "Fonds pour l'innovation : les projets de décarbonation français sélectionnés par la Commission européenne",
+      "resume": "La Commission européenne a sélectionné 16 projets français parmi 77 bénéficiaires du Fonds pour l'innovation, mobilisant 3,4 milliards d'euros pour la décarbonation industrielle, le stockage, les technologies propres et le recyclage.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/fonds-innovation-decarbonation-projets-francais-48688.php4#xtor=RSS-6",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "3fd3431ed34b",
+      "source": "Actuel HSE",
+      "categorie": "Énergie",
+      "titre": "Sommes-nous prêts pour une prochaine crise énergétique ?",
+      "resume": "Quatre ans après la crise de 2022, l'Europe montre une meilleure résilience face aux chocs énergétiques grâce à des réseaux adaptés et une forte production nucléaire, tout en faisant face à de nouvelles fragilités liées aux prix, au GNL et aux besoins d'électrification.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actuel-hse.fr/content/sommes-nous-prets-pour-une-prochaine-crise-energetique",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "cb2db821403d",
+      "source": "Reporterre",
+      "categorie": "Eau",
+      "titre": "Irriguer avec des eaux usées, une idée qui pourrait assécher les rivières",
+      "resume": "Le développement de la réutilisation des eaux usées traitées pour l'irrigation en France soulève un risque de tension sur les débits des cours d'eau en période estivale, illustrant les arbitrages croissants autour de la ressource en eau.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://reporterre.net/Irriguer-avec-des-eaux-usees-une-idee-qui-pourrait-assecher-les-rivieres",
+      "date": "2026-10-19"
+    },
     {
       "id": "fde812cb34f2",
       "source": "Actu-Environnement",
@@ -43,17 +87,6 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/photovoltaique-autoconsommation-batteries-pilotage-stockage-48680.php4#xtor=RSS-6",
-      "date": "2026-10-19"
-    },
-    {
-      "id": "cb2db821403d",
-      "source": "Reporterre",
-      "categorie": "Eau",
-      "titre": "Irriguer avec des eaux usées, une idée qui pourrait assécher les rivières",
-      "resume": "Le développement de la réutilisation des eaux usées traitées pour l'irrigation en France soulève un risque de tension sur les débits des cours d'eau en période estivale, illustrant les arbitrages croissants autour de la ressource en eau.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://reporterre.net/Irriguer-avec-des-eaux-usees-une-idee-qui-pourrait-assecher-les-rivieres",
       "date": "2026-10-19"
     },
     {
@@ -195,6 +228,11 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "95",
       "dept_nom": "Val-d'Oise",
       "niveau": "crise"
@@ -212,11 +250,6 @@
     {
       "dept_code": "55",
       "dept_nom": "Meuse",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "28",
-      "dept_nom": "Eure-et-Loir",
       "niveau": "crise"
     },
     {
@@ -310,6 +343,11 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "01",
       "dept_nom": "Ain",
       "niveau": "crise"
@@ -317,11 +355,6 @@
     {
       "dept_code": "39",
       "dept_nom": "Jura",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -425,11 +458,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "2B",
-      "dept_nom": "Haute-Corse",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "76",
       "dept_nom": "Seine-Maritime",
       "niveau": "alerte renforcée"
@@ -492,6 +520,11 @@
     {
       "dept_code": "84",
       "dept_nom": "Vaucluse",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "2B",
+      "dept_nom": "Haute-Corse",
       "niveau": "alerte renforcée"
     },
     {
