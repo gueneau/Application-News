@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T22:52:33.380190+00:00",
+  "generated_at": "2026-10-21T01:10:54.551856+00:00",
   "items": [
     {
       "id": "2f8daa51f52c754e",
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Pluie, inondations et crues : un mort près de Marseille, une personne portée disparue en Haute-Corse",
-      "resume": "Les fortes pluies qui sont arrivées lundi ont baissé en intensité à la fin de la journée, « d’où la sortie du niveau rouge » pour la Haute-Corse, a fait savoir Méteo-France. Le Gard, la Corse-du-Sud et la Haute-Corse sont en vigilance orang",
+      "resume": "Les fortes pluies qui sont arrivées lundi ont baissé en intensité à la fin de la journée, « d’où la sortie du niveau rouge » pour la Haute-Corse. Le Var et les Alpes-Maritimes sont placés en vigilance orange pluie-inondation jusqu’à mercred",
       "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-un-mort-pres-de-marseille-une-personne-portee-disparue-en-haute-corse_6797908_3245.html",
       "published_at": "2026-10-20T18:31:46+00:00"
     },
@@ -123,7 +123,7 @@
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Les pompiers veulent faire connaître la « valeur du sauvé », le calcul de ce qui ne brûle pas grâce à leurs interventions",
-      "resume": "Après les grands incendies de forêt de cet été, plusieurs services départementaux d’incendie et de secours, dont celui du Var, ont estimé le montant de ce qui a pu être soustrait aux flammes. Un moyen de prouver que l’investissement dans le",
+      "resume": "Après les grands feux de forêt de cet été, plusieurs services départementaux d’incendie et de secours, dont celui du Var, ont estimé le montant de ce qui a pu être soustrait aux flammes. Un moyen de prouver que l’investissement dans les moy",
       "url": "https://www.lemonde.fr/planete/article/2026/10/20/les-pompiers-veulent-faire-connaitre-la-valeur-du-sauve-le-calcul-de-ce-qui-ne-brule-pas-grace-a-leurs-interventions_6797931_3244.html",
       "published_at": "2026-10-20T13:45:23+00:00"
     },
@@ -317,6 +317,15 @@
       "published_at": "2026-10-20T04:45:44+00:00"
     },
     {
+      "id": "6904cc8ace921e57",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "La députée Agnès Pannier-Runacher visée par un logiciel espion",
+      "resume": "L’ancienne ministre a été alertée d’une tentative d’espionnage sur son téléphone en août. La DGSI a ouvert une enquête.",
+      "url": "https://www.politico.eu/article/la-deputee-agnes-pannier-runacher-visee-par-un-logiciel-espion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-10-20T04:00:00+00:00"
+    },
+    {
       "id": "5e14d7ed18a07d05",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -452,6 +461,15 @@
       "published_at": "2026-10-16T06:00:00+00:00"
     },
     {
+      "id": "79b653deca4d1f7c",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique - Les Echos",
+      "resume": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTNCc2hFV1hralZsT0RNYTBDVkNmNlNYbFhCVVA4c0hxOGl1UUZZT0FiS2QtSVdzMGVKRWE2QldVejRtU1JKcVRxWUZzb2dySkhSRjd0TDJpMmV4ajFBRU5vRXp6NkRET2l5UVdkZ05YaXdMMG1jZTR6ODUxT0JzbGFiSW9LU0VQOXFkeEdxQ1c2WHg3T0txSEs3YmxHWkxHSU9RMlRfT2dLc2RfWkFaM00yY052eHJvTzZyblY1MFZuTlJLR0k5VzcwNjFWb3NOTGg1SkZTTUpoZUlhU05Id0ZMalYtMFRhRzBCTU1nTkJRaVdQYXRPZWNlbDAzLVpYMzkwckJLM1FEbVVDdjdCOFlIUWUzSE9QaUE?oc=5",
+      "published_at": "2026-10-15T16:02:49+00:00"
+    },
+    {
       "id": "65611bcca3b8eee5",
       "source": "I4CE",
       "categorie": "Climat",
@@ -459,15 +477,6 @@
       "resume": "Comment prioriser les financements publics ? Et comment financer l’action climatique locale sans mobiliser plus de financements publics ? L’article Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investis",
       "url": "https://www.i4ce.org/collectivites-urgence-climatique-nouvelle-approche-mur-investissement/",
       "published_at": "2026-10-15T15:43:50+00:00"
-    },
-    {
-      "id": "a093f985ae0cbd46",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables - Les Echos",
-      "resume": "A Alfortville, la commune renouvelle sa géothermie pour atteindre 90 % d'énergies renouvelables Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSUhSRktvdFhJcGgzVlNYMWgyWWVWRW83RWpOcjEtNTlOa1RtOUwzdGxmR1Z0S0RTN3NWQ2l1TVNidEcyYkFIa1RFa3QzUjZRNXBjV3B0elVfazV6MWFacmRGN01aTFlfM0NocUNibFpDQS1DU1RGVVYzX3JZN2htOG5jT0hzdFZNUkxSZVBidENpRVFqVk5VZjc3U2ZTNzRvNmtvUU1rSUdvMV9IM3cxSmJBSVFTQ0NaLTFLeVpRb0YwejVMcFliajIwNlYzWm51alRkR3pxUHlFS0xLQlpSWUJfQQ?oc=5",
-      "published_at": "2026-10-15T13:00:08+00:00"
     },
     {
       "id": "c29f0bbe22526d31",
@@ -594,15 +603,6 @@
       "resume": "Bien qu’il aime se poser en défenseur de l’Accord de Paris sur le climat, le chef de l’Etat ne semble plus placer les négociations climatiques en haut de ses priorités calendaires.",
       "url": "https://www.politico.eu/article/le-calendrier-charge-demmanuel-macron-complique-sa-venue-a-la-cop31/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-04T16:35:13+00:00"
-    },
-    {
-      "id": "a7ef9bf5db2cfdd8",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Diesel : sous la pression des Etats-Unis, l’exécutif envisage de libérer une part importante de ses réserves",
-      "resume": "L’exécutif français a proposé aux autres pays européens de mettre sur le marché 100 millions de barils de pétrole brut et de gazole. Une concession majeure envers les Etats-Unis.",
-      "url": "https://www.politico.eu/article/diesel-sous-la-pression-des-etats-unis-lexecutif-envisage-de-liberer-une-part-importante-de-ses-reserves/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-02T10:01:09+00:00"
     },
     {
       "id": "0bd64ab468126d46",
