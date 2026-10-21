@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-21T20:50:09.808601+00:00",
+  "generated_at": "2026-10-21T23:51:22.210689+00:00",
   "items": [
+    {
+      "id": "4a28d5868ad4a1ac",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
+      "resume": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spread The US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of flesh-eating parasite the New ",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
+      "published_at": "2026-10-21T23:36:31+00:00"
+    },
     {
       "id": "cf9644b16bd89beb",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Dans le Sud-Est et en Corse, deux morts après des intempéries records",
-      "resume": "L’épisode méditerranéen qui a balayé les Bouches-du-Rhône et la Corse, associé à des cumuls de pluie très importants, a provoqué d’importantes perturbations. Deux personnes ont trouvé la mort.",
+      "titre": "Dans le Sud-Est et en Corse, au moins quatre morts après des intempéries records",
+      "resume": "L’épisode méditerranéen qui a balayé les Bouches-du-Rhône et la Corse, associé à des cumuls de pluie très importants, a provoqué d’importantes perturbations. Trois personnes sont mortes dans les Bouches-du-Rhône, et une autre en Haute-Corse",
       "url": "https://www.lemonde.fr/climat/article/2026/10/21/dans-le-sud-est-et-en-corse-deux-morts-apres-des-intemperies-records_6798310_1652612.html",
-      "published_at": "2026-10-21T20:30:10+00:00"
+      "published_at": "2026-10-21T20:30:08+00:00"
     },
     {
       "id": "238bc2301bb1a052",
@@ -185,8 +194,8 @@
       "id": "1d775f62c65b3b34",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Intempéries : en Haute-Corse, un homme retrouvé mort à Ghisonaccia après la crue du Fiumorbo ; une personne portée disparue dans le Var",
-      "resume": "Les recherches menées durant la soirée par les secours n’ont malheureusement pas permis de sauver la seconde victime emportée par le Fiumorbo à Ghisonaccia.",
+      "titre": "Intempéries : trois morts dans les Bouches-du-Rhône, un mort en Haute-Corse, une personne portée disparue dans le Var",
+      "resume": "La préfecture a communiqué, mercredi soir, ce nouveau bilan. Le département a souffert de fortes inondations après les pluies diluviennes qui l’ont touché mardi.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/21/intemperies-en-haute-corse-un-homme-retrouve-mort-a-ghisonaccia-apres-la-crue-du-fiumorbo_6798216_3244.html",
       "published_at": "2026-10-21T07:47:26+00:00"
     },
@@ -362,15 +371,6 @@
       "published_at": "2026-10-19T11:45:39+00:00"
     },
     {
-      "id": "bd3e0269d860308a",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
-      "resume": "The last long-term federal recovery funds allocated for a major disaster were for Hurricane Milton, which hit in late 2024 Survivors of extreme weather disasters across the US are facing long waits for government assistance funds to rebuild",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
-      "published_at": "2026-10-19T10:00:03+00:00"
-    },
-    {
       "id": "52ca2e26d42df576",
       "source": "Fédération de la Propreté",
       "categorie": "Presse",
@@ -452,6 +452,15 @@
       "published_at": "2026-10-14T17:08:03+00:00"
     },
     {
+      "id": "1dd6edcb81f83b4f",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Notre nouveau livre est en librairie !",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
+      "published_at": "2026-10-14T07:27:21+00:00"
+    },
+    {
       "id": "e04b87d3611be2d3",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -524,6 +533,15 @@
       "published_at": "2026-10-09T08:45:20+00:00"
     },
     {
+      "id": "e08f4587b21f7778",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement de la Grande Consultation des Professionnels de l’Automobile",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
+      "published_at": "2026-10-06T10:23:17+00:00"
+    },
+    {
       "id": "35b556788e6ad67e",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -560,6 +578,15 @@
       "published_at": "2026-09-25T15:19:52+00:00"
     },
     {
+      "id": "cf48f14c1a1e7e16",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Un an après notre financement participatif, faisons le point",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/un-an-apres-notre-financement-participatif-faisons-le-point/",
+      "published_at": "2026-08-20T09:46:13+00:00"
+    },
+    {
       "id": "ab31b0d4d313ca82",
       "source": "Fédération de la Propreté",
       "categorie": "Presse",
@@ -576,6 +603,33 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "ebbcaca171cba5d1",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
+      "published_at": "2026-06-30T08:03:48+00:00"
+    },
+    {
+      "id": "ac6ecc926252c5cb",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
+      "published_at": "2026-06-23T12:24:00+00:00"
     },
     {
       "id": "2da2b921127fe578",
