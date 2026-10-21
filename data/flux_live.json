@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-21T17:29:18.514107+00:00",
+  "generated_at": "2026-10-21T20:50:09.808601+00:00",
   "items": [
+    {
+      "id": "cf9644b16bd89beb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dans le Sud-Est et en Corse, deux morts après des intempéries records",
+      "resume": "L’épisode méditerranéen qui a balayé les Bouches-du-Rhône et la Corse, associé à des cumuls de pluie très importants, a provoqué d’importantes perturbations. Deux personnes ont trouvé la mort.",
+      "url": "https://www.lemonde.fr/climat/article/2026/10/21/dans-le-sud-est-et-en-corse-deux-morts-apres-des-intemperies-records_6798310_1652612.html",
+      "published_at": "2026-10-21T20:30:10+00:00"
+    },
     {
       "id": "238bc2301bb1a052",
       "source": "Actu-Environnement",
@@ -176,7 +185,7 @@
       "id": "1d775f62c65b3b34",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Intempéries en Haute-Corse : un homme retrouvé mort à Ghisonaccia après la crue du Fiumorbo",
+      "titre": "Intempéries : en Haute-Corse, un homme retrouvé mort à Ghisonaccia après la crue du Fiumorbo ; une personne portée disparue dans le Var",
       "resume": "Les recherches menées durant la soirée par les secours n’ont malheureusement pas permis de sauver la seconde victime emportée par le Fiumorbo à Ghisonaccia.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/21/intemperies-en-haute-corse-un-homme-retrouve-mort-a-ghisonaccia-apres-la-crue-du-fiumorbo_6798216_3244.html",
       "published_at": "2026-10-21T07:47:26+00:00"
@@ -200,6 +209,15 @@
       "published_at": "2026-10-21T07:15:02+00:00"
     },
     {
+      "id": "91f3e38b6aa0240b",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Dans le Jura, le lunetier Thierry mise sur la sobriété énergétique et environnementale - Les Echos",
+      "resume": "Dans le Jura, le lunetier Thierry mise sur la sobriété énergétique et environnementale Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkcwN2VZR2dFT052RkdGVzVRajNXcEtfdXAwRUNrcGxGYzZWQXVZd1FtRGZSOGtxRkh4eEVHbjVKUExUVDVEazFqbXV6enNuSHB0R0pMeEZic0tSWWZXNTFPNXVybGZFT1VHZllLMkNDYlNUYWRoN09XN2tnbzZNTk15ZHJGYmVhVzkzVmQweTVXSlVvZGJ2ZTFDNTZycGR6Vkt1QTltWDJxZ1ZESmJScGRuTVdLUWNuN3dINVhMZFZFLVZ3OHktOWMzSEM?oc=5",
+      "published_at": "2026-10-21T06:50:08+00:00"
+    },
+    {
       "id": "5d611b191e2ed767",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -209,6 +227,15 @@
       "published_at": "2026-10-21T05:23:32+00:00"
     },
     {
+      "id": "9ce98f633e1fdcc2",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "« C'est maintenant et pas plus tard » : le cri d'alarme des Nations unies face au point de non-retour d'un réchauffement climatique à + 1,5 °C - Les Echos",
+      "resume": "« C'est maintenant et pas plus tard » : le cri d'alarme des Nations unies face au point de non-retour d'un réchauffement climatique à + 1,5 °C Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZ29jZmRVdUpLNWVMZUJuT2M5VnRPLVhwU1pzSTd6MlppbzdxNlhlVFhIeDFLNFo3SkZFYXY0Z04ydWh4eUhWbmJYRFNFZF9mdkFyUkZ4d0hlWFZjRTVLOENvakcwQ0F1MzJvNEkxWUJIUHFLbWtFc3VjZ1ZTQW1KSno4RVZHeHJPNkU3V2VhWFZEdDB3VGJ2bjJoY3AtTXRhNlVKcXlhZ0VBSFZReHJRRG5lbFZzYlM2ejczOE5EU1ZfMmo2MVExLUM4bGJ0TWNVTG1BLTBGRFVjcHk2WlNmbTFlUkVSYXhjZG5uOXVndFNId2ZhOGVJTEt5RDFMOUlDTTExU3Eza2ZVYnFlcVJGTU9CLW01OVJC?oc=5",
+      "published_at": "2026-10-21T05:00:08+00:00"
+    },
+    {
       "id": "1dcfae061e3e060f",
       "source": "Novethic",
       "categorie": "Presse",
@@ -216,15 +243,6 @@
       "resume": "En 2025, 2,8% du carburant d’aviation fourni dans les aéroports européens étaient des carburants d'aviation durable. Alexandru-Bogdan Ghita / Unsplash C’est une bonne nouvelle, ou presque. L’Union européenne a réussi à tenir ses objectifs e",
       "url": "https://www.novethic.fr/environnement/climat/carburants-daviation-durable-decollage-reussi-de-fortes-turbulences-a-venir",
       "published_at": "2026-10-21T04:45:31+00:00"
-    },
-    {
-      "id": "149b37a3d9f42070",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Rénovation énergétique : quelles aides sont encore possibles ?",
-      "resume": "Alors que le diagnostic énergétique prend de plus en plus de place dans le choix d’achat et le prix du bien, quels financements sont encore disponibles pour faire des travaux ?",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/21/renovation-energetique-quelles-aides-sont-encore-possibles_6798193_1657007.html",
-      "published_at": "2026-10-21T04:00:13+00:00"
     },
     {
       "id": "bd1a2574de3f24be",
@@ -407,15 +425,6 @@
       "published_at": "2026-10-16T06:00:00+00:00"
     },
     {
-      "id": "79b653deca4d1f7c",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique - Les Echos",
-      "resume": "Prime pour sortir du gaz, 1 milliard de prêts bonifiés… les nouvelles mesures du gouvernement pour passer à l'électrique Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTNCc2hFV1hralZsT0RNYTBDVkNmNlNYbFhCVVA4c0hxOGl1UUZZT0FiS2QtSVdzMGVKRWE2QldVejRtU1JKcVRxWUZzb2dySkhSRjd0TDJpMmV4ajFBRU5vRXp6NkRET2l5UVdkZ05YaXdMMG1jZTR6ODUxT0JzbGFiSW9LU0VQOXFkeEdxQ1c2WHg3T0txSEs3YmxHWkxHSU9RMlRfT2dLc2RfWkFaM00yY052eHJvTzZyblY1MFZuTlJLR0k5VzcwNjFWb3NOTGg1SkZTTUpoZUlhU05Id0ZMalYtMFRhRzBCTU1nTkJRaVdQYXRPZWNlbDAzLVpYMzkwckJLM1FEbVVDdjdCOFlIUWUzSE9QaUE?oc=5",
-      "published_at": "2026-10-15T16:02:49+00:00"
-    },
-    {
       "id": "65611bcca3b8eee5",
       "source": "I4CE",
       "categorie": "Climat",
@@ -423,15 +432,6 @@
       "resume": "Comment prioriser les financements publics ? Et comment financer l’action climatique locale sans mobiliser plus de financements publics ? L’article Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investis",
       "url": "https://www.i4ce.org/collectivites-urgence-climatique-nouvelle-approche-mur-investissement/",
       "published_at": "2026-10-15T15:43:50+00:00"
-    },
-    {
-      "id": "83a451bca54e4369",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Mobilité et RSE : conjuguer écologie et rentabilité - Les Echos",
-      "resume": "Mobilité et RSE : conjuguer écologie et rentabilité Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1A5TjBiM1lkTUpzYkdrVllzTGxsOGF6eGRGM0VhSmc5WVZBc0xRRkhZRlN4ZThOZmZfQTNhTTFHXzZKVDMyRjJnaG1Pc2NIVzFkWHI2TTFZbjVNUnFCaFpMM0VEMXhxWDFzNTVqTnFwRGV6VGpobXphV0lobXVuN0J5UW53cjllbVVTWnJ6R0k0UnhVUkpQU0JWSGY?oc=5",
-      "published_at": "2026-10-15T05:25:26+00:00"
     },
     {
       "id": "c29f0bbe22526d31",
@@ -450,15 +450,6 @@
       "resume": "Le Haut conseil pour le climat publie une note détaillant les points de vigilance pour la révision post-2030 du marché […] L’article Points de vigilance pour la révision post-2030 du marché carbone européen est apparu en premier sur Haut Co",
       "url": "https://www.hautconseilclimat.fr/actualites/points-de-vigilance-pour-la-revision-post-2030-du-marche-carbone-europeen/",
       "published_at": "2026-10-14T17:08:03+00:00"
-    },
-    {
-      "id": "1dd6edcb81f83b4f",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Notre nouveau livre est en librairie !",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
-      "published_at": "2026-10-14T07:27:21+00:00"
     },
     {
       "id": "e04b87d3611be2d3",
@@ -533,15 +524,6 @@
       "published_at": "2026-10-09T08:45:20+00:00"
     },
     {
-      "id": "e08f4587b21f7778",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Lancement de la Grande Consultation des Professionnels de l’Automobile",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
-      "published_at": "2026-10-06T10:23:17+00:00"
-    },
-    {
       "id": "35b556788e6ad67e",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -578,15 +560,6 @@
       "published_at": "2026-09-25T15:19:52+00:00"
     },
     {
-      "id": "cf48f14c1a1e7e16",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Un an après notre financement participatif, faisons le point",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/un-an-apres-notre-financement-participatif-faisons-le-point/",
-      "published_at": "2026-08-20T09:46:13+00:00"
-    },
-    {
       "id": "ab31b0d4d313ca82",
       "source": "Fédération de la Propreté",
       "categorie": "Presse",
@@ -603,33 +576,6 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
-    },
-    {
-      "id": "4e3191d2bda8de04",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Lancement du projet Prospective Europe",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
-      "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "ac6ecc926252c5cb",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
-      "published_at": "2026-06-23T12:24:00+00:00"
     },
     {
       "id": "2da2b921127fe578",
