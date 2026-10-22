@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "generated_at": "06:13",
-  "elapsed_seconds": 462,
+  "generated_at": "12:12",
+  "elapsed_seconds": 405,
   "errors": [],
   "stats": {
     "jo_analyses": 16,
@@ -9,29 +9,51 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-22T06:13:27",
+    "run_at": "2026-10-22T12:12:37",
     "sources": {
       "JORF": 0,
-      "RSS": 5,
+      "RSS": 8,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 42,
-    "llm_seconds": 135.6
+    "llm_calls": 36,
+    "llm_seconds": 96.3
   },
   "items": [
     {
-      "id": "bf9bc71e57cb",
+      "id": "005f23cba348",
+      "source": "Actu-Environnement",
+      "categorie": "Déchets",
+      "titre": "Omnibus VIII : le Parlement et le Conseil adoptent leurs positions sur la REP",
+      "resume": "Omnibus VIII : le Parlement et le Conseil adoptent leurs positions sur la REP",
+      "pourquoi": "Mention de réglementation prioritaire.",
+      "criticite": 3,
+      "url": "https://www.actu-environnement.com/ae/news/omnibus-parlement-conseil-representants-rep-48707.php4#xtor=RSS-6",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "aac03b29e65c",
       "source": "Le Monde Planète",
       "categorie": "Biodiversité",
-      "titre": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
-      "resume": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
+      "titre": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
+      "resume": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
       "pourquoi": "Mention de réglementation prioritaire.",
       "criticite": 3,
       "url": "https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "d6a40be9be05",
+      "source": "ESG Today",
+      "categorie": "Biodiversité",
+      "titre": "ISSB Releases Proposed Nature-Related Reporting Requirements",
+      "resume": "ISSB Releases Proposed Nature-Related Reporting Requirements",
+      "pourquoi": "Mention de réglementation prioritaire.",
+      "criticite": 3,
+      "url": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
       "date": "2026-10-22"
     },
     {
