@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-21T23:51:22.210689+00:00",
+  "generated_at": "2026-10-22T02:46:10.949505+00:00",
   "items": [
+    {
+      "id": "93845acb2cb28f95",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
+      "resume": "Le déficit pluviométrique dans cette collectivité d’outre-mer a entraîné une forte baisse du niveau des cours d’eau et l’interruption progressive du trafic fluvial.",
+      "url": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
+      "published_at": "2026-10-22T01:00:20+00:00"
+    },
     {
       "id": "4a28d5868ad4a1ac",
       "source": "The Guardian Environment",
@@ -225,15 +234,6 @@
       "resume": "Dans le Jura, le lunetier Thierry mise sur la sobriété énergétique et environnementale Les Echos",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkcwN2VZR2dFT052RkdGVzVRajNXcEtfdXAwRUNrcGxGYzZWQXVZd1FtRGZSOGtxRkh4eEVHbjVKUExUVDVEazFqbXV6enNuSHB0R0pMeEZic0tSWWZXNTFPNXVybGZFT1VHZllLMkNDYlNUYWRoN09XN2tnbzZNTk15ZHJGYmVhVzkzVmQweTVXSlVvZGJ2ZTFDNTZycGR6Vkt1QTltWDJxZ1ZESmJScGRuTVdLUWNuN3dINVhMZFZFLVZ3OHktOWMzSEM?oc=5",
       "published_at": "2026-10-21T06:50:08+00:00"
-    },
-    {
-      "id": "5d611b191e2ed767",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Météo France a levé sa vigilance orange pluie, inondations et crues, après les violentes intempéries qui ont fait un mort près de Marseille ; une personne portée disparue en Haute-Corse",
-      "resume": "Voitures déplacées par la violence des eaux, rues et maisons inondées, ce nouvel épisode météorologique violent a balayé le sud-est de la France en se déplaçant de l’Occitanie vers Provence-Alpes-Côte d’Azur.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/21/meteo-france-a-levee-sa-vigilance-orange-pluie-inondations-et-crues-apres-les-violentes-intemperies-qui-ont-fait-un-mort-pres-de-marseille-une-personne-portee-disparue-en-haute-corse_6797908_3245.html",
-      "published_at": "2026-10-21T05:23:32+00:00"
     },
     {
       "id": "9ce98f633e1fdcc2",
