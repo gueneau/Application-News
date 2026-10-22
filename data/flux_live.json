@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-10-22T02:46:10.949505+00:00",
+  "generated_at": "2026-10-22T08:11:49.867947+00:00",
   "items": [
+    {
+      "id": "6e9f82d4ca8a49f5",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Je n'ai rien pris, rien cassé, rien volé » : après le 17 octobre, des tribunaux impitoyables",
+      "resume": "Alors que le gouvernement a été dépassé par la mobilisation du 17 octobre, le garde des Sceaux a voulu une réponse judiciaire « ferme » à l'égard de contestataires accusés de vols ou dégradations. Bobigny (Seine-Saint-Denis), reportage Aprè",
+      "url": "https://reporterre.net/Je-n-ai-rien-pris-rien-casse-rien-vole-apres-le-17-octobre-des-tribunaux-impitoyables",
+      "published_at": "2026-10-22T07:47:09+00:00"
+    },
+    {
+      "id": "e54010ec268203df",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Thomas Brail : « Critiquez ces jeunes masqués, mais vous découvrirez peut-être que ce sont vos enfants »",
+      "resume": "« Avec le recul, je pense qu'on est en train de gagner » : dans ce grand entretien, le militant Thomas Brail, connu pour se percher dans les arbres pour les protéger, analyse les victoires et les défaites des luttes contre les projets écoci",
+      "url": "https://reporterre.net/Thomas-Brail-Ces-elus-qui-detruisent-tout-et-nous-envoient-dans-le-mur-il-faudrait-les",
+      "published_at": "2026-10-22T06:00:00+00:00"
+    },
+    {
+      "id": "4ec28a3ae0be4652",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempête Austen : cinq départements en vigilance orange à partir de jeudi soir ; le trafic ferroviaire perturbé vendredi",
+      "resume": "La tempête Austen pourrait aussi entraîner une vigilance orange « vagues-submersion » sur le nord de la Bretagne, selon Météo-France.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/22/tempete-austen-cinq-departements-en-vigilance-orange-a-partir-de-jeudi-soir-le-trafic-ferroviaire-perturbe-vendredi_6798578_3244.html",
+      "published_at": "2026-10-22T05:52:24+00:00"
+    },
+    {
+      "id": "0fb573d9e8be1bd9",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Manger en 2050 : le nouveau rapport du Shift sur l’alimentation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
+      "published_at": "2026-10-22T05:00:26+00:00"
+    },
+    {
+      "id": "4f8fe60594f76b18",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "LVMH, Zara, Uniqlo... : les géants de la mode en retard sur le salaire décent",
+      "resume": "Les ouvriers textile toujours sous payés @PAOLO MANZO NurPhoto / NurPhoto via AFP Les grandes marques de mode ne versent toujours pas un salaire décent à leurs travailleurs. C’est le constat de la septième édition du Fashion Checker, l’outi",
+      "url": "https://www.novethic.fr/economie-et-social/droits-humains/entreprises-mode-retard-salaires-decents-ouvriers",
+      "published_at": "2026-10-22T04:45:39+00:00"
+    },
+    {
+      "id": "02ecf12f85e3ab24",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
+      "resume": "La Commission européenne, qui souhaite assouplir la réglementation sur les produits phytosanitaires, prévoit de classer comme « produits de biocontrôle » les nouveaux pesticides à ARN interférent. Un statut qui en faciliterait l’usage, mais",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html",
+      "published_at": "2026-10-22T03:45:10+00:00"
+    },
     {
       "id": "93845acb2cb28f95",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
+      "titre": "En Guyane, le préfet active le plan Orsec « sécheresse » pour ravitailler les communes isolées face aux effets d’El Niño",
       "resume": "Le déficit pluviométrique dans cette collectivité d’outre-mer a entraîné une forte baisse du niveau des cours d’eau et l’interruption progressive du trafic fluvial.",
       "url": "https://www.lemonde.fr/outre-mer/article/2026/10/22/en-guyane-le-prefet-active-le-plan-orsec-secheresse-pour-ravitailler-les-communes-isolees-face-aux-effets-d-el-nino_6798413_1840826.html",
       "published_at": "2026-10-22T01:00:20+00:00"
@@ -23,7 +77,7 @@
       "id": "cf9644b16bd89beb",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Dans le Sud-Est et en Corse, au moins quatre morts après des intempéries records",
+      "titre": "Dans le Sud-Est et en Corse, au moins quatre morts après des intempéries record",
       "resume": "L’épisode méditerranéen qui a balayé les Bouches-du-Rhône et la Corse, associé à des cumuls de pluie très importants, a provoqué d’importantes perturbations. Trois personnes sont mortes dans les Bouches-du-Rhône, et une autre en Haute-Corse",
       "url": "https://www.lemonde.fr/climat/article/2026/10/21/dans-le-sud-est-et-en-corse-deux-morts-apres-des-intemperies-records_6798310_1652612.html",
       "published_at": "2026-10-21T20:30:08+00:00"
@@ -168,7 +222,7 @@
       "source": "ESG Today",
       "categorie": "Réglementation",
       "titre": "Hyundai, Peak Energy Launch Platform to Expand Renewable Energy in Automotive Supply Chain",
-      "resume": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities announced the launch of HMS-Peak […]",
+      "resume": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities’ Vencore Rooftop Equity Fund announced […]",
       "url": "https://www.esgtoday.com/hyundai-peak-energy-launch-platform-to-expand-renewable-energy-in-automotive-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-peak-energy-launch-platform-to-expand-renewable-energy-in-automotive-supply-chain",
       "published_at": "2026-10-21T10:08:30+00:00"
     },
@@ -180,42 +234,6 @@
       "resume": "At a gathering in Texas, near where floods killed 136 people last year, survivors are united on the need for urgent action It may be a club none of its members actually want to be in, but the growing number of people in the US affected by e",
       "url": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
       "published_at": "2026-10-21T10:00:02+00:00"
-    },
-    {
-      "id": "ee27a1b87ca8f203",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les images des intempéries dans le sud-est, qui ont fait deux morts",
-      "resume": "Voitures déplacées par la violence des eaux, rues et maisons inondées, ce nouvel épisode météorologique violent a balayé le sud-est de la France en se déplaçant de l’Occitanie vers la région Provence-Alpes-Côte d’Azur.",
-      "url": "https://www.lemonde.fr/planete/video/2026/10/21/les-images-des-intemperies-dans-le-sud-est-qui-ont-fait-deux-morts_6798235_3244.html",
-      "published_at": "2026-10-21T09:56:15+00:00"
-    },
-    {
-      "id": "a5983be50eb8dfef",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Profession ? Puisatier. Benoît fait partie des 10 derniers réparateurs de puits français",
-      "resume": "Comme son père avant lui, Benoît refait couler l'eau dans les puits à l'abandon. Oubliés depuis l'arrivée de l'eau courante, ces artisans reviennent en grâce à cause des sécheresses et étés caniculaires. Lans (Saône-et-Loire), reportage Dan",
-      "url": "https://reporterre.net/Profession-Puisatier-Benoit-fait-partie-des-10-derniers-reparateurs-de-puits-francais",
-      "published_at": "2026-10-21T07:51:40+00:00"
-    },
-    {
-      "id": "1d775f62c65b3b34",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Intempéries : trois morts dans les Bouches-du-Rhône, un mort en Haute-Corse, une personne portée disparue dans le Var",
-      "resume": "La préfecture a communiqué, mercredi soir, ce nouveau bilan. Le département a souffert de fortes inondations après les pluies diluviennes qui l’ont touché mardi.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/21/intemperies-en-haute-corse-un-homme-retrouve-mort-a-ghisonaccia-apres-la-crue-du-fiumorbo_6798216_3244.html",
-      "published_at": "2026-10-21T07:47:26+00:00"
-    },
-    {
-      "id": "cb94a36d2bd23928",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Randonnée, trail... « On conserve un regard très bourgeois et blanc sur la nature »",
-      "resume": "Élitisme, performance : alors que le nombre de randonneurs a doublé en dix ans, le journaliste Mathias Riquier analyse, dans son livre, les fondements de l'« outdoor » et appelle à politiser différemment le lien au territoire. Randonnée, cy",
-      "url": "https://reporterre.net/Randonnee-trail-On-conserve-un-regard-tres-bourgeois-et-blanc-sur-la-nature",
-      "published_at": "2026-10-21T07:46:07+00:00"
     },
     {
       "id": "b84bd3adb987324f",
@@ -387,15 +405,6 @@
       "resume": "À mi-parcours entre l’adoption, en 2022, du cadre mondial de Kunming-Montréal et l’échéance de ses 23 cibles, fixée à 2030, les États se retrouvent en Arménie du 19 au 30 octobre pour une COP placée sous le signe du bilan. Mais l’exercice s",
       "url": "https://www.contexte.com/fr/article/environnement/biodiversite-quels-enjeux-pour-la-cop-du-bilan-derevan_274928?source=rss",
       "published_at": "2026-10-19T06:00:00+00:00"
-    },
-    {
-      "id": "765f365cc4707146",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "17 octobre : \"Le monde économique ne peut pas se dédouaner\" de la crise de la cohésion sociale, selon Philippe Zaouati",
-      "resume": "Philippe Zaouti est l'ancien CEO de Mirova, une société de gestion d'actifs internationale destinée à l'investissement responsable. Vous avez publié un post LinkedIn à la suite des manifestations du 17 octobre sur \"le coût de l'inaction\" qu",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/17-octobre-le-monde-economique-ne-peut-pas-se-dedouaner-de-la-crise-de-la-cohesion-sociale-selon-philippe-zaouati",
-      "published_at": "2026-10-19T04:45:22+00:00"
     },
     {
       "id": "58afa8764d8b2806",
@@ -621,15 +630,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
       "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "ac6ecc926252c5cb",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Energie, ressources, climat : une défense sous contraintes physiques",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/energie-ressources-climat/",
-      "published_at": "2026-06-23T12:24:00+00:00"
     },
     {
       "id": "2da2b921127fe578",
