@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-10-22T13:58:29.170284+00:00",
+  "generated_at": "2026-10-22T18:22:22.305873+00:00",
   "items": [
+    {
+      "id": "dd39ec5cdddbc612",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Chine, un séisme de magnitude 7 frappe la région du Tibet",
+      "resume": "Un séisme majeur a frappé jeudi soir la région du Tibet, en Chine. La secousse, survenue à 22 h 33, heure locale, a eu lieu dans une région régulièrement touchée par des tremblements de terre.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/22/en-chine-un-seisme-de-magnitude-7-frappe-la-region-du-tibet_6798655_3244.html",
+      "published_at": "2026-10-22T17:36:55+00:00"
+    },
+    {
+      "id": "41d9b1e06035cdbf",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’Autorité de sûreté nucléaire ne voit pas d’obstacle, pour l’heure, à la poursuite du fonctionnement des réacteurs au-delà de 60 ans",
+      "resume": "Le gendarme français du nucléaire estime, dans un projet d’avis rendu public le 22 octobre, que rien n’empêche de poursuivre l’exploitation du parc électronucléaire au-delà de 60 ans, à la condition qu’EDF y mène des « travaux conséquents »",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/22/l-autorite-de-surete-nucleaire-ne-voit-pas-d-obstacle-pour-l-heure-a-la-poursuite-du-fonctionnement-des-reacteurs-au-dela-de-60-ans_6798652_3244.html",
+      "published_at": "2026-10-22T17:00:19+00:00"
+    },
+    {
+      "id": "9d137c3c905e72a1",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Optivolt Raises $32 Million to Make Solar Panels Smarter",
+      "resume": "Power electronics company Optivolt announced that it has raised $32 million in a Series A […]",
+      "url": "https://www.esgtoday.com/optivolt-raises-32-million-to-make-solar-panels-smarter/?utm_source=rss&utm_medium=rss&utm_campaign=optivolt-raises-32-million-to-make-solar-panels-smarter",
+      "published_at": "2026-10-22T15:59:33+00:00"
+    },
+    {
+      "id": "a6a30d31d21f46ff",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Urbasolar boucle une importante cession",
+      "resume": "Après avoir vendu cet été à Corsica Sole sept centrales solaires et batteries à La Réunion, Urbasolar passe à la vitesse supérieure en cédant 25 sites photovoltaïques en service pour une puissance de 87 MWc. Réparties dans l’Hexagone, ces 1",
+      "url": "https://www.greenunivers.com/2026/10/urbasolar-boucle-une-importante-cession-436627/",
+      "published_at": "2026-10-22T15:50:23+00:00"
+    },
+    {
+      "id": "245aa4a7b9d96715",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Nucléaire : l'ASNR n'identifie pas d'obstacle à la prolongation des réacteurs au-delà de 60 ans",
+      "resume": "Le gendarme du nucléaire soumet à la consultation du public son projet d'avis sur les perspectives de poursuite du fonctionnement des réacteurs au-delà de 60 ans. Il n'identifie pas d'éléments rédhibitoires qu'EDF ne pourrait surmonter.",
+      "url": "https://www.actu-environnement.com/ae/news/asnr-prolongation-reacteurs-nucleaires-60-ans-48713.php4#xtor=RSS-6",
+      "published_at": "2026-10-22T15:42:08+00:00"
+    },
+    {
+      "id": "efd877c7dc662899",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "A412 : la procureure d'Annecy demande la suspension immédiate du chantier",
+      "resume": "La procureure de la République d'Annecy a saisi le juge des libertés et de la détention, le 21 octobre, pour qu'il ordonne la suspension immédiate du chantier de l'autoroute A412, qui doit relier Machilly à Thonon-les-Bains, dans le Bas-Cha",
+      "url": "https://reporterre.net/A412-la-procureure-d-Annecy-demande-la-suspension-immediate-du-chantier",
+      "published_at": "2026-10-22T15:40:38+00:00"
+    },
+    {
+      "id": "a32cdefdba96f9d5",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les grandes surfaces ne solarisent pas leurs parkings",
+      "resume": "En matière de solarisation obligatoire, les grands parkings sont à la rue. Selon le premier relevé de Parksun* « seuls 6 % des parkings de magasins concernés par les dispositions de la loi Aper de 2023 ont des ombrières solaires », indique ",
+      "url": "https://www.greenunivers.com/2026/10/les-grandes-surfaces-ne-solarisent-pas-leurs-parkings-436610/",
+      "published_at": "2026-10-22T15:35:14+00:00"
+    },
+    {
+      "id": "2acc12efd939ed8a",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Nucléaire : l'Autorité de sûreté ouvre la porte à la prolongation de la durée de vie des centrales au-delà de 60 ans - Les Echos",
+      "resume": "Nucléaire : l'Autorité de sûreté ouvre la porte à la prolongation de la durée de vie des centrales au-delà de 60 ans Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbklhTUpxbkR1bkhfcV9LLUJmOGgxaDV5ZTBrQlpTUHYyVDVBUkdlNU9JRU5CZmxycjNtUW90NDNmVzZSdGVLYWJFZU9uWHl2WmYycjB3czJGQW03b1dUdTJEMXRWRGdFWUF4WFhPdldWNXYwaXoxOWpKcmttWl9JSWFReWFpWkVKVU5OUDJzZnFvVUdUYnU5Y1JyTlI2MXJnQ1lROTkxRXRtOU55dDMwd294NmE0WXNIX1dzTjFYSldmYnpCaUNrVHJwbjVpbkRIcS1uZDhzR3kzNjJOc2VQZFdBSUsydl9sUGZaRnlLYTVINks5UjFuNTJVNmRCR19YSGhpdTBNU3EyZm1tX0hDYTdpZVE?oc=5",
+      "published_at": "2026-10-22T15:31:47+00:00"
+    },
+    {
+      "id": "750a0cd9881234d4",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempête Austen : quinze départements en vigilance orange vent vendredi",
+      "resume": "La circulation ferroviaire sera interrompue vendredi sur les lignes normandes, partiellement sur les lignes bretonnes et nordistes, et des perturbations sont à prévoir samedi, a annoncé la SNCF.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/22/tempete-austen-quinze-departements-en-vigilance-orange-vent-vendredi_6798578_3245.html",
+      "published_at": "2026-10-22T15:23:40+00:00"
+    },
+    {
+      "id": "8da8a16e93086286",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Cancers et pesticides : le désintérêt agressif de la droite et du gouvernement",
+      "resume": "Jeudi 22 octobre, les sénateurs ont débattu de la sortie des pesticides à l'initiative des Écologistes. Ceux-ci ont été attaqués par les rares élus de droite qui ont daigné être présents, avec l'approbation du ministre délégué à l'Écologie.",
+      "url": "https://reporterre.net/Cancers-et-pesticides-le-desinteret-agressif-de-la-droite-et-du-gouvernement",
+      "published_at": "2026-10-22T15:22:36+00:00"
+    },
+    {
+      "id": "e2e523295c633ba5",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Décarbonation industrielle : des pistes et des aides pour dérisquer (2)",
+      "resume": "Qui portera le risque de l’électrification industrielle, au delà des industriels eux-mêmes ? Un peu l’Etat par les subventions qu’il accorde encore mais surtout les banques dont certaines s’impliquent au point de devenir acheteuses et vende",
+      "url": "https://www.greenunivers.com/2026/10/decarbonation-industrielle-des-pistes-et-des-aides-pour-derisquer-2-436389/",
+      "published_at": "2026-10-22T15:21:49+00:00"
+    },
+    {
+      "id": "abc7da87e49d5431",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le fabricant de stations hydrogène HRS s’offre un maigre sursis",
+      "resume": "HRS devra se contenter de 1,5 M€. Le fabricant de stations hydrogène revoit à la baisse son augmentation de capital. Il gagne un peu L’article Le fabricant de stations hydrogène HRS s’offre un maigre sursis est apparu en premier sur GreenUn",
+      "url": "https://www.greenunivers.com/2026/10/le-fabricant-de-stations-hydrogene-hrs-soffre-un-maigre-sursis-436609/",
+      "published_at": "2026-10-22T15:18:20+00:00"
+    },
+    {
+      "id": "51f13278c1bb552b",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "La jurisprudence se construit autour du stockage par batteries",
+      "resume": "Le gouvernement prévoit de publier d’ici le 1er décembre une « clarification » des règles d’implantation de batteries, d’après le deuxième volet du plan d’électrification présenté L’article La jurisprudence se construit autour du stockage p",
+      "url": "https://www.greenunivers.com/2026/10/la-jurisprudence-se-construit-autour-du-stockage-par-batteries-436607/",
+      "published_at": "2026-10-22T15:15:10+00:00"
+    },
+    {
+      "id": "917f834fa11a963a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Bassin de l'Adour : comment concilier les enjeux agricoles et le retour au bon état des masses d'eau",
+      "resume": "En Adour, l'objectif de retour à l'équilibre des masses d'eau constitue un enjeu. L'Igedd et le CGAAER se sont intéressés aux conditions nécessaires pour la reprise d'un dialogue local et soulignent l'importance d'un plan d'adaptation agric",
+      "url": "https://www.actu-environnement.com/ae/news/zones-repartition-eaux-bon-etat-quantitatif-adour-etudes-socio-economiques-48710.php4#xtor=RSS-6",
+      "published_at": "2026-10-22T15:07:36+00:00"
+    },
+    {
+      "id": "e5f6799fa1c37ec4",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le plan local d'urbanisme de Saint-Malo est suspendu en raison des enjeux liés à la ressource en eau potable",
+      "resume": "Par une ordonnance du 21 octobre 2026, le tribunal administratif de Rennes a suspendu les effets du plan local d'urbanisme (PLU) de Saint-Malo, approuvé par une délibération du 4 novembre&#8239;2025. En cause&#8239; ? Le PLU, qui prévoit...",
+      "url": "https://www.actu-environnement.com/ae/news/plu-saint-malo-suspendu-eau-potable-48712.php4#xtor=RSS-6",
+      "published_at": "2026-10-22T14:54:27+00:00"
+    },
+    {
+      "id": "951dafee39b22fcc",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Système électrique : les prix négatifs deviennent structurels, selon la CRE",
+      "resume": "« Le marche&#769; français a enregistre&#769; 147 heures a&#768; prix négatifs en 2023, 361 heures en 2024 puis 513 heures en 2025. L'année 2026 s'inscrit, a&#768; ce stade, dans la même dynamique avec 411 heures a&#768; prix n...",
+      "url": "https://www.actu-environnement.com/ae/news/prix-negatifs-electricite-cre-structurel-48711.php4#xtor=RSS-6",
+      "published_at": "2026-10-22T14:54:11+00:00"
+    },
+    {
+      "id": "680e81cdd170ca38",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "L'Arcom épingle Sud Radio pour désinformation climatique, annonce Quotaclimat",
+      "resume": "« C'est la première fois que l'Arcom reconnaît que les obligations de rigueur et d'honnêteté de l'information s'appliquent aussi aux solutions de la transition écologique et aux politiques environnementales », salue Quotaclimat. L'associati",
+      "url": "https://reporterre.net/L-Arcom-epingle-Sud-Radio-pour-desinformation-climatique-annonce-Quotaclimat",
+      "published_at": "2026-10-22T14:51:03+00:00"
+    },
+    {
+      "id": "f25ed6726873b484",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Finie l'Afrique riquiqui : cette carte du monde s'émancipe des représentations coloniales",
+      "resume": "Des chercheurs du CNRS ont créé un planisphère carré, pour s'émanciper des visions cartographiques issues de l'époque coloniale. Résultat : pas d'Afrique comprimée, et aucun pays au centre. Ceci n'est pas une simple carte du monde, c'est un",
+      "url": "https://reporterre.net/Finie-l-Afrique-riquiqui-cette-carte-du-monde-s-emancipe-des-representations-coloniales",
+      "published_at": "2026-10-22T14:24:57+00:00"
+    },
+    {
+      "id": "8d4393752cff0b1e",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "UK Channels Oil & Gas Revenues into New £2 Billion Clean Energy Wealth Fund",
+      "resume": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing […]",
+      "url": "https://www.esgtoday.com/uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund",
+      "published_at": "2026-10-22T14:18:42+00:00"
+    },
+    {
+      "id": "8b2dbe43dad52280",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Changement climatique : 96 % des récifs coralliens classés « en danger critique d’extinction » d’ici cinquante ans",
+      "resume": "Parmi les plus menacés figurent la Grande Barrière de corail en Australie, le Triangle de corail dans l’océan Pacifique occidental et en Asie du Sud-Est, la barrière de corail mésoaméricaine dans les Caraïbes, ainsi que les récifs corallien",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/22/changement-climatique-96-des-recifs-coralliens-classes-en-danger-critique-d-extinction-d-ici-cinquante-ans_6798628_3244.html",
+      "published_at": "2026-10-22T14:06:09+00:00"
+    },
     {
       "id": "fe1049662fa8fecb",
       "source": "Reporterre",
@@ -68,10 +248,19 @@
       "id": "4a780ab2558587d0",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "Chiricahua monument in Arizona is now the 64th US national park",
-      "resume": "New designation of the Land of Standing-Up Rocks, known for its historic rock spires, passed with bipartisan support An area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has ",
+      "titre": "America gets new national park with designation of Chiricahua’s rock spires",
+      "resume": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support An area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has b",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
       "published_at": "2026-10-22T12:08:40+00:00"
+    },
+    {
+      "id": "32bad9e77e93b7e1",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
+      "resume": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spill Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recover",
+      "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
+      "published_at": "2026-10-22T12:00:44+00:00"
     },
     {
       "id": "1743bcf409422b6e",
@@ -90,15 +279,6 @@
       "resume": "Le Printemps des terres a acquis près de 4500 hectares de terres agricoles depuis son lancement. @Pexels / Mike Bird C’est une première pour le Printemps des terres. La société foncière agricole a décidé de lancer une levée de fonds auprès ",
       "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/agroecologie-printemps-terres-ouvre-capital-aux-particuliers",
       "published_at": "2026-10-22T11:45:19+00:00"
-    },
-    {
-      "id": "30306a98fea7a852",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : dix départements en vigilance orange vendredi",
-      "resume": "La circulation ferroviaire sera interrompue vendredi sur les lignes normandes, partiellement sur les lignes bretonnes et nordistes, et des perturbations sont à prévoir samedi, a annoncé la SNCF.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/tempete-austen-dix-departements-en-vigilance-orange-vendredi_6798578_3245.html",
-      "published_at": "2026-10-22T11:37:05+00:00"
     },
     {
       "id": "15c62b2fa2669a95",
@@ -128,78 +308,6 @@
       "published_at": "2026-10-22T10:33:49+00:00"
     },
     {
-      "id": "0380e3185243999a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Omnibus VIII : le Parlement et le Conseil adoptent leurs positions sur la REP",
-      "resume": "Le Parlement européen et le Conseil de l'Union ont respectivement adoptés, le 20 et 21 octobre 2026, leurs positions sur certaines mesures induites par l'Omnibus VIII, concernant notamment la suspension temporaire de certaines exigences en ",
-      "url": "https://www.actu-environnement.com/ae/news/omnibus-parlement-conseil-representants-rep-48707.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T10:31:58+00:00"
-    },
-    {
-      "id": "d073ae637a86c4db",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Austen : comment les noms des tempêtes sont-ils choisis ?",
-      "resume": "L’organisation météorologique mondiale délègue à cinq organismes régionaux le choix des prénoms, qui doivent alterner masculin et féminin.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/22/austen-comment-les-noms-des-tempetes-sont-ils-choisis_5182473_4355771.html",
-      "published_at": "2026-10-22T09:38:05+00:00"
-    },
-    {
-      "id": "2c4b0c8498b59d54",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Appels d'offres éolien en mer : des règles précisées pour l'attribution des projets",
-      "resume": "Un décret du 20 octobre 2026 précise les règles d'attribution des projets, dans le cadre des appels d'offres portant sur l'éolien en mer notamment. Elles s'appliquent aux appels d'offres en cours et à venir. Ainsi, dans le cadre des procédu",
-      "url": "https://www.actu-environnement.com/ae/news/decret-eolien-mer-attribution-appels-offres-48706.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T09:37:05+00:00"
-    },
-    {
-      "id": "b7dcf57b868fb9c7",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Incendie de la mairie de Limoges : la gauche et les écologistes cloués au pilori médiatique",
-      "resume": "L'arrestation d'un militant écologiste après l'incendie de la mairie de Limoges a lancé un engrenage politicomédiatique de la droite et l'extrême droite. Sans preuve et en dépit des faits, ces détracteurs traitent de « terroristes » les déf",
-      "url": "https://reporterre.net/Incendie-de-la-mairie-de-Limoges-la-gauche-et-les-ecologistes-cloues-au-pilori-mediatique",
-      "published_at": "2026-10-22T09:28:16+00:00"
-    },
-    {
-      "id": "6ad18734164ec08b",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le chiffre du jour : + 9,5 %",
-      "resume": "C'est l'augmentation, en volume, des exportations d'éoliennes européennes en 2025 selon Eurostat, ce qui représente 3,1 Md euros . Bien que les importations aient augmenté dans le même temps de 69 % en volume (en provenance de Chine et d'In",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1845.html#xtor=RSS-6",
-      "published_at": "2026-10-22T09:02:21+00:00"
-    },
-    {
-      "id": "f7d2d0b03a4f9064",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Un colloque autour de la figure d’un historien membre de l’Action française déchire l’Institut de France",
-      "resume": "Le secrétaire perpétuel de l’Académie des sciences, Antoine Triller, a publiquement dénoncé l’organisation d’un événement, sous l’égide de l’Académie des sciences morales et politiques, consacré à l’historien Jacques Bainville, mort en 1936",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/un-colloque-autour-de-la-figure-d-un-historien-membre-de-l-action-francaise-dechire-l-institut-de-france_6798592_3244.html",
-      "published_at": "2026-10-22T08:45:01+00:00"
-    },
-    {
-      "id": "4d31602a82f6e711",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Citi Structures New Outcome Bond with Returns Tied to Generation of Carbon Credits",
-      "resume": "Citi announced that it has structured a new $72 million “Carbon Removal-Linked Note” to finance […]",
-      "url": "https://www.esgtoday.com/citi-structures-new-outcome-bond-note-with-returns-tied-to-generation-of-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=citi-structures-new-outcome-bond-note-with-returns-tied-to-generation-of-carbon-credits",
-      "published_at": "2026-10-22T08:44:02+00:00"
-    },
-    {
-      "id": "4ed21984641157c2",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Compensation environnementale : un assouplissement temporel et géographique pour faciliter les projets",
-      "resume": "Le régime de la compensation environnementale a subi deux évolutions significatives au cours de l'année 2026. Les autrices de cette étude effectuent un tour d'horizon sur les changements apportés.",
-      "url": "https://www.actu-environnement.com/ae/news/compensation-environnementale-assouplissement-erc-2026-48698.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T08:30:00+00:00"
-    },
-    {
       "id": "6615c79a79eb1d39",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -207,24 +315,6 @@
       "resume": "Achats RSE : 5 critères pour bien choisir son fournisseur de tote bag personnalisé Les Echos Solutions",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVm9VUlhnRFhLTE9qV2R4Q2p1Q0s0ZW1USzZVMGJMb1h5QmRWQlVfRjNpUTVVTEZDQWl4LUtCaGhGOElydFZjVzkzYXo0SlFKR1V4blVwWHo3NmtGNGhtcEY4NWtpSTZ3UG1VbEU1TndVRVBCWms1N01QY0U4b1dHWkxNbGUyMThLQ29PaEs4RlZ1c19xSnNLT1piRW5qZFprYlByRlBwbm9MbzlfMV9nT2Y2b0ZLT2VwTWVWTzhHenJsWi1fSW1vakxUZw?oc=5",
       "published_at": "2026-10-22T08:20:00+00:00"
-    },
-    {
-      "id": "6e9f82d4ca8a49f5",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Je n'ai rien pris, rien cassé, rien volé » : après le 17 octobre, des tribunaux impitoyables",
-      "resume": "Alors que le gouvernement a été dépassé par la mobilisation du 17 octobre, le garde des Sceaux a voulu une réponse judiciaire « ferme » à l'égard de contestataires accusés de vols ou dégradations. Bobigny (Seine-Saint-Denis), reportage Aprè",
-      "url": "https://reporterre.net/Je-n-ai-rien-pris-rien-casse-rien-vole-apres-le-17-octobre-des-tribunaux-impitoyables",
-      "published_at": "2026-10-22T07:47:09+00:00"
-    },
-    {
-      "id": "e54010ec268203df",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Thomas Brail : « Critiquez ces jeunes masqués, mais vous découvrirez peut-être que ce sont vos enfants »",
-      "resume": "« Avec le recul, je pense qu'on est en train de gagner » : dans ce grand entretien, le militant Thomas Brail, connu pour se percher dans les arbres pour les protéger, analyse les victoires et les défaites des luttes contre les projets écoci",
-      "url": "https://reporterre.net/Thomas-Brail-Ces-elus-qui-detruisent-tout-et-nous-envoient-dans-le-mur-il-faudrait-les",
-      "published_at": "2026-10-22T06:00:00+00:00"
     },
     {
       "id": "0fb573d9e8be1bd9",
@@ -245,15 +335,6 @@
       "published_at": "2026-10-22T04:45:39+00:00"
     },
     {
-      "id": "02ecf12f85e3ab24",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
-      "resume": "La Commission européenne, qui souhaite assouplir la réglementation sur les produits phytosanitaires, prévoit de classer comme « produits de biocontrôle » les nouveaux pesticides à ARN interférent. Un statut qui en faciliterait l’usage, mais",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html",
-      "published_at": "2026-10-22T03:45:05+00:00"
-    },
-    {
       "id": "4a28d5868ad4a1ac",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -261,24 +342,6 @@
       "resume": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spread The US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of flesh-eating parasite the New ",
       "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
       "published_at": "2026-10-21T23:36:31+00:00"
-    },
-    {
-      "id": "fb8509f024d94af6",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Ils accrochent des cerfs volants à leur bateau pour protéger des oiseaux marins en danger d'exctinction",
-      "resume": "Des dizaines de milliers d'oiseaux marins meurent chaque année à cause d'engins de pêche. Pour réduire ces captures accidentelles, des dispositifs d'effarouchement sont testés par des pêcheurs en coordination avec l' OFB . Pour certaines ON",
-      "url": "https://reporterre.net/Pour-reduire-les-captures-d-oiseaux-marins-des-pecheurs-testent-des-cerfs-volants",
-      "published_at": "2026-10-21T15:24:26+00:00"
-    },
-    {
-      "id": "51f472b565e67c4f",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "HKEX Launches “Green Equity” Designation Program",
-      "resume": "Exchange group Hong Kong Exchanges and Clearing Limited (HKEX) announced the launch of HKEX Green […]",
-      "url": "https://www.esgtoday.com/hkex-launches-green-equities-designation-program/?utm_source=rss&utm_medium=rss&utm_campaign=hkex-launches-green-equities-designation-program",
-      "published_at": "2026-10-21T15:17:06+00:00"
     },
     {
       "id": "7fffa03f83233ff4",
@@ -299,6 +362,15 @@
       "published_at": "2026-10-21T10:00:02+00:00"
     },
     {
+      "id": "66ce939cfcd82e23",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Un TRVE à 18 heures creuses pour cesser de pénaliser la production d’électricité",
+      "resume": "Réduire la production d’électricité solaire pour éviter la cannibalisation, c’est dommage. Moduler l’électronucléaire, idem. Mieux vaut agir sur la consommation, suggère Cédric Philibert. Membre fondateur de l’association Avenirs énergétiqu",
+      "url": "https://www.greenunivers.com/2026/10/un-trve-a-18-heures-creuses-pour-cesser-de-penaliser-la-production-delectricite-436652/",
+      "published_at": "2026-10-21T07:23:00+00:00"
+    },
+    {
       "id": "91f3e38b6aa0240b",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -306,15 +378,6 @@
       "resume": "Dans le Jura, le lunetier Thierry mise sur la sobriété énergétique et environnementale Les Echos",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkcwN2VZR2dFT052RkdGVzVRajNXcEtfdXAwRUNrcGxGYzZWQXVZd1FtRGZSOGtxRkh4eEVHbjVKUExUVDVEazFqbXV6enNuSHB0R0pMeEZic0tSWWZXNTFPNXVybGZFT1VHZllLMkNDYlNUYWRoN09XN2tnbzZNTk15ZHJGYmVhVzkzVmQweTVXSlVvZGJ2ZTFDNTZycGR6Vkt1QTltWDJxZ1ZESmJScGRuTVdLUWNuN3dINVhMZFZFLVZ3OHktOWMzSEM?oc=5",
       "published_at": "2026-10-21T06:50:08+00:00"
-    },
-    {
-      "id": "9ce98f633e1fdcc2",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "« C'est maintenant et pas plus tard » : le cri d'alarme des Nations unies face au point de non-retour d'un réchauffement climatique à + 1,5 °C - Les Echos",
-      "resume": "« C'est maintenant et pas plus tard » : le cri d'alarme des Nations unies face au point de non-retour d'un réchauffement climatique à + 1,5 °C Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZ29jZmRVdUpLNWVMZUJuT2M5VnRPLVhwU1pzSTd6MlppbzdxNlhlVFhIeDFLNFo3SkZFYXY0Z04ydWh4eUhWbmJYRFNFZF9mdkFyUkZ4d0hlWFZjRTVLOENvakcwQ0F1MzJvNEkxWUJIUHFLbWtFc3VjZ1ZTQW1KSno4RVZHeHJPNkU3V2VhWFZEdDB3VGJ2bjJoY3AtTXRhNlVKcXlhZ0VBSFZReHJRRG5lbFZzYlM2ejczOE5EU1ZfMmo2MVExLUM4bGJ0TWNVTG1BLTBGRFVjcHk2WlNmbTFlUkVSYXhjZG5uOXVndFNId2ZhOGVJTEt5RDFMOUlDTTExU3Eza2ZVYnFlcVJGTU9CLW01OVJC?oc=5",
-      "published_at": "2026-10-21T05:00:08+00:00"
     },
     {
       "id": "1dcfae061e3e060f",
@@ -335,33 +398,6 @@
       "published_at": "2026-10-20T16:45:59+00:00"
     },
     {
-      "id": "913f8aa235ac40cd",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
-      "resume": "Coyote euthanized after reportedly roaming Atwater Village comfortably for months and attacking one-year-old boy One Los Angeles neighborhood has been at war over a wild coyote, and over the weekend it all came to a head. For months, the an",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
-      "published_at": "2026-10-20T16:00:39+00:00"
-    },
-    {
-      "id": "4c6ca4ae5c5bd7aa",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’appel d’offres « neutre » ressemble à une possible « dernière station avant l’autoroute »",
-      "resume": "En principe, les mêmes causes produisent les mêmes effets. Close vendredi dernier, la cinquième session de l’appel d’offres public de soutien à l’électricité renouvelable dit « neutre », car ouvert aux projets photovoltaïques, hydroélectriq",
-      "url": "https://www.greenunivers.com/2026/10/lappel-doffres-neutre-ressemble-encore-a-une-possible-derniere-station-avant-lautoroute-436515/",
-      "published_at": "2026-10-20T15:36:08+00:00"
-    },
-    {
-      "id": "f373315f2a7f9e52",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Budget : un premier coup de frein à la révision des tarifs d’achat photovoltaïques",
-      "resume": "« C’est un premier but, mais c’est loin d’être la fin du match » résume Floriane de Brabandère, présidente de la Fédération nationale de l’énergie solaire. La commission des affaires économiques de l’Assemblée nationale, saisie pour avis, a",
-      "url": "https://www.greenunivers.com/2026/10/budget-un-premier-coup-de-frein-a-la-revision-des-tarifs-dachat-photovoltaiques-436484/",
-      "published_at": "2026-10-20T15:26:39+00:00"
-    },
-    {
       "id": "159c9ea5eca36204",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -369,24 +405,6 @@
       "resume": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique Les Echos",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMFJ1RzhIT0NkUUVRWW8tWWJ6Nnl5UVdTMmtkZXVaNjd1eGxDSlc2c2t5TW5JdzdyTXhzZExxa1JyNU1wby1SU093NDFTQ2cwVVN3RUJGVXIwVjdLTFRrc05aRnJoMFJjQW8xNm9kb3JHRmNYWjdCazVTUExhS0llVExoNFk0b0lNVGJWRzhkOUNpeDRTZW1IZHA1VnZ4QzVXVXlxanJyUmdHeXdmeWtlNFlYcDJLbVJCX0w3OFluMERqX21YeEQ1RjluNlQ4SnY2dHhJSExDU2pYaUQxemZaMW9xbmVlRWdGU0p5VHZndy1ZVkYxc29aVDdSLUJtTnNWMG0zMTJuSDViSTBn?oc=5",
       "published_at": "2026-10-20T15:15:37+00:00"
-    },
-    {
-      "id": "621b1d78cf940ae0",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Décarbonation industrielle : les entreprises choisissent site par site (1)",
-      "resume": "GreenUnivers publie cette semaine quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d’énergies renouvelables peuvent s’organiser pour pr",
-      "url": "https://www.greenunivers.com/2026/10/decarbonation-industrielle-les-entreprises-choisissent-site-par-site-1-436381/",
-      "published_at": "2026-10-20T12:57:02+00:00"
-    },
-    {
-      "id": "bce53c2d3935100d",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Calogena, Colas, EDF, Holosolis… : 16 projets de décarbonation français encouragés par Bruxelles",
-      "resume": "La Commission européenne a sélectionné 77 projets de technologies de décarbonation dites net zero. Elle va les soutenir à hauteur de 3,4 Mds€ au total au titre du Fonds pour l’innovation. Parmi les lauréats, dont la liste est consultable da",
-      "url": "https://www.greenunivers.com/2026/10/calogena-colas-edf-holosolis-16-projets-de-decarbonation-francais-encourages-par-bruxelles-436428/",
-      "published_at": "2026-10-20T12:50:23+00:00"
     },
     {
       "id": "eb56a5afc3bb8b5a",
@@ -416,15 +434,6 @@
       "published_at": "2026-10-20T10:00:08+00:00"
     },
     {
-      "id": "749b0ca407d6727d",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Elax Energie lève 30 M€ pour aller au delà du pilotage des chauffe-eaux électriques",
-      "resume": "Elax Énergie boucle une levée de fonds de 30 M€. L’opération est réalisée auprès de L’article Elax Energie lève 30 M€ pour aller au delà du pilotage des chauffe-eaux électriques est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/10/elax-energie-leve-30-me-pour-aller-au-dela-du-pilotage-des-chauffe-eaux-electriques-436408/",
-      "published_at": "2026-10-20T06:30:00+00:00"
-    },
-    {
       "id": "fb6531adfe3d9784",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -450,15 +459,6 @@
       "resume": "L’ancienne ministre a été alertée d’une tentative d’espionnage sur son téléphone en août. La DGSI a ouvert une enquête.",
       "url": "https://www.politico.eu/article/la-deputee-agnes-pannier-runacher-visee-par-un-logiciel-espion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-20T04:00:00+00:00"
-    },
-    {
-      "id": "c4bfc956061b25e8",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Recharge : E-Totem placé en redressement judiciaire",
-      "resume": "Article modifié le 19/10/2026 – Le spécialiste de la recharge électrique a été placé en redressement judiciaire par L’article Recharge : E-Totem placé en redressement judiciaire est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/10/recharge-e-totem-place-en-redressement-judiciaire-436371/",
-      "published_at": "2026-10-19T15:43:25+00:00"
     },
     {
       "id": "52ca2e26d42df576",
@@ -605,6 +605,15 @@
       "published_at": "2026-10-09T08:45:20+00:00"
     },
     {
+      "id": "677c3834c04eaf26",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
+      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
+      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
+      "published_at": "2026-10-07T13:03:27+00:00"
+    },
+    {
       "id": "e08f4587b21f7778",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -632,6 +641,15 @@
       "published_at": "2026-10-01T14:54:03+00:00"
     },
     {
+      "id": "c7c5fd524d735a2a",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
+      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
+      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
+      "published_at": "2026-09-30T09:38:27+00:00"
+    },
+    {
       "id": "4daf2710e9f7921b",
       "source": "I4CE",
       "categorie": "Climat",
@@ -639,6 +657,42 @@
       "resume": "Ursula von der Leyen a rappelé la nécessité de maintenir le cap vers les objectifs climatiques européens. Plusieurs échéances à venir, comme les négociations sur les quotas de CO2, témoigneront des forces politiques et industrielles. L’arti",
       "url": "https://www.i4ce.org/etat-union-pont-arcole-climat/",
       "published_at": "2026-09-25T15:19:52+00:00"
+    },
+    {
+      "id": "807bedcb7a719896",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "« France 2035, France 2050 » - Découvrez le projet",
+      "resume": "« France 2035, France 2050 » - Découvrez le projet Comment vivrons-nous en France demain ? Dans la lignée historique des travaux du Plan depuis Jean Monnet, le Haut-commissariat à la Stratégie et au Plan a lancé un grand exercice de prospec",
+      "url": "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet",
+      "published_at": "2026-09-10T10:16:39+00:00"
+    },
+    {
+      "id": "673f485ce8732418",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Conférence | Quels nouveaux moteurs pour la productivité française ?",
+      "resume": "Conférence | Quels nouveaux moteurs pour la productivité française ? La France entre dans une nouvelle phase de son histoire économique : l’accélération technologique portée par l’intelligence artificielle, le vieillissement démographique e",
+      "url": "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise",
+      "published_at": "2026-09-09T13:14:11+00:00"
+    },
+    {
+      "id": "f6a85cff203ccfc9",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps",
+      "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
+      "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
+      "published_at": "2026-09-08T13:11:58+00:00"
+    },
+    {
+      "id": "2eb28f1334062f55",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ?",
+      "resume": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ? Comment les entreprises peuvent-elles contribuer, aux côtés des collectivités, des associations, des ",
+      "url": "https://www.strategie-plan.gouv.fr/webconference-responsabilite-territoriale-de-lentreprise-quels-leviers-pour-des-territoires-plus",
+      "published_at": "2026-09-03T14:56:56+00:00"
     },
     {
       "id": "cf48f14c1a1e7e16",
@@ -666,60 +720,6 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
-    },
-    {
-      "id": "4e3191d2bda8de04",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Lancement du projet Prospective Europe",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
-      "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
-    },
-    {
-      "id": "f6ba6a33ef09a89a",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
-      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
-      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
-      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
