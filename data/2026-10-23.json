@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
-  "generated_at": "06:21",
-  "elapsed_seconds": 535,
+  "generated_at": "12:15",
+  "elapsed_seconds": 564,
   "errors": [],
   "stats": {
     "jo_analyses": 20,
@@ -9,20 +9,42 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-23T06:21:36",
+    "run_at": "2026-10-23T12:15:17",
     "sources": {
       "JORF": 0,
-      "RSS": 12,
+      "RSS": 15,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 50,
-    "llm_seconds": 41.0
+    "llm_calls": 51,
+    "llm_seconds": 195.7
   },
   "items": [
+    {
+      "id": "3a9f92688085",
+      "source": "Actu-Environnement",
+      "categorie": "Émissions",
+      "titre": "Bonus écologique des véhicules électriques : l'arrêté relatif au calcul du score environnemental est publié",
+      "resume": "Publication au Journal officiel de l'arrêté précisant la méthodologie et le seuil du score environnemental pour l'éligibilité au bonus écologique des voitures particulières électriques.",
+      "pourquoi": "Cet arrêté conditionne l'accès au bonus écologique pour l'électrification de la flotte de véhicules d'ABC, poste clé de son scope 1. Il implique d'ajuster immédiatement la politique d'achat de véhicules d'ici les prochains mois pour maximiser les aides financières et sécuriser la trajectoire de réduction carbone.",
+      "criticite": 2,
+      "url": "https://www.actu-environnement.com/ae/news/bonus-ecologique-score-environnemental-vehicules-electriques-48714.php4#xtor=RSS-6",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "f43963b50942",
+      "source": "Actu-Environnement",
+      "categorie": "Climat",
+      "titre": "Le monde avance vers un réchauffement planétaire de 2,8 degrés d'ici 2100",
+      "resume": "Le rapport du PNUE anticipe un réchauffement planétaire de 2,8 °C d'ici 2100 en l'absence de nouvelles politiques climatiques, soulignant le décalage entre le déploiement des renouvelables et la persistance des énergies fossiles.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/emission-gap-report-rechauffement-cop31-pnue-48715.php4#xtor=RSS-6",
+      "date": "2026-10-23"
+    },
     {
       "id": "c3eaefc6d5f4",
       "source": "Le Monde Planète",
@@ -32,6 +54,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "bc0d5088e233",
+      "source": "Le Monde Planète",
+      "categorie": "Climat",
+      "titre": "Tempête Austen : les transports dans le nord-ouest de la France fortement perturbés vendredi",
+      "resume": "La tempête Austen provoque des perturbations majeures sur les réseaux de transport ferroviaire et routier dans le nord-ouest de la France.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/economie/article/2026/10/23/tempete-austen-les-transports-dans-le-nord-ouest-de-la-france-fortement-perturbes-vendredi_6799037_3234.html",
       "date": "2026-10-23"
     },
     {
@@ -273,11 +306,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "27",
-      "dept_nom": "Eure",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "95",
       "dept_nom": "Val-d'Oise",
       "niveau": "crise"
@@ -353,13 +381,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "10",
-      "dept_nom": "Aube",
+      "dept_code": "89",
+      "dept_nom": "Yonne",
       "niveau": "crise"
     },
     {
-      "dept_code": "89",
-      "dept_nom": "Yonne",
+      "dept_code": "10",
+      "dept_nom": "Aube",
       "niveau": "crise"
     },
     {
@@ -373,13 +401,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "70",
-      "dept_nom": "Haute-Saône",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "70",
+      "dept_nom": "Haute-Saône",
       "niveau": "crise"
     },
     {
@@ -530,6 +558,11 @@
     {
       "dept_code": "80",
       "dept_nom": "Somme",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "27",
+      "dept_nom": "Eure",
       "niveau": "alerte renforcée"
     },
     {
