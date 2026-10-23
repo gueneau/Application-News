@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-22T21:49:20.670638+00:00",
+  "generated_at": "2026-10-23T00:18:39.473657+00:00",
   "items": [
+    {
+      "id": "dbbe3e5774fe5f0e",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
+      "resume": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
+      "published_at": "2026-10-22T23:15:40+00:00"
+    },
+    {
+      "id": "3f302e838867e62e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Budget 2027 : les députés rejettent la taxe sur les produits sucrés proposée par le gouvernement",
+      "resume": "Le vote sur cette taxe censée inciter les industriels à réduire le taux de sucre dans leurs recettes, est loin d’être définitif. L’adoption du budget de la Sécurité sociale par l’Assemblée nationale lors de cette première lecture paraît hau",
+      "url": "https://www.lemonde.fr/sante/article/2026/10/23/budget-2027-les-deputes-rejettent-la-taxe-sur-les-produits-sucres-proposee-par-le-gouvernement_6798700_1651302.html",
+      "published_at": "2026-10-22T23:08:48+00:00"
+    },
     {
       "id": "65747f0feea1539f",
       "source": "Le Monde Planète",
@@ -236,15 +254,6 @@
       "published_at": "2026-10-22T12:46:26+00:00"
     },
     {
-      "id": "dbbe3e5774fe5f0e",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Arizona storms topple trees and bring golf ball-sized hail in possible tornado",
-      "resume": "Violent storms overnight knocked over utility poles and carried thunder and heavy winds through central Arizona Trees fell on to homes and utility poles were knocked down by a possible tornado in a central Arizona community during a series ",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
-      "published_at": "2026-10-22T12:28:21+00:00"
-    },
-    {
       "id": "4a780ab2558587d0",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -279,15 +288,6 @@
       "resume": "Le Printemps des terres a acquis près de 4500 hectares de terres agricoles depuis son lancement. @Pexels / Mike Bird C’est une première pour le Printemps des terres. La société foncière agricole a décidé de lancer une levée de fonds auprès ",
       "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/agroecologie-printemps-terres-ouvre-capital-aux-particuliers",
       "published_at": "2026-10-22T11:45:19+00:00"
-    },
-    {
-      "id": "15c62b2fa2669a95",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le virus Shamonda détecté pour la première fois chez un humain, un patient immunodéprimé mort en France",
-      "resume": "L’infection par le virus Shamonda ne rentrant pas dans le cadre de la législation européenne, elle n’est soumise à aucune mesure officielle de surveillance ou de lutte.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/le-virus-shamonda-detecte-pour-la-premiere-fois-chez-un-humain-un-patient-immunodeprime-mort-en-france_6798613_3244.html",
-      "published_at": "2026-10-22T11:20:39+00:00"
     },
     {
       "id": "66b14c300b2493bd",
