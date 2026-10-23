@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-23T00:18:39.473657+00:00",
+  "generated_at": "2026-10-23T05:08:32.726429+00:00",
   "items": [
+    {
+      "id": "3ec0488b343dab6d",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Comment les acteurs de la RSE se posent en \"garde fous\" de l'IA dans leur organisation (3/3)",
+      "resume": "Les professionnels de la durabilité face au déploiement de l'IA responsable - Photo de Annie Sprattsur Unsplash Alors que le déploiement de l'intelligence artificielle accélère dans les entreprises, une question anime les professionnels de ",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/professionnels-rse-durabilite-deploiement-ia-responsable-garde-fous",
+      "published_at": "2026-10-23T04:45:28+00:00"
+    },
+    {
+      "id": "ee7b25edfdd2b85d",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Après les incendies de la forêt de Fontainebleau, peintres, naturalistes et écrivains se mobilisent pour la renaissance de ce « monument naturel »",
+      "resume": "Dès le XIXᵉ siècle, la sauvegarde du massif forestier préoccupait les intellectuels, dont l’autrice George Sand. Aujourd’hui, ils s’engagent de nouveau afin d’imaginer un avenir à ce haut lieu de la lutte écologiste, dont près de 10 % ont é",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/23/apres-les-incendies-de-la-foret-de-fontainebleau-peintres-naturalistes-et-ecrivains-se-mobilisent-pour-la-renaissance-de-ce-monument-naturel_6798948_3232.html",
+      "published_at": "2026-10-23T04:00:09+00:00"
+    },
+    {
+      "id": "76738597a58194a8",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En 1872, George Sand prenait la défense de Fontainebleau : « Tout le monde a droit à la beauté et à la poésie de nos forêts »",
+      "resume": "Dans un article du « Temps », la romancière met sa notoriété et sa connaissance de la botanique au service de la défense de la forêt de Fontainebleau, menacée par de « vastes mutilations ». « Le Monde » en publie des extraits.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/23/en-1872-george-sand-prenait-la-defense-de-fontainebleau-tout-le-monde-a-droit-a-la-beaute-et-a-la-poesie-de-nos-forets_6798938_3232.html",
+      "published_at": "2026-10-23T03:00:29+00:00"
+    },
+    {
+      "id": "81b345d7f915b453",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
+      "resume": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de 2026 ont été beaucoup plus meurtrières que celles de 2003 ou 2022.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
+      "published_at": "2026-10-23T03:00:24+00:00"
+    },
     {
       "id": "dbbe3e5774fe5f0e",
       "source": "The Guardian Environment",
@@ -17,14 +53,14 @@
       "titre": "Budget 2027 : les députés rejettent la taxe sur les produits sucrés proposée par le gouvernement",
       "resume": "Le vote sur cette taxe censée inciter les industriels à réduire le taux de sucre dans leurs recettes, est loin d’être définitif. L’adoption du budget de la Sécurité sociale par l’Assemblée nationale lors de cette première lecture paraît hau",
       "url": "https://www.lemonde.fr/sante/article/2026/10/23/budget-2027-les-deputes-rejettent-la-taxe-sur-les-produits-sucres-proposee-par-le-gouvernement_6798700_1651302.html",
-      "published_at": "2026-10-22T23:08:48+00:00"
+      "published_at": "2026-10-22T23:08:47+00:00"
     },
     {
       "id": "65747f0feea1539f",
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "En Chine, le séisme de magnitude 7 qui a frappé la région du Tibet fait au moins 16 morts et des dizaines de blessés",
-      "resume": "Un séisme majeur a frappé jeudi soir la région du Tibet, en Chine. La secousse, survenue à 22 h 33, heure locale, a eu lieu dans une région régulièrement touchée par des tremblements de terre.",
+      "resume": "Un séisme majeur a frappé jeudi soir la région du Tibet, en Chine. La secousse, survenue à 22 h 33, heure locale, a eu lieu dans une zone régulièrement touchée par des tremblements de terre.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/22/en-chine-le-seisme-de-magnitude-7-qui-a-frappe-la-region-du-tibet-fait-16-morts-et-des-dizaines-de-blesses_6798655_3245.html",
       "published_at": "2026-10-22T20:52:16+00:00"
     },
@@ -90,15 +126,6 @@
       "resume": "Nucléaire : l'Autorité de sûreté ouvre la porte à la prolongation de la durée de vie des centrales au-delà de 60 ans Les Echos",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbklhTUpxbkR1bkhfcV9LLUJmOGgxaDV5ZTBrQlpTUHYyVDVBUkdlNU9JRU5CZmxycjNtUW90NDNmVzZSdGVLYWJFZU9uWHl2WmYycjB3czJGQW03b1dUdTJEMXRWRGdFWUF4WFhPdldWNXYwaXoxOWpKcmttWl9JSWFReWFpWkVKVU5OUDJzZnFvVUdUYnU5Y1JyTlI2MXJnQ1lROTkxRXRtOU55dDMwd294NmE0WXNIX1dzTjFYSldmYnpCaUNrVHJwbjVpbkRIcS1uZDhzR3kzNjJOc2VQZFdBSUsydl9sUGZaRnlLYTVINks5UjFuNTJVNmRCR19YSGhpdTBNU3EyZm1tX0hDYTdpZVE?oc=5",
       "published_at": "2026-10-22T15:31:47+00:00"
-    },
-    {
-      "id": "750a0cd9881234d4",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : quinze départements en vigilance orange vent vendredi",
-      "resume": "De « nombreuses » lignes de train seront suspendues « préventivement » vendredi « en prévision du passage de la tempête Austen » en Ile-de-France, a prévenu jeudi soir la SNCF, au lendemain de l’annonce de mesures semblables en Normandie et",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/tempete-austen-quinze-departements-en-vigilance-orange-vent-vendredi_6798578_3245.html",
-      "published_at": "2026-10-22T15:23:40+00:00"
     },
     {
       "id": "8da8a16e93086286",
@@ -191,15 +218,6 @@
       "published_at": "2026-10-22T14:18:42+00:00"
     },
     {
-      "id": "8b2dbe43dad52280",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Changement climatique : 96 % des récifs coralliens classés « en danger critique d’extinction » d’ici à cinquante ans",
-      "resume": "Parmi les plus menacés figurent la Grande Barrière de corail en Australie, le Triangle de corail dans l’océan Pacifique occidental et en Asie du Sud-Est, la barrière de corail mésoaméricaine dans les Caraïbes, ainsi que les récifs corallien",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/changement-climatique-96-des-recifs-coralliens-classes-en-danger-critique-d-extinction-d-ici-cinquante-ans_6798628_3244.html",
-      "published_at": "2026-10-22T14:06:07+00:00"
-    },
-    {
       "id": "fe1049662fa8fecb",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -270,15 +288,6 @@
       "resume": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spill Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recover",
       "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
       "published_at": "2026-10-22T12:00:44+00:00"
-    },
-    {
-      "id": "1743bcf409422b6e",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A Courchevel, la crainte d’« une fuite en avant dans le tout-ski » à la faveur des Jeux olympiques de 2030",
-      "resume": "Les élus locaux de la célèbre station, qui doit accueillir huit épreuves des Jeux d’hiver Alpes 2030, comptent profiter de l’événement pour développer un peu plus l’économie locale. Un choix contesté alors que les effets du réchauffement se",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/a-courchevel-la-crainte-d-une-fuite-en-avant-dans-le-tout-ski-a-la-faveur-des-jeux-olympiques-de-2030_6798616_3244.html",
-      "published_at": "2026-10-22T12:00:00+00:00"
     },
     {
       "id": "c642ce7cc0c4c34e",
@@ -441,15 +450,6 @@
       "resume": "À la fin de l’histoire, il y a une loi ou un règlement européen structurant. Avant d’y arriver, il y a eu des mois de tractations à huis clos et de bras de fer publics, des arbitrages complexes, politiques, et des contraintes techniques. Le",
       "url": "https://www.contexte.com/fr/article/pouvoirs/decouvrez-rouages-le-podcast-de-contexte-qui-demonte-la-mecanique-des-politiques-publiques_281855?source=rss",
       "published_at": "2026-10-20T06:00:00+00:00"
-    },
-    {
-      "id": "4ec9217e9f0b67ba",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Infrastructures IA : le poids de la dette fait vaciller les investisseurs",
-      "resume": "Coreweave, fournisseur de capacités de calcul aux entreprises de l'IA, a vu son cours de Bourse plonger ces derniers jours. @Panumas Nikhomkhai Pexels Ça commence à craquer du côté de l’endettement IA. Coreweave, une société américaine de \"",
-      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/premiers-signes-tensions-apparaissent-dettes-developpeurs-ia",
-      "published_at": "2026-10-20T04:45:44+00:00"
     },
     {
       "id": "6904cc8ace921e57",
