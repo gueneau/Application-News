@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-10-23T15:18:27.496739+00:00",
+  "generated_at": "2026-10-23T19:25:05.136818+00:00",
   "items": [
+    {
+      "id": "cc2ce6451b3cc05c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempête Austen : trois départements du nord de la France restent en vigilance orange, 242 000 foyers privés d’électricité",
+      "resume": "Seuls le Nord, le Pas-de-Calais et la Somme sont toujours placés en vigilance orange pour vent. Un homme est mort en coupant un arbre après le passage de la tempête vendredi dans la Manche.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html",
+      "published_at": "2026-10-23T18:04:16+00:00"
+    },
+    {
+      "id": "f3725272f284a32e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Derrière la condamnation d’Olivier Bouygues, « un sérieux avertissement pour les grands propriétaires de domaines de chasse »",
+      "resume": "L’homme d’affaires a été condamné à deux ans de prison avec sursis et 750 000 euros d’amende pour l’abattage, par ses gardes-chasse, d’espèces protégées sur sa propriété solognote. Il a fait appel.",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/23/derriere-la-condamnation-d-olivier-bouygues-un-serieux-avertissement-pour-les-grands-proprietaires-de-domaines-de-chasse_6799135_3224.html",
+      "published_at": "2026-10-23T17:56:47+00:00"
+    },
+    {
+      "id": "6936455978f2d3a2",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Sur un continent en manque de carburants, le milliardaire nigérian Aliko Dangote veut créer un réseau panafricain d’oléoducs",
+      "resume": "L’homme le plus riche d’Afrique a racheté 25 % de la société d’oléoducs du Kenya, où il doit construire une réplique de sa raffinerie nigériane. Il poursuit d’autres projets au Cameroun, en Namibie, et entre l’Ethiopie et Djibouti.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/23/sur-un-continent-en-manque-de-carburants-le-milliardaire-nigerian-aliko-dangote-veut-creer-un-reseau-panafricain-d-oleoducs_6799123_3212.html",
+      "published_at": "2026-10-23T16:45:06+00:00"
+    },
+    {
+      "id": "921644106773cfc3",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Capture de CO2 : une start-up française s'attaque aux effluents très dilués",
+      "resume": "Pure Carbon Capture a développé une technologie de capture pour les sites industriels ou les procédés dont les émissions contiennent moins de 10-12 % de dioxyde de carbone : installations de chauffage industriel ou de production d'électrici",
+      "url": "https://www.actu-environnement.com/ae/news/la-technologie-de-pure-carbone-capture-pour-capter-dioxyde-de-carbone-dans-effluents-peu-concentres-48719.php4#xtor=RSS-6",
+      "published_at": "2026-10-23T16:18:52+00:00"
+    },
+    {
+      "id": "edeb16ccb50accfb",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Appel d’offres solaire au sol : EDF a-t-il cassé les prix ?",
+      "resume": "Enquête – Que s’est-il passé lors de l’appel d’offres qui a attribué, il y a deux semaines, un soutien financier public de 61,33€/MWh en moyenne à 125 centrales photovoltaïques au sol représentant 931 MW de puissance ? Sa première bizarreri",
+      "url": "https://www.greenunivers.com/2026/10/appel-doffres-solaire-au-sol-edf-a-t-il-casse-les-prix-436738/",
+      "published_at": "2026-10-23T15:39:18+00:00"
+    },
+    {
+      "id": "c34beca585c1ca48",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Peu de chances de voir des projets éoliens à l’appel d’offres « neutre »",
+      "resume": "L’appel d’offres « technologiquement neutre » clos le 16 octobre dernier semble destiné encore une fois à voir les projets solaires remporter la plupart du volume. Différents développeurs L’article Peu de chances de voir des projets éoliens",
+      "url": "https://www.greenunivers.com/2026/10/peu-de-chances-de-voir-des-projets-eoliens-a-lappel-doffres-neutre-436737/",
+      "published_at": "2026-10-23T15:31:37+00:00"
+    },
     {
       "id": "f87778a0c422603b",
       "source": "Le Monde Planète",
@@ -56,6 +110,15 @@
       "published_at": "2026-10-23T13:56:12+00:00"
     },
     {
+      "id": "9f21e01505fb3e48",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "UK government to make unprecedented intervention in setting of water bills",
+      "resume": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’ UK politics live – latest updates Ministers will make an unprecedented intervention in water bills and how companies prioritise inv",
+      "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "published_at": "2026-10-23T13:51:10+00:00"
+    },
+    {
       "id": "830b42b9a7d8b06c",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -101,24 +164,6 @@
       "published_at": "2026-10-23T12:11:14+00:00"
     },
     {
-      "id": "41c5bce186baee75",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Suit filed to force Trump administration to address cancer-linked pesticide pollution",
-      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-      "published_at": "2026-10-23T12:00:26+00:00"
-    },
-    {
-      "id": "44846ef1c227d5ba",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
-      "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
-      "published_at": "2026-10-23T12:00:26+00:00"
-    },
-    {
       "id": "3673e0bdeca81738",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -126,15 +171,6 @@
       "resume": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d’énergies renouvelables peuvent s’organiser pour pro",
       "url": "https://www.greenunivers.com/2026/10/osborn-metals-un-cas-decole-de-la-decarbonation-par-lelectrification-3-436433/",
       "published_at": "2026-10-23T12:00:12+00:00"
-    },
-    {
-      "id": "75827827b0df19f8",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Meta, l’invité encombrant de la présidentielle brésilienne",
-      "resume": "Manifestation devant le siège de Meta à São Paulo, au Brésil, le 19 octobre 2026. Crédits photo : Allison Sales / Nurphoto via AFP Les partis et les candidats brésiliens à la présidentielle n’ont jamais autant dépensé chez Meta. D’après un ",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/meta-linvite-encombrant-de-la-presidentielle-bresilienne",
-      "published_at": "2026-10-23T11:45:19+00:00"
     },
     {
       "id": "963b2542dcfca748",
@@ -236,22 +272,13 @@
       "published_at": "2026-10-23T08:45:27+00:00"
     },
     {
-      "id": "6457e7a3bdc06bc6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : les transports dans le nord-ouest de la France fortement perturbés vendredi",
-      "resume": "La circulation de nombreux trains est interrompue en Normandie, en Ile-de-France, en Bretagne et dans les Hauts-de-France, et des restrictions de circulation ont été mises en place sur le réseau routier dans l’ouest du pays.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/23/tempete-austen-les-transports-dans-le-nord-ouest-de-la-france-fortement-perturbes-vendredi_6799037_3234.html",
-      "published_at": "2026-10-23T08:04:26+00:00"
-    },
-    {
-      "id": "c1dd03b69e0ddd9b",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Désertification, biodiversité, climat : Trois COP d’épée dans l’eau ?",
-      "resume": "Les trois COP organisées en cette fin d'année vont-elles permettre de relancer le multilatéralisme ?@Unsplash Mahmoud Emad Depuis lundi 19 octobre, la COP17 Biodiversité a ouvert ses portes à Erevan, en Arménie, sans faire la Une des journa",
-      "url": "https://www.novethic.fr/environnement/climat/desertification-biodiversite-climat-trois-cop-depee-dans-leau",
-      "published_at": "2026-10-23T08:00:32+00:00"
+      "id": "44f171c3fe03a8d8",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Week in wildlife: a bookworm bear, an angelic spider and a bald hedgehog",
+      "resume": "This week’s best wildlife photographs from around the world Continue reading...",
+      "url": "https://www.theguardian.com/environment/gallery/2026/oct/23/week-in-wildlife-a-bookworm-bear-an-angelic-spider-and-a-bald-hedgehog",
+      "published_at": "2026-10-23T07:00:02+00:00"
     },
     {
       "id": "2a8d9377aa1b3596",
@@ -263,40 +290,31 @@
       "published_at": "2026-10-23T05:37:08+00:00"
     },
     {
-      "id": "0c87aecaaf26c5ab",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : 23 départements du nord et de l’ouest de la France en vigilance orange, près de 289 000 foyers privés d’électricité",
-      "resume": "La tempête Austen entraîne la fermeture du village de la Route du rhum, à Saint-Malo, et perturbe fortement la circulation ferroviaire dans l’ouest et le nord du pays.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-23-departements-du-nord-et-de-l-ouest-de-la-france-en-vigilance-orange-plus-de-160-000-foyers-prives-d-electricite_6799023_3244.html",
-      "published_at": "2026-10-23T05:18:07+00:00"
-    },
-    {
-      "id": "3ec0488b343dab6d",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Comment les acteurs de la RSE se posent en \"garde fous\" de l'IA dans leur organisation (3/3)",
-      "resume": "Les professionnels de la durabilité face au déploiement de l'IA responsable - Photo de Annie Sprattsur Unsplash Alors que le déploiement de l'intelligence artificielle accélère dans les entreprises, une question anime les professionnels de ",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/professionnels-rse-durabilite-deploiement-ia-responsable-garde-fous",
-      "published_at": "2026-10-23T04:45:28+00:00"
-    },
-    {
-      "id": "ee7b25edfdd2b85d",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Après les incendies de la forêt de Fontainebleau, peintres, naturalistes et écrivains se mobilisent pour la renaissance de ce « monument naturel »",
-      "resume": "Dès le XIXᵉ siècle, la sauvegarde du massif forestier préoccupait les intellectuels, dont l’autrice George Sand. Aujourd’hui, ils s’engagent de nouveau afin d’imaginer un avenir à ce haut lieu de la lutte écologiste, dont près de 10 % ont é",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/23/apres-les-incendies-de-la-foret-de-fontainebleau-peintres-naturalistes-et-ecrivains-se-mobilisent-pour-la-renaissance-de-ce-monument-naturel_6798948_3232.html",
-      "published_at": "2026-10-23T04:00:04+00:00"
-    },
-    {
-      "id": "dbbe3e5774fe5f0e",
+      "id": "ef3e2171e2110a99",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
-      "resume": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
-      "published_at": "2026-10-22T23:15:40+00:00"
+      "titre": "How citizen science is tracking changes in shorelines around the world",
+      "resume": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areas The shoreline changes with the weather. Tracking these changes over time is a labour-intensive task, and an army of citizen sci",
+      "url": "https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world",
+      "published_at": "2026-10-23T05:00:01+00:00"
+    },
+    {
+      "id": "8617d2fe95389f22",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+      "resume": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll Heat killed a record 50,000 people in European cities this summer, new research suggests, with scientists bl",
+      "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+      "published_at": "2026-10-23T04:01:01+00:00"
+    },
+    {
+      "id": "fb6eedfed3b741f8",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
+      "resume": "People near south Wales river were told to keep windows and doors shut after thousands of litres of kerosene from a GE Aerospace site got into the water Oily slicks of kerosene still appeared to be leaking into the River Taff this week, sev",
+      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
+      "published_at": "2026-10-22T17:58:51+00:00"
     },
     {
       "id": "9d137c3c905e72a1",
@@ -317,33 +335,6 @@
       "published_at": "2026-10-22T15:50:23+00:00"
     },
     {
-      "id": "245aa4a7b9d96715",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Nucléaire : l'ASNR n'identifie pas d'obstacle à la prolongation des réacteurs au-delà de 60 ans",
-      "resume": "Le gendarme du nucléaire soumet à la consultation du public son projet d'avis sur les perspectives de poursuite du fonctionnement des réacteurs au-delà de 60 ans. Il n'identifie pas d'éléments rédhibitoires qu'EDF ne pourrait surmonter.",
-      "url": "https://www.actu-environnement.com/ae/news/asnr-prolongation-reacteurs-nucleaires-60-ans-48713.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T15:42:08+00:00"
-    },
-    {
-      "id": "a32cdefdba96f9d5",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Les grandes surfaces ne solarisent pas leurs parkings",
-      "resume": "En matière de solarisation obligatoire, les grands parkings sont à la rue. Selon le premier relevé de Parksun* « seuls 6 % des parkings de magasins concernés par les dispositions de la loi Aper de 2023 ont des ombrières solaires », indique ",
-      "url": "https://www.greenunivers.com/2026/10/les-grandes-surfaces-ne-solarisent-pas-leurs-parkings-436610/",
-      "published_at": "2026-10-22T15:35:14+00:00"
-    },
-    {
-      "id": "e2e523295c633ba5",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Décarbonation industrielle : des pistes et des aides pour dérisquer [2]",
-      "resume": "Qui portera le risque de l’électrification industrielle, au delà des industriels eux-mêmes ? Un peu l’Etat par les subventions qu’il accorde encore mais surtout les banques dont certaines s’impliquent au point de devenir acheteuses et vende",
-      "url": "https://www.greenunivers.com/2026/10/decarbonation-industrielle-des-pistes-et-des-aides-pour-derisquer-2-436389/",
-      "published_at": "2026-10-22T15:21:49+00:00"
-    },
-    {
       "id": "8d4393752cff0b1e",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -353,31 +344,13 @@
       "published_at": "2026-10-22T14:18:42+00:00"
     },
     {
-      "id": "4a780ab2558587d0",
+      "id": "c1ebcdb63bcdd76c",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "America gets new national park with designation of Chiricahua’s rock spires",
-      "resume": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support An area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has b",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
-      "published_at": "2026-10-22T12:08:40+00:00"
-    },
-    {
-      "id": "32bad9e77e93b7e1",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
-      "resume": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spill Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recover",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
-      "published_at": "2026-10-22T12:00:44+00:00"
-    },
-    {
-      "id": "c642ce7cc0c4c34e",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Agroécologie : le Printemps des terres ouvre son capital aux particuliers",
-      "resume": "Le Printemps des terres a acquis près de 4500 hectares de terres agricoles depuis son lancement. @Pexels / Mike Bird C’est une première pour le Printemps des terres. La société foncière agricole a décidé de lancer une levée de fonds auprès ",
-      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/agroecologie-printemps-terres-ouvre-capital-aux-particuliers",
-      "published_at": "2026-10-22T11:45:19+00:00"
+      "titre": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+      "resume": "Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a ",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "published_at": "2026-10-22T11:22:23+00:00"
     },
     {
       "id": "6615c79a79eb1d39",
@@ -396,33 +369,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
       "published_at": "2026-10-22T05:00:26+00:00"
-    },
-    {
-      "id": "4f8fe60594f76b18",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "LVMH, Zara, Uniqlo... : les géants de la mode en retard sur le salaire décent",
-      "resume": "Les ouvriers textile toujours sous payés @PAOLO MANZO NurPhoto / NurPhoto via AFP Les grandes marques de mode ne versent toujours pas un salaire décent à leurs travailleurs. C’est le constat de la septième édition du Fashion Checker, l’outi",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/entreprises-mode-retard-salaires-decents-ouvriers",
-      "published_at": "2026-10-22T04:45:39+00:00"
-    },
-    {
-      "id": "4a28d5868ad4a1ac",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
-      "resume": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spread The US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of the flesh-eating parasite the ",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
-      "published_at": "2026-10-21T23:36:31+00:00"
-    },
-    {
-      "id": "7fffa03f83233ff4",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Les grandes banques françaises financent le plus grand hub mondial de charbon métallurgique",
-      "resume": "Les banques européennes financent une potentielle bombe climatique en Australie. @Pexels / Xiang Qi Exit le charbon ? Pas tout à fait. Si les grandes banques européennes ont pris depuis longtemps des engagements pour limiter le financement ",
-      "url": "https://www.novethic.fr/finance-durable/finance-verte/les-grandes-banques-francaises-financent-le-plus-grand-hub-mondial-de-charbon-metallurgique",
-      "published_at": "2026-10-21T11:45:08+00:00"
     },
     {
       "id": "91f3e38b6aa0240b",
@@ -720,6 +666,60 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "ebbcaca171cba5d1",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
+      "published_at": "2026-06-30T08:03:48+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
+    },
+    {
+      "id": "f6ba6a33ef09a89a",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
+      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
+      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
