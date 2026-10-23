@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:25:05.136818+00:00",
+  "generated_at": "2026-10-23T22:28:00.737023+00:00",
   "items": [
     {
       "id": "cc2ce6451b3cc05c",
@@ -68,7 +68,7 @@
       "id": "841cd1ec2ab77266",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour destruction d’espèces d’oiseaux protégées",
+      "titre": "Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour destruction d’espèces d’oiseaux protégées",
       "resume": "Le tribunal d’Orléans a retenu dans son jugement « l’existence d’un préjudice écologique » dont les six prévenus se sont rendus « entièrement responsables » en chassant sur le domaine de l’homme d’affaires en Sologne. Son avocat a annoncé s",
       "url": "https://www.lemonde.fr/societe/article/2026/10/23/le-milliardaire-olivier-bouygues-condamne-a-deux-ans-de-prison-avec-sursis-pour-destruction-d-especes-d-oiseaux-protegees_6799093_3224.html",
       "published_at": "2026-10-23T14:51:39+00:00"
@@ -108,15 +108,6 @@
       "resume": "En Haute-Loire, la construction de la « route à Wauquiez » s'accélère au mépris de la contestation locale. La semaine dernière, l'Etat a de nouveau affiché son soutien au projet en débloquant une aide de 50 millions d'euros. Saint-Hostien (",
       "url": "https://reporterre.net/RN88-un-coup-de-pouce-de-l-Etat-a-50-millions-pour-la-route-a-Wauquiez",
       "published_at": "2026-10-23T13:56:12+00:00"
-    },
-    {
-      "id": "9f21e01505fb3e48",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "UK government to make unprecedented intervention in setting of water bills",
-      "resume": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’ UK politics live – latest updates Ministers will make an unprecedented intervention in water bills and how companies prioritise inv",
-      "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
-      "published_at": "2026-10-23T13:51:10+00:00"
     },
     {
       "id": "830b42b9a7d8b06c",
@@ -162,6 +153,24 @@
       "resume": "Les autorités du pays himalayen envisagent de décréter inconstructibles les zones situées trop près du maximum de la crue qui a dévasté la vallée de la Trishuli en août. Mais dans ce pays très escarpé et soumis à de nombreux aléas, il est d",
       "url": "https://www.lemonde.fr/planete/article/2026/10/23/le-nepal-apres-le-tsunami-des-montagnes-ne-veut-pas-rebatir-a-l-identique-si-nous-reconstruisons-les-routes-au-meme-endroit-les-populations-s-installeront-a-proximite_6799073_3244.html",
       "published_at": "2026-10-23T12:11:14+00:00"
+    },
+    {
+      "id": "44846ef1c227d5ba",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+      "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "41c5bce186baee75",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
+      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
+      "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
       "id": "3673e0bdeca81738",
@@ -272,15 +281,6 @@
       "published_at": "2026-10-23T08:45:27+00:00"
     },
     {
-      "id": "44f171c3fe03a8d8",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Week in wildlife: a bookworm bear, an angelic spider and a bald hedgehog",
-      "resume": "This week’s best wildlife photographs from around the world Continue reading...",
-      "url": "https://www.theguardian.com/environment/gallery/2026/oct/23/week-in-wildlife-a-bookworm-bear-an-angelic-spider-and-a-bald-hedgehog",
-      "published_at": "2026-10-23T07:00:02+00:00"
-    },
-    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -290,31 +290,13 @@
       "published_at": "2026-10-23T05:37:08+00:00"
     },
     {
-      "id": "ef3e2171e2110a99",
+      "id": "dbbe3e5774fe5f0e",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "How citizen science is tracking changes in shorelines around the world",
-      "resume": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areas The shoreline changes with the weather. Tracking these changes over time is a labour-intensive task, and an army of citizen sci",
-      "url": "https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world",
-      "published_at": "2026-10-23T05:00:01+00:00"
-    },
-    {
-      "id": "8617d2fe95389f22",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
-      "resume": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll Heat killed a record 50,000 people in European cities this summer, new research suggests, with scientists bl",
-      "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
-      "published_at": "2026-10-23T04:01:01+00:00"
-    },
-    {
-      "id": "fb6eedfed3b741f8",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
-      "resume": "People near south Wales river were told to keep windows and doors shut after thousands of litres of kerosene from a GE Aerospace site got into the water Oily slicks of kerosene still appeared to be leaking into the River Taff this week, sev",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
-      "published_at": "2026-10-22T17:58:51+00:00"
+      "titre": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
+      "resume": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
+      "published_at": "2026-10-22T23:15:40+00:00"
     },
     {
       "id": "9d137c3c905e72a1",
@@ -344,13 +326,22 @@
       "published_at": "2026-10-22T14:18:42+00:00"
     },
     {
-      "id": "c1ebcdb63bcdd76c",
+      "id": "4a780ab2558587d0",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
-      "resume": "Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a ",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
-      "published_at": "2026-10-22T11:22:23+00:00"
+      "titre": "America gets new national park with designation of Chiricahua’s rock spires",
+      "resume": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support An area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has b",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
+      "published_at": "2026-10-22T12:08:40+00:00"
+    },
+    {
+      "id": "32bad9e77e93b7e1",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
+      "resume": "New study reveals dramatic population drops in fish, cephalopods and more after Deepwater Horizon disaster Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovere",
+      "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
+      "published_at": "2026-10-22T12:00:44+00:00"
     },
     {
       "id": "6615c79a79eb1d39",
@@ -369,6 +360,15 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
       "published_at": "2026-10-22T05:00:26+00:00"
+    },
+    {
+      "id": "4a28d5868ad4a1ac",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
+      "resume": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spread The US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of the flesh-eating parasite the ",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
+      "published_at": "2026-10-21T23:36:31+00:00"
     },
     {
       "id": "91f3e38b6aa0240b",
