@@ -1,6 +1,177 @@
 {
-  "generated_at": "2026-10-23T10:19:50.657006+00:00",
+  "generated_at": "2026-10-23T15:18:27.496739+00:00",
   "items": [
+    {
+      "id": "f87778a0c422603b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La crise dans le Golfe accroît la dépendance au charbon des pays d’Afrique australe",
+      "resume": "Le blocage du détroit d’Ormuz a fait grimper les cours du charbon, énergie très polluante mais encore relativement bon marché. Pour les pays exportateurs comme l’Afrique du Sud et le Mozambique, cette hausse est une aubaine, mais elle les é",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/23/la-crise-dans-le-golfe-accroit-la-dependance-au-charbon-des-pays-d-afrique-australe_6799095_3212.html",
+      "published_at": "2026-10-23T15:00:13+00:00"
+    },
+    {
+      "id": "841cd1ec2ab77266",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour destruction d’espèces d’oiseaux protégées",
+      "resume": "Le tribunal d’Orléans a retenu dans son jugement « l’existence d’un préjudice écologique » dont les six prévenus se sont rendus « entièrement responsables » en chassant sur le domaine de l’homme d’affaires en Sologne. Son avocat a annoncé s",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/23/le-milliardaire-olivier-bouygues-condamne-a-deux-ans-de-prison-avec-sursis-pour-destruction-d-especes-d-oiseaux-protegees_6799093_3224.html",
+      "published_at": "2026-10-23T14:51:39+00:00"
+    },
+    {
+      "id": "0d359ec862ca94bc",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Avec ce système pourri, on n'a aucune perspective » : la révolte de la jeunesse d'Albanie",
+      "resume": "Après des semaines de mobilisation pacifique contre la corruption et les projets d'infrastructures controversés du pouvoir, la contestation s'est durcie en Albanie. Une jeunesse en pleine révolte réclame le départ du Premier ministre, Edi R",
+      "url": "https://reporterre.net/Avec-ce-systeme-pourri-on-n-a-aucune-perspective-la-revolte-de-la-jeunesse-d-Albanie",
+      "published_at": "2026-10-23T14:26:59+00:00"
+    },
+    {
+      "id": "a02676d9c9f211b5",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Directive Habitats : les projets pouvant affecter une zone protégée ne peuvent pas être exemptés d'évaluation",
+      "resume": "Par un arrêt du 22 octobre 2026, la Cour de justice de l'Union européenne (CJUE) a répondu à une question préjudicielle portant sur la conformité d'une réglementation nationale avec l'article 6 paragraphe 3 de la directive Habitats, relatif",
+      "url": "https://www.actu-environnement.com/ae/news/cjue-directive-habitats-evaluation-zones-protegees-48718.php4#xtor=RSS-6",
+      "published_at": "2026-10-23T14:15:19+00:00"
+    },
+    {
+      "id": "45f1f6ab520432a4",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "ICPE : une consultation pour accélérer l'enregistrement en cas d'incompatibilité avec le PLU",
+      "resume": "Le ministère de la Transition écologique soumet à consultation publique un projet visant à permettre l'instruction d'une demande d'enregistrement ICPE parallèlement à une procédure d'évolution du document d'urbanisme nécessaire à la réalisa",
+      "url": "https://www.actu-environnement.com/ae/news/icpe-enregistrement-instruction-parallele-urbanisme-48717.php4#xtor=RSS-6",
+      "published_at": "2026-10-23T13:58:53+00:00"
+    },
+    {
+      "id": "8c6f35d6d2f1cba4",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "RN88 : un coup de pouce de l'État à 50 millions pour « la route à Wauquiez »",
+      "resume": "En Haute-Loire, la construction de la « route à Wauquiez » s'accélère au mépris de la contestation locale. La semaine dernière, l'Etat a de nouveau affiché son soutien au projet en débloquant une aide de 50 millions d'euros. Saint-Hostien (",
+      "url": "https://reporterre.net/RN88-un-coup-de-pouce-de-l-Etat-a-50-millions-pour-la-route-a-Wauquiez",
+      "published_at": "2026-10-23T13:56:12+00:00"
+    },
+    {
+      "id": "830b42b9a7d8b06c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "50 000 morts en Europe : le bilan sans précédents des canicules de 2026",
+      "resume": "L'été 2026 aura été le plus meurtrier en Europe et le dérèglement climatique y est pour quelque chose. Selon une étude publiée par Nature Health et menée par deux institutions britanniques, 50 391 personnes sont mortes durant la saison dans",
+      "url": "https://reporterre.net/50-000-morts-en-Europe-le-bilan-sans-precedents-des-canicules-de-2026",
+      "published_at": "2026-10-23T13:28:01+00:00"
+    },
+    {
+      "id": "a6bb8df0fcc9391c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "96 % des coraux sont menacés d'extinction d'ici 50 ans",
+      "resume": "Le monde dans lequel nous vivrons bientôt sera-t-il un monde sans coraux ? La quasi-totalité des récifs coralliens situés dans les eaux peu profondes du globe est exposée à un « risque extrêmement élevé » de disparition d'ici 2075 en raison",
+      "url": "https://reporterre.net/96-des-coraux-sont-menaces-d-extinction-d-ici-50-ans",
+      "published_at": "2026-10-23T12:37:23+00:00"
+    },
+    {
+      "id": "7773ed202d23173e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Une victoire historique » : la France va interdire les navires-usines près des côtes",
+      "resume": "Après des mois d'attente, la ministre de la Mer Catherine Chabaud a annoncé, jeudi 22 octobre, le lancement du processus visant à interdire des navires de plus de 25 mètres de la bande côtière française. La mesure concerne l'est de la Manch",
+      "url": "https://reporterre.net/Une-victoire-historique-la-France-va-interdire-les-navires-usines-pres-des-cotes",
+      "published_at": "2026-10-23T12:34:24+00:00"
+    },
+    {
+      "id": "45a01aae235e5f9a",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Cambridge Heavy Industries Raises $6.2 Million to Build Mini Fusion Reactors",
+      "resume": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and […]",
+      "url": "https://www.esgtoday.com/cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors",
+      "published_at": "2026-10-23T12:20:03+00:00"
+    },
+    {
+      "id": "57031b21dba6b593",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le Népal, après le « tsunami des montagnes », ne veut pas rebâtir à l’identique : « Si nous reconstruisons les routes au même endroit, les populations s’installeront à proximité »",
+      "resume": "Les autorités du pays himalayen envisagent de décréter inconstructibles les zones situées trop près du maximum de la crue qui a dévasté la vallée de la Trishuli en août. Mais dans ce pays très escarpé et soumis à de nombreux aléas, il est d",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/23/le-nepal-apres-le-tsunami-des-montagnes-ne-veut-pas-rebatir-a-l-identique-si-nous-reconstruisons-les-routes-au-meme-endroit-les-populations-s-installeront-a-proximite_6799073_3244.html",
+      "published_at": "2026-10-23T12:11:14+00:00"
+    },
+    {
+      "id": "41c5bce186baee75",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Suit filed to force Trump administration to address cancer-linked pesticide pollution",
+      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "44846ef1c227d5ba",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+      "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "3673e0bdeca81738",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Osborn Metals, un cas d’école de la décarbonation par l’électrification [3]",
+      "resume": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d’énergies renouvelables peuvent s’organiser pour pro",
+      "url": "https://www.greenunivers.com/2026/10/osborn-metals-un-cas-decole-de-la-decarbonation-par-lelectrification-3-436433/",
+      "published_at": "2026-10-23T12:00:12+00:00"
+    },
+    {
+      "id": "75827827b0df19f8",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Meta, l’invité encombrant de la présidentielle brésilienne",
+      "resume": "Manifestation devant le siège de Meta à São Paulo, au Brésil, le 19 octobre 2026. Crédits photo : Allison Sales / Nurphoto via AFP Les partis et les candidats brésiliens à la présidentielle n’ont jamais autant dépensé chez Meta. D’après un ",
+      "url": "https://www.novethic.fr/economie-et-social/droits-humains/meta-linvite-encombrant-de-la-presidentielle-bresilienne",
+      "published_at": "2026-10-23T11:45:19+00:00"
+    },
+    {
+      "id": "963b2542dcfca748",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les documents de la semaine",
+      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
+      "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
+      "published_at": "2026-10-23T11:31:18+00:00"
+    },
+    {
+      "id": "892453fab1f7206f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "LGV Bordeaux-Toulouse : rejet de la demande de suspension d'un arrêté portant autorisation environnementale",
+      "resume": "Par une ordonnance du 14 octobre 2026, le juge des référés du tribunal administratif de Bordeaux a refusé de suspendre l'arrêté du 5 février 2026 délivrant une autorisation environnement pour les investigations préalables à la construction ",
+      "url": "https://www.actu-environnement.com/ae/news/lgv-bordeaux-toulouse-suspension-autorisation-environnementale-48716.php4#xtor=RSS-6",
+      "published_at": "2026-10-23T10:55:11+00:00"
+    },
+    {
+      "id": "d2bc7f1dd3de9a3c",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le monde avance vers un réchauffement planétaire de 2,8 degrés d'ici 2100",
+      "resume": "Les scénarios climatiques du Pnue démontrent une nouvelle fois que le monde n'est pas sur la bonne voie pour respecter l'Accord de Paris. À quelques jours de la COP 31, l'ONU encourage les Etats à sortir des énergies fossiles au profit des ",
+      "url": "https://www.actu-environnement.com/ae/news/emission-gap-report-rechauffement-cop31-pnue-48715.php4#xtor=RSS-6",
+      "published_at": "2026-10-23T10:49:57+00:00"
+    },
+    {
+      "id": "61e4a6ea309d81a3",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "LRQA Acquires Supply Chain Monitoring and Responsible Sourcing Platform Omega Compliance",
+      "resume": "Goldman Sachs-backed risk management solutions provider LRQA announced the acquisition of supply chain monitoring and […]",
+      "url": "https://www.esgtoday.com/lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance",
+      "published_at": "2026-10-23T10:22:07+00:00"
+    },
     {
       "id": "98b2d3b2a0836a7f",
       "source": "ESG Today",
@@ -83,24 +254,6 @@
       "published_at": "2026-10-23T08:00:32+00:00"
     },
     {
-      "id": "2a78969aac9b12e8",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Bolsonaro fils bientôt élu au Brésil ? Une « catastrophe » pour l'environnement et les autochtones",
-      "resume": "Invasion des terres autochtones, suppressions d'agences environnementales… Flavio Bolsonaro, candidat arrivé en tête du 1 er tour de la présidentielle brésilienne, porte un programme dramatique pour l'écologie. Il s'inscrit dans la lignée d",
-      "url": "https://reporterre.net/Bolsonaro-fils-bientot-elu-au-Bresil-Une-catastrophe-pour-l-environnement-et-les",
-      "published_at": "2026-10-23T07:52:38+00:00"
-    },
-    {
-      "id": "64156828b9d1634b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Du pinkwashing intolérable » : quand la FNSEA multiplie les stands pour Octobre rose",
-      "resume": "La FNSEA multiplie les événements de sensibilisation au cancer ce mois-ci : le syndicat productiviste repeint son image en rose malgré sa défense de l'usage de produits chimiques, les pesticides, pourvoyeurs de cancers. En ce mois d'octobre",
-      "url": "https://reporterre.net/Tombola-et-porte-clefs-tracteur-quand-la-FNSEA-adepte-des-pesticides-surfe-sur-Octobre",
-      "published_at": "2026-10-23T06:49:44+00:00"
-    },
-    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -134,25 +287,7 @@
       "titre": "Après les incendies de la forêt de Fontainebleau, peintres, naturalistes et écrivains se mobilisent pour la renaissance de ce « monument naturel »",
       "resume": "Dès le XIXᵉ siècle, la sauvegarde du massif forestier préoccupait les intellectuels, dont l’autrice George Sand. Aujourd’hui, ils s’engagent de nouveau afin d’imaginer un avenir à ce haut lieu de la lutte écologiste, dont près de 10 % ont é",
       "url": "https://www.lemonde.fr/idees/article/2026/10/23/apres-les-incendies-de-la-foret-de-fontainebleau-peintres-naturalistes-et-ecrivains-se-mobilisent-pour-la-renaissance-de-ce-monument-naturel_6798948_3232.html",
-      "published_at": "2026-10-23T04:00:09+00:00"
-    },
-    {
-      "id": "76738597a58194a8",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En 1872, George Sand prenait la défense de Fontainebleau : « Tout le monde a droit à la beauté et à la poésie de nos forêts »",
-      "resume": "Dans un article du « Temps », la romancière met sa notoriété et sa connaissance de la botanique au service de la défense de la forêt de Fontainebleau, menacée par de « vastes mutilations ». « Le Monde » en publie des extraits.",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/23/en-1872-george-sand-prenait-la-defense-de-fontainebleau-tout-le-monde-a-droit-a-la-beaute-et-a-la-poesie-de-nos-forets_6798938_3232.html",
-      "published_at": "2026-10-23T03:00:29+00:00"
-    },
-    {
-      "id": "81b345d7f915b453",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
-      "resume": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de 2026 ont été beaucoup plus meurtrières que celles de 2003 ou 2022.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
-      "published_at": "2026-10-23T03:00:19+00:00"
+      "published_at": "2026-10-23T04:00:04+00:00"
     },
     {
       "id": "dbbe3e5774fe5f0e",
@@ -162,15 +297,6 @@
       "resume": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
       "published_at": "2026-10-22T23:15:40+00:00"
-    },
-    {
-      "id": "3f302e838867e62e",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Budget 2027 : les députés rejettent la taxe sur les produits sucrés proposée par le gouvernement",
-      "resume": "Le vote sur cette taxe, censée inciter les industriels à réduire le taux de sucre dans leurs recettes, est loin d’être définitif. L’adoption du budget de la Sécurité sociale par l’Assemblée nationale lors de cette première lecture paraît ha",
-      "url": "https://www.lemonde.fr/sante/article/2026/10/23/budget-2027-les-deputes-rejettent-la-taxe-sur-les-produits-sucres-proposee-par-le-gouvernement_6798700_1651302.html",
-      "published_at": "2026-10-22T23:08:47+00:00"
     },
     {
       "id": "9d137c3c905e72a1",
@@ -200,15 +326,6 @@
       "published_at": "2026-10-22T15:42:08+00:00"
     },
     {
-      "id": "efd877c7dc662899",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "A412 : la procureure d'Annecy demande la suspension immédiate du chantier",
-      "resume": "La procureure de la République d'Annecy a saisi le juge des libertés et de la détention, le 21 octobre, pour qu'il ordonne la suspension immédiate du chantier de l'autoroute A412, qui doit relier Machilly à Thonon-les-Bains, dans le Bas-Cha",
-      "url": "https://reporterre.net/A412-la-procureure-d-Annecy-demande-la-suspension-immediate-du-chantier",
-      "published_at": "2026-10-22T15:40:38+00:00"
-    },
-    {
       "id": "a32cdefdba96f9d5",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -216,15 +333,6 @@
       "resume": "En matière de solarisation obligatoire, les grands parkings sont à la rue. Selon le premier relevé de Parksun* « seuls 6 % des parkings de magasins concernés par les dispositions de la loi Aper de 2023 ont des ombrières solaires », indique ",
       "url": "https://www.greenunivers.com/2026/10/les-grandes-surfaces-ne-solarisent-pas-leurs-parkings-436610/",
       "published_at": "2026-10-22T15:35:14+00:00"
-    },
-    {
-      "id": "8da8a16e93086286",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Cancers et pesticides : le désintérêt agressif de la droite et du gouvernement",
-      "resume": "Jeudi 22 octobre, les sénateurs ont débattu de la sortie des pesticides à l'initiative des Écologistes. Ceux-ci ont été attaqués par les rares élus de droite qui ont daigné être présents, avec l'approbation du ministre délégué à l'Écologie.",
-      "url": "https://reporterre.net/Cancers-et-pesticides-le-desinteret-agressif-de-la-droite-et-du-gouvernement",
-      "published_at": "2026-10-22T15:22:36+00:00"
     },
     {
       "id": "e2e523295c633ba5",
@@ -236,60 +344,6 @@
       "published_at": "2026-10-22T15:21:49+00:00"
     },
     {
-      "id": "abc7da87e49d5431",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le fabricant de stations hydrogène HRS s’offre un maigre sursis",
-      "resume": "HRS devra se contenter de 1,5 M€. Le fabricant de stations hydrogène revoit à la baisse son augmentation de capital. Il gagne un peu L’article Le fabricant de stations hydrogène HRS s’offre un maigre sursis est apparu en premier sur GreenUn",
-      "url": "https://www.greenunivers.com/2026/10/le-fabricant-de-stations-hydrogene-hrs-soffre-un-maigre-sursis-436609/",
-      "published_at": "2026-10-22T15:18:20+00:00"
-    },
-    {
-      "id": "51f13278c1bb552b",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "La jurisprudence se construit autour du stockage par batteries",
-      "resume": "Le gouvernement prévoit de publier d’ici le 1er décembre une « clarification » des règles d’implantation de batteries, d’après le deuxième volet du plan d’électrification présenté L’article La jurisprudence se construit autour du stockage p",
-      "url": "https://www.greenunivers.com/2026/10/la-jurisprudence-se-construit-autour-du-stockage-par-batteries-436607/",
-      "published_at": "2026-10-22T15:15:10+00:00"
-    },
-    {
-      "id": "917f834fa11a963a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Bassin de l'Adour : comment concilier les enjeux agricoles et le retour au bon état des masses d'eau",
-      "resume": "En Adour, l'objectif de retour à l'équilibre des masses d'eau constitue un enjeu. L'Igedd et le CGAAER se sont intéressés aux conditions nécessaires pour la reprise d'un dialogue local et soulignent l'importance d'un plan d'adaptation agric",
-      "url": "https://www.actu-environnement.com/ae/news/zones-repartition-eaux-bon-etat-quantitatif-adour-etudes-socio-economiques-48710.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T15:07:36+00:00"
-    },
-    {
-      "id": "e5f6799fa1c37ec4",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le plan local d'urbanisme de Saint-Malo est suspendu en raison des enjeux liés à la ressource en eau potable",
-      "resume": "Par une ordonnance du 21 octobre 2026, le tribunal administratif de Rennes a suspendu les effets du plan local d'urbanisme (PLU) de Saint-Malo, approuvé par une délibération du 4 novembre&#8239;2025. En cause&#8239; ? Le PLU, qui prévoit...",
-      "url": "https://www.actu-environnement.com/ae/news/plu-saint-malo-suspendu-eau-potable-48712.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T14:54:27+00:00"
-    },
-    {
-      "id": "951dafee39b22fcc",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Système électrique : les prix négatifs deviennent structurels, selon la CRE",
-      "resume": "« Le marche&#769; français a enregistre&#769; 147 heures a&#768; prix négatifs en 2023, 361 heures en 2024 puis 513 heures en 2025. L'année 2026 s'inscrit, a&#768; ce stade, dans la même dynamique avec 411 heures a&#768; prix n...",
-      "url": "https://www.actu-environnement.com/ae/news/prix-negatifs-electricite-cre-structurel-48711.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T14:54:11+00:00"
-    },
-    {
-      "id": "680e81cdd170ca38",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "L'Arcom épingle Sud Radio pour désinformation climatique, annonce Quotaclimat",
-      "resume": "« C'est la première fois que l'Arcom reconnaît que les obligations de rigueur et d'honnêteté de l'information s'appliquent aussi aux solutions de la transition écologique et aux politiques environnementales », salue Quotaclimat. L'associati",
-      "url": "https://reporterre.net/L-Arcom-epingle-Sud-Radio-pour-desinformation-climatique-annonce-Quotaclimat",
-      "published_at": "2026-10-22T14:51:03+00:00"
-    },
-    {
       "id": "8d4393752cff0b1e",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -297,33 +351,6 @@
       "resume": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing […]",
       "url": "https://www.esgtoday.com/uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund",
       "published_at": "2026-10-22T14:18:42+00:00"
-    },
-    {
-      "id": "47a48cac81d59517",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EIB Unveils €30 Billion Climate Adaptation Plan",
-      "resume": "The European Investment Bank (EIB) Group announced a new plan to deliver at least €30 […]",
-      "url": "https://www.esgtoday.com/eib-unveils-e30-billion-climate-adaptation-plan/?utm_source=rss&utm_medium=rss&utm_campaign=eib-unveils-e30-billion-climate-adaptation-plan",
-      "published_at": "2026-10-22T13:38:35+00:00"
-    },
-    {
-      "id": "dda380e4a0d2153f",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La Commission partage sa vision du secteur de la pêche d'ici à 2040",
-      "resume": "« Prospère », « viable », « résilient ». C'est en ces termes que la Commission imagine le futur du secteur de la pêche en Europe. L'exécutif a présenté le 20 octobre sa « vision » à l'horizon 2040 de ce secteur économique qui emploie aujour",
-      "url": "https://www.actu-environnement.com/ae/news/commission-europeenne-vision-peche-2040-48709.php4#xtor=RSS-6",
-      "published_at": "2026-10-22T13:09:31+00:00"
-    },
-    {
-      "id": "84bb02861ab646b7",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Coca-Cola, Nestlé, and Danone Agree to Improve Recycling Claims Following EU Greenwashing Complaint",
-      "resume": "Food and beverage giants Coca-Cola, Nestlé, and Danone have committed to change recycling claims advertised on […]",
-      "url": "https://www.esgtoday.com/coca-cola-nestle-and-danone-agree-to-improve-recycling-claims-following-eu-greenwashing-complaint/?utm_source=rss&utm_medium=rss&utm_campaign=coca-cola-nestle-and-danone-agree-to-improve-recycling-claims-following-eu-greenwashing-complaint",
-      "published_at": "2026-10-22T12:46:26+00:00"
     },
     {
       "id": "4a780ab2558587d0",
@@ -398,15 +425,6 @@
       "published_at": "2026-10-21T11:45:08+00:00"
     },
     {
-      "id": "9751c5bf277d9fce",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US extreme weather survivors are a growing group – now they want to be a political force",
-      "resume": "At a gathering in Texas, near where floods killed 136 people last year, survivors are united on the need for urgent action It may be a club none of its members actually want to be in, but the growing number of people in the US affected by e",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
-      "published_at": "2026-10-21T10:00:02+00:00"
-    },
-    {
       "id": "91f3e38b6aa0240b",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -414,24 +432,6 @@
       "resume": "Dans le Jura, le lunetier Thierry mise sur la sobriété énergétique et environnementale Les Echos",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkcwN2VZR2dFT052RkdGVzVRajNXcEtfdXAwRUNrcGxGYzZWQXVZd1FtRGZSOGtxRkh4eEVHbjVKUExUVDVEazFqbXV6enNuSHB0R0pMeEZic0tSWWZXNTFPNXVybGZFT1VHZllLMkNDYlNUYWRoN09XN2tnbzZNTk15ZHJGYmVhVzkzVmQweTVXSlVvZGJ2ZTFDNTZycGR6Vkt1QTltWDJxZ1ZESmJScGRuTVdLUWNuN3dINVhMZFZFLVZ3OHktOWMzSEM?oc=5",
       "published_at": "2026-10-21T06:50:08+00:00"
-    },
-    {
-      "id": "1dcfae061e3e060f",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Carburants d'aviation durable : décollage réussi, de fortes turbulences à venir",
-      "resume": "En 2025, 2,8% du carburant d’aviation fourni dans les aéroports européens étaient des carburants d'aviation durable. Alexandru-Bogdan Ghita / Unsplash C’est une bonne nouvelle, ou presque. L’Union européenne a réussi à tenir ses objectifs e",
-      "url": "https://www.novethic.fr/environnement/climat/carburants-daviation-durable-decollage-reussi-de-fortes-turbulences-a-venir",
-      "published_at": "2026-10-21T04:45:31+00:00"
-    },
-    {
-      "id": "bd1a2574de3f24be",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Great white shark leaps from water and photobombs California beachgoers",
-      "resume": "Videos show shark launching several feet from water as a group of friends pose for photos along Marina state beach A great white shark put on a spectacular display for California beachgoers over the weekend, leaping from the water off Marin",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
-      "published_at": "2026-10-20T16:45:59+00:00"
     },
     {
       "id": "159c9ea5eca36204",
