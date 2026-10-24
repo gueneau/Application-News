@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "generated_at": "06:12",
-  "elapsed_seconds": 386,
+  "generated_at": "12:11",
+  "elapsed_seconds": 337,
   "errors": [],
   "stats": {
     "jo_analyses": 19,
@@ -9,20 +9,31 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-24T06:12:19",
+    "run_at": "2026-10-24T12:11:35",
     "sources": {
       "JORF": 0,
-      "RSS": 4,
+      "RSS": 6,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 36,
-    "llm_seconds": 29.4
+    "llm_calls": 31,
+    "llm_seconds": 73.6
   },
   "items": [
+    {
+      "id": "897d7f420dfb",
+      "source": "Le Monde Planète",
+      "categorie": "Émissions",
+      "titre": "Prix des carburants : un décret en vue de la libération de stocks stratégiques de gazole publié au « Journal officiel »",
+      "resume": "Publication d'un décret visant à libérer des stocks stratégiques de gazole pour faire baisser les prix à la pompe, avec une répercussion obligatoire par les distributeurs.",
+      "pourquoi": "Ce décret offre une opportunité à court terme de stabiliser les coûts opérationnels de la flotte de véhicules thermiques d'ABC, réduisant ainsi la pression sur le scope 1 et les marges des contrats de prestations multiservices en cours de transition énergétique.",
+      "criticite": 2,
+      "url": "https://www.lemonde.fr/economie/article/2026/10/24/prix-des-carburants-un-decret-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-publie-au-journal-officiel_6799684_3234.html",
+      "date": "2026-10-24"
+    },
     {
       "id": "a095ce0f67f2",
       "source": "Le Monde Planète",
@@ -43,6 +54,17 @@
       "pourquoi": "Cet arrêté encadre directement l'éligibilité au bonus écologique de la flotte de véhicules électriques en cours d'électrification d'ABC, un enjeu majeur pour son Scope 1 et ses exigences bas-carbone. ABC doit intégrer ces nouveaux critères de score environnemental dans sa politique d'achat à court terme pour optimiser ses coûts d'acquisition et sécuriser sa trajectoire de réduction des émissions.",
       "criticite": 2,
       "url": "https://www.actu-environnement.com/ae/news/bonus-ecologique-score-environnemental-vehicules-electriques-48714.php4#xtor=RSS-6",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "0b5ff53d557a",
+      "source": "Le Monde Planète",
+      "categorie": "Climat",
+      "titre": "Tempête Austen : trois départements du nord de la France restent en vigilance orange, 242 000 foyers privés d’électricité",
+      "resume": "Le passage de la tempête Austen a privé 242 000 foyers d'électricité dans le nord de la France, illustrant l'impact des aléas climatiques extrêmes sur la continuité des activités et les infrastructures des clients d'ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html",
       "date": "2026-10-23"
     },
     {
