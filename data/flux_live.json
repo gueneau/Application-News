@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-23T22:28:00.737023+00:00",
+  "generated_at": "2026-10-24T00:56:52.475026+00:00",
   "items": [
+    {
+      "id": "826a991945c7a7e8",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
+      "resume": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaire, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
+      "published_at": "2026-10-23T23:07:05+00:00"
+    },
     {
       "id": "cc2ce6451b3cc05c",
       "source": "Le Monde Planète",
@@ -146,15 +155,6 @@
       "published_at": "2026-10-23T12:20:03+00:00"
     },
     {
-      "id": "57031b21dba6b593",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le Népal, après le « tsunami des montagnes », ne veut pas rebâtir à l’identique : « Si nous reconstruisons les routes au même endroit, les populations s’installeront à proximité »",
-      "resume": "Les autorités du pays himalayen envisagent de décréter inconstructibles les zones situées trop près du maximum de la crue qui a dévasté la vallée de la Trishuli en août. Mais dans ce pays très escarpé et soumis à de nombreux aléas, il est d",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/23/le-nepal-apres-le-tsunami-des-montagnes-ne-veut-pas-rebatir-a-l-identique-si-nous-reconstruisons-les-routes-au-meme-endroit-les-populations-s-installeront-a-proximite_6799073_3244.html",
-      "published_at": "2026-10-23T12:11:14+00:00"
-    },
-    {
       "id": "44846ef1c227d5ba",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -281,6 +281,15 @@
       "published_at": "2026-10-23T08:45:27+00:00"
     },
     {
+      "id": "ed18c9df844c66a3",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
+      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
+      "published_at": "2026-10-23T07:40:17+00:00"
+    },
+    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -369,15 +378,6 @@
       "resume": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spread The US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of the flesh-eating parasite the ",
       "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
       "published_at": "2026-10-21T23:36:31+00:00"
-    },
-    {
-      "id": "91f3e38b6aa0240b",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Dans le Jura, le lunetier Thierry mise sur la sobriété énergétique et environnementale - Les Echos",
-      "resume": "Dans le Jura, le lunetier Thierry mise sur la sobriété énergétique et environnementale Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkcwN2VZR2dFT052RkdGVzVRajNXcEtfdXAwRUNrcGxGYzZWQXVZd1FtRGZSOGtxRkh4eEVHbjVKUExUVDVEazFqbXV6enNuSHB0R0pMeEZic0tSWWZXNTFPNXVybGZFT1VHZllLMkNDYlNUYWRoN09XN2tnbzZNTk15ZHJGYmVhVzkzVmQweTVXSlVvZGJ2ZTFDNTZycGR6Vkt1QTltWDJxZ1ZESmJScGRuTVdLUWNuN3dINVhMZFZFLVZ3OHktOWMzSEM?oc=5",
-      "published_at": "2026-10-21T06:50:08+00:00"
     },
     {
       "id": "159c9ea5eca36204",
