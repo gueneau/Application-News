@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-24T09:41:33.728764+00:00",
+  "generated_at": "2026-10-24T13:46:12.617461+00:00",
   "items": [
+    {
+      "id": "d21acb34bd8c0322",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+      "resume": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or o",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+      "published_at": "2026-10-24T11:00:32+00:00"
+    },
+    {
+      "id": "51c83d62fda7d609",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 120 000 foyers sans électricité dans l’Ouest et le Nord",
+      "resume": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
+      "published_at": "2026-10-24T10:12:07+00:00"
+    },
     {
       "id": "1146d18dbd3275ac",
       "source": "Le Monde Planète",
@@ -41,19 +59,10 @@
       "id": "bcfc2a6952fb66bd",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Lycéens, Gilets jaunes... Ils dénoncent la « vaste blague » des consultations citoyennes lancées par Macron",
+      "titre": "« À chaque fois, des gens y croient, puis la promesse est rompue » : les consultations citoyennes de Macron ne passent plus",
       "resume": "En réponse à la mobilisation de la jeunesse, Emmanuel Macron a lancé une consultation citoyenne en ligne. L'expérience des doléances des Gilets jaunes et de la Convention citoyenne pour le climat laisse pourtant les concernés avec une quest",
       "url": "https://reporterre.net/Consultation-lyceenne-cahier-de-doleances-La-vaste-blague-des-reponses-d-Emmanuel-Macron",
       "published_at": "2026-10-24T06:00:00+00:00"
-    },
-    {
-      "id": "ec966886ebf8a297",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 146 000 foyers sans électricité dans l’Ouest et le Nord",
-      "resume": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-146-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
-      "published_at": "2026-10-24T05:31:10+00:00"
     },
     {
       "id": "4cd6dd507fa2d1f4",
@@ -281,15 +290,6 @@
       "published_at": "2026-10-23T08:45:27+00:00"
     },
     {
-      "id": "ed18c9df844c66a3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
-      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
-      "published_at": "2026-10-23T07:40:17+00:00"
-    },
-    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -378,15 +378,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
       "published_at": "2026-10-22T05:00:26+00:00"
-    },
-    {
-      "id": "4a28d5868ad4a1ac",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
-      "resume": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spread The US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of the flesh-eating parasite the ",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
-      "published_at": "2026-10-21T23:36:31+00:00"
     },
     {
       "id": "159c9ea5eca36204",
@@ -495,6 +486,15 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
       "published_at": "2026-10-14T07:27:21+00:00"
+    },
+    {
+      "id": "c29f0bbe22526d31",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année - Les Echos",
+      "resume": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXlycnNNU2d3RFllbzBWRUtvR1N2RFN6cERNRHo5UTVWd09SM0ZsLXhsQjRoakM4NjF6R0M4S3VUV1J2Ym03UlYxcV8yQ1RRMHZ0YVNXdmxjNllvSzlwaHQ0c3l6VU0tcm51Y3l4VmUzUDZDOU02MktVb1RKVTZmYS1NZjR5bUViUXQ5Y0xwNmplY1pNaHpSdjl1cUdDNm5BUTdBTEs2ZGFsYXEycEtYYXUwcDdkRk9JTWxSaTVZai1CY2tnM2IwcHIxdkVuVlJYa09xVXp1QzBGY0VTT3RZSVdNQURmb3FuTzdmeUYzTnFFVkVN?oc=5",
+      "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
       "id": "e04b87d3611be2d3",
