@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-24T17:08:36.640277+00:00",
+  "generated_at": "2026-10-24T19:37:50.472444+00:00",
   "items": [
+    {
+      "id": "dabc9e8009a45619",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« J'ai peur de venir... donc je viens » : des dizaines de milliers de personnes à Marseille contre la « dérive autoritaire » de Macron",
+      "resume": "100 000 manifestants selon la CGT , 17 000 selon la préfecture, ont protesté samedi 24 octobre à Marseille. Leur inquiétude : un glissement autoritaire au plus haut sommet de l'État, vers l'interdiction de manifester. Marseille (Bouche-du-R",
+      "url": "https://reporterre.net/J-ai-peur-de-venir-donc-je-viens-des-dizaines-de-milliers-de-personnes-a-Marseille-contre",
+      "published_at": "2026-10-24T18:04:48+00:00"
+    },
+    {
+      "id": "18f92bcda70df096",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "[PHOTOS] Congrès du RN à Orléans : 26 000 personnes manifestent contre « le racisme, le fascisme et l'impérialisme »",
+      "resume": "Une manifestation réunissant entre 13 000, selon la préfecture, et 26 000 personnes, selon les organisateurs, a eu lieu à Orléans, qui accueille le congrès du Rassemblement national. La ville a été mise sous cloche. Le temps d'une journée, ",
+      "url": "https://reporterre.net/PHOTOS-Congres-du-RN-a-Orleans-26-000-personnes-manifestent-contre-le-racisme-le-fascisme",
+      "published_at": "2026-10-24T17:33:04+00:00"
+    },
     {
       "id": "a814fe3f750de47f",
       "source": "Le Monde Planète",
@@ -8,7 +26,7 @@
       "titre": "Passage à l’heure d’hiver : pourquoi le changement d’heure est si critiqué",
       "resume": "La France passe à l’heure d’hiver dans la nuit de samedi à dimanche : à 3 heures, il sera 2 heures. La mesure a été réintroduite en 1975, à l’époque pour limiter la consommation d’énergie en plein choc pétrolier.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/24/passage-a-l-heure-d-hiver-pourquoi-le-changement-d-heure-est-si-critique_5348679_4355771.html",
-      "published_at": "2026-10-24T15:18:24+00:00"
+      "published_at": "2026-10-24T15:18:22+00:00"
     },
     {
       "id": "d21acb34bd8c0322",
@@ -24,7 +42,7 @@
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 72 000 foyers sans électricité dans l’Ouest et le Nord",
-      "resume": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
+      "resume": "Le département est en alerte orange depuis 20 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
       "published_at": "2026-10-24T10:12:07+00:00"
     },
@@ -144,24 +162,6 @@
       "resume": "Le ministère de la Transition écologique soumet à consultation publique un projet visant à permettre l'instruction d'une demande d'enregistrement ICPE parallèlement à une procédure d'évolution du document d'urbanisme nécessaire à la réalisa",
       "url": "https://www.actu-environnement.com/ae/news/icpe-enregistrement-instruction-parallele-urbanisme-48717.php4#xtor=RSS-6",
       "published_at": "2026-10-23T13:58:53+00:00"
-    },
-    {
-      "id": "8c6f35d6d2f1cba4",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "RN88 : un coup de pouce de l'État à 50 millions pour « la route à Wauquiez »",
-      "resume": "En Haute-Loire, la construction de la « route à Wauquiez » s'accélère au mépris de la contestation locale. La semaine dernière, l'Etat a de nouveau affiché son soutien au projet en débloquant une aide de 50 millions d'euros. Saint-Hostien (",
-      "url": "https://reporterre.net/RN88-un-coup-de-pouce-de-l-Etat-a-50-millions-pour-la-route-a-Wauquiez",
-      "published_at": "2026-10-23T13:56:12+00:00"
-    },
-    {
-      "id": "830b42b9a7d8b06c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "50 000 morts en Europe : le bilan sans précédents des canicules de 2026",
-      "resume": "L'été 2026 aura été le plus meurtrier en Europe et le dérèglement climatique y est pour quelque chose. Selon une étude publiée par Nature Health et menée par deux institutions britanniques, 50 391 personnes sont mortes durant la saison dans",
-      "url": "https://reporterre.net/50-000-morts-en-Europe-le-bilan-sans-precedents-des-canicules-de-2026",
-      "published_at": "2026-10-23T13:28:01+00:00"
     },
     {
       "id": "45a01aae235e5f9a",
@@ -290,6 +290,15 @@
       "published_at": "2026-10-23T08:45:27+00:00"
     },
     {
+      "id": "ed18c9df844c66a3",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
+      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
+      "published_at": "2026-10-23T07:40:17+00:00"
+    },
+    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -396,15 +405,6 @@
       "resume": "PARIS — Emmanuel Macron ne participera pas au dernier grand raout des négociations climatiques de son mandat, a confirmé l’Elysée auprès de POLITICO. Comme rapporté par POLITICO, un conflit d’agenda laissait planer un doute sur la présence ",
       "url": "https://www.politico.eu/article/emmanuel-macron-fera-limpasse-sur-la-cop31/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-20T12:20:32+00:00"
-    },
-    {
-      "id": "32cf8e8eacac75b4",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Signal-prix carbone : « La France se prépare à un Waterloo » - Les Echos",
-      "resume": "Signal-prix carbone : « La France se prépare à un Waterloo » Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1c5cGFSTzdPYjN3Rm4xU2ozN05QRW1CZWdBUWRRN3B2QS1BSVo0S21lSXh2YnB5NEdnVm5RaGRRQzh6TUlVd0t5QUVEdHhJUlhfdkRUZWZjUmRGQ2pyZVIwSlpEbkp4VThCaHFMYzI0MFlqdkpNN3NxYzVnU0NWU1hXWmQ2QmpIWjlLNlNJU2VpZzJpYmM3SFFVX3BuM28wNEFSeEFpM0dwQQ?oc=5",
-      "published_at": "2026-10-20T10:00:08+00:00"
     },
     {
       "id": "fb6531adfe3d9784",
