@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-24T13:46:12.617461+00:00",
+  "generated_at": "2026-10-24T17:08:36.640277+00:00",
   "items": [
+    {
+      "id": "a814fe3f750de47f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Passage à l’heure d’hiver : pourquoi le changement d’heure est si critiqué",
+      "resume": "La France passe à l’heure d’hiver dans la nuit de samedi à dimanche : à 3 heures, il sera 2 heures. La mesure a été réintroduite en 1975, à l’époque pour limiter la consommation d’énergie en plein choc pétrolier.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/24/passage-a-l-heure-d-hiver-pourquoi-le-changement-d-heure-est-si-critique_5348679_4355771.html",
+      "published_at": "2026-10-24T15:18:24+00:00"
+    },
     {
       "id": "d21acb34bd8c0322",
       "source": "The Guardian Environment",
@@ -14,7 +23,7 @@
       "id": "51c83d62fda7d609",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 120 000 foyers sans électricité dans l’Ouest et le Nord",
+      "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 72 000 foyers sans électricité dans l’Ouest et le Nord",
       "resume": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
       "published_at": "2026-10-24T10:12:07+00:00"
@@ -81,15 +90,6 @@
       "resume": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
       "published_at": "2026-10-23T23:07:05+00:00"
-    },
-    {
-      "id": "cc2ce6451b3cc05c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : trois départements du nord de la France restent en vigilance orange, 242 000 foyers privés d’électricité",
-      "resume": "Seuls le Nord, le Pas-de-Calais et la Somme sont toujours placés en vigilance orange pour vent. Un homme est mort en coupant un arbre après le passage de la tempête vendredi dans la Manche.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html",
-      "published_at": "2026-10-23T18:04:16+00:00"
     },
     {
       "id": "921644106773cfc3",
