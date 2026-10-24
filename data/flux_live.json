@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-24T00:56:52.475026+00:00",
+  "generated_at": "2026-10-24T05:22:07.266679+00:00",
   "items": [
+    {
+      "id": "4cd6dd507fa2d1f4",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Lacrymogènes : des gaz nocifs bien après les manifs",
+      "resume": "Les dégâts des gaz lacrymogènes massivement utilisés sur les manifestants français ne s'arrêtent pas une fois à l'abri du nuage. Troubles oculaires et respiratoires, menstruations perturbées, douleurs, et même la mort : ils peuvent avoir de",
+      "url": "https://reporterre.net/Lacrymogenes-des-gaz-nocifs-bien-apres-les-manifs",
+      "published_at": "2026-10-24T05:00:00+00:00"
+    },
+    {
+      "id": "fb889ad21b3d5f3f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Intempéries : le Pas-de-Calais placé en vigilance orange pluie-inondation dans la soirée de samedi",
+      "resume": "Le département entrera en alerte orange à 21 heures et doit y rester jusqu’à 4 heures dimanche, affirme Météo-France, en raison du passage de la perturbation Boelo après la tempête Austen.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/24/intemperies-le-pas-de-calais-place-en-vigilance-orange-pluie-inondation-dans-la-soiree-de-samedi_6799655_3244.html",
+      "published_at": "2026-10-24T04:51:38+00:00"
+    },
     {
       "id": "826a991945c7a7e8",
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
-      "resume": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaire, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
+      "resume": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
       "published_at": "2026-10-23T23:07:05+00:00"
     },
@@ -72,15 +90,6 @@
       "resume": "Le blocage du détroit d’Ormuz a fait grimper les cours du charbon, énergie très polluante mais encore relativement bon marché. Pour les pays exportateurs comme l’Afrique du Sud et le Mozambique, cette hausse est une aubaine, mais elle les é",
       "url": "https://www.lemonde.fr/afrique/article/2026/10/23/la-crise-dans-le-golfe-accroit-la-dependance-au-charbon-des-pays-d-afrique-australe_6799095_3212.html",
       "published_at": "2026-10-23T15:00:13+00:00"
-    },
-    {
-      "id": "841cd1ec2ab77266",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour destruction d’espèces d’oiseaux protégées",
-      "resume": "Le tribunal d’Orléans a retenu dans son jugement « l’existence d’un préjudice écologique » dont les six prévenus se sont rendus « entièrement responsables » en chassant sur le domaine de l’homme d’affaires en Sologne. Son avocat a annoncé s",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/23/le-milliardaire-olivier-bouygues-condamne-a-deux-ans-de-prison-avec-sursis-pour-destruction-d-especes-d-oiseaux-protegees_6799093_3224.html",
-      "published_at": "2026-10-23T14:51:39+00:00"
     },
     {
       "id": "0d359ec862ca94bc",
@@ -155,21 +164,21 @@
       "published_at": "2026-10-23T12:20:03+00:00"
     },
     {
-      "id": "44846ef1c227d5ba",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
-      "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
-      "published_at": "2026-10-23T12:00:26+00:00"
-    },
-    {
       "id": "41c5bce186baee75",
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
       "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
       "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "44846ef1c227d5ba",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+      "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
       "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
@@ -236,15 +245,6 @@
       "published_at": "2026-10-23T09:25:35+00:00"
     },
     {
-      "id": "5ccd5335a90dc664",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Incendie de la mairie de Limoges : pour les parents de l'accusé, on « fabrique un ennemi intérieur »",
-      "resume": "Deux hommes, dont un militant écologiste de 34 ans, ont été arrêtés après l'incendie de la mairie de Limoges. En Haute-Vienne et sur le plateau de Millevaches, ses proches et des élus dénoncent la récupération politique d'une affaire qui ra",
-      "url": "https://reporterre.net/Incendie-de-la-mairie-de-Limoges-pour-les-parents-de-l-accuse-on-fabrique-un-ennemi",
-      "published_at": "2026-10-23T09:01:30+00:00"
-    },
-    {
       "id": "94198911b339b424",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -279,15 +279,6 @@
       "resume": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant […]",
       "url": "https://www.esgtoday.com/google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses",
       "published_at": "2026-10-23T08:45:27+00:00"
-    },
-    {
-      "id": "ed18c9df844c66a3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
-      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
-      "published_at": "2026-10-23T07:40:17+00:00"
     },
     {
       "id": "2a8d9377aa1b3596",
@@ -333,6 +324,15 @@
       "resume": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing […]",
       "url": "https://www.esgtoday.com/uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund",
       "published_at": "2026-10-22T14:18:42+00:00"
+    },
+    {
+      "id": "a9b02dc6df0c829f",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "« Une reconversion exige des sacrifices, mais cela en vaut la peine » : du BEP au bac + 5, la réorientation pas comme les autres d'une pâtissière vers la QSE - Les Echos",
+      "resume": "« Une reconversion exige des sacrifices, mais cela en vaut la peine » : du BEP au bac + 5, la réorientation pas comme les autres d'une pâtissière vers la QSE Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWWhUOTJJc2xUT1ZGdHFPYU91c01VaEZHeWE3N2FGTEZlQk1ZdnoyTHpzYnFIZG5CVXVqdHlOZDg3Zkljc3FoNmo4OHFRdmF1SlJmSUU1eHpncmd2YVpLVnRNUmhseEUyZXFjbFhuZnVLcXZXTkdBZHJjcW1JODlJUHc5VmJybURlcGVmbzhyczc1YzlxLW9HWWpxclBxSXAxaDRhOWgwU3ktVDdPdmllRjUzVXRNVlN0LUllbnZfQkEwXzFONUg0STI5ekhQT2hhX2F3SV8wbTVpY3M4eGk4ejQyaWsycE5PVnN0SEV0MkpFQlRGakx5UmVmLU82R1JDRzFCUHRTTGkyQzBfUUF5TUxueXNqTEpiY096SEkxYkdRNzlVS3hBN2dTaXFqS0xwV1BqdG1CVTh0WEg5ZXRvY01MdHZKTDhob0RjMDVuTW5mQQ?oc=5",
+      "published_at": "2026-10-22T12:38:21+00:00"
     },
     {
       "id": "4a780ab2558587d0",
