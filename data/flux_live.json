@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-24T05:22:07.266679+00:00",
+  "generated_at": "2026-10-24T06:12:36.116187+00:00",
   "items": [
+    {
+      "id": "0552b3fbd5f47d1e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Autoroute A69 : à plus de 20 euros l’aller-retour, le tarif du péage embarrasse les partisans de l’équipement",
+      "resume": "L’annulation d’une subvention par le Conseil d’Etat a augmenté le prix pour circuler sur cette liaison autoroutière controversée entre Toulouse et Castres qui doit être inaugurée le 6 novembre. Les collectivités craignent que les automobili",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/24/autoroute-a69-a-plus-de-20-euros-l-aller-retour-le-tarif-du-peage-embarrasse-les-partisans-de-l-equipement_6799664_3244.html",
+      "published_at": "2026-10-24T06:01:40+00:00"
+    },
+    {
+      "id": "ab73a1f31eeee344",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« En appeler à l'armée contre sa propre population, c'est extrêmement inquiétant »",
+      "resume": "Mobiliser l'armée contre sa propre population : la répression s'intensifie pour l'acte II du samedi 24 octobre. Nathalie Tehio, présidente de la ligue des droits de l'Homme dénonce une « politique autoritaire ». Couvre-feu prolongé, pluie d",
+      "url": "https://reporterre.net/En-appeler-a-l-armee-contre-sa-propre-population-c-est-extremement-inquietant",
+      "published_at": "2026-10-24T06:00:00+00:00"
+    },
+    {
+      "id": "bcfc2a6952fb66bd",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Lycéens, Gilets jaunes... Ils dénoncent la « vaste blague » des consultations citoyennes lancées par Macron",
+      "resume": "En réponse à la mobilisation de la jeunesse, Emmanuel Macron a lancé une consultation citoyenne en ligne. L'expérience des doléances des Gilets jaunes et de la Convention citoyenne pour le climat laisse pourtant les concernés avec une quest",
+      "url": "https://reporterre.net/Consultation-lyceenne-cahier-de-doleances-La-vaste-blague-des-reponses-d-Emmanuel-Macron",
+      "published_at": "2026-10-24T06:00:00+00:00"
+    },
+    {
+      "id": "ec966886ebf8a297",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 146 000 foyers sans électricité dans l’Ouest et le Nord",
+      "resume": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-146-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
+      "published_at": "2026-10-24T05:31:10+00:00"
+    },
     {
       "id": "4cd6dd507fa2d1f4",
       "source": "Reporterre",
@@ -9,15 +45,6 @@
       "resume": "Les dégâts des gaz lacrymogènes massivement utilisés sur les manifestants français ne s'arrêtent pas une fois à l'abri du nuage. Troubles oculaires et respiratoires, menstruations perturbées, douleurs, et même la mort : ils peuvent avoir de",
       "url": "https://reporterre.net/Lacrymogenes-des-gaz-nocifs-bien-apres-les-manifs",
       "published_at": "2026-10-24T05:00:00+00:00"
-    },
-    {
-      "id": "fb889ad21b3d5f3f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Intempéries : le Pas-de-Calais placé en vigilance orange pluie-inondation dans la soirée de samedi",
-      "resume": "Le département entrera en alerte orange à 21 heures et doit y rester jusqu’à 4 heures dimanche, affirme Météo-France, en raison du passage de la perturbation Boelo après la tempête Austen.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/24/intemperies-le-pas-de-calais-place-en-vigilance-orange-pluie-inondation-dans-la-soiree-de-samedi_6799655_3244.html",
-      "published_at": "2026-10-24T04:51:38+00:00"
     },
     {
       "id": "826a991945c7a7e8",
@@ -83,15 +110,6 @@
       "published_at": "2026-10-23T15:31:37+00:00"
     },
     {
-      "id": "f87778a0c422603b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La crise dans le Golfe accroît la dépendance au charbon des pays d’Afrique australe",
-      "resume": "Le blocage du détroit d’Ormuz a fait grimper les cours du charbon, énergie très polluante mais encore relativement bon marché. Pour les pays exportateurs comme l’Afrique du Sud et le Mozambique, cette hausse est une aubaine, mais elle les é",
-      "url": "https://www.lemonde.fr/afrique/article/2026/10/23/la-crise-dans-le-golfe-accroit-la-dependance-au-charbon-des-pays-d-afrique-australe_6799095_3212.html",
-      "published_at": "2026-10-23T15:00:13+00:00"
-    },
-    {
       "id": "0d359ec862ca94bc",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -135,24 +153,6 @@
       "resume": "L'été 2026 aura été le plus meurtrier en Europe et le dérèglement climatique y est pour quelque chose. Selon une étude publiée par Nature Health et menée par deux institutions britanniques, 50 391 personnes sont mortes durant la saison dans",
       "url": "https://reporterre.net/50-000-morts-en-Europe-le-bilan-sans-precedents-des-canicules-de-2026",
       "published_at": "2026-10-23T13:28:01+00:00"
-    },
-    {
-      "id": "a6bb8df0fcc9391c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "96 % des coraux sont menacés d'extinction d'ici 50 ans",
-      "resume": "Le monde dans lequel nous vivrons bientôt sera-t-il un monde sans coraux ? La quasi-totalité des récifs coralliens situés dans les eaux peu profondes du globe est exposée à un « risque extrêmement élevé » de disparition d'ici 2075 en raison",
-      "url": "https://reporterre.net/96-des-coraux-sont-menaces-d-extinction-d-ici-50-ans",
-      "published_at": "2026-10-23T12:37:23+00:00"
-    },
-    {
-      "id": "7773ed202d23173e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Une victoire historique » : la France va interdire les navires-usines près des côtes",
-      "resume": "Après des mois d'attente, la ministre de la Mer Catherine Chabaud a annoncé, jeudi 22 octobre, le lancement du processus visant à interdire des navires de plus de 25 mètres de la bande côtière française. La mesure concerne l'est de la Manch",
-      "url": "https://reporterre.net/Une-victoire-historique-la-France-va-interdire-les-navires-usines-pres-des-cotes",
-      "published_at": "2026-10-23T12:34:24+00:00"
     },
     {
       "id": "45a01aae235e5f9a",
