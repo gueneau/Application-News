@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-24T06:12:36.116187+00:00",
+  "generated_at": "2026-10-24T09:41:33.728764+00:00",
   "items": [
+    {
+      "id": "1146d18dbd3275ac",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Prix des carburants : un décret en vue de la libération de stocks stratégiques de gazole publié au « Journal officiel »",
+      "resume": "Les distributeurs auront l’obligation de répercuter intégralement la baisse de prix. Cette répercussion peut avoir lieu par anticipation à compter du 1ᵉʳ novembre, selon le décret. Le gouvernement espère une baisse de 12 à 18 centimes par l",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/24/prix-des-carburants-un-decret-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-publie-au-journal-officiel_6799684_3234.html",
+      "published_at": "2026-10-24T09:20:17+00:00"
+    },
+    {
+      "id": "cf28640b62f0167a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment protéger nos enfants des pesticides ?",
+      "resume": "« Chaud devant ». Deux ouvrages – « Pesticides, leurs ravages sur la santé des enfants », de Laurence Huc, et « Pesticides kids », de Sophie Chapelle et Nolwenn Weiler – plongent dans le drame des cancers pédiatriques liés à ces produits ch",
+      "url": "https://www.lemonde.fr/intimites/article/2026/10/24/comment-proteger-nos-enfants-des-pesticides_6799676_6190330.html",
+      "published_at": "2026-10-24T08:00:17+00:00"
+    },
     {
       "id": "0552b3fbd5f47d1e",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Autoroute A69 : à plus de 20 euros l’aller-retour, le tarif du péage embarrasse les partisans de l’équipement",
+      "titre": "A69 : le tarif de péage de la future autoroute, à plus de 20 euros l’aller-retour, embarrasse ses partisans",
       "resume": "L’annulation d’une subvention par le Conseil d’Etat a augmenté le prix pour circuler sur cette liaison autoroutière controversée entre Toulouse et Castres qui doit être inaugurée le 6 novembre. Les collectivités craignent que les automobili",
       "url": "https://www.lemonde.fr/planete/article/2026/10/24/autoroute-a69-a-plus-de-20-euros-l-aller-retour-le-tarif-du-peage-embarrasse-les-partisans-de-l-equipement_6799664_3244.html",
-      "published_at": "2026-10-24T06:01:40+00:00"
+      "published_at": "2026-10-24T06:01:39+00:00"
     },
     {
       "id": "ab73a1f31eeee344",
@@ -63,24 +81,6 @@
       "resume": "Seuls le Nord, le Pas-de-Calais et la Somme sont toujours placés en vigilance orange pour vent. Un homme est mort en coupant un arbre après le passage de la tempête vendredi dans la Manche.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html",
       "published_at": "2026-10-23T18:04:16+00:00"
-    },
-    {
-      "id": "f3725272f284a32e",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Derrière la condamnation d’Olivier Bouygues, « un sérieux avertissement pour les grands propriétaires de domaines de chasse »",
-      "resume": "L’homme d’affaires a été condamné à deux ans de prison avec sursis et 750 000 euros d’amende pour l’abattage, par ses gardes-chasse, d’espèces protégées sur sa propriété solognote. Il a fait appel.",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/23/derriere-la-condamnation-d-olivier-bouygues-un-serieux-avertissement-pour-les-grands-proprietaires-de-domaines-de-chasse_6799135_3224.html",
-      "published_at": "2026-10-23T17:56:47+00:00"
-    },
-    {
-      "id": "6936455978f2d3a2",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Sur un continent en manque de carburants, le milliardaire nigérian Aliko Dangote veut créer un réseau panafricain d’oléoducs",
-      "resume": "L’homme le plus riche d’Afrique a racheté 25 % de la société d’oléoducs du Kenya, où il doit construire une réplique de sa raffinerie nigériane. Il poursuit d’autres projets au Cameroun, en Namibie, et entre l’Ethiopie et Djibouti.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/10/23/sur-un-continent-en-manque-de-carburants-le-milliardaire-nigerian-aliko-dangote-veut-creer-un-reseau-panafricain-d-oleoducs_6799123_3212.html",
-      "published_at": "2026-10-23T16:45:06+00:00"
     },
     {
       "id": "921644106773cfc3",
@@ -279,6 +279,15 @@
       "resume": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant […]",
       "url": "https://www.esgtoday.com/google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses",
       "published_at": "2026-10-23T08:45:27+00:00"
+    },
+    {
+      "id": "ed18c9df844c66a3",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
+      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
+      "published_at": "2026-10-23T07:40:17+00:00"
     },
     {
       "id": "2a8d9377aa1b3596",
@@ -486,15 +495,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
       "published_at": "2026-10-14T07:27:21+00:00"
-    },
-    {
-      "id": "c29f0bbe22526d31",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année - Les Echos",
-      "resume": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXlycnNNU2d3RFllbzBWRUtvR1N2RFN6cERNRHo5UTVWd09SM0ZsLXhsQjRoakM4NjF6R0M4S3VUV1J2Ym03UlYxcV8yQ1RRMHZ0YVNXdmxjNllvSzlwaHQ0c3l6VU0tcm51Y3l4VmUzUDZDOU02MktVb1RKVTZmYS1NZjR5bUViUXQ5Y0xwNmplY1pNaHpSdjl1cUdDNm5BUTdBTEs2ZGFsYXEycEtYYXUwcDdkRk9JTWxSaTVZai1CY2tnM2IwcHIxdkVuVlJYa09xVXp1QzBGY0VTT3RZSVdNQURmb3FuTzdmeUYzTnFFVkVN?oc=5",
-      "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
       "id": "e04b87d3611be2d3",
