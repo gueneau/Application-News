@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-25T17:44:59.251811+00:00",
+  "generated_at": "2026-10-25T20:14:02.216214+00:00",
   "items": [
+    {
+      "id": "f18819367af7adcb",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US south-west braces for more storms after enduring days of rain and flooding",
+      "resume": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week Another round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of ra",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+      "published_at": "2026-10-25T19:02:51+00:00"
+    },
     {
       "id": "3b65f0b87134ad4a",
       "source": "Le Monde Planète",
@@ -275,7 +284,7 @@
       "id": "dbbe3e5774fe5f0e",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "A possible three tornados wallop Arizona, bringing golf-ball sized hail",
+      "titre": "A possible three tornadoes wallop Arizona, bringing golf-ball sized hail",
       "resume": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
       "published_at": "2026-10-22T23:15:40+00:00"
@@ -315,15 +324,6 @@
       "resume": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support An area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has b",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
       "published_at": "2026-10-22T12:08:40+00:00"
-    },
-    {
-      "id": "32bad9e77e93b7e1",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
-      "resume": "New study reveals dramatic population drops in fish, cephalopods and more after Deepwater Horizon disaster Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovere",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
-      "published_at": "2026-10-22T12:00:44+00:00"
     },
     {
       "id": "6615c79a79eb1d39",
