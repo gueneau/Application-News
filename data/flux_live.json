@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-25T05:03:07.125369+00:00",
+  "generated_at": "2026-10-25T09:58:58.740548+00:00",
   "items": [
+    {
+      "id": "469bc5c6d41b543e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Notre maison brûle et on regarde les poubelles » : à Paris, 250 000 manifestants ont dénoncé l'aveuglement du pouvoir",
+      "resume": "Ni la pluie, ni le parcours modifié à la dernière minute ne les ont arrêtées : des milliers de personnes se sont réunies à Paris le 24 octobre pour cet Acte II de la colère lycéenne et sociale. Reporterre a battu le pavé avec les membres d'",
+      "url": "https://reporterre.net/Notre-maison-brule-et-on-regarde-les-poubelles-a-Paris-250-000-manifestants-ont-denonce-l",
+      "published_at": "2026-10-25T09:04:18+00:00"
+    },
+    {
+      "id": "816ef2d454a2074c",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESG Today: Week in Review",
+      "resume": "This week in ESG news: ISSB releases proposed nature-related corporate reporting requirements; Coca-Cola, Nestlé, Danone […]",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-280/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-280",
+      "published_at": "2026-10-25T08:16:49+00:00"
+    },
     {
       "id": "3f06ecb27ed0c9d8",
       "source": "Le Monde Planète",
@@ -135,15 +153,6 @@
       "resume": "L’appel d’offres « technologiquement neutre » clos le 16 octobre dernier semble destiné encore une fois à voir les projets solaires remporter la plupart du volume. Différents développeurs L’article Peu de chances de voir des projets éoliens",
       "url": "https://www.greenunivers.com/2026/10/peu-de-chances-de-voir-des-projets-eoliens-a-lappel-doffres-neutre-436737/",
       "published_at": "2026-10-23T15:31:37+00:00"
-    },
-    {
-      "id": "0d359ec862ca94bc",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Avec ce système pourri, on n'a aucune perspective » : la révolte de la jeunesse d'Albanie",
-      "resume": "Après des semaines de mobilisation pacifique contre la corruption et les projets d'infrastructures controversés du pouvoir, la contestation s'est durcie en Albanie. Une jeunesse en pleine révolte réclame le départ du Premier ministre, Edi R",
-      "url": "https://reporterre.net/Avec-ce-systeme-pourri-on-n-a-aucune-perspective-la-revolte-de-la-jeunesse-d-Albanie",
-      "published_at": "2026-10-23T14:26:59+00:00"
     },
     {
       "id": "a02676d9c9f211b5",
@@ -299,6 +308,15 @@
       "published_at": "2026-10-23T07:40:17+00:00"
     },
     {
+      "id": "69ed5774a320c36e",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Trump sonne une nouvelle charge contre les éoliennes… mais reporte d'éventuelles sanctions - Les Echos",
+      "resume": "Trump sonne une nouvelle charge contre les éoliennes… mais reporte d'éventuelles sanctions Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOVd3X19oalQ5M3IwN0diMVNwYlJObENSS09TUGVQeDhwMEgtTHlDOXhROFo1aE9scGlNTnVPZjZQVmxOa2xiMXI0SW14VlJ2bXFqMDJWaC1QSXpOWUNGbWRYVGVXakZjT251NExQbTVNVHo0NHA4Ukd1Q01LSVkzbVJqMkhGWXZINEU3M1BEZnZQYVA5ZjNJRW96MzFlLXJyOG81RG1lNkFlVHJlSjRaZm1xRkZMdjUyYVRzc0NRZk90TGdzVVdQQXkyYzhHTXNSRk5UVEcyR2lrVDF1UHNBbDgxYUNVSkdIeDFzS0hrZ2FmSkk?oc=5",
+      "published_at": "2026-10-23T06:16:42+00:00"
+    },
+    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -333,15 +351,6 @@
       "resume": "Après avoir vendu cet été à Corsica Sole sept centrales solaires et batteries à La Réunion, Urbasolar passe à la vitesse supérieure en cédant 25 sites photovoltaïques en service pour une puissance de 87 MWc. Réparties dans l’Hexagone, ces 1",
       "url": "https://www.greenunivers.com/2026/10/urbasolar-boucle-une-importante-cession-436627/",
       "published_at": "2026-10-22T15:50:23+00:00"
-    },
-    {
-      "id": "8d4393752cff0b1e",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "UK Channels Oil & Gas Revenues into New £2 Billion Clean Energy Wealth Fund",
-      "resume": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing […]",
-      "url": "https://www.esgtoday.com/uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund",
-      "published_at": "2026-10-22T14:18:42+00:00"
     },
     {
       "id": "a9b02dc6df0c829f",
@@ -387,15 +396,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
       "published_at": "2026-10-22T05:00:26+00:00"
-    },
-    {
-      "id": "159c9ea5eca36204",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique - Les Echos",
-      "resume": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMFJ1RzhIT0NkUUVRWW8tWWJ6Nnl5UVdTMmtkZXVaNjd1eGxDSlc2c2t5TW5JdzdyTXhzZExxa1JyNU1wby1SU093NDFTQ2cwVVN3RUJGVXIwVjdLTFRrc05aRnJoMFJjQW8xNm9kb3JHRmNYWjdCazVTUExhS0llVExoNFk0b0lNVGJWRzhkOUNpeDRTZW1IZHA1VnZ4QzVXVXlxanJyUmdHeXdmeWtlNFlYcDJLbVJCX0w3OFluMERqX21YeEQ1RjluNlQ4SnY2dHhJSExDU2pYaUQxemZaMW9xbmVlRWdGU0p5VHZndy1ZVkYxc29aVDdSLUJtTnNWMG0zMTJuSDViSTBn?oc=5",
-      "published_at": "2026-10-20T15:15:37+00:00"
     },
     {
       "id": "eb56a5afc3bb8b5a",
@@ -569,6 +569,15 @@
       "published_at": "2026-10-09T08:45:20+00:00"
     },
     {
+      "id": "677c3834c04eaf26",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
+      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
+      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
+      "published_at": "2026-10-07T13:03:27+00:00"
+    },
+    {
       "id": "e08f4587b21f7778",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -585,6 +594,51 @@
       "resume": "L’Europe a rarement l’occasion de repenser ses financements des cleantech sur autant de fronts à la fois. L’article Cleantech : l’Europe affûte sa boîte à outils est apparu en premier sur I4CE .",
       "url": "https://www.i4ce.org/cleantech-europe-affute-boite-a-outils-climat/",
       "published_at": "2026-10-02T08:45:10+00:00"
+    },
+    {
+      "id": "c7c5fd524d735a2a",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
+      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
+      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
+      "published_at": "2026-09-30T09:38:27+00:00"
+    },
+    {
+      "id": "807bedcb7a719896",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "« France 2035, France 2050 » - Découvrez le projet",
+      "resume": "« France 2035, France 2050 » - Découvrez le projet Comment vivrons-nous en France demain ? Dans la lignée historique des travaux du Plan depuis Jean Monnet, le Haut-commissariat à la Stratégie et au Plan a lancé un grand exercice de prospec",
+      "url": "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet",
+      "published_at": "2026-09-10T10:16:39+00:00"
+    },
+    {
+      "id": "673f485ce8732418",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Conférence | Quels nouveaux moteurs pour la productivité française ?",
+      "resume": "Conférence | Quels nouveaux moteurs pour la productivité française ? La France entre dans une nouvelle phase de son histoire économique : l’accélération technologique portée par l’intelligence artificielle, le vieillissement démographique e",
+      "url": "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise",
+      "published_at": "2026-09-09T13:14:11+00:00"
+    },
+    {
+      "id": "f6a85cff203ccfc9",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps",
+      "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
+      "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
+      "published_at": "2026-09-08T13:11:58+00:00"
+    },
+    {
+      "id": "2eb28f1334062f55",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ?",
+      "resume": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ? Comment les entreprises peuvent-elles contribuer, aux côtés des collectivités, des associations, des ",
+      "url": "https://www.strategie-plan.gouv.fr/webconference-responsabilite-territoriale-de-lentreprise-quels-leviers-pour-des-territoires-plus",
+      "published_at": "2026-09-03T14:56:56+00:00"
     },
     {
       "id": "cf48f14c1a1e7e16",
@@ -666,42 +720,6 @@
       "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
       "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
       "published_at": "2026-04-03T04:00:30+00:00"
-    },
-    {
-      "id": "6bbee6a77e90f346",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "La FEP dévoile les 26 propositions de son Livre Bleu 2026",
-      "resume": "La Fédération des entreprises de propreté (FEP) publie une nouvelle édition de son Livre Bleu, qui rassemble cette année 26 propositions destinées à répondre aux enjeux économiques et sociaux du secteur. Fruit du travail collectif des chamb",
-      "url": "https://www.federation-proprete.com/la-fep-devoile-les-26-propositions-de-son-livre-bleu-2026/",
-      "published_at": "2026-03-17T13:58:52+00:00"
-    },
-    {
-      "id": "1237b5403c9b7828",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "La FEP félicite Avril McCarthy pour son élection à la présidence de l’EFCI",
-      "resume": "L’EFCI (European Cleaning and Facility Services Industry) est l’instance représentative de la profession à l’échelle européenne. Créée en 1988, l’EFCI est le partenaire social reconnu par la Commission européenne pour le secteur. Elle repré",
-      "url": "https://www.federation-proprete.com/election-efci-avril-mccarthy/",
-      "published_at": "2025-07-10T08:52:23+00:00"
-    },
-    {
-      "id": "56f325f18747b701",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "IMPACT PME : échange avec la Ministre du Travail Astrid PANOSYAN-BOUVET",
-      "resume": "La FEP était présente le mardi 24 juin pour la 6ème édition du Salon Impact PME organisé par la CPME. Cette journée dédiée aux solutions et au réseau des chefs d’entreprises a été l’occasion pour la fédération d’être présente par le biais d",
-      "url": "https://www.federation-proprete.com/impact-pme-echange-ministre-travail/",
-      "published_at": "2025-06-27T09:07:33+00:00"
-    },
-    {
-      "id": "9b7040341beeb4f1",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "Europropre 2025 : une 18ème édition marquée par trois temps forts institutionnels",
-      "resume": "La 18ème édition du Salon Europropre, qui s’est tenue du 25 au 27 mars 2025 Porte de Versailles à Paris, a été l’occasion pour la FEP de convier trois personnalités publiques de premier plan. Mardi matin, après la conférence média au cours ",
-      "url": "https://www.federation-proprete.com/europropre-temps-forts-institutionnels/",
-      "published_at": "2025-04-03T15:12:36+00:00"
     }
   ]
 }
