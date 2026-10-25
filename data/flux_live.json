@@ -1,12 +1,21 @@
 {
-  "generated_at": "2026-10-25T14:10:01.635033+00:00",
+  "generated_at": "2026-10-25T17:44:59.251811+00:00",
   "items": [
+    {
+      "id": "3b65f0b87134ad4a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« L’usine Chemours a apporté des emplois. Mais à quel prix ? » : les PFAS et leurs dégâts au cœur du récit « Facteur X » dont « Le Monde » dévoile les extraits",
+      "resume": "Dans un livre-enquête incarné par nombre de rencontres, à paraître le 29 octobre aux éditions Les Arènes, la militante pour le climat Camille Etienne plonge dans l’histoire de l’industrie de la chimie et de ses conséquences sur les organism",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/25/l-usine-chemours-a-apporte-des-emplois-mais-a-quel-prix-les-pfas-et-leurs-degats-au-c-ur-du-recit-facteur-x-dont-le-monde-devoile-les-extraits_6800107_3232.html",
+      "published_at": "2026-10-25T17:30:06+00:00"
+    },
     {
       "id": "c21cec596451eb8f",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Tempête Boelo : à l’aéroport d’Amsterdam, des dizaines de vols annulés en raison de vents violents",
-      "resume": "L’Agence France-Presse a compté 90 vols annulés sur la page des départs du site de l’aéroport, principalement à destination de villes européennes, dont Paris.",
+      "titre": "Tempête Boelo : 82 000 foyers privés d’électricité au Royaume-Uni, des dizaines de vols annulés à l’aéroport d’Amsterdam",
+      "resume": "Des vents violents et de fortes pluies ont entraîné des perturbations dans les transports et des annulations de vols en Irlande et aux Pays-Bas. Une alerte inondation est en vigueur en Ecosse.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-boelo-a-l-aeroport-d-amsterdam-des-dizaines-de-vols-annules-en-raison-de-vents-violents_6800080_3244.html",
       "published_at": "2026-10-25T12:24:38+00:00"
     },
@@ -23,8 +32,8 @@
       "id": "b5acb968aba122a8",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Tempête Austen : 59 000 foyers étaient encore privés d’électricité dimanche à midi",
-      "resume": "Quelque 2 000 salariés d’Enedis et 600 salariés des entreprises prestataires sont mobilisés. La Bretagne et la Normandie sont les deux régions qui concentrent le plus de clients privés d’électricité.",
+      "titre": "Tempête Austen : 40 000 foyers étaient encore privés d’électricité dimanche à 18 heures",
+      "resume": "Quelque 2 000 salariés d’Enedis et 600 salariés de ses entreprises prestataires sont mobilisés. La Bretagne et la Normandie sont les deux régions qui concentrent le plus de clients privés d’électricité.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-austen-59-000-foyers-etaient-encore-prives-d-electricite-dimanche-a-midi_6800077_3244.html",
       "published_at": "2026-10-25T11:55:55+00:00"
     },
@@ -101,15 +110,6 @@
       "published_at": "2026-10-24T11:00:32+00:00"
     },
     {
-      "id": "51c83d62fda7d609",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 72 000 foyers sans électricité dans l’Ouest et le Nord",
-      "resume": "Le département est en alerte orange depuis 20 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
-      "published_at": "2026-10-24T10:12:07+00:00"
-    },
-    {
       "id": "ab73a1f31eeee344",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -128,15 +128,6 @@
       "published_at": "2026-10-24T06:00:00+00:00"
     },
     {
-      "id": "921644106773cfc3",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Capture de CO2 : une start-up française s'attaque aux effluents très dilués",
-      "resume": "Pure Carbon Capture a développé une technologie de capture pour les sites industriels ou les procédés dont les émissions contiennent moins de 10-12 % de dioxyde de carbone : installations de chauffage industriel ou de production d'électrici",
-      "url": "https://www.actu-environnement.com/ae/news/la-technologie-de-pure-carbone-capture-pour-capter-dioxyde-de-carbone-dans-effluents-peu-concentres-48719.php4#xtor=RSS-6",
-      "published_at": "2026-10-23T16:18:52+00:00"
-    },
-    {
       "id": "edeb16ccb50accfb",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -153,24 +144,6 @@
       "resume": "L’appel d’offres « technologiquement neutre » clos le 16 octobre dernier semble destiné encore une fois à voir les projets solaires remporter la plupart du volume. Différents développeurs L’article Peu de chances de voir des projets éoliens",
       "url": "https://www.greenunivers.com/2026/10/peu-de-chances-de-voir-des-projets-eoliens-a-lappel-doffres-neutre-436737/",
       "published_at": "2026-10-23T15:31:37+00:00"
-    },
-    {
-      "id": "a02676d9c9f211b5",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Directive Habitats : les projets pouvant affecter une zone protégée ne peuvent pas être exemptés d'évaluation",
-      "resume": "Par un arrêt du 22 octobre 2026, la Cour de justice de l'Union européenne (CJUE) a répondu à une question préjudicielle portant sur la conformité d'une réglementation nationale avec l'article 6 paragraphe 3 de la directive Habitats, relatif",
-      "url": "https://www.actu-environnement.com/ae/news/cjue-directive-habitats-evaluation-zones-protegees-48718.php4#xtor=RSS-6",
-      "published_at": "2026-10-23T14:15:19+00:00"
-    },
-    {
-      "id": "45f1f6ab520432a4",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "ICPE : une consultation pour accélérer l'enregistrement en cas d'incompatibilité avec le PLU",
-      "resume": "Le ministère de la Transition écologique soumet à consultation publique un projet visant à permettre l'instruction d'une demande d'enregistrement ICPE parallèlement à une procédure d'évolution du document d'urbanisme nécessaire à la réalisa",
-      "url": "https://www.actu-environnement.com/ae/news/icpe-enregistrement-instruction-parallele-urbanisme-48717.php4#xtor=RSS-6",
-      "published_at": "2026-10-23T13:58:53+00:00"
     },
     {
       "id": "45a01aae235e5f9a",
@@ -218,24 +191,6 @@
       "published_at": "2026-10-23T11:31:18+00:00"
     },
     {
-      "id": "892453fab1f7206f",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "LGV Bordeaux-Toulouse : rejet de la demande de suspension d'un arrêté portant autorisation environnementale",
-      "resume": "Par une ordonnance du 14 octobre 2026, le juge des référés du tribunal administratif de Bordeaux a refusé de suspendre l'arrêté du 5 février 2026 délivrant une autorisation environnement pour les investigations préalables à la construction ",
-      "url": "https://www.actu-environnement.com/ae/news/lgv-bordeaux-toulouse-suspension-autorisation-environnementale-48716.php4#xtor=RSS-6",
-      "published_at": "2026-10-23T10:55:11+00:00"
-    },
-    {
-      "id": "d2bc7f1dd3de9a3c",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le monde avance vers un réchauffement planétaire de 2,8 degrés d'ici 2100",
-      "resume": "Les scénarios climatiques du Pnue démontrent une nouvelle fois que le monde n'est pas sur la bonne voie pour respecter l'Accord de Paris. À quelques jours de la COP 31, l'ONU encourage les Etats à sortir des énergies fossiles au profit des ",
-      "url": "https://www.actu-environnement.com/ae/news/emission-gap-report-rechauffement-cop31-pnue-48715.php4#xtor=RSS-6",
-      "published_at": "2026-10-23T10:49:57+00:00"
-    },
-    {
       "id": "61e4a6ea309d81a3",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -252,15 +207,6 @@
       "resume": "Lawmakers in the European Parliament voted 341 to 225 to delay methane monitoring and reporting […]",
       "url": "https://www.esgtoday.com/eu-lawmakers-push-to-delay-methane-emissions-rules-by-3-years/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-push-to-delay-methane-emissions-rules-by-3-years",
       "published_at": "2026-10-23T09:33:34+00:00"
-    },
-    {
-      "id": "4b22f65e9bec9e1c",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Bonus écologique des véhicules électriques : l'arrêté relatif au calcul du score environnemental est publié",
-      "resume": "L'arrêté relatif à la méthodologie de calcul du score environnemental et à la valeur de score minimale à atteindre pour l'éligibilité au bonus écologique pour les voitures particulières neuves électriques est paru au Journal officiel. Cet a",
-      "url": "https://www.actu-environnement.com/ae/news/bonus-ecologique-score-environnemental-vehicules-electriques-48714.php4#xtor=RSS-6",
-      "published_at": "2026-10-23T09:25:35+00:00"
     },
     {
       "id": "94198911b339b424",
@@ -720,6 +666,42 @@
       "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
       "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
       "published_at": "2026-04-03T04:00:30+00:00"
+    },
+    {
+      "id": "6bbee6a77e90f346",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "La FEP dévoile les 26 propositions de son Livre Bleu 2026",
+      "resume": "La Fédération des entreprises de propreté (FEP) publie une nouvelle édition de son Livre Bleu, qui rassemble cette année 26 propositions destinées à répondre aux enjeux économiques et sociaux du secteur. Fruit du travail collectif des chamb",
+      "url": "https://www.federation-proprete.com/la-fep-devoile-les-26-propositions-de-son-livre-bleu-2026/",
+      "published_at": "2026-03-17T13:58:52+00:00"
+    },
+    {
+      "id": "1237b5403c9b7828",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "La FEP félicite Avril McCarthy pour son élection à la présidence de l’EFCI",
+      "resume": "L’EFCI (European Cleaning and Facility Services Industry) est l’instance représentative de la profession à l’échelle européenne. Créée en 1988, l’EFCI est le partenaire social reconnu par la Commission européenne pour le secteur. Elle repré",
+      "url": "https://www.federation-proprete.com/election-efci-avril-mccarthy/",
+      "published_at": "2025-07-10T08:52:23+00:00"
+    },
+    {
+      "id": "56f325f18747b701",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "IMPACT PME : échange avec la Ministre du Travail Astrid PANOSYAN-BOUVET",
+      "resume": "La FEP était présente le mardi 24 juin pour la 6ème édition du Salon Impact PME organisé par la CPME. Cette journée dédiée aux solutions et au réseau des chefs d’entreprises a été l’occasion pour la fédération d’être présente par le biais d",
+      "url": "https://www.federation-proprete.com/impact-pme-echange-ministre-travail/",
+      "published_at": "2025-06-27T09:07:33+00:00"
+    },
+    {
+      "id": "9b7040341beeb4f1",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "Europropre 2025 : une 18ème édition marquée par trois temps forts institutionnels",
+      "resume": "La 18ème édition du Salon Europropre, qui s’est tenue du 25 au 27 mars 2025 Porte de Versailles à Paris, a été l’occasion pour la FEP de convier trois personnalités publiques de premier plan. Mardi matin, après la conférence média au cours ",
+      "url": "https://www.federation-proprete.com/europropre-temps-forts-institutionnels/",
+      "published_at": "2025-04-03T15:12:36+00:00"
     }
   ]
 }
