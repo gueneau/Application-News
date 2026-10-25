@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:14:02.216214+00:00",
+  "generated_at": "2026-10-25T22:42:57.040066+00:00",
   "items": [
     {
       "id": "f18819367af7adcb",
@@ -164,21 +164,21 @@
       "published_at": "2026-10-23T12:20:03+00:00"
     },
     {
-      "id": "41c5bce186baee75",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
-      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-      "published_at": "2026-10-23T12:00:26+00:00"
-    },
-    {
       "id": "44846ef1c227d5ba",
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
       "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
       "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "41c5bce186baee75",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
+      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
       "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
@@ -344,6 +344,15 @@
       "published_at": "2026-10-22T05:00:26+00:00"
     },
     {
+      "id": "159c9ea5eca36204",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique - Les Echos",
+      "resume": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMFJ1RzhIT0NkUUVRWW8tWWJ6Nnl5UVdTMmtkZXVaNjd1eGxDSlc2c2t5TW5JdzdyTXhzZExxa1JyNU1wby1SU093NDFTQ2cwVVN3RUJGVXIwVjdLTFRrc05aRnJoMFJjQW8xNm9kb3JHRmNYWjdCazVTUExhS0llVExoNFk0b0lNVGJWRzhkOUNpeDRTZW1IZHA1VnZ4QzVXVXlxanJyUmdHeXdmeWtlNFlYcDJLbVJCX0w3OFluMERqX21YeEQ1RjluNlQ4SnY2dHhJSExDU2pYaUQxemZaMW9xbmVlRWdGU0p5VHZndy1ZVkYxc29aVDdSLUJtTnNWMG0zMTJuSDViSTBn?oc=5",
+      "published_at": "2026-10-20T15:15:37+00:00"
+    },
+    {
       "id": "eb56a5afc3bb8b5a",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -432,15 +441,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
       "published_at": "2026-10-14T07:27:21+00:00"
-    },
-    {
-      "id": "c29f0bbe22526d31",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année - Les Echos",
-      "resume": "Nucléaire : l'Etat et EDF sous pression pour sécuriser le projet EPR2 avant la fin de l'année Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXlycnNNU2d3RFllbzBWRUtvR1N2RFN6cERNRHo5UTVWd09SM0ZsLXhsQjRoakM4NjF6R0M4S3VUV1J2Ym03UlYxcV8yQ1RRMHZ0YVNXdmxjNllvSzlwaHQ0c3l6VU0tcm51Y3l4VmUzUDZDOU02MktVb1RKVTZmYS1NZjR5bUViUXQ5Y0xwNmplY1pNaHpSdjl1cUdDNm5BUTdBTEs2ZGFsYXEycEtYYXUwcDdkRk9JTWxSaTVZai1CY2tnM2IwcHIxdkVuVlJYa09xVXp1QzBGY0VTT3RZSVdNQURmb3FuTzdmeUYzTnFFVkVN?oc=5",
-      "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
       "id": "e04b87d3611be2d3",
