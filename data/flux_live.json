@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-25T09:58:58.740548+00:00",
+  "generated_at": "2026-10-25T14:10:01.635033+00:00",
   "items": [
+    {
+      "id": "c21cec596451eb8f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempête Boelo : à l’aéroport d’Amsterdam, des dizaines de vols annulés en raison de vents violents",
+      "resume": "L’Agence France-Presse a compté 90 vols annulés sur la page des départs du site de l’aéroport, principalement à destination de villes européennes, dont Paris.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-boelo-a-l-aeroport-d-amsterdam-des-dizaines-de-vols-annules-en-raison-de-vents-violents_6800080_3244.html",
+      "published_at": "2026-10-25T12:24:38+00:00"
+    },
+    {
+      "id": "58ca23f63b634d8a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Tous en sont atteints » : un champignon décime les frênes",
+      "resume": "La chalarose du frêne se propage dans le nord-est de la France et tue des milliers d'arbres. Cette maladie incurable complique aussi le quotidien des agriculteurs et des collectivités qui doivent prévenir la chute des arbres. Châtillon-sur-",
+      "url": "https://reporterre.net/Tous-en-sont-atteints-un-champignon-decime-les-frenes",
+      "published_at": "2026-10-25T12:00:00+00:00"
+    },
+    {
+      "id": "b5acb968aba122a8",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempête Austen : 59 000 foyers étaient encore privés d’électricité dimanche à midi",
+      "resume": "Quelque 2 000 salariés d’Enedis et 600 salariés des entreprises prestataires sont mobilisés. La Bretagne et la Normandie sont les deux régions qui concentrent le plus de clients privés d’électricité.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-austen-59-000-foyers-etaient-encore-prives-d-electricite-dimanche-a-midi_6800077_3244.html",
+      "published_at": "2026-10-25T11:55:55+00:00"
+    },
     {
       "id": "469bc5c6d41b543e",
       "source": "Reporterre",
@@ -83,24 +110,6 @@
       "published_at": "2026-10-24T10:12:07+00:00"
     },
     {
-      "id": "1146d18dbd3275ac",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Prix des carburants : un décret en vue de la libération de stocks stratégiques de gazole publié au « Journal officiel »",
-      "resume": "Les distributeurs auront l’obligation de répercuter intégralement la baisse de prix. Cette répercussion peut avoir lieu par anticipation à compter du 1ᵉʳ novembre, selon le décret. Le gouvernement espère une baisse de 12 à 18 centimes par l",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/24/prix-des-carburants-un-decret-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-publie-au-journal-officiel_6799684_3234.html",
-      "published_at": "2026-10-24T09:20:17+00:00"
-    },
-    {
-      "id": "cf28640b62f0167a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Comment protéger nos enfants des pesticides ?",
-      "resume": "« Chaud devant ». Deux ouvrages – « Pesticides, leurs ravages sur la santé des enfants », de Laurence Huc, et « Pesticides kids », de Sophie Chapelle et Nolwenn Weiler – plongent dans le drame des cancers pédiatriques liés à ces produits ch",
-      "url": "https://www.lemonde.fr/intimites/article/2026/10/24/comment-proteger-nos-enfants-des-pesticides_6799676_6190330.html",
-      "published_at": "2026-10-24T08:00:17+00:00"
-    },
-    {
       "id": "ab73a1f31eeee344",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -117,15 +126,6 @@
       "resume": "En réponse à la mobilisation de la jeunesse, Emmanuel Macron a lancé une consultation citoyenne en ligne. L'expérience des doléances des Gilets jaunes et de la Convention citoyenne pour le climat laisse pourtant les concernés avec une quest",
       "url": "https://reporterre.net/Consultation-lyceenne-cahier-de-doleances-La-vaste-blague-des-reponses-d-Emmanuel-Macron",
       "published_at": "2026-10-24T06:00:00+00:00"
-    },
-    {
-      "id": "4cd6dd507fa2d1f4",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Lacrymogènes : des gaz nocifs bien après les manifs",
-      "resume": "Les dégâts des gaz lacrymogènes massivement utilisés sur les manifestants français ne s'arrêtent pas une fois à l'abri du nuage. Troubles oculaires et respiratoires, menstruations perturbées, douleurs, et même la mort : ils peuvent avoir de",
-      "url": "https://reporterre.net/Lacrymogenes-des-gaz-nocifs-bien-apres-les-manifs",
-      "published_at": "2026-10-24T05:00:00+00:00"
     },
     {
       "id": "921644106773cfc3",
