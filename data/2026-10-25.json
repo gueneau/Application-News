@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "generated_at": "07:09",
-  "elapsed_seconds": 202,
+  "generated_at": "13:09",
+  "elapsed_seconds": 208,
   "errors": [],
   "stats": {
     "jo_analyses": 9,
@@ -9,18 +9,18 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-25T07:09:18",
+    "run_at": "2026-10-25T13:09:19",
     "sources": {
       "JORF": 0,
-      "RSS": 1,
+      "RSS": 2,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 17,
-    "llm_seconds": 28.7
+    "llm_calls": 18,
+    "llm_seconds": 15.4
   },
   "items": [
     {
@@ -32,6 +32,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/25/personne-n-avait-imagine-qu-on-manque-d-eau-a-ce-point-a-pontarlier-la-population-invitee-a-la-sobriete-sous-peine-de-coupures_6800035_3244.html",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "3c6ad07c31cc",
+      "source": "Le Monde Planète",
+      "categorie": "Climat",
+      "titre": "Tempête Austen : 59 000 foyers étaient encore privés d’électricité dimanche à midi",
+      "resume": "La tempête Austen a privé de courant 59 000 foyers en Bretagne et Normandie, mobilisant 2 600 agents et prestataires, illustrant l'impact opérationnel des aléas climatiques sur les infrastructures et la continuité d'activité.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-austen-59-000-foyers-etaient-encore-prives-d-electricite-dimanche-a-midi_6800077_3244.html",
       "date": "2026-10-25"
     }
   ],
