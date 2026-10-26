@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-10-26T15:43:58.632802+00:00",
+  "generated_at": "2026-10-26T18:45:48.606783+00:00",
   "items": [
+    {
+      "id": "3184c61370c3e3ff",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Après les inondations meurtrières de 2018, Trèbes, dans l’Aude, a redonné de l’espace à son fleuve pour se protéger des crues",
+      "resume": "La rive droite de l’Aude a été remodelée, après la catastrophe d’octobre 2018, qui avait fait six morts, pour que l’eau du fleuve puisse dorénavant s’écouler en cas d’inondation. Ces aménagements ont nécessité la démolition de plus de cinqu",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/26/apres-les-inondations-meurtrieres-de-2018-trebes-dans-l-aude-a-redonne-de-l-espace-a-son-fleuve-pour-se-proteger-des-crues_6800823_3244.html",
+      "published_at": "2026-10-26T17:30:08+00:00"
+    },
+    {
+      "id": "97eaf89db25dadce",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Datamaran Launches Tool to Help Companies Identify Regulatory Obligations",
+      "resume": "ESG-focused software analytics platform provider Datamaran announced today the launch of Applicability Assessment, a new […]",
+      "url": "https://www.esgtoday.com/datamaran-launches-tool-to-help-companies-identify-regulatory-obligations/?utm_source=rss&utm_medium=rss&utm_campaign=datamaran-launches-tool-to-help-companies-identify-regulatory-obligations",
+      "published_at": "2026-10-26T17:10:54+00:00"
+    },
+    {
+      "id": "33921f5fabb52390",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Ze Energy dégage de nouveaux moyens, se projette vers 2030",
+      "resume": "Le spécialiste du solaire avec stockage cède 49% d’une centrale hybride dans les Landes à trois caisses régionales du Crédit Agricole et Terra Energies, fonds de la région Nouvelle Aquitaine. La centrale L’article Ze Energy dégage de nouvea",
+      "url": "https://www.greenunivers.com/2026/10/ze-energy-degage-de-nouveaux-moyens-se-projette-vers-2030-436900/",
+      "published_at": "2026-10-26T17:03:50+00:00"
+    },
+    {
+      "id": "a451d38f27b9692b",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "La Commission européenne prépare une nouvelle stratégie hydrogène",
+      "resume": "La Commission européenne veut revoir le cadre de développement de la filière hydrogène. Elle a lancé ce 26 octobre une consultation de 4 semaines pour recueillir les avis des parties prenantes dans la perspective d’une L’article La Commissi",
+      "url": "https://www.greenunivers.com/2026/10/la-commission-europeenne-prepare-une-nouvelle-strategie-hydrogene-436883/",
+      "published_at": "2026-10-26T17:01:39+00:00"
+    },
+    {
+      "id": "5ec5bd7dd87c2cd7",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Stockage : l’allemand Sonnen en faillite",
+      "resume": "Probable fin de partie pour Sonnen, le spécialiste allemand du stockage résidentiel. L’entreprise a déposé un dossier d’insolvabilité la semaine dernière. Elle a été vendue cet été à l’investisseur Tiven qui indiquait vouloir la restructure",
+      "url": "https://www.greenunivers.com/2026/10/stockage-lallemand-sonnen-en-faillite-436908/",
+      "published_at": "2026-10-26T17:00:49+00:00"
+    },
+    {
+      "id": "ce7d54ec567dd5f3",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Google abat 400 000 arbres illégalement en Finlande pour des data centers",
+      "resume": "Des forêts décimées par l'appétit d'un géant de l' IA . Google a abattu environ 250 000 arbres sur 330 hectares à Muhos, dans le nord de la Finlande, pour y construire un data center (centre de données), sans avoir réalisé les études d'impa",
+      "url": "https://reporterre.net/Google-abat-400-000-arbres-illegalement-en-Finlande-pour-des-data-centers",
+      "published_at": "2026-10-26T16:23:51+00:00"
+    },
+    {
+      "id": "fe13e67f7b41539c",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Véhicules hors d'usage : Valorauto veut étendre son activité en Europe",
+      "resume": "Valorauto annonce vouloir s'attaquer au marché européen de la valorisation des véhicules hors d'usage (VHU). La coentreprise créée en novembre 2023 par le groupe automobile Stellantis et le spécialiste du recyclage des métaux Galloo veut du",
+      "url": "https://www.actu-environnement.com/ae/news/vehicules-hors-usage-valorauto-veut-etendre-en-europe-48726.php4#xtor=RSS-6",
+      "published_at": "2026-10-26T16:14:18+00:00"
+    },
+    {
+      "id": "4fe88717c4c345c7",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Zones marines protégées : la Cour des comptes européenne pointe une protection insuffisante",
+      "resume": "La Cour des comptes européenne estime que les zones marines protégées ne bénéficient pas d'une protection pleinement effective. Elle formule plusieurs recommandations pour améliorer la protection de ces zones.",
+      "url": "https://www.actu-environnement.com/ae/news/zones-marines-protegees-cour-comptes-europeenne-48724.php4#xtor=RSS-6",
+      "published_at": "2026-10-26T16:01:00+00:00"
+    },
+    {
+      "id": "9ebe101dda935694",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "12 ans après la mort de Rémi Fraisse, la brutalité de l'État s'est généralisée",
+      "resume": "Il y a douze ans, un gendarme tuait Rémi Fraisse à Sivens. Elsa Souchay, qui couvrait cette lutte pour Reporterre, se souvient du tournant qu'a été cette mort. Et pourtant, la brutalité du maintien de l'ordre français n'a cessé de s'étendre",
+      "url": "https://reporterre.net/12-ans-apres-la-mort-de-Remi-Fraisse-la-brutalite-de-l-Etat-s-est-generalisee",
+      "published_at": "2026-10-26T15:44:27+00:00"
+    },
     {
       "id": "339016de04f328c6",
       "source": "Reporterre",
@@ -164,24 +245,6 @@
       "published_at": "2026-10-26T11:14:44+00:00"
     },
     {
-      "id": "e66658c82db15f16",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Un décret permet de reconnaître la RIIPM au stade de la déclaration d'utilité publique",
-      "resume": "Donner la possibilité de reconnaître le caractère de projet répondant à une raison impérative d'intérêt public majeur (RIIPM), l'une des trois conditions nécessaires pour obtenir une dérogation à l'interdiction de destruction des espèces pr",
-      "url": "https://www.actu-environnement.com/ae/news/decret-riipm-declaration-utilite-publique-especes-protegees-48720.php4#xtor=RSS-6",
-      "published_at": "2026-10-26T11:11:55+00:00"
-    },
-    {
-      "id": "0695572dafd94d35",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Un groupe agroalimentaire soupçonné d'avoir pollué les captages d'eau potable dans les Deux-Sèvres",
-      "resume": "Des rejets d'eau souillée dans un environnement sensible aux pollutions. L'État reproche au groupe agroalimentaire Terrena et à sa filiale Ovalis d'avoir déversé des eaux salies de fientes de volailles et de grains de chaux, mal nettoyés, d",
-      "url": "https://reporterre.net/Un-groupe-agroalimentaire-soupconne-d-avoir-pollue-les-captages-d-eau-potable-dans-les-Deux-Sevres",
-      "published_at": "2026-10-26T11:08:52+00:00"
-    },
-    {
       "id": "5900e64c607e44d4",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -207,15 +270,6 @@
       "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Investir Les E",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
       "published_at": "2026-10-26T08:14:40+00:00"
-    },
-    {
-      "id": "3a53a6fea0886a52",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les street medics face à une répression « de plus en plus féroce »",
-      "resume": "Face à une répression grandissante, les street medics sont plus que jamais nécessaires dans les manifestations. À Toulouse, les Pink Medics étaient présents le 24 octobre parmi les 80 000 manifestants contre la vie chère. Ils ont aidé de no",
-      "url": "https://reporterre.net/Les-street-medics-face-a-une-repression-de-plus-en-plus-feroce",
-      "published_at": "2026-10-26T08:12:34+00:00"
     },
     {
       "id": "465f3130800d2d83",
@@ -263,24 +317,6 @@
       "published_at": "2026-10-25T12:24:38+00:00"
     },
     {
-      "id": "b5acb968aba122a8",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Austen : 40 000 foyers étaient encore privés d’électricité dimanche à 18 heures",
-      "resume": "Quelque 2 000 salariés d’Enedis et 600 salariés de ses entreprises prestataires sont mobilisés. La Bretagne et la Normandie sont les deux régions qui concentrent le plus de clients privés d’électricité.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-austen-59-000-foyers-etaient-encore-prives-d-electricite-dimanche-a-midi_6800077_3244.html",
-      "published_at": "2026-10-25T11:55:55+00:00"
-    },
-    {
-      "id": "816ef2d454a2074c",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "ESG Today: Week in Review",
-      "resume": "This week in ESG news: ISSB releases proposed nature-related corporate reporting requirements; Coca-Cola, Nestlé, Danone […]",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-280/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-280",
-      "published_at": "2026-10-25T08:16:49+00:00"
-    },
-    {
       "id": "d21acb34bd8c0322",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -297,15 +333,6 @@
       "resume": "Article complété le 26/10/2026 – Enquête – Que s’est-il passé lors de l’appel d’offres qui a attribué, il y a deux semaines, un soutien financier public de 61,33€/MWh en moyenne à 125 centrales photovoltaïques au sol représentant 931 MW de ",
       "url": "https://www.greenunivers.com/2026/10/appel-doffres-solaire-au-sol-edf-a-t-il-casse-les-prix-436738/",
       "published_at": "2026-10-23T15:39:18+00:00"
-    },
-    {
-      "id": "c34beca585c1ca48",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Peu de chances de voir des projets éoliens à l’appel d’offres « neutre »",
-      "resume": "L’appel d’offres « technologiquement neutre » clos le 16 octobre dernier semble destiné encore une fois à voir les projets solaires remporter la plupart du volume. Différents développeurs L’article Peu de chances de voir des projets éoliens",
-      "url": "https://www.greenunivers.com/2026/10/peu-de-chances-de-voir-des-projets-eoliens-a-lappel-doffres-neutre-436737/",
-      "published_at": "2026-10-23T15:31:37+00:00"
     },
     {
       "id": "41c5bce186baee75",
@@ -326,15 +353,6 @@
       "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
-      "id": "3673e0bdeca81738",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Osborn Metals, un cas d’école de la décarbonation par l’électrification [3/4]",
-      "resume": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d’énergies renouvelables peuvent s’organiser pour pro",
-      "url": "https://www.greenunivers.com/2026/10/osborn-metals-un-cas-decole-de-la-decarbonation-par-lelectrification-3-436433/",
-      "published_at": "2026-10-23T12:00:12+00:00"
-    },
-    {
       "id": "75827827b0df19f8",
       "source": "Novethic",
       "categorie": "Presse",
@@ -342,15 +360,6 @@
       "resume": "Manifestation devant le siège de Meta à São Paulo, au Brésil, le 19 octobre 2026. Crédits photo : Allison Sales / Nurphoto via AFP Les partis et les candidats brésiliens à la présidentielle n’ont jamais autant dépensé chez Meta. D’après un ",
       "url": "https://www.novethic.fr/economie-et-social/droits-humains/meta-linvite-encombrant-de-la-presidentielle-bresilienne",
       "published_at": "2026-10-23T11:45:19+00:00"
-    },
-    {
-      "id": "963b2542dcfca748",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Les documents de la semaine",
-      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
-      "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
-      "published_at": "2026-10-23T11:31:18+00:00"
     },
     {
       "id": "93decf4d397bd214",
@@ -711,15 +720,6 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
-    },
-    {
-      "id": "4e3191d2bda8de04",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Lancement du projet Prospective Europe",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
-      "published_at": "2026-07-01T15:48:52+00:00"
     }
   ]
 }
