@@ -1,6 +1,132 @@
 {
-  "generated_at": "2026-10-26T12:02:32.425876+00:00",
+  "generated_at": "2026-10-26T15:43:58.632802+00:00",
   "items": [
+    {
+      "id": "339016de04f328c6",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "En Serbie, le mouvement étudiant déloge le nationaliste Aleksandar Vučić",
+      "resume": "Ils n'avaient pas le soutien des médias, ni de tête d'affiche et essentiellement des candidats issus de la société civile. Pourtant, dimanche 25 octobre, la Liste étudiante a remporté largement les élections législatives anticipées en Serbi",
+      "url": "https://reporterre.net/En-Serbie-le-mouvement-etudiant-deloge-le-nationaliste-Aleksandar-Vucic",
+      "published_at": "2026-10-26T15:42:31+00:00"
+    },
+    {
+      "id": "31288ba24a96875e",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Décarbonation industrielle : producteurs, agrégateurs ou acteurs intégrés, qui emportera la mise ? [4/4]",
+      "resume": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Pour le dernier volet, focus sur les nouvelles organisations orientées client",
+      "url": "https://www.greenunivers.com/2026/10/decarbonation-industrielle-producteurs-agregateurs-ou-acteurs-integres-qui-emportera-la-mise-4-4-436829/",
+      "published_at": "2026-10-26T15:40:35+00:00"
+    },
+    {
+      "id": "282bd8058047dc28",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les prix de l’électricité traduisent un conflit iranien qui s’envenime [Marchés]",
+      "resume": "A l’ouverture ce matin, le prix de l’électricité pour 2027 (Cal27) émargeait à 121 €/MWh, en hausse de 10 % depuis lundi dernier et de 30 % depuis le début du mois. C’est tout aussi net pour le prix du premier trimestre de l’année prochaine",
+      "url": "https://www.greenunivers.com/2026/10/les-prix-de-lelectricite-traduisent-un-conflit-iranien-qui-senvenime-marches-436871/",
+      "published_at": "2026-10-26T15:27:58+00:00"
+    },
+    {
+      "id": "791826a0c5b6824f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Pêche : vers une interdiction des navires de plus de 25 mètres dans la bande côtière en Manche-Est",
+      "resume": "Catherine Chabaud, ministre déléguée chargée de la Mer et de la Pêche, a annoncé le 23 octobre le lancement d'une consultation européenne visant à exclure les navires de plus de 25 mètres de long de la bande côtière (12 milles) française en",
+      "url": "https://www.actu-environnement.com/ae/news/peche-manche-est-interdiction-navires-bande-cotiere-48725.php4#xtor=RSS-6",
+      "published_at": "2026-10-26T15:21:46+00:00"
+    },
+    {
+      "id": "ebd726c58d84baf6",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Epoch Raises $4.25 Million to Help SMEs Comply with EUDR Supply Chain Deforestation Regulation",
+      "resume": "Supply chain intelligence platform Epoch announced today that it has raised $4.25 million in a […]",
+      "url": "https://www.esgtoday.com/epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation",
+      "published_at": "2026-10-26T15:20:45+00:00"
+    },
+    {
+      "id": "af0aac81f2cacbde",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La mer des batailles : comment défendre le vivant qu'on ne voit pas",
+      "resume": "Longtemps méconnu, l'océan est devenu un objet de convoitise industrielle. Des poissons aux minerais, ses ressources s'arrachent. En compagnie de Claire Nouvian et Guillaume Pitron, Terrestres et Reporterre organisent une soirée, le 5 novem",
+      "url": "https://reporterre.net/La-mer-des-batailles-comment-defendre-le-vivant-qu-on-ne-voit-pas",
+      "published_at": "2026-10-26T15:15:16+00:00"
+    },
+    {
+      "id": "5d105cce9e8e3928",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Lufthansa Renames Green Fares to Align with Anti-greenwashing Regulation",
+      "resume": "Lufthansa Group announced that it is renaming its Green Fare, its offering enabling passengers to […]",
+      "url": "https://www.esgtoday.com/lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation",
+      "published_at": "2026-10-26T14:53:27+00:00"
+    },
+    {
+      "id": "45cb9c2fccc2f138",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Recyclage chimique : Aliapur et Infiniteria étudient la construction d'usines de pyrolyse des pneus en France",
+      "resume": "Un nouvel engagement en faveur du recyclage chimique vient d'être signé. Cette fois-ci, c'est l'éco-organisme Aliapur qui propose d'approvisionner en pneus usagés deux usines de pyrolyse qu'Infiniteria Europe envisage de construire en Franc",
+      "url": "https://www.actu-environnement.com/ae/news/recyclage-chimique-accord-aliapur-infiniteria-pyrolyse-pneus-48723.php4#xtor=RSS-6",
+      "published_at": "2026-10-26T14:50:20+00:00"
+    },
+    {
+      "id": "9e99c9ca05972f94",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "En Californie, une « taxe Zucman » fait trembler les milliardaires de la Silicon Valley",
+      "resume": "Alors que les élections de mi-mandat du 3 novembre approchent, un impôt sur les milliardaires agite la Californie. Cette « taxe Zucman » version U.S. doit permettre de refinancer le système de santé, fragilisé par les coupes budgétaires de ",
+      "url": "https://reporterre.net/En-Californie-une-taxe-Zucman-fait-trembler-les-milliardaires-de-la-Silicon-Valley",
+      "published_at": "2026-10-26T14:00:08+00:00"
+    },
+    {
+      "id": "58831f05f0c3c3a5",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Le patron d’Audi dans la tourmente après avoir participé à un meeting de Donald Trump",
+      "resume": "Le président américain Donald Trump salue Gernot Dollner, PDG d'Audi AG, lors d'un rassemblement de campagne pour les élections de mi-mandat au Guardian Centers of Georgia à Perry, en Géorgie, le 24 octobre 2026. BRENDAN SMIALOWSKI / AFP Le",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/le-patron-daudi-dans-la-tourmente-apres-avoir-participe-a-un-meeting-de-donald-trump",
+      "published_at": "2026-10-26T13:58:03+00:00"
+    },
+    {
+      "id": "6957988cd3efa897",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Pétrole : Moeve et Galp renoncent à former un champion ibérique - Les Echos",
+      "resume": "Pétrole : Moeve et Galp renoncent à former un champion ibérique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDdlRWw4NTZ1MFNmVVk3UzBSbzE3bDdpQ1dhYlVyb01BT3NDMTR3YTRZdzdRSzZsSUxaUzZoMFQtNHNyV3U0Si02U3FyeVVqV0RXdmlzbFd1eE5IOWdndERpTy1lbU5oR3BmSXYzYURrVlVMRTVVaFVnb1B6bmw5dVRSTk1LVXlvVDh4cnFiTWJTTXBGSEFzVlN4VFVQcktHZjRCWDEtc1BOUUJFam85djUxT0RnSjg2NWRTRElYS3BRb04ydjRZMS05cXNkaWc?oc=5",
+      "published_at": "2026-10-26T13:55:02+00:00"
+    },
+    {
+      "id": "79d40f9f59b1c780",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Investors Urge ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "resume": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced […]",
+      "url": "https://www.esgtoday.com/investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "published_at": "2026-10-26T13:36:16+00:00"
+    },
+    {
+      "id": "5222886e934f458a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Régime forestier : le Sénat adopte la proposition de loi sur la contribution des communes à l'ONF",
+      "resume": "La Chambre haute a adopté le 22 octobre en première lecture la proposition de loi d'Anne-Catherine Loisier relative aux modalités de recouvrement de la contribution aux frais de garderie et de la contribution additionnelle de deux euros par",
+      "url": "https://www.actu-environnement.com/ae/news/contributions-communes-onf-regime-forestier-senat-48722.php4#xtor=RSS-6",
+      "published_at": "2026-10-26T13:36:12+00:00"
+    },
+    {
+      "id": "ef3a7663389351a6",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws critcism",
+      "resume": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from n",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+      "published_at": "2026-10-26T12:00:41+00:00"
+    },
     {
       "id": "fa54d80100acd69a",
       "source": "Actu-Environnement",
@@ -27,15 +153,6 @@
       "resume": "Deux ans de prison avec sursis et 750 000 euros d'amende. Telle est la peine — le maximum prévu par la loi — infligée à Olivier Bouygues par le tribunal correctionnel d'Orléans, le 23 octobre, pour « destruction d'espèces protégées en bande",
       "url": "https://reporterre.net/Chasses-interdites-Olivier-Bouygues-condamne-a-deux-ans-de-prison-avec-sursis",
       "published_at": "2026-10-26T11:34:02+00:00"
-    },
-    {
-      "id": "bf38b10c64f0a722",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Investir Les Echos",
-      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Investir Les E",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
-      "published_at": "2026-10-26T11:25:48+00:00"
     },
     {
       "id": "957158d3b9348aa3",
@@ -83,6 +200,15 @@
       "published_at": "2026-10-26T09:00:08+00:00"
     },
     {
+      "id": "bf38b10c64f0a722",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Investir Les Echos",
+      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Investir Les E",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
+      "published_at": "2026-10-26T08:14:40+00:00"
+    },
+    {
       "id": "3a53a6fea0886a52",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -90,24 +216,6 @@
       "resume": "Face à une répression grandissante, les street medics sont plus que jamais nécessaires dans les manifestations. À Toulouse, les Pink Medics étaient présents le 24 octobre parmi les 80 000 manifestants contre la vie chère. Ils ont aidé de no",
       "url": "https://reporterre.net/Les-street-medics-face-a-une-repression-de-plus-en-plus-feroce",
       "published_at": "2026-10-26T08:12:34+00:00"
-    },
-    {
-      "id": "1c84ad0c7acb42a5",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Lula remporte la présidentielle au Brésil, « immense soulagement » pour les défenseurs de l'environnement",
-      "resume": "Contrariant les sondages, le président Lula a remporté le 25 octobre la présidentielle au Brésil, face au candidat d'extrême droite Flávio Bolsonaro. Un « immense soulagement » pour les défenseurs de l'environnement. Brasilia (Brésil), corr",
-      "url": "https://reporterre.net/Lula-remporte-la-presidentielle-au-Bresil-immense-soulagement-pour-les-defenseurs-de-l-environnement",
-      "published_at": "2026-10-26T07:49:08+00:00"
-    },
-    {
-      "id": "c99a7cb924c80c07",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le changement climatique efface les glaciers de nos cartes de randonnée",
-      "resume": "Avec le réchauffement climatique, les glaciers fondent et certains disparaissent. De quoi obliger l' IGN à mettre à jour ses célèbres cartes pour acter la disparition du glacier. Digne-les-Bains (Alpes-de-Haute-Provence), correspondance Au ",
-      "url": "https://reporterre.net/Pourquoi-des-glaciers-disparaissent-de-nos-cartes-de-randonnee",
-      "published_at": "2026-10-26T07:27:37+00:00"
     },
     {
       "id": "465f3130800d2d83",
@@ -125,7 +233,7 @@
       "titre": "Sécheresse : la gestion de l’eau en France achoppe sur un manque de connaissances, notamment des prélèvements agricoles",
       "resume": "Le déficit en eau se fait toujours sentir. Pour les gestionnaires, la situation est d’autant plus difficile à piloter que les données précises manquent et qu’une partie du monde agricole reste réticente à la transparence.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/26/secheresse-la-gestion-de-l-eau-en-france-achoppe-sur-un-manque-de-connaissances-notamment-des-prelevements-agricoles_6800422_3244.html",
-      "published_at": "2026-10-26T04:30:06+00:00"
+      "published_at": "2026-10-26T04:30:03+00:00"
     },
     {
       "id": "f18819367af7adcb",
@@ -153,15 +261,6 @@
       "resume": "Des vents violents et de fortes pluies ont entraîné des perturbations dans les transports et des annulations de vols en Irlande et aux Pays-Bas. Une alerte inondation est en vigueur en Ecosse.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-boelo-a-l-aeroport-d-amsterdam-des-dizaines-de-vols-annules-en-raison-de-vents-violents_6800080_3244.html",
       "published_at": "2026-10-25T12:24:38+00:00"
-    },
-    {
-      "id": "58ca23f63b634d8a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Tous en sont atteints » : un champignon décime les frênes",
-      "resume": "La chalarose du frêne se propage dans le nord-est de la France et tue des milliers d'arbres. Cette maladie incurable complique aussi le quotidien des agriculteurs et des collectivités qui doivent prévenir la chute des arbres. Châtillon-sur-",
-      "url": "https://reporterre.net/Tous-en-sont-atteints-un-champignon-decime-les-frenes",
-      "published_at": "2026-10-25T12:00:00+00:00"
     },
     {
       "id": "b5acb968aba122a8",
@@ -209,15 +308,6 @@
       "published_at": "2026-10-23T15:31:37+00:00"
     },
     {
-      "id": "45a01aae235e5f9a",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Cambridge Heavy Industries Raises $6.2 Million to Build Mini Fusion Reactors",
-      "resume": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and […]",
-      "url": "https://www.esgtoday.com/cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors",
-      "published_at": "2026-10-23T12:20:03+00:00"
-    },
-    {
       "id": "41c5bce186baee75",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -239,7 +329,7 @@
       "id": "3673e0bdeca81738",
       "source": "GreenUnivers",
       "categorie": "Climat",
-      "titre": "Osborn Metals, un cas d’école de la décarbonation par l’électrification [3]",
+      "titre": "Osborn Metals, un cas d’école de la décarbonation par l’électrification [3/4]",
       "resume": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d’énergies renouvelables peuvent s’organiser pour pro",
       "url": "https://www.greenunivers.com/2026/10/osborn-metals-un-cas-decole-de-la-decarbonation-par-lelectrification-3-436433/",
       "published_at": "2026-10-23T12:00:12+00:00"
@@ -261,33 +351,6 @@
       "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
       "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
       "published_at": "2026-10-23T11:31:18+00:00"
-    },
-    {
-      "id": "61e4a6ea309d81a3",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "LRQA Acquires Supply Chain Monitoring and Responsible Sourcing Platform Omega Compliance",
-      "resume": "Goldman Sachs-backed risk management solutions provider LRQA announced the acquisition of supply chain monitoring and […]",
-      "url": "https://www.esgtoday.com/lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance",
-      "published_at": "2026-10-23T10:22:07+00:00"
-    },
-    {
-      "id": "98b2d3b2a0836a7f",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EU Lawmakers Push to Delay Methane Emissions Rules by 3 Years",
-      "resume": "Lawmakers in the European Parliament voted 341 to 225 to delay methane monitoring and reporting […]",
-      "url": "https://www.esgtoday.com/eu-lawmakers-push-to-delay-methane-emissions-rules-by-3-years/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-push-to-delay-methane-emissions-rules-by-3-years",
-      "published_at": "2026-10-23T09:33:34+00:00"
-    },
-    {
-      "id": "94198911b339b424",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’agenda de la transition énergétique",
-      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
-      "url": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-281-431464/",
-      "published_at": "2026-10-23T09:00:00+00:00"
     },
     {
       "id": "93decf4d397bd214",
@@ -317,13 +380,13 @@
       "published_at": "2026-10-23T08:00:32+00:00"
     },
     {
-      "id": "69ed5774a320c36e",
+      "id": "ed18c9df844c66a3",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Trump sonne une nouvelle charge contre les éoliennes… mais reporte d'éventuelles sanctions - Les Echos",
-      "resume": "Trump sonne une nouvelle charge contre les éoliennes… mais reporte d'éventuelles sanctions Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOVd3X19oalQ5M3IwN0diMVNwYlJObENSS09TUGVQeDhwMEgtTHlDOXhROFo1aE9scGlNTnVPZjZQVmxOa2xiMXI0SW14VlJ2bXFqMDJWaC1QSXpOWUNGbWRYVGVXakZjT251NExQbTVNVHo0NHA4Ukd1Q01LSVkzbVJqMkhGWXZINEU3M1BEZnZQYVA5ZjNJRW96MzFlLXJyOG81RG1lNkFlVHJlSjRaZm1xRkZMdjUyYVRzc0NRZk90TGdzVVdQQXkyYzhHTXNSRk5UVEcyR2lrVDF1UHNBbDgxYUNVSkdIeDFzS0hrZ2FmSkk?oc=5",
-      "published_at": "2026-10-23T06:16:42+00:00"
+      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
+      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
+      "published_at": "2026-10-23T07:40:17+00:00"
     },
     {
       "id": "2a8d9377aa1b3596",
@@ -353,15 +416,6 @@
       "published_at": "2026-10-22T23:15:40+00:00"
     },
     {
-      "id": "a6a30d31d21f46ff",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Urbasolar boucle une importante cession",
-      "resume": "Après avoir vendu cet été à Corsica Sole sept centrales solaires et batteries à La Réunion, Urbasolar passe à la vitesse supérieure en cédant 25 sites photovoltaïques en service pour une puissance de 87 MWc. Réparties dans l’Hexagone, ces 1",
-      "url": "https://www.greenunivers.com/2026/10/urbasolar-boucle-une-importante-cession-436627/",
-      "published_at": "2026-10-22T15:50:23+00:00"
-    },
-    {
       "id": "a9b02dc6df0c829f",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -369,15 +423,6 @@
       "resume": "« Une reconversion exige des sacrifices, mais cela en vaut la peine » : du BEP au bac + 5, la réorientation pas comme les autres d'une pâtissière vers la QSE Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWWhUOTJJc2xUT1ZGdHFPYU91c01VaEZHeWE3N2FGTEZlQk1ZdnoyTHpzYnFIZG5CVXVqdHlOZDg3Zkljc3FoNmo4OHFRdmF1SlJmSUU1eHpncmd2YVpLVnRNUmhseEUyZXFjbFhuZnVLcXZXTkdBZHJjcW1JODlJUHc5VmJybURlcGVmbzhyczc1YzlxLW9HWWpxclBxSXAxaDRhOWgwU3ktVDdPdmllRjUzVXRNVlN0LUllbnZfQkEwXzFONUg0STI5ekhQT2hhX2F3SV8wbTVpY3M4eGk4ejQyaWsycE5PVnN0SEV0MkpFQlRGakx5UmVmLU82R1JDRzFCUHRTTGkyQzBfUUF5TUxueXNqTEpiY096SEkxYkdRNzlVS3hBN2dTaXFqS0xwV1BqdG1CVTh0WEg5ZXRvY01MdHZKTDhob0RjMDVuTW5mQQ?oc=5",
       "published_at": "2026-10-22T12:38:21+00:00"
-    },
-    {
-      "id": "4a780ab2558587d0",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "America gets new national park with designation of Chiricahua’s rock spires",
-      "resume": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support An area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has b",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
-      "published_at": "2026-10-22T12:08:40+00:00"
     },
     {
       "id": "c642ce7cc0c4c34e",
@@ -405,15 +450,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
       "published_at": "2026-10-22T05:00:26+00:00"
-    },
-    {
-      "id": "4f8fe60594f76b18",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "LVMH, Zara, Uniqlo... : les géants de la mode en retard sur le salaire décent",
-      "resume": "Les ouvriers textile toujours sous payés @PAOLO MANZO NurPhoto / NurPhoto via AFP Les grandes marques de mode ne versent toujours pas un salaire décent à leurs travailleurs. C’est le constat de la septième édition du Fashion Checker, l’outi",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/entreprises-mode-retard-salaires-decents-ouvriers",
-      "published_at": "2026-10-22T04:45:39+00:00"
     },
     {
       "id": "eb56a5afc3bb8b5a",
@@ -684,42 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
     }
   ]
 }
