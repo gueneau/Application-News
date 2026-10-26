@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-26T00:55:21.685768+00:00",
+  "generated_at": "2026-10-26T05:40:43.903306+00:00",
   "items": [
+    {
+      "id": "465f3130800d2d83",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Ici, on a les mains dans la terre, on respire l’air frais » : récolter ses fruits, légumes et fleurs, une pratique en plein essor en France",
+      "resume": "Prix justes, produits bio, convivialité et retour à la terre… Quelques centaines d’exploitations proposent l’autocueillette à des clients. Une aubaine pour tous.",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/10/26/ici-on-a-les-mains-dans-la-terre-on-respire-l-air-frais-recolter-ses-fruits-legumes-et-fleurs-une-pratique-en-plein-essor-en-france_6800425_4497916.html",
+      "published_at": "2026-10-26T04:30:17+00:00"
+    },
+    {
+      "id": "90099da49cc8bb80",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Sécheresse : la gestion de l’eau en France achoppe sur un manque de connaissances, notamment des prélèvements agricoles",
+      "resume": "Le déficit en eau se fait toujours sentir. Pour les gestionnaires, la situation est d’autant plus difficile à piloter que les données précises manquent et qu’une partie du monde agricole reste réticente à la transparence.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/26/secheresse-la-gestion-de-l-eau-en-france-achoppe-sur-un-manque-de-connaissances-notamment-des-prelevements-agricoles_6800422_3244.html",
+      "published_at": "2026-10-26T04:30:06+00:00"
+    },
     {
       "id": "f18819367af7adcb",
       "source": "The Guardian Environment",
@@ -74,15 +92,6 @@
       "published_at": "2026-10-25T04:30:28+00:00"
     },
     {
-      "id": "e30a08a19071a773",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Personne n’avait imaginé qu’on manque d’eau à ce point » : à Pontarlier, la population invitée à la sobriété sous peine de coupures",
-      "resume": "La capitale du Haut-Doubs, 18 000 habitants, fait face à des difficultés d’approvisionnement « inédites », qui contraignent les autorités à envisager le scénario catastrophe d’une coupure généralisée de l’eau du robinet.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/25/personne-n-avait-imagine-qu-on-manque-d-eau-a-ce-point-a-pontarlier-la-population-invitee-a-la-sobriete-sous-peine-de-coupures_6800035_3244.html",
-      "published_at": "2026-10-25T04:30:23+00:00"
-    },
-    {
       "id": "dabc9e8009a45619",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -99,15 +108,6 @@
       "resume": "Une manifestation réunissant entre 13 000, selon la préfecture, et 26 000 personnes, selon les organisateurs, a eu lieu à Orléans, qui accueille le congrès du Rassemblement national. La ville a été mise sous cloche. Le temps d'une journée, ",
       "url": "https://reporterre.net/PHOTOS-Congres-du-RN-a-Orleans-26-000-personnes-manifestent-contre-le-racisme-le-fascisme",
       "published_at": "2026-10-24T17:33:04+00:00"
-    },
-    {
-      "id": "a814fe3f750de47f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Passage à l’heure d’hiver : pourquoi le changement d’heure est si critiqué",
-      "resume": "La France passe à l’heure d’hiver dans la nuit de samedi à dimanche : à 3 heures, il sera 2 heures. La mesure a été réintroduite en 1975, à l’époque pour limiter la consommation d’énergie en plein choc pétrolier.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/24/passage-a-l-heure-d-hiver-pourquoi-le-changement-d-heure-est-si-critique_5348679_4355771.html",
-      "published_at": "2026-10-24T15:18:22+00:00"
     },
     {
       "id": "d21acb34bd8c0322",
