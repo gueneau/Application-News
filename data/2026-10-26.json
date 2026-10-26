@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
-  "generated_at": "07:10",
-  "elapsed_seconds": 263,
+  "generated_at": "13:15",
+  "elapsed_seconds": 604,
   "errors": [],
   "stats": {
     "jo_analyses": 9,
@@ -9,20 +9,42 @@
     "depts_restriction": 90
   },
   "pipeline_meta": {
-    "run_at": "2026-10-26T07:10:22",
+    "run_at": "2026-10-26T13:15:53",
     "sources": {
       "JORF": 0,
-      "RSS": 1,
+      "RSS": 5,
       "VigiEau": 90,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 23,
-    "llm_seconds": 17.1
+    "llm_calls": 36,
+    "llm_seconds": 319.6
   },
   "items": [
+    {
+      "id": "0b73e9ba817a",
+      "source": "EFRAG",
+      "categorie": "Environnement",
+      "titre": "EFRAG Publishes the Summary Report of the ‘From VSME to the Voluntary Standard’ Event",
+      "resume": "L'EFRAG présente les conclusions sur le développement d'un standard volontaire de reporting de durabilité pour les PME (VSME), visant à simplifier la collecte de données extra-financières.",
+      "pourquoi": "L'article traite de l'évolution des normes de reporting (CSRD/ESRS) et de la simplification pour les PME, ce qui est un enjeu direct pour ABC dans le cadre de ses obligations de reporting et de la remontée de données de ses sous-traitants ou de ses propres indicateurs.",
+      "criticite": 2,
+      "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-publishes-the-summary-report-of-the-from-vsme-to-the-voluntary-standard-event",
+      "date": "2026-10-26"
+    },
+    {
+      "id": "cac1b652b4cc",
+      "source": "ESG Today",
+      "categorie": "Environnement",
+      "titre": "GHG Protocol to Push Back Stricter Scope 2 Reporting Rules After Corporate Objections",
+      "resume": "Le GHG Protocol reporte l’application de règles plus strictes de reporting des émissions Scope 2, ce qui modifie la façon dont les entreprises, y compris ABC et ses clients, devront mesurer et déclarer les émissions liées à l’électricité achetée.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.esgtoday.com/ghg-protocol-to-push-back-stricter-scope-2-reporting-rules-after-corporate-objections/?utm_source=rss&utm_medium=rss&utm_campaign=ghg-protocol-to-push-back-stricter-scope-2-reporting-rules-after-corporate-objections",
+      "date": "2026-10-26"
+    },
     {
       "id": "544c3c31db90",
       "source": "Le Monde Planète",
@@ -33,14 +55,31 @@
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/25/personne-n-avait-imagine-qu-on-manque-d-eau-a-ce-point-a-pontarlier-la-population-invitee-a-la-sobriete-sous-peine-de-coupures_6800035_3244.html",
       "date": "2026-10-25"
+    },
+    {
+      "id": "b982934040aa",
+      "source": "Le Monde Planète",
+      "categorie": "Climat",
+      "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 72 000 foyers sans électricité dans l’Ouest et le Nord",
+      "resume": "Storm Austen caused power outages affecting 72 000 households, illustrating the operational risk of climate‑induced power disruptions for client sites.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
+      "date": "2026-10-24"
+    },
+    {
+      "id": "897d7f420dfb",
+      "source": "Le Monde Planète",
+      "categorie": "Environnement",
+      "titre": "Prix des carburants : un décret en vue de la libération de stocks stratégiques de gazole publié au « Journal officiel »",
+      "resume": "Décret visant à libérer les stocks stratégiques de gazole, entraînant une baisse de 12‑18 centimes par litre, ce qui pourrait réduire les coûts de carburant pour les flottes de véhicules d'ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/economie/article/2026/10/24/prix-des-carburants-un-decret-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-publie-au-journal-officiel_6799684_3234.html",
+      "date": "2026-10-24"
     }
   ],
   "restrictions_eau": [
-    {
-      "dept_code": "14",
-      "dept_nom": "Calvados",
-      "niveau": "crise"
-    },
     {
       "dept_code": "22",
       "dept_nom": "Côtes-d'Armor",
@@ -242,13 +281,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "70",
-      "dept_nom": "Haute-Saône",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "70",
+      "dept_nom": "Haute-Saône",
       "niveau": "crise"
     },
     {
@@ -379,6 +418,11 @@
     {
       "dept_code": "50",
       "dept_nom": "Manche",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "14",
+      "dept_nom": "Calvados",
       "niveau": "alerte renforcée"
     },
     {
