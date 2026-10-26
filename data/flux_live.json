@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:45:48.606783+00:00",
+  "generated_at": "2026-10-26T22:58:39.806086+00:00",
   "items": [
     {
       "id": "3184c61370c3e3ff",
@@ -95,7 +95,7 @@
       "id": "31288ba24a96875e",
       "source": "GreenUnivers",
       "categorie": "Climat",
-      "titre": "Décarbonation industrielle : producteurs, agrégateurs ou acteurs intégrés, qui emportera la mise ? [4/4]",
+      "titre": "Décarbonation de l’industrie : producteurs, agrégateurs ou acteurs intégrés, qui emportera la mise ? [4/4]",
       "resume": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Pour le dernier volet, focus sur les nouvelles organisations orientées client",
       "url": "https://www.greenunivers.com/2026/10/decarbonation-industrielle-producteurs-agregateurs-ou-acteurs-integres-qui-emportera-la-mise-4-4-436829/",
       "published_at": "2026-10-26T15:40:35+00:00"
@@ -203,7 +203,7 @@
       "id": "ef3a7663389351a6",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws critcism",
+      "titre": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
       "resume": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from n",
       "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
       "published_at": "2026-10-26T12:00:41+00:00"
@@ -335,21 +335,21 @@
       "published_at": "2026-10-23T15:39:18+00:00"
     },
     {
-      "id": "41c5bce186baee75",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
-      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-      "published_at": "2026-10-23T12:00:26+00:00"
-    },
-    {
       "id": "44846ef1c227d5ba",
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
       "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
       "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "41c5bce186baee75",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
+      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
       "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
