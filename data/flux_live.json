@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-27T18:51:01.310886+00:00",
+  "generated_at": "2026-10-27T22:48:01.818873+00:00",
   "items": [
+    {
+      "id": "dca317359f80b506",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
+      "resume": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday. Coastal California braces for flooding amid forecast of ‘record-breaking t",
+      "url": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
+      "published_at": "2026-10-27T21:55:44+00:00"
+    },
+    {
+      "id": "b71941644c36dd80",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
+      "resume": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the ",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+      "published_at": "2026-10-27T21:34:54+00:00"
+    },
     {
       "id": "d5c9c7156478df1a",
       "source": "Actu-Environnement",
@@ -218,15 +236,6 @@
       "published_at": "2026-10-27T11:16:48+00:00"
     },
     {
-      "id": "b71941644c36dd80",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
-      "resume": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the ",
-      "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
-      "published_at": "2026-10-27T11:00:38+00:00"
-    },
-    {
       "id": "ca210da88175e526",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -405,15 +414,6 @@
       "resume": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or o",
       "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
       "published_at": "2026-10-24T11:00:32+00:00"
-    },
-    {
-      "id": "41c5bce186baee75",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
-      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-      "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
       "id": "44846ef1c227d5ba",
