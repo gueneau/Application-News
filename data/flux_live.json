@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-26T22:58:39.806086+00:00",
+  "generated_at": "2026-10-27T01:51:45.005343+00:00",
   "items": [
+    {
+      "id": "720000fb627e91a5",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les 0,1% les plus riches polluent plus que les 3,5 milliards de personnes les plus pauvres",
+      "resume": "« Les ultrariches mettent le feu à la planète puis nous font payer les extincteurs », déplore Amitabh Behar, directeur général d'Oxfam International. Un rapport, dévoilé le 27 octobre par l' ONG , dévoile que les 0,1 % les plus riches émett",
+      "url": "https://reporterre.net/Les-0-1-les-plus-riches-polluent-plus-que-les-3-5-milliards-de-personnes-les-plus-pauvres",
+      "published_at": "2026-10-27T00:01:00+00:00"
+    },
+    {
+      "id": "e13d05e4d455f922",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "Le gouvernement envisage de ne pas reconstituer les stocks stratégiques de diesel",
+      "resume": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
+      "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-10-26T18:28:56+00:00"
+    },
     {
       "id": "3184c61370c3e3ff",
       "source": "Le Monde Planète",
@@ -173,15 +191,6 @@
       "published_at": "2026-10-26T13:58:03+00:00"
     },
     {
-      "id": "6957988cd3efa897",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Pétrole : Moeve et Galp renoncent à former un champion ibérique - Les Echos",
-      "resume": "Pétrole : Moeve et Galp renoncent à former un champion ibérique Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDdlRWw4NTZ1MFNmVVk3UzBSbzE3bDdpQ1dhYlVyb01BT3NDMTR3YTRZdzdRSzZsSUxaUzZoMFQtNHNyV3U0Si02U3FyeVVqV0RXdmlzbFd1eE5IOWdndERpTy1lbU5oR3BmSXYzYURrVlVMRTVVaFVnb1B6bmw5dVRSTk1LVXlvVDh4cnFiTWJTTXBGSEFzVlN4VFVQcktHZjRCWDEtc1BOUUJFam85djUxT0RnSjg2NWRTRElYS3BRb04ydjRZMS05cXNkaWc?oc=5",
-      "published_at": "2026-10-26T13:55:02+00:00"
-    },
-    {
       "id": "79d40f9f59b1c780",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -227,15 +236,6 @@
       "published_at": "2026-10-26T11:53:46+00:00"
     },
     {
-      "id": "899d675533cb900b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Chasses interdites : Olivier Bouygues condamné à deux ans de prison avec sursis",
-      "resume": "Deux ans de prison avec sursis et 750 000 euros d'amende. Telle est la peine — le maximum prévu par la loi — infligée à Olivier Bouygues par le tribunal correctionnel d'Orléans, le 23 octobre, pour « destruction d'espèces protégées en bande",
-      "url": "https://reporterre.net/Chasses-interdites-Olivier-Bouygues-condamne-a-deux-ans-de-prison-avec-sursis",
-      "published_at": "2026-10-26T11:34:02+00:00"
-    },
-    {
       "id": "957158d3b9348aa3",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -266,8 +266,8 @@
       "id": "bf38b10c64f0a722",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Investir Les Echos",
-      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Investir Les E",
+      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
+      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Les Echos",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
       "published_at": "2026-10-26T08:14:40+00:00"
     },
@@ -335,21 +335,21 @@
       "published_at": "2026-10-23T15:39:18+00:00"
     },
     {
-      "id": "44846ef1c227d5ba",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
-      "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
-      "published_at": "2026-10-23T12:00:26+00:00"
-    },
-    {
       "id": "41c5bce186baee75",
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
       "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
       "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "44846ef1c227d5ba",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+      "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
       "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
@@ -389,15 +389,6 @@
       "published_at": "2026-10-23T08:00:32+00:00"
     },
     {
-      "id": "ed18c9df844c66a3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
-      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
-      "published_at": "2026-10-23T07:40:17+00:00"
-    },
-    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -423,15 +414,6 @@
       "resume": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
       "published_at": "2026-10-22T23:15:40+00:00"
-    },
-    {
-      "id": "a9b02dc6df0c829f",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "« Une reconversion exige des sacrifices, mais cela en vaut la peine » : du BEP au bac + 5, la réorientation pas comme les autres d'une pâtissière vers la QSE - Les Echos",
-      "resume": "« Une reconversion exige des sacrifices, mais cela en vaut la peine » : du BEP au bac + 5, la réorientation pas comme les autres d'une pâtissière vers la QSE Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWWhUOTJJc2xUT1ZGdHFPYU91c01VaEZHeWE3N2FGTEZlQk1ZdnoyTHpzYnFIZG5CVXVqdHlOZDg3Zkljc3FoNmo4OHFRdmF1SlJmSUU1eHpncmd2YVpLVnRNUmhseEUyZXFjbFhuZnVLcXZXTkdBZHJjcW1JODlJUHc5VmJybURlcGVmbzhyczc1YzlxLW9HWWpxclBxSXAxaDRhOWgwU3ktVDdPdmllRjUzVXRNVlN0LUllbnZfQkEwXzFONUg0STI5ekhQT2hhX2F3SV8wbTVpY3M4eGk4ejQyaWsycE5PVnN0SEV0MkpFQlRGakx5UmVmLU82R1JDRzFCUHRTTGkyQzBfUUF5TUxueXNqTEpiY096SEkxYkdRNzlVS3hBN2dTaXFqS0xwV1BqdG1CVTh0WEg5ZXRvY01MdHZKTDhob0RjMDVuTW5mQQ?oc=5",
-      "published_at": "2026-10-22T12:38:21+00:00"
     },
     {
       "id": "c642ce7cc0c4c34e",
@@ -461,6 +443,15 @@
       "published_at": "2026-10-22T05:00:26+00:00"
     },
     {
+      "id": "159c9ea5eca36204",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique - Les Echos",
+      "resume": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMFJ1RzhIT0NkUUVRWW8tWWJ6Nnl5UVdTMmtkZXVaNjd1eGxDSlc2c2t5TW5JdzdyTXhzZExxa1JyNU1wby1SU093NDFTQ2cwVVN3RUJGVXIwVjdLTFRrc05aRnJoMFJjQW8xNm9kb3JHRmNYWjdCazVTUExhS0llVExoNFk0b0lNVGJWRzhkOUNpeDRTZW1IZHA1VnZ4QzVXVXlxanJyUmdHeXdmeWtlNFlYcDJLbVJCX0w3OFluMERqX21YeEQ1RjluNlQ4SnY2dHhJSExDU2pYaUQxemZaMW9xbmVlRWdGU0p5VHZndy1ZVkYxc29aVDdSLUJtTnNWMG0zMTJuSDViSTBn?oc=5",
+      "published_at": "2026-10-20T15:15:37+00:00"
+    },
+    {
       "id": "eb56a5afc3bb8b5a",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -468,6 +459,15 @@
       "resume": "PARIS — Emmanuel Macron ne participera pas au dernier grand raout des négociations climatiques de son mandat, a confirmé l’Elysée auprès de POLITICO. Comme rapporté par POLITICO, un conflit d’agenda laissait planer un doute sur la présence ",
       "url": "https://www.politico.eu/article/emmanuel-macron-fera-limpasse-sur-la-cop31/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-20T12:20:32+00:00"
+    },
+    {
+      "id": "32cf8e8eacac75b4",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Signal-prix carbone : « La France se prépare à un Waterloo » - Les Echos",
+      "resume": "Signal-prix carbone : « La France se prépare à un Waterloo » Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1c5cGFSTzdPYjN3Rm4xU2ozN05QRW1CZWdBUWRRN3B2QS1BSVo0S21lSXh2YnB5NEdnVm5RaGRRQzh6TUlVd0t5QUVEdHhJUlhfdkRUZWZjUmRGQ2pyZVIwSlpEbkp4VThCaHFMYzI0MFlqdkpNN3NxYzVnU0NWU1hXWmQ2QmpIWjlLNlNJU2VpZzJpYmM3SFFVX3BuM28wNEFSeEFpM0dwQQ?oc=5",
+      "published_at": "2026-10-20T10:00:08+00:00"
     },
     {
       "id": "fb6531adfe3d9784",
@@ -605,15 +605,6 @@
       "published_at": "2026-10-13T11:03:31+00:00"
     },
     {
-      "id": "fe5801423d064000",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Energie : face “au risque” lié au nucléaire, Edouard Philippe juge les renouvelables utiles",
-      "resume": "Les énergies renouvelables doivent être développées pour garantir la sécurité d'approvisionnement en France, a indiqué le candidat Horizons à l’élection présidentielle.",
-      "url": "https://www.politico.eu/article/energie-face-au-risque-lie-au-nucleaire-edouard-philippe-juge-les-renouvelables-utiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-13T10:16:49+00:00"
-    },
-    {
       "id": "29632628c172cc87",
       "source": "I4CE",
       "categorie": "Climat",
@@ -720,6 +711,15 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
     }
   ]
 }
