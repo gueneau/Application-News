@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-10-27T01:51:45.005343+00:00",
+  "generated_at": "2026-10-27T07:09:09.600049+00:00",
   "items": [
+    {
+      "id": "1a534f1ef91fb207",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Présidentielle 2027 : qui prépare le programme écologique des candidats ?",
+      "resume": "Comment les candidats déclarés à l’élection présidentielle élaborent-ils leurs propositions sur l’environnement ? Et avec qui ? Groupes d’experts, députés, contributions citoyennes… Dans l’ombre des organigrammes officiels, un travail de fo",
+      "url": "https://www.contexte.com/fr/article/environnement/presidentielle-2027-qui-prepare-le-programme-ecologique-des-candidats_279467?source=rss",
+      "published_at": "2026-10-27T07:00:00+00:00"
+    },
+    {
+      "id": "42a50f9fb2df5b8e",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Le ZAN ou la loi qui en demandait trop",
+      "resume": "Mis en place par la loi climat-résilience issue de la Convention citoyenne sur le climat, le principe du « zéro artificialisation nette » est, depuis, attaqué par de nombreux politiques, qui l’accusent d’empêcher le développement des zones ",
+      "url": "https://www.contexte.com/fr/article/environnement/le-zan-ou-la-loi-qui-en-demandait-trop_281920?source=rss",
+      "published_at": "2026-10-27T07:00:00+00:00"
+    },
+    {
+      "id": "dca5d7e4b9b4186e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Après les incendies, les grimpeurs de Fontainebleau tentent de faire front commun",
+      "resume": "Les incendies de l'été ont réveillé des divisions chez les grimpeurs de Fontainebleau : accès à la forêt, bonnes pratiques, fréquentation… Leurs associations tentent de se regrouper pour avancer vers une pratique durable. Forêt de Fontaineb",
+      "url": "https://reporterre.net/Apres-les-incendies-les-grimpeurs-de-Fontainebleau-tentent-de-faire-front-commun",
+      "published_at": "2026-10-27T06:10:00+00:00"
+    },
+    {
+      "id": "30b5aa85f700709f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Se disant victimes d'un « apartheid environnemental », les Palestiniens d'Israël attendent peu des élections législatives",
+      "resume": "Déchets non collectés, terres expropriées... Pour les Palestiniens d'Israël, la discrimination environnementale s'apparente à de l'écofascisme. Ils ont peu d'espoir de changement, malgré les élections législatives du 27 octobre. Beyrouth (L",
+      "url": "https://reporterre.net/Se-disant-victimes-d-un-apartheid-environnemental-les-Palestiniens-d-Israel-attendent-peu-des-elections-legislatives",
+      "published_at": "2026-10-27T06:05:00+00:00"
+    },
+    {
+      "id": "a220e672b5d454f9",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "2L, rappeuse : « Il est important d'être une mauvaise herbe dans ce monde »",
+      "resume": "Anticapitalisme, antiracime... Après l'émission « Nouvelle école », 2L est devenue l'une des voix du rap qui parlent aux luttes sociales et écologistes. Elle explique à Reporterre l'importance de ne jamais être « un bon soldat ». Révélée pa",
+      "url": "https://reporterre.net/2L-rappeuse-Il-est-important-d-etre-une-mauvaise-herbe-dans-ce-monde",
+      "published_at": "2026-10-27T06:00:00+00:00"
+    },
+    {
+      "id": "4255165cd1eeeede",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "La Nef lance sa carte bancaire pour les entreprises et envisage un changement de nom",
+      "resume": "La Nef propose désormais une carte bancaire pour ses clients professionnels. @LaNef Cela fait tout juste deux ans que la Nef peut revendiquer son statut de banque. Et cette année, la petite banque éthique, émancipée du Crédit Coopératif en ",
+      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/nef-lance-carte-bancaire-pour-entreprises-envisage-changement-nom",
+      "published_at": "2026-10-27T05:45:23+00:00"
+    },
+    {
+      "id": "59f541c248e732ba",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment on a redonné vie à notre bocage en replantant des haies et en creusant des mares",
+      "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui, des habitants et des agriculteurs de Saint-Loup-Hors, dans le Calvados, ont œuvré dans le",
+      "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/27/comment-on-a-redonne-vie-a-notre-bocage-en-replantant-des-haies-et-en-creusant-des-mares_6801091_6125299.html",
+      "published_at": "2026-10-27T04:00:20+00:00"
+    },
     {
       "id": "720000fb627e91a5",
       "source": "Reporterre",
@@ -101,15 +164,6 @@
       "published_at": "2026-10-26T15:44:27+00:00"
     },
     {
-      "id": "339016de04f328c6",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "En Serbie, le mouvement étudiant déloge le nationaliste Aleksandar Vučić",
-      "resume": "Ils n'avaient pas le soutien des médias, ni de tête d'affiche et essentiellement des candidats issus de la société civile. Pourtant, dimanche 25 octobre, la Liste étudiante a remporté largement les élections législatives anticipées en Serbi",
-      "url": "https://reporterre.net/En-Serbie-le-mouvement-etudiant-deloge-le-nationaliste-Aleksandar-Vucic",
-      "published_at": "2026-10-26T15:42:31+00:00"
-    },
-    {
       "id": "31288ba24a96875e",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -146,15 +200,6 @@
       "published_at": "2026-10-26T15:20:45+00:00"
     },
     {
-      "id": "af0aac81f2cacbde",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "La mer des batailles : comment défendre le vivant qu'on ne voit pas",
-      "resume": "Longtemps méconnu, l'océan est devenu un objet de convoitise industrielle. Des poissons aux minerais, ses ressources s'arrachent. En compagnie de Claire Nouvian et Guillaume Pitron, Terrestres et Reporterre organisent une soirée, le 5 novem",
-      "url": "https://reporterre.net/La-mer-des-batailles-comment-defendre-le-vivant-qu-on-ne-voit-pas",
-      "published_at": "2026-10-26T15:15:16+00:00"
-    },
-    {
       "id": "5d105cce9e8e3928",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -173,15 +218,6 @@
       "published_at": "2026-10-26T14:50:20+00:00"
     },
     {
-      "id": "9e99c9ca05972f94",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "En Californie, une « taxe Zucman » fait trembler les milliardaires de la Silicon Valley",
-      "resume": "Alors que les élections de mi-mandat du 3 novembre approchent, un impôt sur les milliardaires agite la Californie. Cette « taxe Zucman » version U.S. doit permettre de refinancer le système de santé, fragilisé par les coupes budgétaires de ",
-      "url": "https://reporterre.net/En-Californie-une-taxe-Zucman-fait-trembler-les-milliardaires-de-la-Silicon-Valley",
-      "published_at": "2026-10-26T14:00:08+00:00"
-    },
-    {
       "id": "58831f05f0c3c3a5",
       "source": "Novethic",
       "categorie": "Presse",
@@ -189,6 +225,15 @@
       "resume": "Le président américain Donald Trump salue Gernot Dollner, PDG d'Audi AG, lors d'un rassemblement de campagne pour les élections de mi-mandat au Guardian Centers of Georgia à Perry, en Géorgie, le 24 octobre 2026. BRENDAN SMIALOWSKI / AFP Le",
       "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/le-patron-daudi-dans-la-tourmente-apres-avoir-participe-a-un-meeting-de-donald-trump",
       "published_at": "2026-10-26T13:58:03+00:00"
+    },
+    {
+      "id": "6957988cd3efa897",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Pétrole : Moeve et Galp renoncent à former un champion ibérique - Les Echos",
+      "resume": "Pétrole : Moeve et Galp renoncent à former un champion ibérique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDdlRWw4NTZ1MFNmVVk3UzBSbzE3bDdpQ1dhYlVyb01BT3NDMTR3YTRZdzdRSzZsSUxaUzZoMFQtNHNyV3U0Si02U3FyeVVqV0RXdmlzbFd1eE5IOWdndERpTy1lbU5oR3BmSXYzYURrVlVMRTVVaFVnb1B6bmw5dVRSTk1LVXlvVDh4cnFiTWJTTXBGSEFzVlN4VFVQcktHZjRCWDEtc1BOUUJFam85djUxT0RnSjg2NWRTRElYS3BRb04ydjRZMS05cXNkaWc?oc=5",
+      "published_at": "2026-10-26T13:55:02+00:00"
     },
     {
       "id": "79d40f9f59b1c780",
@@ -308,15 +353,6 @@
       "published_at": "2026-10-25T17:30:06+00:00"
     },
     {
-      "id": "c21cec596451eb8f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempête Boelo : 82 000 foyers privés d’électricité au Royaume-Uni, des dizaines de vols annulés à l’aéroport d’Amsterdam",
-      "resume": "Des vents violents et de fortes pluies ont entraîné des perturbations dans les transports et des annulations de vols en Irlande et aux Pays-Bas. Une alerte inondation est en vigueur en Ecosse.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-boelo-a-l-aeroport-d-amsterdam-des-dizaines-de-vols-annules-en-raison-de-vents-violents_6800080_3244.html",
-      "published_at": "2026-10-25T12:24:38+00:00"
-    },
-    {
       "id": "d21acb34bd8c0322",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -335,21 +371,21 @@
       "published_at": "2026-10-23T15:39:18+00:00"
     },
     {
-      "id": "41c5bce186baee75",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
-      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
-      "published_at": "2026-10-23T12:00:26+00:00"
-    },
-    {
       "id": "44846ef1c227d5ba",
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
       "resume": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses Continue reading...",
       "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "published_at": "2026-10-23T12:00:26+00:00"
+    },
+    {
+      "id": "41c5bce186baee75",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "EPA has failed to tackle cancer-linked pesticide pollution, lawsuit alleges",
+      "resume": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting p",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/lawsuit-atrazine-pesticide-cancer-epa",
       "published_at": "2026-10-23T12:00:26+00:00"
     },
     {
@@ -389,6 +425,15 @@
       "published_at": "2026-10-23T08:00:32+00:00"
     },
     {
+      "id": "ed18c9df844c66a3",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL - Les Echos",
+      "resume": "Dans les Côtes-d'Armor, le port de Saint-Brieuc carbure au PUR-XTL Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXZJVjJhbDZEbVIzYVRjUThLaG5zanVGVVQ0bnRTYkFJVVdFQnlTTjFEMy1HbUxpaWpkZTNIclFwTGNKSXVuQmhyRXktMldyS2ZjZHpsV296RWZCOGVfem95enFHZTUyZ3VkZnVoaUJFSkd1QVBNeUNBOGY2LXA0MWF4eU9vVDdvOEU3LXR1OE13QVpPZ3Vzd3RfZkh6cXVIU05yU1dYTExIZ1A2T053aVNkZUxIdms3?oc=5",
+      "published_at": "2026-10-23T07:40:17+00:00"
+    },
+    {
       "id": "2a8d9377aa1b3596",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -416,22 +461,13 @@
       "published_at": "2026-10-22T23:15:40+00:00"
     },
     {
-      "id": "c642ce7cc0c4c34e",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Agroécologie : le Printemps des terres ouvre son capital aux particuliers",
-      "resume": "Le Printemps des terres a acquis près de 4500 hectares de terres agricoles depuis son lancement. @Pexels / Mike Bird C’est une première pour le Printemps des terres. La société foncière agricole a décidé de lancer une levée de fonds auprès ",
-      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/agroecologie-printemps-terres-ouvre-capital-aux-particuliers",
-      "published_at": "2026-10-22T11:45:19+00:00"
-    },
-    {
-      "id": "6615c79a79eb1d39",
+      "id": "a9b02dc6df0c829f",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Achats RSE : 5 critères pour bien choisir son fournisseur de tote bag personnalisé - Les Echos Solutions",
-      "resume": "Achats RSE : 5 critères pour bien choisir son fournisseur de tote bag personnalisé Les Echos Solutions",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVm9VUlhnRFhLTE9qV2R4Q2p1Q0s0ZW1USzZVMGJMb1h5QmRWQlVfRjNpUTVVTEZDQWl4LUtCaGhGOElydFZjVzkzYXo0SlFKR1V4blVwWHo3NmtGNGhtcEY4NWtpSTZ3UG1VbEU1TndVRVBCWms1N01QY0U4b1dHWkxNbGUyMThLQ29PaEs4RlZ1c19xSnNLT1piRW5qZFprYlByRlBwbm9MbzlfMV9nT2Y2b0ZLT2VwTWVWTzhHenJsWi1fSW1vakxUZw?oc=5",
-      "published_at": "2026-10-22T08:20:00+00:00"
+      "titre": "« Une reconversion exige des sacrifices, mais cela en vaut la peine » : du BEP au bac + 5, la réorientation pas comme les autres d'une pâtissière vers la QSE - Les Echos",
+      "resume": "« Une reconversion exige des sacrifices, mais cela en vaut la peine » : du BEP au bac + 5, la réorientation pas comme les autres d'une pâtissière vers la QSE Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWWhUOTJJc2xUT1ZGdHFPYU91c01VaEZHeWE3N2FGTEZlQk1ZdnoyTHpzYnFIZG5CVXVqdHlOZDg3Zkljc3FoNmo4OHFRdmF1SlJmSUU1eHpncmd2YVpLVnRNUmhseEUyZXFjbFhuZnVLcXZXTkdBZHJjcW1JODlJUHc5VmJybURlcGVmbzhyczc1YzlxLW9HWWpxclBxSXAxaDRhOWgwU3ktVDdPdmllRjUzVXRNVlN0LUllbnZfQkEwXzFONUg0STI5ekhQT2hhX2F3SV8wbTVpY3M4eGk4ejQyaWsycE5PVnN0SEV0MkpFQlRGakx5UmVmLU82R1JDRzFCUHRTTGkyQzBfUUF5TUxueXNqTEpiY096SEkxYkdRNzlVS3hBN2dTaXFqS0xwV1BqdG1CVTh0WEg5ZXRvY01MdHZKTDhob0RjMDVuTW5mQQ?oc=5",
+      "published_at": "2026-10-22T12:38:21+00:00"
     },
     {
       "id": "0fb573d9e8be1bd9",
@@ -443,15 +479,6 @@
       "published_at": "2026-10-22T05:00:26+00:00"
     },
     {
-      "id": "159c9ea5eca36204",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique - Les Echos",
-      "resume": "Câbles sous-marins, navires brise-glace, satellites, énergies renouvelables… Comment l'Europe cherche à renforcer sa présence dans l'Arctique Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMFJ1RzhIT0NkUUVRWW8tWWJ6Nnl5UVdTMmtkZXVaNjd1eGxDSlc2c2t5TW5JdzdyTXhzZExxa1JyNU1wby1SU093NDFTQ2cwVVN3RUJGVXIwVjdLTFRrc05aRnJoMFJjQW8xNm9kb3JHRmNYWjdCazVTUExhS0llVExoNFk0b0lNVGJWRzhkOUNpeDRTZW1IZHA1VnZ4QzVXVXlxanJyUmdHeXdmeWtlNFlYcDJLbVJCX0w3OFluMERqX21YeEQ1RjluNlQ4SnY2dHhJSExDU2pYaUQxemZaMW9xbmVlRWdGU0p5VHZndy1ZVkYxc29aVDdSLUJtTnNWMG0zMTJuSDViSTBn?oc=5",
-      "published_at": "2026-10-20T15:15:37+00:00"
-    },
-    {
       "id": "eb56a5afc3bb8b5a",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -459,15 +486,6 @@
       "resume": "PARIS — Emmanuel Macron ne participera pas au dernier grand raout des négociations climatiques de son mandat, a confirmé l’Elysée auprès de POLITICO. Comme rapporté par POLITICO, un conflit d’agenda laissait planer un doute sur la présence ",
       "url": "https://www.politico.eu/article/emmanuel-macron-fera-limpasse-sur-la-cop31/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-20T12:20:32+00:00"
-    },
-    {
-      "id": "32cf8e8eacac75b4",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Signal-prix carbone : « La France se prépare à un Waterloo » - Les Echos",
-      "resume": "Signal-prix carbone : « La France se prépare à un Waterloo » Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1c5cGFSTzdPYjN3Rm4xU2ozN05QRW1CZWdBUWRRN3B2QS1BSVo0S21lSXh2YnB5NEdnVm5RaGRRQzh6TUlVd0t5QUVEdHhJUlhfdkRUZWZjUmRGQ2pyZVIwSlpEbkp4VThCaHFMYzI0MFlqdkpNN3NxYzVnU0NWU1hXWmQ2QmpIWjlLNlNJU2VpZzJpYmM3SFFVX3BuM28wNEFSeEFpM0dwQQ?oc=5",
-      "published_at": "2026-10-20T10:00:08+00:00"
     },
     {
       "id": "fb6531adfe3d9784",
@@ -557,24 +575,6 @@
       "titre": "L’impressionnante facture du plan de restauration de la nature",
       "resume": "Rétablir la bonne santé des écosystèmes en France coûtera entre 4,6 et 5,2 milliards d’euros par an, écrit le gouvernement dans son plan national de restauration de la nature, que dévoile Contexte en exclusivité. L’essentiel des besoins con",
       "url": "https://www.contexte.com/fr/article/environnement/limpressionnante-facture-du-plan-de-restauration-de-la-nature_281271?source=rss",
-      "published_at": "2026-10-14T06:00:00+00:00"
-    },
-    {
-      "id": "6a82bba7b82b4d2c",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Comment la FNSEA mise sur la justice pour faire taire les militants écologistes",
-      "resume": "Sept ans après la création des très contestées cellules Demeter, le syndicat majoritaire veut utiliser le levier juridique tant pour prévenir les intrusions que pour brider les discours trop critiques envers l’agriculture intensive. Il vien",
-      "url": "https://www.contexte.com/fr/article/agro/comment-la-fnsea-mise-sur-la-justice-pour-faire-taire-les-militants-ecologistes_280999?source=rss",
-      "published_at": "2026-10-14T06:00:00+00:00"
-    },
-    {
-      "id": "2ac3ef386953dc95",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "COP17 à Erevan : le cadre mondial de la biodiversité à l’épreuve des engagements",
-      "resume": "Visionnez le replay de notre Contexte Live consacré à la COP17 biodiversité, qui se tiendra du 19 au 30 octobre à Erevan (Arménie).",
-      "url": "https://www.contexte.com/fr/article/environnement/cop17-a-erevan-le-cadre-mondial-de-la-biodiversite-a-lepreuve-des-engagements_281163?source=rss",
       "published_at": "2026-10-14T06:00:00+00:00"
     },
     {
