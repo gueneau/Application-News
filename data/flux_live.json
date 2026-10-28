@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-10-28T01:57:12.561351+00:00",
+  "generated_at": "2026-10-28T07:55:01.271725+00:00",
   "items": [
+    {
+      "id": "b834fe38d4c88839",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Comment la Commission entend adapter l’Europe à un réchauffement de 3 °C d’ici à 2100",
+      "resume": "La toute première loi européenne sur l’adaptation au changement climatique a été présentée le 27 octobre à Bruxelles. L’exécutif espère impulser un « changement systémique » à tous les niveaux d’action et de prise de décision pour « mieux p",
+      "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-c-dici-a-2100_282976?source=rss",
+      "published_at": "2026-10-28T07:00:00+00:00"
+    },
+    {
+      "id": "803706b5cb87380b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Avec Intermarché, le terroir devient gastronationaliste »",
+      "resume": "Nostalgie assumée ou gastronationalisme déguisé ? La nouvelle pub Intermarché, qui promeut sa gamme « Terroirs », cumule déjà quelques polémiques et entraîne une vague de racisme, retrace notre chroniqueuse Nora Bouazzouni. Nora Bouazzouni ",
+      "url": "https://reporterre.net/Avec-Intermarche-le-terroir-devient-gastronationaliste",
+      "published_at": "2026-10-28T06:10:00+00:00"
+    },
+    {
+      "id": "84dd4233d387b194",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Attentat de Trappes : « Il faut penser ce qui relie les actes de racisme quotidien et ce type d'événements extrêmes »",
+      "resume": "Politiques, médias... La sociologue Solène Brun pointe la « banalisation des discours d'extrême droite », un climat raciste qui a mené à la mort d'un homme lors de l'attentat terroriste de Trappes. Elle appelle à « interroger les responsabi",
+      "url": "https://reporterre.net/Attentat-de-Trappes-Il-faut-penser-ce-qui-relie-les-actes-de-racisme-quotidien-et-ce-type-d-evenements-extremes",
+      "published_at": "2026-10-28T06:00:00+00:00"
+    },
+    {
+      "id": "28a193abfb60512a",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Reporting de durabilité : mesurer ne suffit pas",
+      "resume": "Trop peu d'entreprises mettent leurs données de durabilité au service de leur transformation durable - Source : Pexels Avec l'entrée en vigueur de la CSRD (directive européenne sur le reporting de durabilité des entreprises) et la généralis",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/decalage-donnees-rse-tranformation-strategique",
+      "published_at": "2026-10-28T05:45:50+00:00"
+    },
+    {
+      "id": "d15c19dad773bec2",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Climat : 79 millions d’heures de travail potentielles perdues en France chaque année en raison de l’exposition aux chaleurs",
+      "resume": "Les chercheurs du Lancet Countdown ont estimé, pays par pays, le fardeau sanitaire du réchauffement climatique. Le secteur du bâtiment est le plus touché par les pertes potentielles d’heures de travail et de revenus.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/28/climat-79-millions-d-heures-de-travail-potentielles-perdues-en-france-chaque-annee-en-raison-de-l-exposition-aux-chaleurs_6801529_3244.html",
+      "published_at": "2026-10-28T04:45:11+00:00"
+    },
+    {
+      "id": "78cbdbd6f7fd727a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Espagne, les éoliennes de dernière génération libèrent le paysage",
+      "resume": "Près de La Corogne, en Galice, l’opérateur Endesa procède au remplacement de 40 turbines de trente ans d’âge par quatre éoliennes qui vont presque doubler la quantité d’électricité produite. Subventionnée par l’Union européenne, cette prati",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/28/en-espagne-les-eoliennes-de-derniere-generation-liberent-le-paysage_6801526_3234.html",
+      "published_at": "2026-10-28T04:30:11+00:00"
+    },
+    {
+      "id": "3a0a983a1ccba737",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
+      "resume": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérablement aggravés depuis la signature de l’accord de Paris, en 2015.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
+      "published_at": "2026-10-28T04:00:38+00:00"
+    },
+    {
+      "id": "6e078efe1632657c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Baisse de la natalité : quel est le poids de l’infertilité ?",
+      "resume": "Dans cet épisode, enregistré en public, nous nous intéressons à la responsabilité de l’infertilité dans la baisse du nombre de naissances, observée par la plupart des pays développés. Stéphane Foucart, journaliste au service Planète du « Mo",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/10/28/baisse-de-la-natalite-quel-est-le-poids-de-l-infertilite_6801522_5463015.html",
+      "published_at": "2026-10-28T04:00:25+00:00"
+    },
+    {
+      "id": "85eb73fd4fa174a2",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "COP17 biodiversité : les États face au bourbier du fonds Cali",
+      "resume": "Ce fonds, censé financer des actions en faveur de la biodiversité, peine à se remplir depuis son lancement il y a dix-huit mois. À Erevan, les négociateurs s’opposent sur le caractère volontaire des contributions des entreprises pour alimen",
+      "url": "https://www.contexte.com/fr/article/environnement/cop17-biodiversite-les-etats-face-au-bourbier-du-fonds-cali_282710?source=rss",
+      "published_at": "2026-10-28T04:00:00+00:00"
+    },
+    {
+      "id": "46e21cb897bcc895",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Donald Trump abroge des règles sur la limitation des émissions de méthane, un gaz à effet de serre extrêmement polluant",
+      "resume": "Les nouvelles mesures voulues par le président américain supprimeraient notamment un programme permettant à des observateurs agréés de signaler de grandes fuites de méthane dans l’industrie pétrolière et gazière.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/28/donald-trump-abroge-des-regles-sur-la-limitation-des-emissions-de-methane-un-gaz-a-effet-de-serre-extremement-polluant_6801449_3244.html",
+      "published_at": "2026-10-28T02:19:38+00:00"
+    },
     {
       "id": "f4de6c9f3bb48cfc",
       "source": "The Guardian Environment",
@@ -8,7 +98,7 @@
       "titre": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
       "resume": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for lar",
       "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-      "published_at": "2026-10-28T01:18:58+00:00"
+      "published_at": "2026-10-28T01:45:27+00:00"
     },
     {
       "id": "dca317359f80b506",
@@ -194,7 +284,7 @@
       "id": "8807180217e9357c",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Ce chercheur propose une piste concrète (et connue) pour sortir d'une « économie du désastre »",
+      "titre": "« Les sécurités sociales écologiques peuvent nous sortir du désastre »",
       "resume": "Comment assurer le quotidien dans un monde qui s'effondre ? Comment respecter les besoins collectifs et les limites planétaires à la fois ? Pour Ilan Moundib, une telle bifurcation implique de « nous mettre en sécurité sociale écologique ».",
       "url": "https://reporterre.net/Les-Securites-sociales-ecologiques-peuvent-nous-sortir-du-desastre",
       "published_at": "2026-10-27T13:33:28+00:00"
@@ -218,24 +308,6 @@
       "published_at": "2026-10-27T12:58:40+00:00"
     },
     {
-      "id": "88dedc12f3a6f674",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP biodiversité : les « subventions néfastes » à la nature au centre des négociations",
-      "resume": "La présidence arménienne de la COP a mis en avant, lundi, un objectif décidé en 2022 à Montréal visant à réduire les subventions néfastes à la biodiversité d’au moins 500 milliards de dollars par an.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/27/cop-biodiversite-les-subventions-nefastes-a-la-nature-au-centre-des-negociations_6801267_3244.html",
-      "published_at": "2026-10-27T11:30:03+00:00"
-    },
-    {
-      "id": "1db2011e5de4d2e3",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Émissions de gaz à effet de serre mondiales : la baisse de 6 % d'ici 2035 sera très insuffisante",
-      "resume": "C'est un énorme pavé dans la mare, à quelques semaines de l'ouverture de la COP31 sur le climat. D'après les derniers rapports de l'Organisation des Nations unies, publiés le 27 octobre, les (maigres) progrès faits par les États pour lutter",
-      "url": "https://reporterre.net/Emissions-de-gaz-a-effet-de-serre-mondiales-la-baisse-de-6-d-ici-2035-sera-tres-insuffisante",
-      "published_at": "2026-10-27T11:25:53+00:00"
-    },
-    {
       "id": "71d2a4bbc469c52c",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -252,6 +324,15 @@
       "resume": "Sustainability ratings and solutions provider EcoVadis and AI procurement platform Vertice announced the launch of […]",
       "url": "https://www.esgtoday.com/ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process",
       "published_at": "2026-10-27T10:28:22+00:00"
+    },
+    {
+      "id": "2347f7170b57b020",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Rio Tinto - Glencore : qui offre le plus d'assurance pour profiter du supercycle des métaux ? - Les Echos",
+      "resume": "Rio Tinto - Glencore : qui offre le plus d'assurance pour profiter du supercycle des métaux ? Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMjVWa0JYSEZrczVnWEhqLW41cTZ6VW4tNVdPaTBKaE1YbXNCRkVjQ0FOQmNLQmo2blA2RlRYS2NwWVRCazB0dlMydFBRV0luUUhJMC04eWY2MXhTY1ZHa3BRLTVERFQyVVNVOEUtRl9kc2RMXzhFTVNDbVdLVDNkOGdXejJDQ0lLa2xBRUpLZVJKYnFIRy1qTTVDWjhlU0pJTzdJbnMtUFRMSjNKZTVnTUFuNmdMZ0ZHVXZBTHlfc2dGLTBZQ3lYUjJzTUM4S3g5YlM5LW5XemZ6SG5Xck1pY1h2Zmx6dWNaU280OXRQQnY?oc=5",
+      "published_at": "2026-10-27T09:30:09+00:00"
     },
     {
       "id": "1a534f1ef91fb207",
@@ -272,15 +353,6 @@
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
-      "id": "dca5d7e4b9b4186e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« L'avenir, c'est de fermer la forêt pendant certaines périodes » : après les incendies, le milieu de l'escalade divisé sur le sort de Fontainebleau",
-      "resume": "Les incendies de l'été ont réveillé des divisions chez les grimpeurs de Fontainebleau : accès à la forêt, bonnes pratiques, fréquentation… Leurs associations tentent de se regrouper pour avancer vers une pratique durable. Forêt de Fontaineb",
-      "url": "https://reporterre.net/Apres-les-incendies-les-grimpeurs-de-Fontainebleau-tentent-de-faire-front-commun",
-      "published_at": "2026-10-27T06:10:00+00:00"
-    },
-    {
       "id": "4255165cd1eeeede",
       "source": "Novethic",
       "categorie": "Presse",
@@ -290,13 +362,13 @@
       "published_at": "2026-10-27T05:45:23+00:00"
     },
     {
-      "id": "59f541c248e732ba",
-      "source": "Le Monde Planète",
+      "id": "f9ab180312964bb8",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Comment on a redonné vie à notre bocage en replantant des haies et en creusant des mares",
-      "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui, des habitants et des agriculteurs de Saint-Loup-Hors, dans le Calvados, ont œuvré dans le",
-      "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/10/27/comment-on-a-redonne-vie-a-notre-bocage-en-replantant-des-haies-et-en-creusant-des-mares_6801091_6125299.html",
-      "published_at": "2026-10-27T04:00:18+00:00"
+      "titre": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales - Les Echos",
+      "resume": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcFd1THJtWl8xQ3NCQU4xWUF1dF9VX3lWOFMxcElla2ZjSUZZT1RhcDEyNU5JZHdWVEduZ0o4b3o0RWRIc3ltSU1PSUplUlloMEczcG1IaDBHUmlpMWpUVmFFUWYtSHhrcUpaa1oyQ05JTGF2LWJ1SkFyUXEwOFhFWW5BMnRxdHBIX1ZLU3BsaFQ0d1hmUTdhVVUxT2d5djhOZnd4a0x4bjFrUW1mcjhDcmJVN0w1RU12c1h1T3hqZGJvM3ZUcXpfQ3FTUW5fUFN4Wl9MUEV0akYtQ0F5aG9ZdVJ4T3JsOEVtOVpvWmNKTzM1Qm1OQl80QWpqLW5PRzZtcGRnSlVxczUtd1FQSDBoV3Jqb2RmcXVnNG93?oc=5",
+      "published_at": "2026-10-27T05:15:36+00:00"
     },
     {
       "id": "e13d05e4d455f922",
@@ -306,15 +378,6 @@
       "resume": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
       "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-26T18:28:56+00:00"
-    },
-    {
-      "id": "3184c61370c3e3ff",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Après les inondations meurtrières de 2018, Trèbes, dans l’Aude, a redonné de l’espace à son fleuve pour se protéger des crues",
-      "resume": "La rive droite de l’Aude a été remodelée, après la catastrophe d’octobre 2018, qui avait fait six morts, pour que l’eau du fleuve puisse dorénavant s’écouler en cas d’inondation. Ces aménagements ont nécessité la démolition de plus de cinqu",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/26/apres-les-inondations-meurtrieres-de-2018-trebes-dans-l-aude-a-redonne-de-l-espace-a-son-fleuve-pour-se-proteger-des-crues_6800823_3244.html",
-      "published_at": "2026-10-26T17:30:08+00:00"
     },
     {
       "id": "33921f5fabb52390",
@@ -335,6 +398,15 @@
       "published_at": "2026-10-26T13:58:03+00:00"
     },
     {
+      "id": "6957988cd3efa897",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Pétrole : Moeve et Galp renoncent à former un champion ibérique - Les Echos",
+      "resume": "Pétrole : Moeve et Galp renoncent à former un champion ibérique Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDdlRWw4NTZ1MFNmVVk3UzBSbzE3bDdpQ1dhYlVyb01BT3NDMTR3YTRZdzdRSzZsSUxaUzZoMFQtNHNyV3U0Si02U3FyeVVqV0RXdmlzbFd1eE5IOWdndERpTy1lbU5oR3BmSXYzYURrVlVMRTVVaFVnb1B6bmw5dVRSTk1LVXlvVDh4cnFiTWJTTXBGSEFzVlN4VFVQcktHZjRCWDEtc1BOUUJFam85djUxT0RnSjg2NWRTRElYS3BRb04ydjRZMS05cXNkaWc?oc=5",
+      "published_at": "2026-10-26T13:55:02+00:00"
+    },
+    {
       "id": "ef3a7663389351a6",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -342,15 +414,6 @@
       "resume": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from n",
       "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
       "published_at": "2026-10-26T12:00:41+00:00"
-    },
-    {
-      "id": "5900e64c607e44d4",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le réchauffement de l’océan oblige à repenser la gestion des pêches",
-      "resume": "Les menaces qui pèsent sur la biodiversité sont d’autant plus prégnantes que les espèces de poissons devraient décliner. Des choix politiques difficiles s’annoncent au niveau européen pour s’accorder, entre autres, sur des mécanismes de ges",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/26/le-rechauffement-de-l-ocean-oblige-a-repenser-la-gestion-des-peches_6800606_3232.html",
-      "published_at": "2026-10-26T09:30:06+00:00"
     },
     {
       "id": "13fb5e61f811c08d",
@@ -362,13 +425,13 @@
       "published_at": "2026-10-26T09:00:08+00:00"
     },
     {
-      "id": "465f3130800d2d83",
-      "source": "Le Monde Planète",
+      "id": "bf38b10c64f0a722",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "« Ici, on a les mains dans la terre, on respire l’air frais » : récolter ses fruits, légumes et fleurs, une pratique en plein essor en France",
-      "resume": "Prix justes, produits de bonne qualité, convivialité et retour à la terre… Quelques centaines d’exploitations proposent l’autocueillette à des clients. Une aubaine pour tous.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/10/26/ici-on-a-les-mains-dans-la-terre-on-respire-l-air-frais-recolter-ses-fruits-legumes-et-fleurs-une-pratique-en-plein-essor-en-france_6800425_4497916.html",
-      "published_at": "2026-10-26T04:30:15+00:00"
+      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
+      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
+      "published_at": "2026-10-26T08:14:40+00:00"
     },
     {
       "id": "f18819367af7adcb",
@@ -416,13 +479,13 @@
       "published_at": "2026-10-23T08:45:35+00:00"
     },
     {
-      "id": "c1dd03b69e0ddd9b",
-      "source": "Novethic",
+      "id": "2a8d9377aa1b3596",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Désertification, biodiversité, climat : Trois COP d’épée dans l’eau ?",
-      "resume": "Les trois COP organisées en cette fin d'année vont-elles permettre de relancer le multilatéralisme ?@Unsplash Mahmoud Emad Depuis lundi 19 octobre, la COP17 Biodiversité a ouvert ses portes à Erevan, en Arménie, sans faire la Une des journa",
-      "url": "https://www.novethic.fr/environnement/climat/desertification-biodiversite-climat-trois-cop-depee-dans-leau",
-      "published_at": "2026-10-23T08:00:32+00:00"
+      "titre": "EXCLUSIF- « Sortir de la logique RSE » : un Sommet pour plus d'inclusion et de transformation en profondeur des entreprises - Les Echos",
+      "resume": "EXCLUSIF- « Sortir de la logique RSE » : un Sommet pour plus d'inclusion et de transformation en profondeur des entreprises Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdU0xbmZWblZxdk04TldfSlJmM0dIVmZvRVotMzFLOHJrNndGTl9GUUladW85MDZMNmI0XzdwcV82c2tZelZ5cTFEbkZlU1ZmNW1VZmNUMjM0cHh3eDZ4RFFoQTg0dXFwb2RHY21vOU5nbVZXV3M5QUhjRFo0Z29Ec3lHMzFtdFk3QmdkbmQ1TjhQeS13NnNkSGxBOU9KNXF0ODlRdnZwaFBDT3lsQTNqcWNIQ0RXVGEwSXpqVXdadGVxRzlzamRmcnN3bWpRbEdON1VZN3VMTndRLTNnNktwNU5PMEVaYmpzeDZucmpqa2szVWl3OHE2YkpzZWdnSkJBLVhTajRFeVdHZDZWNExB?oc=5",
+      "published_at": "2026-10-23T04:37:08+00:00"
     },
     {
       "id": "0fb573d9e8be1bd9",
@@ -488,15 +551,6 @@
       "published_at": "2026-10-16T08:44:34+00:00"
     },
     {
-      "id": "99e86161ff4ca488",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Réemploi : l’État veut bâtir en six mois ce qu’il n’a pas fait en six ans",
-      "resume": "Le ministre délégué à la transition écologique assure vouloir présenter une stratégie nationale du réemploi avant l’élection présidentielle. Un projet qui révèle l’échec des deux quinquennats Macron en la matière, plus de six ans après l’ad",
-      "url": "https://www.contexte.com/fr/article/environnement/reemploi-letat-veut-batir-en-six-mois-ce-quil-na-pas-fait-en-six-ans_281361?source=rss",
-      "published_at": "2026-10-16T06:00:00+00:00"
-    },
-    {
       "id": "65611bcca3b8eee5",
       "source": "I4CE",
       "categorie": "Climat",
@@ -522,15 +576,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
       "published_at": "2026-10-14T07:27:21+00:00"
-    },
-    {
-      "id": "e04b87d3611be2d3",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "L’impressionnante facture du plan de restauration de la nature",
-      "resume": "Rétablir la bonne santé des écosystèmes en France coûtera entre 4,6 et 5,2 milliards d’euros par an, écrit le gouvernement dans son plan national de restauration de la nature, que dévoile Contexte en exclusivité. L’essentiel des besoins con",
-      "url": "https://www.contexte.com/fr/article/environnement/limpressionnante-facture-du-plan-de-restauration-de-la-nature_281271?source=rss",
-      "published_at": "2026-10-14T06:00:00+00:00"
     },
     {
       "id": "e0aa20fa668fa3d2",
@@ -675,51 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
       "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
-      "id": "ebbcaca171cba5d1",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
-      "published_at": "2026-06-30T08:03:48+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
-    },
-    {
-      "id": "f6ba6a33ef09a89a",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
-      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
-      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
-      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
