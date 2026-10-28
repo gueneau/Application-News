@@ -1,13 +1,175 @@
 {
-  "generated_at": "2026-10-28T07:55:01.271725+00:00",
+  "generated_at": "2026-10-28T14:45:31.984463+00:00",
   "items": [
     {
-      "id": "b834fe38d4c88839",
+      "id": "39852e4a9e1755ca",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Eau, chaleur et électricité : leur maison est 100 % autonome",
+      "resume": "Lire la suite - Alternative / Habitat et urbanisme , Alternatives",
+      "url": "https://reporterre.net/Eau-chaleur-et-electricite-leur-maison-est-100-autonome",
+      "published_at": "2026-10-28T14:43:47+00:00"
+    },
+    {
+      "id": "e4d61a16794e1b7c",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
+      "resume": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A […]",
+      "url": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
+      "published_at": "2026-10-28T14:30:59+00:00"
+    },
+    {
+      "id": "99fd40e85976471d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Comment la désinformation climatique nous tue",
+      "resume": "Les fake news des industries des énergies fossiles et leurs alliés économiques et politiques nous surexposent aux pollutions, aux incendies et aux catastrophes climatiques, et donc aux maladies et à la mort, alerte l' OMS dans un rapport. «",
+      "url": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
+      "published_at": "2026-10-28T13:47:38+00:00"
+    },
+    {
+      "id": "03777bca3e7972cc",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Textile responsable : l'Ademe retient 38 projets territoriaux et six projets d'études",
+      "resume": "La France veut regagner des emplois dans le secteur du textile en misant sur une industrie locale et à faible impact environnemental. Pour accompagner le mouvement, l'Agence de la transition écologique (Ademe) annonce avoir sélectionné 38 p",
+      "url": "https://www.actu-environnement.com/ae/news/textile-responsable-ademe-projets-territoriaux-et-etudes-48739.php4#xtor=RSS-6",
+      "published_at": "2026-10-28T13:45:14+00:00"
+    },
+    {
+      "id": "4b468fc47280d4a5",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "LEGO Group Begins Using Material Made from Hydrogen and Captured CO2 in Plastic Pieces",
+      "resume": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and […]",
+      "url": "https://www.esgtoday.com/lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces/?utm_source=rss&utm_medium=rss&utm_campaign=lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces",
+      "published_at": "2026-10-28T13:40:53+00:00"
+    },
+    {
+      "id": "74dca4dc5236aea8",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Géothermie à l'hôpital : le centre Henri Laborit de Poitiers sort du gaz par le sous-sol",
+      "resume": "Pour réduire leur consommation d'énergies fossiles, et « se verdir », les centres de santé disposent d'options complémentaires à l'optimisation technique des équipements : solaire, réseaux de chaleur renouvelable, géothermie. Exemple à Poit",
+      "url": "https://www.actu-environnement.com/ae/news/centre-hospitalier-henri-laborit-se-decarbone-avec-geothermie-solaire-et-reseau-chaleur-biomasse-48736.php4#xtor=RSS-6",
+      "published_at": "2026-10-28T13:31:38+00:00"
+    },
+    {
+      "id": "95ba138feeed9f83",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Au moins 64 morts en Espagne dans un accident ferroviaire",
+      "resume": "C'est un nouveau drame pour l'Espagne. Au moins 64 personnes ont été tuées, et 179 blessées, dans la collision de deux trains à environ 150 kilomètres au sud de Madrid, le 28 octobre. Un précédent accident meurtrier avait déjà eu lieu en ja",
+      "url": "https://reporterre.net/Au-moins-64-morts-en-Espagne-dans-un-accident-ferroviaire",
+      "published_at": "2026-10-28T13:28:37+00:00"
+    },
+    {
+      "id": "82fc44e5d823eb23",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Kylian Mbappé boycotté en Chine : d’une vidéo polémique à une crise commerciale qui secoue le football",
+      "resume": "Cette photo montre une campagne publicitaire pour la marque laitière chinoise Mengniu mettant notamment en vedette Kylian Mbappé (au centre). PEDRO PARDO / AFP Tout commence par une vidéo de The Bridge, une émission française consacrée au f",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/kylian-mbappe-boycotte-en-chine-dune-video-polemique-a-une-crise-commerciale-qui-secoue-le-football",
+      "published_at": "2026-10-28T12:45:09+00:00"
+    },
+    {
+      "id": "d54456f20ff61b1f",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Deutsche Bank Reports Record €32 Billion Sustainable Finance Quarter",
+      "resume": "Deutsche Bank reported that its sustainable and transition financing volumes reached €32 billion (USD$35.6 billion) […]",
+      "url": "https://www.esgtoday.com/deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter",
+      "published_at": "2026-10-28T11:59:07+00:00"
+    },
+    {
+      "id": "93f9f5ac88b9f484",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf",
+      "resume": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed […]",
+      "url": "https://www.esgtoday.com/microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf",
+      "published_at": "2026-10-28T11:30:37+00:00"
+    },
+    {
+      "id": "85ea7a89bf79d496",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "PFAS : nouveau recours contre un arrêté préfectoral encadrant Daikin dans la Vallée de la chimie",
+      "resume": "Quatre associations et Les Écologistes Rhône-Alpes-Pays-de-Savoie ont déposé un recours, le 28 septembre dernier, devant la cour administrative d'appel de Lyon contre l'arrêté préfectoral complémentaire du 24 juillet 2026 qui encadre l'étab",
+      "url": "https://www.actu-environnement.com/ae/news/pfas-recours-arrete-daikin-vallee-chimie-48737.php4#xtor=RSS-6",
+      "published_at": "2026-10-28T11:14:00+00:00"
+    },
+    {
+      "id": "8c2411fe16e28950",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "REP textiles : Mathieu Lefèvre rappelle à Refashion ses obligations de reprise de la collecte de l'ESS",
+      "resume": "Refashion doit reprendre les textiles usagés collectés par les acteurs de l'écolonomie sociale et solidaire (ESS). Ce mercredi 28 octobre, le ministre délégué à la Transition écologique annonce avoir adressé le 26 octobre un courrier à l'éc",
+      "url": "https://www.actu-environnement.com/ae/news/rep-textiles-rappel-obligations-reprise-collecte-ess-refashion-48738.php4#xtor=RSS-6",
+      "published_at": "2026-10-28T11:09:56+00:00"
+    },
+    {
+      "id": "1c0e665e991cb7f8",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le chiffre du jour : 4 milliards d’euros",
+      "resume": "C’est le montant de prêts à taux préférentiels que le Gouvernement promet de mobiliser d’ici à 2030, pour soutenir la rénovation des établissements scolaires. Après plusieurs semaines de mobilisation lycéenne et étudiante, Édouard Geffray, ",
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1846.html#xtor=RSS-6",
+      "published_at": "2026-10-28T10:32:54+00:00"
+    },
+    {
+      "id": "ef98901434e87f53",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Sweep, Climatiq Partner on Supply Chain Product Carbon Footprint Solution",
+      "resume": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new […]",
+      "url": "https://www.esgtoday.com/sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution/?utm_source=rss&utm_medium=rss&utm_campaign=sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution",
+      "published_at": "2026-10-28T09:23:35+00:00"
+    },
+    {
+      "id": "d3328555d2f7841f",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Carrefour accélère avec Greenvolt dans les ombrières photovoltaïques",
+      "resume": "Greenvolt Next va équiper 120 magasins Carrefour d’ombrières photovoltaïques. Le développeur d’énergies renouvelables arrivé en France il y a deux ans et demi a L’article Carrefour accélère avec Greenvolt dans les ombrières photovoltaïques ",
+      "url": "https://www.greenunivers.com/2026/10/carrefour-se-decide-a-sequiper-dombrieres-photovoltaiques-436965/",
+      "published_at": "2026-10-28T09:00:00+00:00"
+    },
+    {
+      "id": "f7a9137a0535c869",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "PureTerra Scores €30 Million Commitment for New Water Tech Venture Fund from EIF",
+      "resume": "Water technology-focused venture capital firm PureTerra Ventures announced that it has secured a €30 million […]",
+      "url": "https://www.esgtoday.com/pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif/?utm_source=rss&utm_medium=rss&utm_campaign=pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif",
+      "published_at": "2026-10-28T08:20:32+00:00"
+    },
+    {
+      "id": "af930de5dc5bc91b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les décès liés à la chaleur ont bondi de 36 % en un an selon les experts du Lancet Countdown",
+      "resume": "La COP21 à Paris, c'était il y a dix ans déjà. Or depuis, le nombre de morts par an liés à la chaleur a augmenté de près de 36 % à l'échelle mondiale, selon le rapport annuel sur les conséquences sanitaires du dérèglement climatique du cons",
+      "url": "https://reporterre.net/Les-deces-lies-a-la-chaleur-ont-bondi-de-36-en-un-an-selon-les-experts-du-Lancet-countdown",
+      "published_at": "2026-10-28T08:12:56+00:00"
+    },
+    {
+      "id": "4161f4ef722a4fa9",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Il faut qu'on se révolte ! » : la crise de l'eau exaspère les Guadeloupéens",
+      "resume": "L'archipel s'enlise depuis une dizaine d'années dans une crise de l'accès à l'eau potable pour la population, que la sécheresse aggrave. Les Abymes (Guadeloupe), reportage La journée commence à peine et il fait encore chaud en ce mois d'oct",
+      "url": "https://reporterre.net/Rien-ne-coule-de-mon-robinet-en-Guadeloupe-la-crise-de-l-eau-s-aggrave-a-cause-de-la-secheresse",
+      "published_at": "2026-10-28T07:59:39+00:00"
+    },
+    {
+      "id": "d235e8d579917600",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
-      "titre": "Comment la Commission entend adapter l’Europe à un réchauffement de 3 °C d’ici à 2100",
+      "titre": "Comment la Commission entend adapter l’Europe à un réchauffement de 3 degrés d’ici à 2100",
       "resume": "La toute première loi européenne sur l’adaptation au changement climatique a été présentée le 27 octobre à Bruxelles. L’exécutif espère impulser un « changement systémique » à tous les niveaux d’action et de prise de décision pour « mieux p",
-      "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-c-dici-a-2100_282976?source=rss",
+      "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-degres-dici-a-2100_282976?source=rss",
       "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
@@ -18,15 +180,6 @@
       "resume": "Nostalgie assumée ou gastronationalisme déguisé ? La nouvelle pub Intermarché, qui promeut sa gamme « Terroirs », cumule déjà quelques polémiques et entraîne une vague de racisme, retrace notre chroniqueuse Nora Bouazzouni. Nora Bouazzouni ",
       "url": "https://reporterre.net/Avec-Intermarche-le-terroir-devient-gastronationaliste",
       "published_at": "2026-10-28T06:10:00+00:00"
-    },
-    {
-      "id": "84dd4233d387b194",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Attentat de Trappes : « Il faut penser ce qui relie les actes de racisme quotidien et ce type d'événements extrêmes »",
-      "resume": "Politiques, médias... La sociologue Solène Brun pointe la « banalisation des discours d'extrême droite », un climat raciste qui a mené à la mort d'un homme lors de l'attentat terroriste de Trappes. Elle appelle à « interroger les responsabi",
-      "url": "https://reporterre.net/Attentat-de-Trappes-Il-faut-penser-ce-qui-relie-les-actes-de-racisme-quotidien-et-ce-type-d-evenements-extremes",
-      "published_at": "2026-10-28T06:00:00+00:00"
     },
     {
       "id": "28a193abfb60512a",
@@ -146,24 +299,6 @@
       "published_at": "2026-10-27T16:43:17+00:00"
     },
     {
-      "id": "46113bb2ae2312d8",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Réemploi : Federrec et le Réseau vrac et réemploi signent un partenariat stratégique",
-      "resume": "Le 26 octobre, la Fédération des entreprises du recyclage, du réemploi et de l'économie circulaire (Federrec) et le Réseau vrac et réemploi ont annoncé avoir signé un partenariat stratégique le 9 septembre dernier. Les deux acteurs ambition",
-      "url": "https://www.actu-environnement.com/ae/news/federrec-reseau-vrac-reemploi-partenariat-48734.php4#xtor=RSS-6",
-      "published_at": "2026-10-27T16:39:45+00:00"
-    },
-    {
-      "id": "7ec2d3dd28be971a",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Singapore Revises Clean Energy Claims Rules to Address Greenwashing Risks",
-      "resume": "Singapore’s Ministry of Energy, Trade and Industry announced the release of an updated Singapore Standard […]",
-      "url": "https://www.esgtoday.com/singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks",
-      "published_at": "2026-10-27T16:29:41+00:00"
-    },
-    {
       "id": "749816e56ac360cb",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -171,15 +306,6 @@
       "resume": "Enquête. Les centres de données auront-ils besoin de beaucoup d’électricité ? L’association France Datacenter présentera le 9 novembre la nouvelle édition de son baromètre annuel, réalisé avec le cabinet EY. D’après les premières données re",
       "url": "https://www.greenunivers.com/2026/10/pourquoi-la-consommation-electrique-des-centres-de-donnees-est-surestimee-436616/",
       "published_at": "2026-10-27T16:10:35+00:00"
-    },
-    {
-      "id": "ce7e7595876db4f1",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Résilience climatique : la Commission européenne présente une proposition de règlement",
-      "resume": "L'été 2026, ponctué par des vagues de chaleur, des sécheresses, des feux de forêts, marque un avant et un après. Pour s'inscrire dans cet après, la Commission européenne a présenté ce mardi 27 octobre 2026 un cadre pour la résilience climat",
-      "url": "https://www.actu-environnement.com/ae/news/reglement-resilience-climatique-commission-europeenne-48733.php4#xtor=RSS-6",
-      "published_at": "2026-10-27T16:06:42+00:00"
     },
     {
       "id": "c1ddae0035949121",
@@ -191,15 +317,6 @@
       "published_at": "2026-10-27T16:00:04+00:00"
     },
     {
-      "id": "34345c89c20be90e",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "PNGMDR : cinq associations appellent à considérer l'uranium appauvri comme un déchet",
-      "resume": "Cinq associations demandent que la majeure partie, voire la totalité, des stocks d'uranium appauvri présents et futurs soit classée comme déchets radioactifs et que leur gestion soit confiée à l'Agence nationale pour la gestion des déchets ",
-      "url": "https://www.actu-environnement.com/ae/news/pngmdr-cinq-associations-demandent-classement-uranium-appauvri-comme-dechet-48732.php4#xtor=RSS-6",
-      "published_at": "2026-10-27T15:50:34+00:00"
-    },
-    {
       "id": "991911c5bd210611",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -207,24 +324,6 @@
       "resume": "Exclusif – La filiale française de la branche renouvelable du groupe allemand Baywa, Baywa r.e., a annoncé la semaine dernière à ses salariés le lancement d’une procédure pour un plan de sauvegarde de l’emploi (PSE). Selon nos informations,",
       "url": "https://www.greenunivers.com/2026/10/un-plan-social-et-une-reorganisation-des-activites-chez-baywa-france-436943/",
       "published_at": "2026-10-27T15:42:20+00:00"
-    },
-    {
-      "id": "5deabdb41e8f7712",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Iberdrola Returns to U.S. Debt Market with $1.6 Billion Green Bond Issuance",
-      "resume": "Spanish multinational energy company Iberdrola announced that it has raised $1.6 billion in a green […]",
-      "url": "https://www.esgtoday.com/iberdrola-returns-to-u-s-debt-market-with-1-6-billion-green-bond-issuance/?utm_source=rss&utm_medium=rss&utm_campaign=iberdrola-returns-to-u-s-debt-market-with-1-6-billion-green-bond-issuance",
-      "published_at": "2026-10-27T15:26:53+00:00"
-    },
-    {
-      "id": "cffd6d36b959ed8c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les semences anciennes et bio, la solution des riziculteurs italiens au manque d'eau",
-      "resume": "Première productrice d'Europe, l'Italie voit sa riziculture plombée par la hausse des prix et la sécheresse de cet été. Dans le Piémont, des agriculteurs font la preuve que le riz biologique est plus adapté au réchauffement climatique. Rova",
-      "url": "https://reporterre.net/Les-semences-anciennes-et-bio-la-solution-des-riziculteurs-italiens-au-manque-d-eau",
-      "published_at": "2026-10-27T15:18:44+00:00"
     },
     {
       "id": "f471dc938b4da87d",
@@ -236,42 +335,6 @@
       "published_at": "2026-10-27T15:03:55+00:00"
     },
     {
-      "id": "6ab57c6792fed5e0",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Un projet photovoltaïque d'Enercoop électrise un village du Lubéron",
-      "resume": "Dans un petit village du Luberon, il est prévu d'installer 7,4 hectares de panneaux photovoltaïques sous lesquels viendraient pâturer des chèvres… mais qui artificialiserait aussi un bois de chênes. Buoux (Vaucluse), reportage « Alerte sur ",
-      "url": "https://reporterre.net/Un-projet-photovoltaique-d-Enercoop-electrise-un-village-du-Luberon",
-      "published_at": "2026-10-27T15:01:56+00:00"
-    },
-    {
-      "id": "438e7dfa1c60e859",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "COP 17 Biodiversité : le financement de l'action toujours en question",
-      "resume": "Le déficit de financements fait partie des questions cruciales à résoudre par les États parties à la convention sur la diversité biologique (CDB) réunis jusqu'à la fin de semaine pour la COP 17 à Erevan (Arménie), où la participation des mi",
-      "url": "https://www.actu-environnement.com/ae/news/cop17-biodiversite-financement-deficit-gbff-48731.php4#xtor=RSS-6",
-      "published_at": "2026-10-27T14:07:57+00:00"
-    },
-    {
-      "id": "fc0a45493ea1bdfd",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Hg Acquires Majority Stake in Renewable Energy Advisory and Software Provider 3E",
-      "resume": "Software and services-focused investment firm Hg announced the acquisition of a majority stake in renewable […]",
-      "url": "https://www.esgtoday.com/hg-acquires-majority-stake-in-renewable-energy-advisory-and-software-provider-3e/?utm_source=rss&utm_medium=rss&utm_campaign=hg-acquires-majority-stake-in-renewable-energy-advisory-and-software-provider-3e",
-      "published_at": "2026-10-27T14:06:53+00:00"
-    },
-    {
-      "id": "e531b29e2a3c5113",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "CEE : un dispositif clé de la transition énergétique sous pression politique",
-      "resume": "Face aux critiques, les acteurs du secteur défendent les certificats d'économies d'énergie (CEE) qui constituent un levier financier indispensable pour accompagner la politique de transition énergétique, et ils s'engagent pour l'efficacité ",
-      "url": "https://www.actu-environnement.com/ae/news/certificats-economies-energie-cee-transition-energetique-hellio-sonergia-fncrr-thermasol-48730.php4#xtor=RSS-6",
-      "published_at": "2026-10-27T14:01:41+00:00"
-    },
-    {
       "id": "b6c0fa85bc6eab8a",
       "source": "Novethic",
       "categorie": "Presse",
@@ -281,49 +344,13 @@
       "published_at": "2026-10-27T13:55:06+00:00"
     },
     {
-      "id": "8807180217e9357c",
-      "source": "Reporterre",
+      "id": "cb91b11be9677834",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "« Les sécurités sociales écologiques peuvent nous sortir du désastre »",
-      "resume": "Comment assurer le quotidien dans un monde qui s'effondre ? Comment respecter les besoins collectifs et les limites planétaires à la fois ? Pour Ilan Moundib, une telle bifurcation implique de « nous mettre en sécurité sociale écologique ».",
-      "url": "https://reporterre.net/Les-Securites-sociales-ecologiques-peuvent-nous-sortir-du-desastre",
-      "published_at": "2026-10-27T13:33:28+00:00"
-    },
-    {
-      "id": "e03446a680df80ac",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EU Commission Launches Climate Resilience Framework",
-      "resume": "The European Commission unveiled on Tuesday its highly-anticipated Climate Resilience Framework, combining a new proposed […]",
-      "url": "https://www.esgtoday.com/eu-commission-launches-climate-resilience-framework/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-climate-resilience-framework",
-      "published_at": "2026-10-27T13:13:23+00:00"
-    },
-    {
-      "id": "a5107dbf18998b69",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "A412 : le juge ne suspend pas les travaux, mais ordonne la mise en conformité du chantier",
-      "resume": "Le chantier de l'A412 peut se poursuivre, mais pas sans conditions. C'est en substance ce qu'a décidé le juge des libertés d'Annecy, mardi 27 octobre. Dans sa décision, le juge demande à Amedea, filiale d'Eiffage, de respecter les prescript",
-      "url": "https://reporterre.net/A412-le-juge-ne-suspend-pas-les-travaux-mais-ordonne-la-mise-en-conformite-du-chantier",
-      "published_at": "2026-10-27T12:58:40+00:00"
-    },
-    {
-      "id": "71d2a4bbc469c52c",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Masdar Issues Inaugural $600 Million Blue Bond to Fund Water-Based Clean Energy Projects",
-      "resume": "UAE-based renewable energy developer Masdar announced that it has raised $600 million through its first […]",
-      "url": "https://www.esgtoday.com/masdar-issues-inaugural-600-million-blue-bond-to-fund-water-based-clean-energy-projects/?utm_source=rss&utm_medium=rss&utm_campaign=masdar-issues-inaugural-600-million-blue-bond-to-fund-water-based-clean-energy-projects",
-      "published_at": "2026-10-27T11:16:48+00:00"
-    },
-    {
-      "id": "ca210da88175e526",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EcoVadis, Vertice Partner to Integrate ESG Ratings into the Procurement Process",
-      "resume": "Sustainability ratings and solutions provider EcoVadis and AI procurement platform Vertice announced the launch of […]",
-      "url": "https://www.esgtoday.com/ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process",
-      "published_at": "2026-10-27T10:28:22+00:00"
+      "titre": "Trois messages aux négociateurs de la COP31 - Les Echos",
+      "resume": "Trois messages aux négociateurs de la COP31 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU1zZHFvVE95cUxLZkhRQlF5MlkySkY4cUxISnNhUmRLUXlRbjV6b05SdUNNY1pWZlJEY0d5S25IY2twVEx0enhLTUFGOWQ5NVZCVUtRTDhHNjZPRmRCOTgwM2RPTV9mdHB1S1dFUmQtN0FvSXNaa0ZwNkdLTzBWb192VmgyaWNlZV9YSmpRQ2x3UGpSem5vd2ZHZUhNdDB3blpIcnMxTQ?oc=5",
+      "published_at": "2026-10-27T09:45:08+00:00"
     },
     {
       "id": "2347f7170b57b020",
@@ -378,15 +405,6 @@
       "resume": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
       "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-26T18:28:56+00:00"
-    },
-    {
-      "id": "33921f5fabb52390",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Ze Energy dégage de nouveaux moyens, se projette vers 2030",
-      "resume": "Le spécialiste du solaire avec stockage cède 49% d’une centrale hybride dans les Landes à trois caisses régionales du Crédit Agricole et Terra Energies, fonds de la région Nouvelle Aquitaine. La centrale L’article Ze Energy dégage de nouvea",
-      "url": "https://www.greenunivers.com/2026/10/ze-energy-degage-de-nouveaux-moyens-se-projette-vers-2030-436900/",
-      "published_at": "2026-10-26T17:03:50+00:00"
     },
     {
       "id": "58831f05f0c3c3a5",
@@ -450,15 +468,6 @@
       "resume": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or o",
       "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
       "published_at": "2026-10-24T11:00:32+00:00"
-    },
-    {
-      "id": "75827827b0df19f8",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Meta, l’invité encombrant de la présidentielle brésilienne",
-      "resume": "Manifestation devant le siège de Meta à São Paulo, au Brésil, le 19 octobre 2026. Crédits photo : Allison Sales / Nurphoto via AFP Les partis et les candidats brésiliens à la présidentielle n’ont jamais autant dépensé chez Meta. D’après un ",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/meta-linvite-encombrant-de-la-presidentielle-bresilienne",
-      "published_at": "2026-10-23T11:45:19+00:00"
     },
     {
       "id": "93decf4d397bd214",
@@ -711,15 +720,6 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
-    },
-    {
-      "id": "4e3191d2bda8de04",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Lancement du projet Prospective Europe",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
-      "published_at": "2026-07-01T15:48:52+00:00"
     }
   ]
 }
