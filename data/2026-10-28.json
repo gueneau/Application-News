@@ -1,28 +1,39 @@
 {
   "date": "2026-10-28",
-  "generated_at": "07:13",
-  "elapsed_seconds": 466,
+  "generated_at": "13:15",
+  "elapsed_seconds": 561,
   "errors": [],
   "stats": {
     "jo_analyses": 16,
     "jo_retenus": 0,
-    "depts_restriction": 90
+    "depts_restriction": 89
   },
   "pipeline_meta": {
-    "run_at": "2026-10-28T07:13:39",
+    "run_at": "2026-10-28T13:15:08",
     "sources": {
       "JORF": 0,
-      "RSS": 6,
-      "VigiEau": 90,
+      "RSS": 9,
+      "VigiEau": 89,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 44,
-    "llm_seconds": 35.8
+    "llm_calls": 42,
+    "llm_seconds": 352.3
   },
   "items": [
+    {
+      "id": "aba51725c231",
+      "source": "Actu-Environnement",
+      "categorie": "Énergie",
+      "titre": "Le chiffre du jour : 4 milliards d’euros",
+      "resume": "Le Gouvernement annonce 4 milliards d'euros de prêts à taux préférentiels d'ici 2030 pour la rénovation des établissements scolaires, incluant un plan d'adaptation au changement climatique pour 500 lycées d'ici l'été 2027.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1846.html#xtor=RSS-6",
+      "date": "2026-10-28"
+    },
     {
       "id": "c9f4993cfc6d",
       "source": "Novethic",
@@ -35,14 +46,14 @@
       "date": "2026-10-28"
     },
     {
-      "id": "c2997c9ba3d0",
+      "id": "fd588d5887e5",
       "source": "Contexte Environnement",
       "categorie": "Climat",
-      "titre": "Comment la Commission entend adapter l’Europe à un réchauffement de 3 °C d’ici à 2100",
-      "resume": "La Commission européenne a présenté le 27 octobre 2026 sa toute première loi sur l'adaptation au changement climatique, visant un réchauffement de 3 °C d'ici à 2100 à travers un changement systémique sans financement spécifique ni alourdissement des obligations administratives.",
+      "titre": "Comment la Commission entend adapter l’Europe à un réchauffement de 3 degrés d’ici à 2100",
+      "resume": "La Commission européenne a présenté sa première loi sur l'adaptation au changement climatique visant à préparer l'UE à un réchauffement de 3 degrés d'ici à 2100, dans un contexte marqué par des impacts climatiques extrêmes sur l'industrie et les infrastructures.",
       "pourquoi": "",
       "criticite": 1,
-      "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-c-dici-a-2100_282976?source=rss",
+      "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-degres-dici-a-2100_282976?source=rss",
       "date": "2026-10-28"
     },
     {
@@ -54,6 +65,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/10/28/climat-79-millions-d-heures-de-travail-potentielles-perdues-en-france-chaque-annee-en-raison-de-l-exposition-aux-chaleurs_6801529_3244.html",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "c2997c9ba3d0",
+      "source": "Contexte Environnement",
+      "categorie": "Climat",
+      "titre": "Comment la Commission entend adapter l’Europe à un réchauffement de 3 °C d’ici à 2100",
+      "resume": "La Commission européenne a présenté le 27 octobre 2026 sa toute première loi sur l'adaptation au changement climatique, visant un réchauffement de 3 °C d'ici à 2100 à travers un changement systémique sans financement spécifique ni alourdissement des obligations administratives.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-c-dici-a-2100_282976?source=rss",
       "date": "2026-10-28"
     },
     {
@@ -76,6 +98,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/allegations-recyclage-plastique-coca-nestle-danone-48729.php4#xtor=RSS-6",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "fce2c0109968",
+      "source": "Actu-Environnement",
+      "categorie": "Énergie",
+      "titre": "CEE : un dispositif clé de la transition énergétique sous pression politique",
+      "resume": "Le dispositif des certificats d'économies d'énergie (CEE), qui finance 8 à 10 milliards d'euros d'aides annuelles, fait l'objet de critiques politiques remettant en cause son avenir dans le contexte de la transition énergétique.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/certificats-economies-energie-cee-transition-energetique-hellio-sonergia-fncrr-thermasol-48730.php4#xtor=RSS-6",
       "date": "2026-10-27"
     },
     {
@@ -287,13 +320,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "21",
-      "dept_nom": "Côte-d'Or",
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
+      "dept_code": "21",
+      "dept_nom": "Côte-d'Or",
       "niveau": "crise"
     },
     {
@@ -329,11 +362,6 @@
     {
       "dept_code": "38",
       "dept_nom": "Isère",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "07",
-      "dept_nom": "Ardèche",
       "niveau": "crise"
     },
     {
@@ -389,11 +417,6 @@
     {
       "dept_code": "04",
       "dept_nom": "Alpes-de-Haute-Provence",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "88",
-      "dept_nom": "Vosges",
       "niveau": "crise"
     },
     {
@@ -482,11 +505,6 @@
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "67",
-      "dept_nom": "Bas-Rhin",
-      "niveau": "alerte renforcée"
-    },
-    {
       "dept_code": "91",
       "dept_nom": "Essonne",
       "niveau": "alerte renforcée"
@@ -494,6 +512,11 @@
     {
       "dept_code": "52",
       "dept_nom": "Haute-Marne",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "07",
+      "dept_nom": "Ardèche",
       "niveau": "alerte renforcée"
     },
     {
@@ -507,14 +530,19 @@
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "2B",
-      "dept_nom": "Haute-Corse",
+      "dept_code": "88",
+      "dept_nom": "Vosges",
       "niveau": "alerte renforcée"
     },
     {
       "dept_code": "2A",
       "dept_nom": "Corse-du-Sud",
       "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "67",
+      "dept_nom": "Bas-Rhin",
+      "niveau": "alerte"
     },
     {
       "dept_code": "05",
