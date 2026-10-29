@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
-  "generated_at": "07:15",
-  "elapsed_seconds": 560,
+  "generated_at": "13:16",
+  "elapsed_seconds": 653,
   "errors": [],
   "stats": {
     "jo_analyses": 35,
@@ -9,20 +9,31 @@
     "depts_restriction": 89
   },
   "pipeline_meta": {
-    "run_at": "2026-10-29T07:15:07",
+    "run_at": "2026-10-29T13:16:40",
     "sources": {
       "JORF": 0,
-      "RSS": 5,
+      "RSS": 7,
       "VigiEau": 89,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 53,
-    "llm_seconds": 91.0
+    "llm_calls": 46,
+    "llm_seconds": 492.3
   },
   "items": [
+    {
+      "id": "4b0b28890385",
+      "source": "Novethic",
+      "categorie": "Biodiversité",
+      "titre": "Biodiversité : le SBTN veut faire des investisseurs un levier de pression sur les entreprises",
+      "resume": "Le Science-based targets network (SBTN), avec le WWF France et le CDP, lance une boîte à outils pour les investisseurs afin d'utiliser les cadres de reporting sur la nature comme levier de pression auprès des entreprises.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.novethic.fr/finance-durable/finance-verte/biodiversite-le-sbtn-veut-faire-des-investisseurs-un-levier-de-pression-sur-les-entreprises",
+      "date": "2026-10-29"
+    },
     {
       "id": "d8c06b1c4888",
       "source": "Les Echos Environnement",
@@ -46,14 +57,14 @@
       "date": "2026-10-28"
     },
     {
-      "id": "aba51725c231",
+      "id": "27aa7b21af20",
       "source": "Actu-Environnement",
       "categorie": "Énergie",
-      "titre": "Le chiffre du jour : 4 milliards d’euros",
-      "resume": "Le Gouvernement annonce 4 milliards d'euros de prêts à taux préférentiels d'ici 2030 pour la rénovation des établissements scolaires, incluant un plan d'adaptation au confort thermique pour 500 lycées d'ici l'été 2027.",
+      "titre": "ENR : un décret réforme les indemnités de résiliation et la compensation des prix négatifs",
+      "resume": "Un décret réforme les mécanismes de soutien aux énergies renouvelables électriques, modifiant notamment le régime d'indemnités de résiliation anticipée et la compensation des prix négatifs.",
       "pourquoi": "",
       "criticite": 1,
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1846.html#xtor=RSS-6",
+      "url": "https://www.actu-environnement.com/ae/news/decret-enr-indemnites-resiliation-prix-negatifs-48742.php4#xtor=RSS-6",
       "date": "2026-10-28"
     },
     {
@@ -76,6 +87,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "aba51725c231",
+      "source": "Actu-Environnement",
+      "categorie": "Énergie",
+      "titre": "Le chiffre du jour : 4 milliards d’euros",
+      "resume": "Le Gouvernement annonce 4 milliards d'euros de prêts à taux préférentiels d'ici 2030 pour la rénovation des établissements scolaires, incluant un plan d'adaptation au confort thermique pour 500 lycées d'ici l'été 2027.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1846.html#xtor=RSS-6",
       "date": "2026-10-28"
     }
   ],
@@ -256,13 +278,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "89",
-      "dept_nom": "Yonne",
+      "dept_code": "10",
+      "dept_nom": "Aube",
       "niveau": "crise"
     },
     {
-      "dept_code": "10",
-      "dept_nom": "Aube",
+      "dept_code": "89",
+      "dept_nom": "Yonne",
       "niveau": "crise"
     },
     {
@@ -291,13 +313,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "01",
-      "dept_nom": "Ain",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "01",
+      "dept_nom": "Ain",
       "niveau": "crise"
     },
     {
@@ -336,13 +358,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
@@ -371,13 +393,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "90",
-      "dept_nom": "Territoire de Belfort",
+      "dept_code": "68",
+      "dept_nom": "Haut-Rhin",
       "niveau": "crise"
     },
     {
-      "dept_code": "68",
-      "dept_nom": "Haut-Rhin",
+      "dept_code": "90",
+      "dept_nom": "Territoire de Belfort",
       "niveau": "crise"
     },
     {
