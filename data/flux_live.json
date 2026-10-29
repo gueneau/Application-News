@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-29T00:08:10.137285+00:00",
+  "generated_at": "2026-10-29T06:07:52.068731+00:00",
   "items": [
+    {
+      "id": "095f6f5826c1cf27",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les efforts mondiaux de restauration de la nature jugés « encourageants » mais toujours très insuffisants",
+      "resume": "Un rapport de l’ONU montre que 252 millions d’hectares font actuellement l’objet d’actions de restauration dans le monde. Une surface importante, toutefois bien en deçà de l’objectif de restauration de 30 % des écosystèmes dégradés d’ici à ",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/29/les-efforts-mondiaux-de-restauration-de-la-nature-juges-encourageants-mais-toujours-tres-insuffisants_6802123_3244.html",
+      "published_at": "2026-10-29T06:00:08+00:00"
+    },
+    {
+      "id": "2bfec8e4dddea878",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Biodiversité : le SBTN veut faire des investisseurs un levier de pression sur les entreprises",
+      "resume": "Le Science based targets network propose aux investisseurs des outils pour engager un dialogue sur la nature avec les entreprises. @Fatma Sonmez - Pexels La finance sera-t-elle la clé pour faire avancer les politiques sur la nature des entr",
+      "url": "https://www.novethic.fr/finance-durable/finance-verte/biodiversite-le-sbtn-veut-faire-des-investisseurs-un-levier-de-pression-sur-les-entreprises",
+      "published_at": "2026-10-29T05:45:11+00:00"
+    },
+    {
+      "id": "4e923b32cd00af12",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Plus résistant face aux canicules, le retour en grâce du maïs grand roux au Pays basque",
+      "resume": "Il y a dix ans, une poignée de paysans des Pyrénées-Atlantiques opposés au développement des OGM renouaient avec une variété locale de maïs oubliée depuis les années 1950. Un pari qu’ils ne regrettent pas à l’heure d’un changement climatiqu",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/29/plus-resistant-face-aux-canicules-le-retour-en-grace-du-mais-grand-roux-au-pays-basque_6802089_4500055.html",
+      "published_at": "2026-10-29T05:30:01+00:00"
+    },
+    {
+      "id": "b7e347217218d62e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le changement climatique, enjeu majeur pour le patrimoine culturel à l’horizon 2050",
+      "resume": "Les châteaux de la Loire, le Mont-Saint-Michel, le fort Saint-André à Villeneuve-lès-Avignon ou encore l’abbaye de Fontfroide dans l’Aude… Trois études émanant d’organismes différents alertent sur l’impact du dérèglement climatique pour ces",
+      "url": "https://www.lemonde.fr/culture/article/2026/10/29/le-changement-climatique-enjeu-majeur-pour-le-patrimoine-culturel-a-l-horizon-2050_6802014_3246.html",
+      "published_at": "2026-10-29T04:30:21+00:00"
+    },
     {
       "id": "8507606f1dc9a062",
       "source": "The Guardian Environment",
@@ -65,6 +101,15 @@
       "published_at": "2026-10-28T17:00:07+00:00"
     },
     {
+      "id": "b859ecb16005dbe7",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "Christophe Béchu, premier lieutenant d’Edouard Philippe",
+      "resume": "L'ancien ministre de la Transition écologique et chantre de l'adaptation au réchauffement climatique est au cœur du dispositif du candidat à l'élection présidentielle.",
+      "url": "https://www.politico.eu/article/christophe-bechu-premier-lieutenant-dedouard-philippe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-10-28T16:53:35+00:00"
+    },
+    {
       "id": "d225af0443df2e5f",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -81,6 +126,15 @@
       "resume": "Le deuxième plan d'action de la stratégie nationale sur les aires protégées fixe comme objectif au moins 3 % du territoire terrestre hexagonal et 5 % des façades maritimes hexagonales sous protection forte. Les taux actuels sont de 1,56 % e",
       "url": "https://www.actu-environnement.com/ae/news/snap-aires-protegees-plan-action-2026-48741.php4#xtor=RSS-6",
       "published_at": "2026-10-28T16:20:34+00:00"
+    },
+    {
+      "id": "89dc674b9bbfa217",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "Le gouvernement met fin à plusieurs programmes de lutte contre la précarité énergétique",
+      "resume": "Ne poursuivant pas l’objectif d’électrification du gouvernement, cinq programmes d’aide au plus précaires et aux collectivités ne seront pas renouvelés à la fin de l’année, dévoile POLITICO.",
+      "url": "https://www.politico.eu/article/le-gouvernement-met-fin-a-plusieurs-programmes-de-lutte-contre-la-precarite-energetique/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-10-28T16:11:56+00:00"
     },
     {
       "id": "a55ee449e9b5e3b1",
@@ -299,33 +353,6 @@
       "published_at": "2026-10-28T05:45:50+00:00"
     },
     {
-      "id": "d15c19dad773bec2",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Climat : 79 millions d’heures de travail potentielles perdues en France chaque année en raison de l’exposition aux chaleurs",
-      "resume": "Les chercheurs du Lancet Countdown ont estimé, pays par pays, le fardeau sanitaire du réchauffement climatique. Le secteur du bâtiment est le plus touché par les pertes potentielles d’heures de travail et de revenus.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/28/climat-79-millions-d-heures-de-travail-potentielles-perdues-en-france-chaque-annee-en-raison-de-l-exposition-aux-chaleurs_6801529_3244.html",
-      "published_at": "2026-10-28T04:45:09+00:00"
-    },
-    {
-      "id": "78cbdbd6f7fd727a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Espagne, les éoliennes de dernière génération libèrent le paysage",
-      "resume": "Près de La Corogne, en Galice, l’opérateur Endesa procède au remplacement de 40 turbines de trente ans d’âge par quatre éoliennes qui vont presque doubler la quantité d’électricité produite. Subventionnée par l’Union européenne, cette prati",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/28/en-espagne-les-eoliennes-de-derniere-generation-liberent-le-paysage_6801526_3234.html",
-      "published_at": "2026-10-28T04:30:11+00:00"
-    },
-    {
-      "id": "3a0a983a1ccba737",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
-      "resume": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérablement aggravés depuis la signature de l’accord de Paris, en 2015.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
-      "published_at": "2026-10-28T04:00:38+00:00"
-    },
-    {
       "id": "85eb73fd4fa174a2",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -432,15 +459,6 @@
       "resume": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
       "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-26T18:28:56+00:00"
-    },
-    {
-      "id": "58831f05f0c3c3a5",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Le patron d’Audi dans la tourmente après avoir participé à un meeting de Donald Trump",
-      "resume": "Le président américain Donald Trump salue Gernot Dollner, PDG d'Audi AG, lors d'un rassemblement de campagne pour les élections de mi-mandat au Guardian Centers of Georgia à Perry, en Géorgie, le 24 octobre 2026. BRENDAN SMIALOWSKI / AFP Le",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/le-patron-daudi-dans-la-tourmente-apres-avoir-participe-a-un-meeting-de-donald-trump",
-      "published_at": "2026-10-26T13:58:03+00:00"
     },
     {
       "id": "6957988cd3efa897",
@@ -594,24 +612,6 @@
       "resume": "Les trois candidats à la présidentielle ont répondu aux questions de nos journalistes sur l’Europe, l’intelligence artificielle ou l’énergie. Thèmes sur lesquels les clivages ont été nombreux.",
       "url": "https://www.politico.eu/article/philippe-glucksmann-retailleau-les-temps-forts-du-sommet-sur-la-competitivite-economique-de-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-13T16:00:25+00:00"
-    },
-    {
-      "id": "50398b4a17220baf",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Bruno Retailleau temporise sur la relance du nucléaire",
-      "resume": "Le candidat LR à l’élection présidentielle préfère les réacteurs de quatrième génération, a-t-il déclaré au sommet pour la compétitivité de POLITICO.",
-      "url": "https://www.politico.eu/article/bruno-retailleau-temporise-sur-la-relance-du-nucleaire/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-13T13:47:24+00:00"
-    },
-    {
-      "id": "dbf051cde67573f8",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Budget 2027 : pour Catherine MacGregor la rétroactivité sur le soutien aux renouvelables est “une ligne rouge”",
-      "resume": "Il faut donner “confiance aux investisseurs”, a déclaré la directrice générale d'Engie à l’occasion du sommet sur la compétitivité de POLITICO.",
-      "url": "https://www.politico.eu/article/budget-2027-pour-catherine-macgregor-la-retroactivite-sur-le-soutien-aux-renouvelables-est-une-ligne-rouge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-13T11:03:31+00:00"
     },
     {
       "id": "29632628c172cc87",
