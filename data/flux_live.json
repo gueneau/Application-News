@@ -1,14 +1,203 @@
 {
-  "generated_at": "2026-10-29T13:27:49.850912+00:00",
+  "generated_at": "2026-10-29T19:06:57.562371+00:00",
   "items": [
     {
-      "id": "f6423afe80251919",
+      "id": "6983520f03adf3a3",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Fournisseur coopératif de gaz, Gazcoop se lance sur un marché risqué",
+      "resume": "Quelque 156 000€. C’est ce que Gazcoop, nouveau venu dans la fourniture de gaz, a récolté en moins d’une semaine auprès d’une centaine de sociétaires. Gazcoop a la particularité d’être un fournisseur coopératif. Rien de nouveau dans l’énerg",
+      "url": "https://www.greenunivers.com/2026/10/fournisseur-cooperatif-de-gaz-gazcoop-se-lance-sur-un-marche-risque-437298/",
+      "published_at": "2026-10-29T17:02:51+00:00"
+    },
+    {
+      "id": "38fcef2a5c0d9d50",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Au Canada, quinze jeunes poursuivent l’Etat pour inaction climatique, dénonçant une « atteinte injustifiée » à leurs droits",
+      "resume": "Plusieurs plaignants n’étaient que des enfants lorsqu’ils ont décidé d’attaquer l’Etat en justice, en 2019. Une bataille judiciaire qui pourrait faire date en déterminant jusqu’où un Etat est tenu de protéger ses citoyens contre le réchauff",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/29/au-canada-quinze-jeunes-poursuivent-l-etat-pour-inaction-climatique-denoncant-une-atteinte-injustifiee-a-leurs-droits_6802365_3244.html",
+      "published_at": "2026-10-29T17:00:09+00:00"
+    },
+    {
+      "id": "6cc27c73056d055b",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Voltalia s’apprête à choisir l’acquéreur de sa filiale Helexia",
+      "resume": "Exclusif – Voltalia devrait réussir à céder sa filiale Helexia avant la fin de l’année comme il le souhaite et pourrait même conclure dans les jours qui viennent. Mis sur le marché au printemps, ce spécialiste des toitures solaires mais aus",
+      "url": "https://www.greenunivers.com/2026/10/voltalia-sapprete-a-choisir-lacquereur-de-sa-filiale-helexia-437188/",
+      "published_at": "2026-10-29T16:57:11+00:00"
+    },
+    {
+      "id": "e50725920c0598ef",
+      "source": "I4CE",
+      "categorie": "Climat",
+      "titre": "Adaptation au changement climatique : dans le silence de Matignon",
+      "resume": "Après l'été caniculaire de 2026, le Premier ministre a commandé à un Plan d'accélération de l'adaptation de la France au changement climatique, remis fin septembre. Et depuis ? Silence radio. L’article Adaptation au changement climatique : ",
+      "url": "https://www.i4ce.org/adaptation-changement-climatique-silence-matignon/",
+      "published_at": "2026-10-29T16:52:20+00:00"
+    },
+    {
+      "id": "1171f541c921e9b5",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Holosolis, FertigHy, Alpinov X, trading… : les coulisses de TBB 2026",
+      "resume": "Le rendez-vous annuel de InnoEnergy The Business Booster a fait cette année étape à Munich en Allemagne, les 28 et 29 octobre. GreenUnivers y a échangé avec plusieurs entreprises de la transition énergétique et écologique. Une sélection de ",
+      "url": "https://www.greenunivers.com/2026/10/holosolis-fertighy-alpinov-x-trading-les-coulisses-de-tbb-2026-437289/",
+      "published_at": "2026-10-29T16:52:15+00:00"
+    },
+    {
+      "id": "e409822d43f2fbcd",
       "source": "Actu-Environnement",
       "categorie": "Presse",
-      "titre": "COP 17 : la restauration des écosystèmes dégradés nécessite un quadruplement des financements",
-      "resume": "Un rapport de l'ONU publié dans le cadre de la COP 17 d'Erevan révèle que 252 millions d'hectares dans 149 pays sont en cours de restauration. Mais les financements doivent quadrupler et les écosystèmes aquatiques sont à la peine.",
-      "url": "https://www.actu-environnement.com/ae/news/cop17-restauration-ecosystemes-financements-onu-48744.php4#xtor=RSS-6",
-      "published_at": "2026-10-29T13:10:50+00:00"
+      "titre": "Gestion des déchets : la Fnade veut faire de la REP un outil de réindustrialisation de la France",
+      "resume": "La Fnade veut que les filières REP profitent aux industriels hexagonaux. La mise en oeuvre du principe de proximité pourrait profiter aux projets de chaudières CSR et des conseils stratégiques pourraient soutenir des filières de recyclage f",
+      "url": "https://www.actu-environnement.com/ae/news/fnade-principe-proximite-rep-csr-reindustralisation-conseil-strategique-rep-48748.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T16:45:42+00:00"
+    },
+    {
+      "id": "e9734bf59347d776",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Pesticides, santé et milieu (1/2) : ce que la recherche révèle",
+      "resume": "Parmi les projets du programme de recherche Environnement-Santé-Travail, les pesticides sont un sujet phare. La connaissance a ainsi été améliorée sur les effets sur les sujets obèses, sur les néonicotinoïdes et sur l'écosystème des mangrov",
+      "url": "https://www.actu-environnement.com/ae/news/pesticides-recherche-pnr-est-sante-environnementale-48743.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T16:33:01+00:00"
+    },
+    {
+      "id": "f1e37cb985d0f7ed",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Autoroute A412 : le juge des libertés et de la détention ordonne la mise en conformité du chantier",
+      "resume": "Par une ordonnance du 27 octobre 2026, le juge des libertés et de la détention du tribunal judiciaire d'Annecy a ordonné la mise en conformité, sous astreinte, du chantier de l'autoroute A412 mais a en revanche refusé de suspendre les trava",
+      "url": "https://www.actu-environnement.com/ae/news/autoroute-a412-mise-conformite-astreinte-chantier-48747.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T16:32:34+00:00"
+    },
+    {
+      "id": "16d8e98ff40c605f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "CEE : trois programmes contre la précarité énergétique menacés de suppression",
+      "resume": "Le Gouvernement envisage de ne pas renouveler trois programmes de certificats d'économies d'énergie (CEE) dédiés à la lutte contre la précarité énergétique. Sont concernés : le programme Territoires zéro exclusion énergétique, porté par le ",
+      "url": "https://www.actu-environnement.com/ae/news/suppression-programmes-cee-precarite-energetique-48749.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T16:31:02+00:00"
+    },
+    {
+      "id": "4c2ae7dca19a464f",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le gouvernement bouscule les CEE pour soutenir l’électrification",
+      "resume": "Fiches et programmes supprimés mais aussi nouvelles opérations financées… Le gouvernement continue de jouer à chamboule-tout dans les certificats d’économies d’énergie (CEE). Plus que jamais décidé à les réorienter vers l’électrification, i",
+      "url": "https://www.greenunivers.com/2026/10/le-gouvernement-bouscule-les-cee-pour-soutenir-lelectrification-437238/",
+      "published_at": "2026-10-29T16:12:34+00:00"
+    },
+    {
+      "id": "3ff0e79a24baa3b8",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "L'État supprime cinq programme de lutte à la précarité énergétique",
+      "resume": "Le gouvernement met fin à plusieurs dispositifs de lutte contre la précarité énergétique. Selon des informations de Politico publiées mercredi 28 octobre, au moins cinq programmes d'aide aux ménages précaires et aux collectivités ne seront ",
+      "url": "https://reporterre.net/L-Etat-supprime-cinq-programme-de-lutte-a-la-precarite-energetique",
+      "published_at": "2026-10-29T15:27:25+00:00"
+    },
+    {
+      "id": "695bed6eabb39427",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Restauration des écosystèmes : le monde doit tripler ses efforts",
+      "resume": "Les efforts mondiaux pour restaurer la nature restent très insuffisants. Selon un rapport publié jeudi 29 octobre par l'Organisation des Nations unies pour l'alimentation et l'agriculture ( FAO ), le Programme des Nations unies pour l'envir",
+      "url": "https://reporterre.net/Restauration-des-ecosystemes-le-monde-doit-tripler-ses-efforts",
+      "published_at": "2026-10-29T15:15:33+00:00"
+    },
+    {
+      "id": "42dee28de397e670",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Clarity AI Launches New Solution to Enable Investors to Assess Companies’ Progress on Climate Goals",
+      "resume": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a […]",
+      "url": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
+      "published_at": "2026-10-29T15:15:29+00:00"
+    },
+    {
+      "id": "bfc01316c7ed26e6",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Jeux vidéo : une empreinte carbone modeste mais appelée à croître",
+      "resume": "Le jeu vidéo pèse peu dans l'empreinte carbone française, mais son impact pourrait nettement augmenter d'ici 2030, selon la première évaluation environnementale de ses usages publiée par l'Ademe. En 2024, la pratique des 38,3 millions de jo",
+      "url": "https://www.actu-environnement.com/ae/news/jeux-video-empreinte-carbone-ademe-2030-48745.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T15:12:17+00:00"
+    },
+    {
+      "id": "c316ec63eee6b719",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "InnoEnergy assure n’être toujours pas informé d’une enquête du Parquet européen",
+      "resume": "Après le départ de Sébastien Clerc, InnoEnergy va poursuivre avec une direction bicéphale confiée à Bart de Beer, directeur financier depuis 2011 et Elena Bou, cofondatrice et directrice de l’innovation. Cette configuration a L’article Inno",
+      "url": "https://www.greenunivers.com/2026/10/innoenergy-assure-netre-toujours-pas-informe-dune-enquete-du-parquet-europeen-437191/",
+      "published_at": "2026-10-29T15:09:29+00:00"
+    },
+    {
+      "id": "432d94770d3206fc",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Offres intégrées pompes à chaleur : les professionnels du bâtiment refusent d'être de simples poseurs",
+      "resume": "Le 30 septembre 2026, le Gouvernement a retenu six consortiums de l'appel à projets destiné à faire émerger des offres intégrées pour les pompes à chaleur (PAC). Ces lauréats proposent au sein d'une même offre l'installation d'une PAC air-e",
+      "url": "https://www.actu-environnement.com/ae/news/offres-integrees-pac-batiment-artisans-capeb-ffb-concurrence-48746.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T15:06:52+00:00"
+    },
+    {
+      "id": "e3cc2c7e41540ae5",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Christine Lagarde quitte la BCE, quel bilan climatique après huit ans de présidence ?",
+      "resume": "Christine Lagarde, la présidente de la Banque centrale européenne, a annoncé son départ avant la fin de son mandat. @BCE \"Je quitte cette institution avec le sentiment du devoir accompli et une BCE prête pour l’avenir.\" Dans un message vidé",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/christine-lagarde-quitte-la-bce-quel-bilan-climatique-apres-huit-ans-de-presidence",
+      "published_at": "2026-10-29T15:04:35+00:00"
+    },
+    {
+      "id": "05dc560fa282a7e4",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Une forme de résistance » : à Gaza, elles luttent pour la survie des semences paysannes",
+      "resume": "Après trois ans de guerre et des décennies de blocus, les semences des agriculteurs gazaouis sont rares. À Gaza, une agricultrice a réussi à rebâtir une banque de semences avec des variétés autochtones. « Les semences sont la vie », dit-ell",
+      "url": "https://reporterre.net/Une-forme-de-resistance-a-Gaza-elles-luttent-pour-la-survie-des-semences-paysannes",
+      "published_at": "2026-10-29T14:30:10+00:00"
+    },
+    {
+      "id": "cbfc8f2ed7cc1769",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Chlordécone : l'État condamné à indemniser un ancien ouvrier agricole",
+      "resume": "La France sommée de payer pour son rôle dans le scandale du chlordécone. Le tribunal administratif de la Guadeloupe a condamné, mardi 27 octobre, l'État à verser 28 500 euros à un ancien ouvrier agricole atteint d'un cancer de la prostate. ",
+      "url": "https://reporterre.net/Chlordecone-l-Etat-condamne-a-indemniser-un-ancien-ouvrier-agricole",
+      "published_at": "2026-10-29T14:28:58+00:00"
+    },
+    {
+      "id": "2bcd9a20c5d98dd1",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "DuPont Unveils SBTi-Validated Net Zero Targets",
+      "resume": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to […]",
+      "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
+      "published_at": "2026-10-29T14:21:10+00:00"
+    },
+    {
+      "id": "77277eef61ef4c29",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Il faut que ceux qui se gavent mettent la main au porte-monnaie » : en pleine crise sociale, les superprofits de Total ne passent pas",
+      "resume": "Alors que TotalEnergies dévoilait le 29 octobre ses bénéfices colossaux pour 2026, des ONG ont organisé une action près de l'Assemblée nationale, à Paris, pour réclamer la taxation des superprofits pétroliers. Elles dénoncent des chiffres i",
+      "url": "https://reporterre.net/C-est-d-une-indecence-rare-en-pleine-crise-sociale-Total-salue-ses-benefices-record",
+      "published_at": "2026-10-29T14:02:30+00:00"
+    },
+    {
+      "id": "77089fc191b9ab69",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Salesforce Signs 500,000 Ton Superpollutant Carbon Credit Deal",
+      "resume": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane […]",
+      "url": "https://www.esgtoday.com/salesforce-signs-500000-ton-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-500000-ton-superpollutant-carbon-credit-deal",
+      "published_at": "2026-10-29T13:29:17+00:00"
     },
     {
       "id": "c2bac29a4457f28c",
@@ -47,20 +236,11 @@
       "published_at": "2026-10-29T11:29:11+00:00"
     },
     {
-      "id": "e9734bf59347d776",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Pesticides, santé et milieu (1/2) : ce que la recherche révèle",
-      "resume": "Parmi les projets du programme de recherche Environnement-Santé-Travail, les pesticides sont un sujet phare. La connaissance a ainsi été améliorée sur les effets sur les sujets obèses, sur les néonicotinoïdes et sur l'écosystème des mangrov",
-      "url": "https://www.actu-environnement.com/ae/news/pesticides-recherche-pnr-est-sante-environnementale-48743.php4#xtor=RSS-6",
-      "published_at": "2026-10-29T11:01:01+00:00"
-    },
-    {
       "id": "ff373106f24f64f1",
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "COP biodiversité : intenses négociations pour sauver le fonds Cali sur la protection de la nature",
-      "resume": "Le mécanisme financier censé aider les populations autochtones et communautés locales qui protègent la nature, mis sur pied lors de la dernière COP biodiversité en Colombie, n’a été abondé, à date, qu’à hauteur de 10 000 dollars.",
+      "resume": "Le mécanisme financier censé aider les populations autochtones et communautés locales qui protègent la nature, mis sur pied lors de la dernière COP biodiversité en Colombie, n’a été abondé, à ce jour, qu’à hauteur de 10 000 dollars.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/29/cop-biodiversite-intenses-negociations-pour-sauver-le-fonds-cali-sur-la-protection-de-la-nature_6802312_3244.html",
       "published_at": "2026-10-29T10:38:43+00:00"
     },
@@ -71,7 +251,7 @@
       "titre": "TotalEnergies affiche des profits record, dopés par les tensions mondiales sur le gazole",
       "resume": "La major française, dont les raffineries tournent à plein régime, a enregistré un bénéfice net en hausse de 124 % sur un an au troisième trimestre, à 8,3 milliards de dollars.",
       "url": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-affiche-des-profits-record-dopes-par-les-tensions-mondiales-sur-le-gazole_6802305_3234.html",
-      "published_at": "2026-10-29T10:05:07+00:00"
+      "published_at": "2026-10-29T10:05:06+00:00"
     },
     {
       "id": "ccc249fd67e9035d",
@@ -81,24 +261,6 @@
       "resume": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of pas",
       "url": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
       "published_at": "2026-10-29T10:00:31+00:00"
-    },
-    {
-      "id": "e221d94cc952bae0",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Préjudice écologique : quelle place pour les alternatives aux poursuites ?",
-      "resume": "Dans cet article, les auteurs analysent quelles alternatives aux poursuites pénales peuvent être employées pour permettre la réparation du préjudice écologique, dont l'effectivité reste encore faible.",
-      "url": "https://www.actu-environnement.com/ae/news/prejudice-ecologique-alternatives-poursuites-cjip-48728.php4#xtor=RSS-6",
-      "published_at": "2026-10-29T09:30:00+00:00"
-    },
-    {
-      "id": "a8565806970eb57a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Stopper les éoliennes la nuit : cinq fois moins de collisions pour les chauves-souris",
-      "resume": "L'idée est simple et l'efficacité redoutable. Une étude menée par des scientifiques du Cesco (Centre d'écologie et des sciences de la conservation, qui appartient au Muséum national d'histoire naturelle) et financée par l'Ademe (Agence de l",
-      "url": "https://reporterre.net/Stopper-les-eoliennes-la-nuit-cinq-fois-moins-de-collisions-pour-les-chauves-souris",
-      "published_at": "2026-10-29T09:22:59+00:00"
     },
     {
       "id": "d975619e4f84f945",
@@ -117,51 +279,6 @@
       "resume": "Le bénéfice du géant pétrogazier a plus que doublé sur un an, porté par la flambée des cours des hydrocarbures liée aux conflits en Ukraine et au Moyen-Orient. En France, le gazole dépasse désormais 2,35 euros le litre à la pompe, alimentan",
       "url": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html",
       "published_at": "2026-10-29T08:57:54+00:00"
-    },
-    {
-      "id": "770bdf92a0246e6d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« C'est un crachat sur un cercueil » : un grand raout de réactionnaires et de climatosceptiques monté avec de l'argent public",
-      "resume": "Des partis de gauche dénoncent la tenue d'un « colloque » xénophobe réunissant le 31 octobre dans les Hauts-de-Seine, grâce à de l'argent public, de nombreuses personnalités issues de l'extrême droite identitaire. « Comment un rassemblement",
-      "url": "https://reporterre.net/Un-grand-raout-de-reactionnaires-et-de-climatosceptiques-monte-avec-de-l-argent-public",
-      "published_at": "2026-10-29T08:33:50+00:00"
-    },
-    {
-      "id": "f84f850dbe200386",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies - Les Echos",
-      "resume": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTZWSFV5bDMtQkxwOGtPMnFjYjduNXN4RkVEZ3g2azJSZ1BkWE9QUmQ3a0pwV3N2YjlfNThta29pNHBRVktqYVNpTGJJRG52cWlGSmt2d1dfOUpHSVM3aWpZWGc5UXFXX2YyZmtwOHhod19FSjg5dDM2b2t3R2lBcGhIMjFjamJqS3hmcm5qc2FYNTZNWG90QkRNQUQ3UnMtWm9fN1ZtcENGSW9aUERzTmpTSHVoenR0RGpzNFVjRTdCUUNNZHpVR1Y2WDdmeGVESjhwQkdnOUVDSFR2SHBwZjZpTDFKQW9SalFJaFNlXy1qRkU?oc=5",
-      "published_at": "2026-10-29T08:03:22+00:00"
-    },
-    {
-      "id": "e392966974355aab",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« L'économie de la mort » : comment le pouvoir nie les besoins vitaux des personnes racisées",
-      "resume": "Se nourrir, se laver... Dans « L'économie de la mort », l'autrice décoloniale Françoise Vergès propose une politisation des besoins vitaux. Ceux-ci sont sans cesse entravés, depuis la traite esclavagiste jusqu'aux guerres impérialistes cont",
-      "url": "https://reporterre.net/De-la-traite-esclavagiste-aux-lycees-de-Saint-Denis-comment-le-pouvoir-prive-les-personnes-racisees-de-leurs-besoins-elementairesarticle",
-      "published_at": "2026-10-29T07:19:35+00:00"
-    },
-    {
-      "id": "b8931a37966d040f",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Cigéo : à Bure, la poubelle nucléaire prend l'eau (ou ce qu'il en reste)",
-      "resume": "Alors que la Meuse connaît une sécheresse et des restrictions d'eau, le projet d'enfouissement de déchets radioactifs prévu à Bure pourrait accroître la pression sur une ressource déjà sous tension. Strasbourg (Bas-Rhin), correspondance Pay",
-      "url": "https://reporterre.net/Cigeo-a-Bure-la-poubelle-nucleaire-prend-l-eau-ou-ce-qu-il-en-reste",
-      "published_at": "2026-10-29T07:10:38+00:00"
-    },
-    {
-      "id": "3f2288683797953b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Du maquillage nocif pour Octobre rose ? L'hypocrisie de ces géants de la cosmétique qui disent lutter contre le cancer",
-      "resume": "Pendant Octobre rose, des marques de cosmétiques proposent aux clientes d'acheter crèmes de soin et maquillage en échange d'un soutien financier à la lutte contre le cancer. Or ces mêmes produits contiennent des substances controversées. Re",
-      "url": "https://reporterre.net/Octobre-rose-ces-industriels-recoltent-des-fonds-en-vendant-du-maquillage-potentiellement-cancerogene",
-      "published_at": "2026-10-29T06:48:45+00:00"
     },
     {
       "id": "095f6f5826c1cf27",
@@ -191,15 +308,6 @@
       "published_at": "2026-10-29T05:30:00+00:00"
     },
     {
-      "id": "b7e347217218d62e",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le changement climatique, enjeu majeur pour le patrimoine culturel à l’horizon 2050",
-      "resume": "Les châteaux de la Loire, le Mont-Saint-Michel, le fort Saint-André à Villeneuve-lès-Avignon ou encore l’abbaye de Fontfroide dans l’Aude… Trois études émanant d’organismes différents alertent sur l’impact du dérèglement climatique pour ces",
-      "url": "https://www.lemonde.fr/culture/article/2026/10/29/le-changement-climatique-enjeu-majeur-pour-le-patrimoine-culturel-a-l-horizon-2050_6802014_3246.html",
-      "published_at": "2026-10-29T04:30:13+00:00"
-    },
-    {
       "id": "8507606f1dc9a062",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -207,15 +315,6 @@
       "resume": "Seawater surges into low-lying communities from San Diego to San Francisco Bay Area, submerging streets, homes and businesses Historic high tides have caused chaos up and down the California coast this week, as parts of the state were inund",
       "url": "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides",
       "published_at": "2026-10-28T22:22:39+00:00"
-    },
-    {
-      "id": "aab7837995c05175",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "ENR : un décret réforme les indemnités de résiliation et la compensation des prix négatifs",
-      "resume": "C'est un texte en gestation depuis plus d'un an au ministère de l'Économie qui a été publié au Journal officiel ce mercredi 28 octobre. Le décret relatif aux mécanismes de soutien aux énergies renouvelables électriques modifie plusieurs axe",
-      "url": "https://www.actu-environnement.com/ae/news/decret-enr-indemnites-resiliation-prix-negatifs-48742.php4#xtor=RSS-6",
-      "published_at": "2026-10-28T18:02:08+00:00"
     },
     {
       "id": "9a98ca6f38480580",
@@ -236,13 +335,13 @@
       "published_at": "2026-10-28T16:53:35+00:00"
     },
     {
-      "id": "69ba0adc2d3a4246",
-      "source": "Actu-Environnement",
+      "id": "d225af0443df2e5f",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Stratégie nationale pour les aires protégées : le Gouvernement dévoile son deuxième plan d'action",
-      "resume": "Le deuxième plan d'action de la stratégie nationale sur les aires protégées fixe comme objectif au moins 3 % du territoire terrestre hexagonal et 5 % des façades maritimes hexagonales sous protection forte. Les taux actuels sont de 1,56 % e",
-      "url": "https://www.actu-environnement.com/ae/news/snap-aires-protegees-plan-action-2026-48741.php4#xtor=RSS-6",
-      "published_at": "2026-10-28T16:20:34+00:00"
+      "titre": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 - Les Echos",
+      "resume": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkZVY3R1cE5fVDJiM3pfVnhRUnA4cnBXZzh0VGVLY0hPQmZkejdXczI1UmtzaVJNR1hUV3VQRlR5NDVMYzJVUVNnd3lyQ19Ja2ZxeUsxd0ZaV2MtRi1zSU56N2tCcXFRZVhZQmgyNmhWVVluZDR3NzBRUUNIRVV4eXQ5Q3MteEtiODNhZklYY1p2V01ORXZ5VHZTRVFFd2FQdV9lYmVnX3N1V0RzX0dFUjF5MVBRODE2aG0yNnhyWHJMRE9oMjFNdjRTV3dLUFY1cGd6cXZwazQtbzNSeG9hV1dDWjJYWmNoMEJVOVFxVEN1Zw?oc=5",
+      "published_at": "2026-10-28T16:24:50+00:00"
     },
     {
       "id": "89dc674b9bbfa217",
@@ -252,15 +351,6 @@
       "resume": "Ne poursuivant pas l’objectif d’électrification du gouvernement, cinq programmes d’aide au plus précaires et aux collectivités ne seront pas renouvelés à la fin de l’année, dévoile POLITICO.",
       "url": "https://www.politico.eu/article/le-gouvernement-met-fin-a-plusieurs-programmes-de-lutte-contre-la-precarite-energetique/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-28T16:11:56+00:00"
-    },
-    {
-      "id": "a55ee449e9b5e3b1",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Un nouveau programme de recherche vise à améliorer la santé des sols",
-      "resume": "Mieux comprendre les interactions entre les différents organismes vivant dans les sols pour agir : c'est l'objectif du nouveau programme national de recherche baptisé « Sols vivants ». Copiloté par l'Institut national de la recherche agrono",
-      "url": "https://www.actu-environnement.com/ae/news/programme-sols-vivants-inrae-cnrs-sante-sols-48740.php4#xtor=RSS-6",
-      "published_at": "2026-10-28T16:11:02+00:00"
     },
     {
       "id": "579b31f95079538a",
@@ -281,42 +371,6 @@
       "published_at": "2026-10-28T15:54:33+00:00"
     },
     {
-      "id": "878a3b1105e526d0",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EU Sustainable Finance and Investor Groups Push Back Against Weaker Sustainability Reporting Rules for Non-EU Companies",
-      "resume": "The EU Platform on Sustainable Finance (PSF), an expert group mandated by the European Commission […]",
-      "url": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
-      "published_at": "2026-10-28T15:50:23+00:00"
-    },
-    {
-      "id": "dadcd0ee2d75a4f3",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Bruxelles garantit des fonds pour la transition énergétique des pays méditerranéens",
-      "resume": "La Commission européenne a lancé lundi 26 octobre la plateforme d’investissements liée à la coopération avec les pays du sud de la Méditerranée, dite T-Med. L’objectif est L’article Bruxelles garantit des fonds pour la transition énergétiqu",
-      "url": "https://www.greenunivers.com/2026/10/bruxelles-garantit-des-fonds-pour-la-transition-energetique-des-pays-mediterraneens-437137/",
-      "published_at": "2026-10-28T14:58:26+00:00"
-    },
-    {
-      "id": "bb5c11478ba4c6c0",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "EnerGaïa 2026 : douze projets en compétition pour les Trophées de l’innovation",
-      "resume": "Le salon Energaïa va récompenser plusieurs innovations lors de son édition en décembre, dans le cadre de ses Trophées éponymes. Quelque 12 projets dans quatre catégories — international, déployabilité, écosystème et circularité — sont en li",
-      "url": "https://www.greenunivers.com/2026/10/energaia-2026-douze-projets-en-competition-pour-les-trophees-de-linnovation-437130/",
-      "published_at": "2026-10-28T14:47:46+00:00"
-    },
-    {
-      "id": "e4d61a16794e1b7c",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
-      "resume": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A […]",
-      "url": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
-      "published_at": "2026-10-28T14:30:59+00:00"
-    },
-    {
       "id": "f4de6c9f3bb48cfc",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -326,15 +380,6 @@
       "published_at": "2026-10-28T14:30:29+00:00"
     },
     {
-      "id": "4b468fc47280d4a5",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "LEGO Group Begins Using Material Made from Hydrogen and Captured CO2 in Plastic Pieces",
-      "resume": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and […]",
-      "url": "https://www.esgtoday.com/lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces/?utm_source=rss&utm_medium=rss&utm_campaign=lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces",
-      "published_at": "2026-10-28T13:40:53+00:00"
-    },
-    {
       "id": "82fc44e5d823eb23",
       "source": "Novethic",
       "categorie": "Presse",
@@ -342,15 +387,6 @@
       "resume": "Cette photo montre une campagne publicitaire pour la marque laitière chinoise Mengniu mettant notamment en vedette Kylian Mbappé (au centre). PEDRO PARDO / AFP Tout commence par une vidéo de The Bridge, une émission française consacrée au f",
       "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/kylian-mbappe-boycotte-en-chine-dune-video-polemique-a-une-crise-commerciale-qui-secoue-le-football",
       "published_at": "2026-10-28T12:45:09+00:00"
-    },
-    {
-      "id": "d3328555d2f7841f",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Carrefour accélère avec Greenvolt dans les ombrières photovoltaïques",
-      "resume": "Greenvolt Next va équiper 120 magasins Carrefour d’ombrières photovoltaïques. Le développeur d’énergies renouvelables arrivé en France il y a deux ans et demi a L’article Carrefour accélère avec Greenvolt dans les ombrières photovoltaïques ",
-      "url": "https://www.greenunivers.com/2026/10/carrefour-se-decide-a-sequiper-dombrieres-photovoltaiques-436965/",
-      "published_at": "2026-10-28T09:00:00+00:00"
     },
     {
       "id": "b834fe38d4c88839",
@@ -396,33 +432,6 @@
       "resume": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the ",
       "url": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
       "published_at": "2026-10-27T21:34:54+00:00"
-    },
-    {
-      "id": "f5002fa600411bcc",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Suppression de CEE pour les PAC et révision de tarifs solaires au menu du CSE",
-      "resume": "Document — Le prochain Conseil supérieur de l’énergie se réunira le 5 novembre en visioconférence pour cause de grève générale en France. Ses membres examineront neuf textes, dont une proposition de suppression de fiche de certificats d’éco",
-      "url": "https://www.greenunivers.com/2026/10/suppression-de-cee-pour-les-pac-et-revision-de-tarifs-solaires-au-menu-du-cse-437038/",
-      "published_at": "2026-10-27T16:43:56+00:00"
-    },
-    {
-      "id": "d6fc1d7dea7ea84c",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "La Chine dévoile une plateforme de production d’hydrogène en mer",
-      "resume": "Lhyfe et Principle Power en rêvaient il y a quelques années. Le chantier naval chinois CIMC Raffles l’a fait, en l’occurrence une plateforme offshore de production d’hydrogène d’origine éolienne. Baptisé “Shenhai Hydrogen Energy No. 1”, ell",
-      "url": "https://www.greenunivers.com/2026/10/la-chine-devoile-une-plateforme-de-production-dhydrogene-en-mer-437052/",
-      "published_at": "2026-10-27T16:43:17+00:00"
-    },
-    {
-      "id": "b6c0fa85bc6eab8a",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Détruire puis réparer : ces investisseurs qui gagnent sur les deux fronts de la crise climatique",
-      "resume": "Les 0,1 % les plus riches du monde (8 millions de personnes) génèrent plus de pollution carbone que les 3,5 milliards de personnes les plus pauvres de la planète réunies. @Oxfam International, octobre 2026. \"Les ultra-riches mettent le feu ",
-      "url": "https://www.novethic.fr/environnement/climat/detruire-puis-reparer-ces-investisseurs-qui-gagnent-sur-les-deux-fronts-de-la-crise-climatique",
-      "published_at": "2026-10-27T13:55:06+00:00"
     },
     {
       "id": "2347f7170b57b020",
@@ -639,15 +648,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
       "published_at": "2026-10-06T10:23:17+00:00"
-    },
-    {
-      "id": "0bd64ab468126d46",
-      "source": "I4CE",
-      "categorie": "Climat",
-      "titre": "Cleantech : l’Europe affûte sa boîte à outils",
-      "resume": "L’Europe a rarement l’occasion de repenser ses financements des cleantech sur autant de fronts à la fois. L’article Cleantech : l’Europe affûte sa boîte à outils est apparu en premier sur I4CE .",
-      "url": "https://www.i4ce.org/cleantech-europe-affute-boite-a-outils-climat/",
-      "published_at": "2026-10-02T08:45:10+00:00"
     },
     {
       "id": "c7c5fd524d735a2a",
