@@ -1,6 +1,168 @@
 {
-  "generated_at": "2026-10-29T06:07:52.068731+00:00",
+  "generated_at": "2026-10-29T13:27:49.850912+00:00",
   "items": [
+    {
+      "id": "f6423afe80251919",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "COP 17 : la restauration des écosystèmes dégradés nécessite un quadruplement des financements",
+      "resume": "Un rapport de l'ONU publié dans le cadre de la COP 17 d'Erevan révèle que 252 millions d'hectares dans 149 pays sont en cours de restauration. Mais les financements doivent quadrupler et les écosystèmes aquatiques sont à la peine.",
+      "url": "https://www.actu-environnement.com/ae/news/cop17-restauration-ecosystemes-financements-onu-48744.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T13:10:50+00:00"
+    },
+    {
+      "id": "c2bac29a4457f28c",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Introduction en Bourse : Anthropic reconnaît que les risques ESG menacent son modèle économique",
+      "resume": "Anthropic a publié son document d'introduction en Bourse. Nikolas Kokovlis / NurPhoto via AFP Pour Anthropic, l’électricité pourrait bien devenir le talon d’Achille de l’intelligence artificielle. C’est ce qui ressort du dossier d’introduct",
+      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/introduction-en-bourse-anthropic-reconnait-que-les-risques-esg-menacent-son-modele-economique",
+      "published_at": "2026-10-29T12:45:33+00:00"
+    },
+    {
+      "id": "d110ec261b158cbd",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Over 80% of Institutional Investors Plan to Increase Allocations to Sustainable Investments: Survey",
+      "resume": "More than four out of five institutional investors expect to increase allocations to sustainable investments […]",
+      "url": "https://www.esgtoday.com/over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey",
+      "published_at": "2026-10-29T12:31:57+00:00"
+    },
+    {
+      "id": "fc6a458564d1fba4",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Singapore Airlines Signs Deal to Purchase SAF Made from Waste Carbon",
+      "resume": "Singapore Airlines (SIA) announced that it has signed an agreement with Aether Fuels to purchase […]",
+      "url": "https://www.esgtoday.com/singapore-airlines-signs-deal-to-purchase-saf-made-from-waste-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-airlines-signs-deal-to-purchase-saf-made-from-waste-carbon",
+      "published_at": "2026-10-29T11:49:53+00:00"
+    },
+    {
+      "id": "4210423ef686f6a0",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "927 personnes « sans chez-soi » sont mortes en 2025",
+      "resume": "« Ce n'est pas un bilan, c'est un réquisitoire. » D'après le rapport annuel du collectif Les Morts de la rue, publié le 29 octobre, 927 personnes sont mortes « sans chez-soi » en 2025. Plus précisément, 306 d'entre elles vivaient dans la ru",
+      "url": "https://reporterre.net/927-personnes-sans-chez-soi-sont-mortes-en-2025",
+      "published_at": "2026-10-29T11:29:11+00:00"
+    },
+    {
+      "id": "e9734bf59347d776",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Pesticides, santé et milieu (1/2) : ce que la recherche révèle",
+      "resume": "Parmi les projets du programme de recherche Environnement-Santé-Travail, les pesticides sont un sujet phare. La connaissance a ainsi été améliorée sur les effets sur les sujets obèses, sur les néonicotinoïdes et sur l'écosystème des mangrov",
+      "url": "https://www.actu-environnement.com/ae/news/pesticides-recherche-pnr-est-sante-environnementale-48743.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T11:01:01+00:00"
+    },
+    {
+      "id": "ff373106f24f64f1",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP biodiversité : intenses négociations pour sauver le fonds Cali sur la protection de la nature",
+      "resume": "Le mécanisme financier censé aider les populations autochtones et communautés locales qui protègent la nature, mis sur pied lors de la dernière COP biodiversité en Colombie, n’a été abondé, à date, qu’à hauteur de 10 000 dollars.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/29/cop-biodiversite-intenses-negociations-pour-sauver-le-fonds-cali-sur-la-protection-de-la-nature_6802312_3244.html",
+      "published_at": "2026-10-29T10:38:43+00:00"
+    },
+    {
+      "id": "952da1458c6daaa3",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "TotalEnergies affiche des profits record, dopés par les tensions mondiales sur le gazole",
+      "resume": "La major française, dont les raffineries tournent à plein régime, a enregistré un bénéfice net en hausse de 124 % sur un an au troisième trimestre, à 8,3 milliards de dollars.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-affiche-des-profits-record-dopes-par-les-tensions-mondiales-sur-le-gazole_6802305_3234.html",
+      "published_at": "2026-10-29T10:05:07+00:00"
+    },
+    {
+      "id": "ccc249fd67e9035d",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "A new wave of electric ferries is here in the US. Some even fly",
+      "resume": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of pas",
+      "url": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
+      "published_at": "2026-10-29T10:00:31+00:00"
+    },
+    {
+      "id": "e221d94cc952bae0",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Préjudice écologique : quelle place pour les alternatives aux poursuites ?",
+      "resume": "Dans cet article, les auteurs analysent quelles alternatives aux poursuites pénales peuvent être employées pour permettre la réparation du préjudice écologique, dont l'effectivité reste encore faible.",
+      "url": "https://www.actu-environnement.com/ae/news/prejudice-ecologique-alternatives-poursuites-cjip-48728.php4#xtor=RSS-6",
+      "published_at": "2026-10-29T09:30:00+00:00"
+    },
+    {
+      "id": "a8565806970eb57a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Stopper les éoliennes la nuit : cinq fois moins de collisions pour les chauves-souris",
+      "resume": "L'idée est simple et l'efficacité redoutable. Une étude menée par des scientifiques du Cesco (Centre d'écologie et des sciences de la conservation, qui appartient au Muséum national d'histoire naturelle) et financée par l'Ademe (Agence de l",
+      "url": "https://reporterre.net/Stopper-les-eoliennes-la-nuit-cinq-fois-moins-de-collisions-pour-les-chauves-souris",
+      "published_at": "2026-10-29T09:22:59+00:00"
+    },
+    {
+      "id": "d975619e4f84f945",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Terradot Secures $34 Million from HASI to Build ERW Carbon Removal Projects",
+      "resume": "Carbon removal company Terradot announced that it has closed a senior secured term loan of […]",
+      "url": "https://www.esgtoday.com/terradot-secures-34-million-from-hasi-to-build-erw-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=terradot-secures-34-million-from-hasi-to-build-erw-carbon-removal-projects",
+      "published_at": "2026-10-29T09:07:21+00:00"
+    },
+    {
+      "id": "77c63e849d2778e6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "TotalEnergies : bénéfice inédit au troisième trimestre, à 8,3 milliards de dollars ; le gouvernement appelle le groupe à répercuter la baisse des prix",
+      "resume": "Le bénéfice du géant pétrogazier a plus que doublé sur un an, porté par la flambée des cours des hydrocarbures liée aux conflits en Ukraine et au Moyen-Orient. En France, le gazole dépasse désormais 2,35 euros le litre à la pompe, alimentan",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html",
+      "published_at": "2026-10-29T08:57:54+00:00"
+    },
+    {
+      "id": "770bdf92a0246e6d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« C'est un crachat sur un cercueil » : un grand raout de réactionnaires et de climatosceptiques monté avec de l'argent public",
+      "resume": "Des partis de gauche dénoncent la tenue d'un « colloque » xénophobe réunissant le 31 octobre dans les Hauts-de-Seine, grâce à de l'argent public, de nombreuses personnalités issues de l'extrême droite identitaire. « Comment un rassemblement",
+      "url": "https://reporterre.net/Un-grand-raout-de-reactionnaires-et-de-climatosceptiques-monte-avec-de-l-argent-public",
+      "published_at": "2026-10-29T08:33:50+00:00"
+    },
+    {
+      "id": "f84f850dbe200386",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies - Les Echos",
+      "resume": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTZWSFV5bDMtQkxwOGtPMnFjYjduNXN4RkVEZ3g2azJSZ1BkWE9QUmQ3a0pwV3N2YjlfNThta29pNHBRVktqYVNpTGJJRG52cWlGSmt2d1dfOUpHSVM3aWpZWGc5UXFXX2YyZmtwOHhod19FSjg5dDM2b2t3R2lBcGhIMjFjamJqS3hmcm5qc2FYNTZNWG90QkRNQUQ3UnMtWm9fN1ZtcENGSW9aUERzTmpTSHVoenR0RGpzNFVjRTdCUUNNZHpVR1Y2WDdmeGVESjhwQkdnOUVDSFR2SHBwZjZpTDFKQW9SalFJaFNlXy1qRkU?oc=5",
+      "published_at": "2026-10-29T08:03:22+00:00"
+    },
+    {
+      "id": "e392966974355aab",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« L'économie de la mort » : comment le pouvoir nie les besoins vitaux des personnes racisées",
+      "resume": "Se nourrir, se laver... Dans « L'économie de la mort », l'autrice décoloniale Françoise Vergès propose une politisation des besoins vitaux. Ceux-ci sont sans cesse entravés, depuis la traite esclavagiste jusqu'aux guerres impérialistes cont",
+      "url": "https://reporterre.net/De-la-traite-esclavagiste-aux-lycees-de-Saint-Denis-comment-le-pouvoir-prive-les-personnes-racisees-de-leurs-besoins-elementairesarticle",
+      "published_at": "2026-10-29T07:19:35+00:00"
+    },
+    {
+      "id": "b8931a37966d040f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Cigéo : à Bure, la poubelle nucléaire prend l'eau (ou ce qu'il en reste)",
+      "resume": "Alors que la Meuse connaît une sécheresse et des restrictions d'eau, le projet d'enfouissement de déchets radioactifs prévu à Bure pourrait accroître la pression sur une ressource déjà sous tension. Strasbourg (Bas-Rhin), correspondance Pay",
+      "url": "https://reporterre.net/Cigeo-a-Bure-la-poubelle-nucleaire-prend-l-eau-ou-ce-qu-il-en-reste",
+      "published_at": "2026-10-29T07:10:38+00:00"
+    },
+    {
+      "id": "3f2288683797953b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Du maquillage nocif pour Octobre rose ? L'hypocrisie de ces géants de la cosmétique qui disent lutter contre le cancer",
+      "resume": "Pendant Octobre rose, des marques de cosmétiques proposent aux clientes d'acheter crèmes de soin et maquillage en échange d'un soutien financier à la lutte contre le cancer. Or ces mêmes produits contiennent des substances controversées. Re",
+      "url": "https://reporterre.net/Octobre-rose-ces-industriels-recoltent-des-fonds-en-vendant-du-maquillage-potentiellement-cancerogene",
+      "published_at": "2026-10-29T06:48:45+00:00"
+    },
     {
       "id": "095f6f5826c1cf27",
       "source": "Le Monde Planète",
@@ -23,10 +185,10 @@
       "id": "4e923b32cd00af12",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Plus résistant face aux canicules, le retour en grâce du maïs grand roux au Pays basque",
+      "titre": "Au Pays basque, le retour en grâce du maïs grand roux, plus résistant aux canicules",
       "resume": "Il y a dix ans, une poignée de paysans des Pyrénées-Atlantiques opposés au développement des OGM renouaient avec une variété locale de maïs oubliée depuis les années 1950. Un pari qu’ils ne regrettent pas à l’heure d’un changement climatiqu",
       "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/29/plus-resistant-face-aux-canicules-le-retour-en-grace-du-mais-grand-roux-au-pays-basque_6802089_4500055.html",
-      "published_at": "2026-10-29T05:30:01+00:00"
+      "published_at": "2026-10-29T05:30:00+00:00"
     },
     {
       "id": "b7e347217218d62e",
@@ -35,7 +197,7 @@
       "titre": "Le changement climatique, enjeu majeur pour le patrimoine culturel à l’horizon 2050",
       "resume": "Les châteaux de la Loire, le Mont-Saint-Michel, le fort Saint-André à Villeneuve-lès-Avignon ou encore l’abbaye de Fontfroide dans l’Aude… Trois études émanant d’organismes différents alertent sur l’impact du dérèglement climatique pour ces",
       "url": "https://www.lemonde.fr/culture/article/2026/10/29/le-changement-climatique-enjeu-majeur-pour-le-patrimoine-culturel-a-l-horizon-2050_6802014_3246.html",
-      "published_at": "2026-10-29T04:30:21+00:00"
+      "published_at": "2026-10-29T04:30:13+00:00"
     },
     {
       "id": "8507606f1dc9a062",
@@ -45,24 +207,6 @@
       "resume": "Seawater surges into low-lying communities from San Diego to San Francisco Bay Area, submerging streets, homes and businesses Historic high tides have caused chaos up and down the California coast this week, as parts of the state were inund",
       "url": "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides",
       "published_at": "2026-10-28T22:22:39+00:00"
-    },
-    {
-      "id": "a42fef262a4b2888",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Dans le Massif central, un intrigant essaim de plus de 700 microséismes",
-      "resume": "Depuis dix jours, dans l’est du département du Puy-de-Dôme, près d’Ambert, dans le parc naturel régional Livradois-Forez, des petits tremblements de terre s’enchaînent, dont plusieurs suffisamment forts pour être ressentis.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/28/dans-le-massif-central-un-intrigant-essaim-de-plus-de-700-microseismes_6801636_3244.html",
-      "published_at": "2026-10-28T19:00:02+00:00"
-    },
-    {
-      "id": "6d11112bf208cb09",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Billy Barr, ermite moderne et vigie du climat dans les Rocheuses du Colorado",
-      "resume": "Installé en haute montagne, seul au monde dans un village fantôme, le biologiste américain s’est mis à mesurer l’enneigement en 1974 pour tromper l’ennui. Il a aujourd’hui 75 ans, et ses relevés font le bonheur des scientifiques qui documen",
-      "url": "https://www.lemonde.fr/international/article/2026/10/28/billy-barr-ermite-moderne-et-vigie-du-climat-dans-les-rocheuses-du-colorado_6801631_3210.html",
-      "published_at": "2026-10-28T18:30:01+00:00"
     },
     {
       "id": "aab7837995c05175",
@@ -83,24 +227,6 @@
       "published_at": "2026-10-28T17:46:56+00:00"
     },
     {
-      "id": "07e456538afde7c2",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Lithium : feu vert pour la mine d'Imerys dans l'Allier",
-      "resume": "Feu vert pour Imerys. Selon un décret paru le 20 octobre au Journal officiel, l'État a accordé à la multinationale d'extraction minière le droit d'exploiter une mine de lithium dans l'Allier pour cinquante ans — soit jusqu'en 2075. Il s'agi",
-      "url": "https://reporterre.net/Lithium-feu-vert-pour-la-mine-d-Imerys-dans-l-Allier",
-      "published_at": "2026-10-28T17:20:46+00:00"
-    },
-    {
-      "id": "968598227c83f8ff",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Jamaïque, un an après l’ouragan Melissa, la reconstruction s’éternise et les sinistrés s’impatientent",
-      "resume": "Le phénomène cyclonique exceptionnellement puissant, qui avait fait une centaine de morts dans les Grandes Antilles en octobre 2025, a causé des dégâts évalués à plus de la moitié du produit intérieur brut annuel de la Jamaïque. Sur les 306",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/28/en-jamaique-un-an-apres-l-ouragan-melissa-la-reconstruction-s-eternise-et-les-sinistres-s-impatientent_6801613_3244.html",
-      "published_at": "2026-10-28T17:00:07+00:00"
-    },
-    {
       "id": "b859ecb16005dbe7",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -108,15 +234,6 @@
       "resume": "L'ancien ministre de la Transition écologique et chantre de l'adaptation au réchauffement climatique est au cœur du dispositif du candidat à l'élection présidentielle.",
       "url": "https://www.politico.eu/article/christophe-bechu-premier-lieutenant-dedouard-philippe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-28T16:53:35+00:00"
-    },
-    {
-      "id": "d225af0443df2e5f",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 - Les Echos",
-      "resume": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkZVY3R1cE5fVDJiM3pfVnhRUnA4cnBXZzh0VGVLY0hPQmZkejdXczI1UmtzaVJNR1hUV3VQRlR5NDVMYzJVUVNnd3lyQ19Ja2ZxeUsxd0ZaV2MtRi1zSU56N2tCcXFRZVhZQmgyNmhWVVluZDR3NzBRUUNIRVV4eXQ5Q3MteEtiODNhZklYY1p2V01ORXZ5VHZTRVFFd2FQdV9lYmVnX3N1V0RzX0dFUjF5MVBRODE2aG0yNnhyWHJMRE9oMjFNdjRTV3dLUFY1cGd6cXZwazQtbzNSeG9hV1dDWjJYWmNoMEJVOVFxVEN1Zw?oc=5",
-      "published_at": "2026-10-28T16:24:50+00:00"
     },
     {
       "id": "69ba0adc2d3a4246",
@@ -182,15 +299,6 @@
       "published_at": "2026-10-28T14:58:26+00:00"
     },
     {
-      "id": "bc57cf43b906f417",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Casseur-payeur » : le Sénat a adopté en première lecture le projet de loi",
-      "resume": "Le Sénat a adopté, dans la nuit du 27 au 28 octobre, le projet de loi « casseur-payeur ». La chambre haute du Parlement a ajouté de nombreuses mesures sécuritaires pour compléter ce texte, déjà très critiqué à gauche. Élaboré à l'origine ce",
-      "url": "https://reporterre.net/Le-Senat-adopte-le-projet-de-loi-casseur-payeur",
-      "published_at": "2026-10-28T14:55:41+00:00"
-    },
-    {
       "id": "bb5c11478ba4c6c0",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -198,15 +306,6 @@
       "resume": "Le salon Energaïa va récompenser plusieurs innovations lors de son édition en décembre, dans le cadre de ses Trophées éponymes. Quelque 12 projets dans quatre catégories — international, déployabilité, écosystème et circularité — sont en li",
       "url": "https://www.greenunivers.com/2026/10/energaia-2026-douze-projets-en-competition-pour-les-trophees-de-linnovation-437130/",
       "published_at": "2026-10-28T14:47:46+00:00"
-    },
-    {
-      "id": "39852e4a9e1755ca",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Eau, chaleur et électricité : leur maison est 100 % autonome",
-      "resume": "Lire la suite - Alternative / Habitat et urbanisme , Alternatives",
-      "url": "https://reporterre.net/Eau-chaleur-et-electricite-leur-maison-est-100-autonome",
-      "published_at": "2026-10-28T14:43:47+00:00"
     },
     {
       "id": "e4d61a16794e1b7c",
@@ -227,24 +326,6 @@
       "published_at": "2026-10-28T14:30:29+00:00"
     },
     {
-      "id": "99fd40e85976471d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les fausses informations nous exposent aux pollutions, aux maladies, aux incendies",
-      "resume": "Les fake news des industries des énergies fossiles et leurs alliés économiques et politiques nous surexposent aux pollutions, aux incendies et aux catastrophes climatiques, et donc aux maladies et à la mort, alerte l' OMS dans un rapport. «",
-      "url": "https://reporterre.net/Comment-la-desinformation-climatique-nous-tue",
-      "published_at": "2026-10-28T13:47:38+00:00"
-    },
-    {
-      "id": "03777bca3e7972cc",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Textile responsable : l'Ademe retient 38 projets territoriaux et six projets d'études",
-      "resume": "La France veut regagner des emplois dans le secteur du textile en misant sur une industrie locale et à faible impact environnemental. Pour accompagner le mouvement, l'Agence de la transition écologique (Ademe) annonce avoir sélectionné 38 p",
-      "url": "https://www.actu-environnement.com/ae/news/textile-responsable-ademe-projets-territoriaux-et-etudes-48739.php4#xtor=RSS-6",
-      "published_at": "2026-10-28T13:45:14+00:00"
-    },
-    {
       "id": "4b468fc47280d4a5",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -252,24 +333,6 @@
       "resume": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and […]",
       "url": "https://www.esgtoday.com/lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces/?utm_source=rss&utm_medium=rss&utm_campaign=lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces",
       "published_at": "2026-10-28T13:40:53+00:00"
-    },
-    {
-      "id": "74dca4dc5236aea8",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Géothermie à l'hôpital : le centre Henri Laborit de Poitiers sort du gaz par le sous-sol",
-      "resume": "Pour réduire leur consommation d'énergies fossiles, et « se verdir », les centres de santé disposent d'options complémentaires à l'optimisation technique des équipements : solaire, réseaux de chaleur renouvelable, géothermie. Exemple à Poit",
-      "url": "https://www.actu-environnement.com/ae/news/centre-hospitalier-henri-laborit-se-decarbone-avec-geothermie-solaire-et-reseau-chaleur-biomasse-48736.php4#xtor=RSS-6",
-      "published_at": "2026-10-28T13:31:38+00:00"
-    },
-    {
-      "id": "95ba138feeed9f83",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Au moins 64 morts en Espagne dans un accident ferroviaire",
-      "resume": "C'est un nouveau drame pour l'Espagne. Au moins 64 personnes ont été tuées, et 179 blessées, dans la collision de deux trains à environ 150 kilomètres au sud de Madrid, le 28 octobre. Un précédent accident meurtrier avait déjà eu lieu en ja",
-      "url": "https://reporterre.net/Au-moins-64-morts-en-Espagne-dans-un-accident-ferroviaire",
-      "published_at": "2026-10-28T13:28:37+00:00"
     },
     {
       "id": "82fc44e5d823eb23",
@@ -281,42 +344,6 @@
       "published_at": "2026-10-28T12:45:09+00:00"
     },
     {
-      "id": "d54456f20ff61b1f",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Deutsche Bank Reports Record €32 Billion Sustainable Finance Quarter",
-      "resume": "Deutsche Bank reported that its sustainable and transition financing volumes reached €32 billion (USD$35.6 billion) […]",
-      "url": "https://www.esgtoday.com/deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter",
-      "published_at": "2026-10-28T11:59:07+00:00"
-    },
-    {
-      "id": "93f9f5ac88b9f484",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf",
-      "resume": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed […]",
-      "url": "https://www.esgtoday.com/microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf",
-      "published_at": "2026-10-28T11:30:37+00:00"
-    },
-    {
-      "id": "85ea7a89bf79d496",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "PFAS : nouveau recours contre un arrêté préfectoral encadrant Daikin dans la Vallée de la chimie",
-      "resume": "Quatre associations et Les Écologistes Rhône-Alpes-Pays-de-Savoie ont déposé un recours, le 28 septembre dernier, devant la cour administrative d'appel de Lyon contre l'arrêté préfectoral complémentaire du 24 juillet 2026 qui encadre l'étab",
-      "url": "https://www.actu-environnement.com/ae/news/pfas-recours-arrete-daikin-vallee-chimie-48737.php4#xtor=RSS-6",
-      "published_at": "2026-10-28T11:14:00+00:00"
-    },
-    {
-      "id": "ef98901434e87f53",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Sweep, Climatiq Partner on Supply Chain Product Carbon Footprint Solution",
-      "resume": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new […]",
-      "url": "https://www.esgtoday.com/sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution/?utm_source=rss&utm_medium=rss&utm_campaign=sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution",
-      "published_at": "2026-10-28T09:23:35+00:00"
-    },
-    {
       "id": "d3328555d2f7841f",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -324,15 +351,6 @@
       "resume": "Greenvolt Next va équiper 120 magasins Carrefour d’ombrières photovoltaïques. Le développeur d’énergies renouvelables arrivé en France il y a deux ans et demi a L’article Carrefour accélère avec Greenvolt dans les ombrières photovoltaïques ",
       "url": "https://www.greenunivers.com/2026/10/carrefour-se-decide-a-sequiper-dombrieres-photovoltaiques-436965/",
       "published_at": "2026-10-28T09:00:00+00:00"
-    },
-    {
-      "id": "af930de5dc5bc91b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les décès liés à la chaleur ont bondi de 36 % en un an selon les experts du Lancet Countdown",
-      "resume": "La COP21 à Paris, c'était il y a dix ans déjà. Or depuis, le nombre de morts par an liés à la chaleur a augmenté de près de 36 % à l'échelle mondiale, selon le rapport annuel sur les conséquences sanitaires du dérèglement climatique du cons",
-      "url": "https://reporterre.net/Les-deces-lies-a-la-chaleur-ont-bondi-de-36-en-un-an-selon-les-experts-du-Lancet-countdown",
-      "published_at": "2026-10-28T08:12:56+00:00"
     },
     {
       "id": "b834fe38d4c88839",
@@ -366,7 +384,7 @@
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
-      "resume": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday. Coastal California braces for flooding amid forecast of ‘record-breaking t",
+      "resume": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday Coastal California braces for flooding amid forecast of ‘record-breaking ti",
       "url": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
       "published_at": "2026-10-27T21:55:44+00:00"
     },
@@ -434,15 +452,6 @@
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
-      "id": "4255165cd1eeeede",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "La Nef lance sa carte bancaire pour les entreprises et envisage un changement de nom",
-      "resume": "La Nef propose désormais une carte bancaire pour ses clients professionnels. @LaNef Cela fait tout juste deux ans que la Nef peut revendiquer son statut de banque. Et cette année, la petite banque éthique, émancipée du Crédit Coopératif en ",
-      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/nef-lance-carte-bancaire-pour-entreprises-envisage-changement-nom",
-      "published_at": "2026-10-27T05:45:23+00:00"
-    },
-    {
       "id": "f9ab180312964bb8",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -486,15 +495,6 @@
       "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Les Echos",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
       "published_at": "2026-10-26T08:14:40+00:00"
-    },
-    {
-      "id": "f18819367af7adcb",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US south-west braces for more storms after enduring days of rain and flooding",
-      "resume": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week Another round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of ra",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-      "published_at": "2026-10-25T19:02:51+00:00"
     },
     {
       "id": "93decf4d397bd214",
