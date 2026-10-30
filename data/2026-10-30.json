@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "generated_at": "07:14",
-  "elapsed_seconds": 547,
+  "generated_at": "13:13",
+  "elapsed_seconds": 460,
   "errors": [],
   "stats": {
     "jo_analyses": 31,
@@ -9,20 +9,42 @@
     "depts_restriction": 89
   },
   "pipeline_meta": {
-    "run_at": "2026-10-30T07:14:51",
+    "run_at": "2026-10-30T13:13:39",
     "sources": {
       "JORF": 0,
-      "RSS": 3,
+      "RSS": 5,
       "VigiEau": 89,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 52,
-    "llm_seconds": 51.5
+    "llm_calls": 43,
+    "llm_seconds": 53.2
   },
   "items": [
+    {
+      "id": "4b33dcd40b7f",
+      "source": "Novethic",
+      "categorie": "Déchets",
+      "titre": "La comptabilité, ce frein invisible qui empêcherait l'Europe de passer à l'économie circulaire",
+      "resume": "Une note de l'Institut Rousseau propose de réformer les règles comptables européennes pour mieux valoriser les matières durables dans les bilans et faciliter le financement des modèles de l'économie circulaire.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/reforme-comptabilite-economie-usage-fonctionnalite-europe",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "bd78d50fa549",
+      "source": "Novethic",
+      "categorie": "Climat",
+      "titre": "[Exclusif] Le climat menace la valeur des hôtels et fait planer le risque d’actifs échoués",
+      "resume": "Une étude du cabinet Altitude (Axa Climate) met en évidence la menace des aléas climatiques (incendies, canicules, sécheresse) sur la valeur des actifs hôteliers en Europe et la nécessité d'une adaptation pour assurer la continuité des activités.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/exclusif-le-climat-menace-la-valeur-des-hotels-et-fait-planer-le-risque-dactifs-echoues",
+      "date": "2026-10-30"
+    },
     {
       "id": "2d12bf11c179",
       "source": "ESG Today",
@@ -259,11 +281,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "01",
       "dept_nom": "Ain",
       "niveau": "crise"
@@ -271,6 +288,11 @@
     {
       "dept_code": "39",
       "dept_nom": "Jura",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -304,13 +326,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
@@ -341,11 +363,6 @@
     {
       "dept_code": "90",
       "dept_nom": "Territoire de Belfort",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "68",
-      "dept_nom": "Haut-Rhin",
       "niveau": "crise"
     },
     {
@@ -451,6 +468,11 @@
     {
       "dept_code": "88",
       "dept_nom": "Vosges",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "68",
+      "dept_nom": "Haut-Rhin",
       "niveau": "alerte renforcée"
     },
     {
