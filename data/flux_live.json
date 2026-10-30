@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-10-30T02:46:51.835987+00:00",
+  "generated_at": "2026-10-30T09:23:08.696589+00:00",
   "items": [
+    {
+      "id": "dc1a4287eafd8c83",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Shein, Temu, AliExpress : une nouvelle taxe de 2 euros sur les petits colis",
+      "resume": "Il faudra désormais débourser 2 euros de plus pour tout achat de 150 euros ou moins sur Shein, Temu ou AliExpress. À partir du 1 er novembre, cette nouvelle redevance européenne pour frais de traitement s'applique sur chaque petit colis ven",
+      "url": "https://reporterre.net/Shein-Temu-AliExpress-une-nouvelle-taxe-de-2-euros-sur-les-petits-colis",
+      "published_at": "2026-10-30T08:51:56+00:00"
+    },
+    {
+      "id": "80d16906f487a3c0",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Indonésie, la pollution de l’air due aux incendies a causé la mort de 3 560 personnes en septembre",
+      "resume": "Frappé par une sécheresse aggravée par le phénomène climatique El Niño, le pays lutte depuis des mois contre des feux de forêt qui, selon l’organisme Nusantara Atlas, ont ravagé plus de 1,9 million d’hectares au cours des neuf premiers mois",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/30/en-indonesie-les-incendies-ont-cause-3-560-morts-liees-a-la-pollution-de-l-air-en-septembre_6802919_3244.html",
+      "published_at": "2026-10-30T08:40:02+00:00"
+    },
+    {
+      "id": "7096dde5de8dc34b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Aux Philippines, le volcan Mayon a craché une colonne de cendres d’environ 3 000 mètres",
+      "resume": "Le Mayon, d’une altitude de 2 462 mètres et qui forme un cône presque parfait, est l’un des trois volcans philippins qui ont été les plus actifs cette année.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/30/aux-philippines-le-volcan-mayon-a-crache-une-colonne-de-cendres-d-environ-3-000-metres_6802916_3244.html",
+      "published_at": "2026-10-30T07:51:30+00:00"
+    },
+    {
+      "id": "98d944e83968f487",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Bloquer ou ignorer l'extrême droite en ligne, une pratique gagnante pour la gauche ?",
+      "resume": "La mobilisation contre l'extrême droite en ligne pratiquée au Brésil par les partisans de Lula inspire la gauche française. Baptiste Kotras, sociologue du numérique, analyse pour Reporterre l'importance que pourrait revêtir cet activisme nu",
+      "url": "https://reporterre.net/Bloquer-ou-ignorer-l-extreme-droite-en-ligne-une-pratique-gagnante-pour-la-gauche",
+      "published_at": "2026-10-30T06:10:00+00:00"
+    },
+    {
+      "id": "28763795438cf829",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "En tournée avec ce camion-épicerie solidaire qui permet de mieux se nourrir... en brisant l'isolement",
+      "resume": "Le camion-épicerie Roul'Contact sillonne l'Hérault et fournit des aliments de qualité, à un prix accessible. En proposant aussi des ateliers, l'association permet de lutter contre l'isolement. Bélarga (Hérault), reportage Malgré l'heure mat",
+      "url": "https://reporterre.net/En-tournee-avec-ce-camion-epicerie-solidaire-qui-permet-de-mieux-se-nourrir-en-brisant-l-isolement",
+      "published_at": "2026-10-30T06:05:00+00:00"
+    },
+    {
+      "id": "6eb3f41f963f6c1d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Biodiversité : à la COP17 comme au gouvernement, l'hypocrisie antiscientifique de l'État français",
+      "resume": "La ministre de la Transition écologique a défendu des politiques basées sur la science à la COP17 sur la biodiversité. Une science que les gouvernements d'Emmanuel Macron n'ont pourtant eu de cesse de maltraiter, avec des mesures catastroph",
+      "url": "https://reporterre.net/Biodiversite-a-la-COP17-comme-au-gouvernement-l-hypocrisie-antiscientifique-de-l-Etat-francais",
+      "published_at": "2026-10-30T06:00:00+00:00"
+    },
+    {
+      "id": "72cd6d11d7164577",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Lucile Peytavin : \"Si la virilité au travail rapporte à certains, elle coûte surtout cher aux entreprises\"",
+      "resume": "Lucile Peytavin, historienne et co-autrice de l'essai \"Le coût de la virilité au travail\". @Tallandier Vous avez écrit un premier essai sur le coût de la virilité pour la société. Pourquoi avoir choisi cette fois de l’analyser sous le prism",
+      "url": "https://www.novethic.fr/economie-et-social/droits-humains/lucile-peytavin-si-virilite-travail-rapporte-certains-elle-coute-surtout-cher-entreprises",
+      "published_at": "2026-10-30T05:45:55+00:00"
+    },
+    {
+      "id": "be796729c48eb4f2",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Climat, biodiversité : cinq initiatives citoyennes qui font avancer les choses",
+      "resume": "Dans la série « On avance », les journalistes du « Monde » vont à la rencontre de projets locaux concrets pour le climat et la protection du vivant",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/30/climat-biodiversite-cinq-initiatives-citoyennes-qui-font-avancer-les-choses_6802806_3244.html",
+      "published_at": "2026-10-30T05:30:07+00:00"
+    },
+    {
+      "id": "b1fcb4bf33ddc2dd",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le commerce équitable français, modèle jugé de plus en plus sécurisant dans un contexte de crise agricole",
+      "resume": "En quête d’approvisionnement et de revenus réguliers, entreprises et producteurs sont plus nombreux à se tourner vers les labels de développement durable. Les consommateurs, eux, devraient être mieux protégés par une directive européenne, r",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/le-commerce-equitable-francais-modele-juge-de-plus-en-plus-securisant-dans-un-contexte-de-crise-agricole_6802759_3234.html",
+      "published_at": "2026-10-30T04:00:08+00:00"
+    },
+    {
+      "id": "dea12d742029e112",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Crise énergétique : 11 pays de l’UE vont libérer 42,6 millions de barils de pétrole afin de stabiliser les prix du gazole avant l’hiver",
+      "resume": "Face à la flambée des prix, l’Union européenne va puiser dans ses réserves stratégiques, tout en assurant que la sécurité d’approvisionnement ne serait pas menacée cet hiver.",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/crise-energetique-onze-pays-de-l-ue-vont-liberer-42-6-millions-de-barils-de-petrole-afin-de-stabiliser-les-prix-du-gazole-avant-l-hiver_6802691_3234.html",
+      "published_at": "2026-10-30T03:21:07+00:00"
+    },
     {
       "id": "6983520f03adf3a3",
       "source": "GreenUnivers",
@@ -92,12 +182,12 @@
       "published_at": "2026-10-29T16:12:34+00:00"
     },
     {
-      "id": "3ff0e79a24baa3b8",
+      "id": "87c68d05c32e6cba",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "L'État supprime cinq programme de lutte à la précarité énergétique",
+      "titre": "L'État supprime cinq programmes de lutte à la précarité énergétique",
       "resume": "Le gouvernement met fin à plusieurs dispositifs de lutte contre la précarité énergétique. Selon des informations de Politico publiées mercredi 28 octobre, au moins cinq programmes d'aide aux ménages précaires et aux collectivités ne seront ",
-      "url": "https://reporterre.net/L-Etat-supprime-cinq-programme-de-lutte-a-la-precarite-energetique",
+      "url": "https://reporterre.net/L-Etat-supprime-cinq-programmes-de-lutte-a-la-precarite-energetique",
       "published_at": "2026-10-29T15:27:25+00:00"
     },
     {
@@ -155,24 +245,6 @@
       "published_at": "2026-10-29T15:04:35+00:00"
     },
     {
-      "id": "05dc560fa282a7e4",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Une forme de résistance » : à Gaza, elles luttent pour la survie des semences paysannes",
-      "resume": "Après trois ans de guerre et des décennies de blocus, les semences des agriculteurs gazaouis sont rares. À Gaza, une agricultrice a réussi à rebâtir une banque de semences avec des variétés autochtones. « Les semences sont la vie », dit-ell",
-      "url": "https://reporterre.net/Une-forme-de-resistance-a-Gaza-elles-luttent-pour-la-survie-des-semences-paysannes",
-      "published_at": "2026-10-29T14:30:10+00:00"
-    },
-    {
-      "id": "cbfc8f2ed7cc1769",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Chlordécone : l'État condamné à indemniser un ancien ouvrier agricole",
-      "resume": "La France sommée de payer pour son rôle dans le scandale du chlordécone. Le tribunal administratif de la Guadeloupe a condamné, mardi 27 octobre, l'État à verser 28 500 euros à un ancien ouvrier agricole atteint d'un cancer de la prostate. ",
-      "url": "https://reporterre.net/Chlordecone-l-Etat-condamne-a-indemniser-un-ancien-ouvrier-agricole",
-      "published_at": "2026-10-29T14:28:58+00:00"
-    },
-    {
       "id": "2bcd9a20c5d98dd1",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -180,15 +252,6 @@
       "resume": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to […]",
       "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
       "published_at": "2026-10-29T14:21:10+00:00"
-    },
-    {
-      "id": "77277eef61ef4c29",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Il faut que ceux qui se gavent mettent la main au porte-monnaie » : en pleine crise sociale, les superprofits de Total ne passent pas",
-      "resume": "Alors que TotalEnergies dévoilait le 29 octobre ses bénéfices colossaux pour 2026, des ONG ont organisé une action près de l'Assemblée nationale, à Paris, pour réclamer la taxation des superprofits pétroliers. Elles dénoncent des chiffres i",
-      "url": "https://reporterre.net/C-est-d-une-indecence-rare-en-pleine-crise-sociale-Total-salue-ses-benefices-record",
-      "published_at": "2026-10-29T14:02:30+00:00"
     },
     {
       "id": "77089fc191b9ab69",
@@ -227,33 +290,6 @@
       "published_at": "2026-10-29T11:49:53+00:00"
     },
     {
-      "id": "4210423ef686f6a0",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "927 personnes « sans chez-soi » sont mortes en 2025",
-      "resume": "« Ce n'est pas un bilan, c'est un réquisitoire. » D'après le rapport annuel du collectif Les Morts de la rue, publié le 29 octobre, 927 personnes sont mortes « sans chez-soi » en 2025. Plus précisément, 306 d'entre elles vivaient dans la ru",
-      "url": "https://reporterre.net/927-personnes-sans-chez-soi-sont-mortes-en-2025",
-      "published_at": "2026-10-29T11:29:11+00:00"
-    },
-    {
-      "id": "ff373106f24f64f1",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP biodiversité : intenses négociations pour sauver le fonds Cali sur la protection de la nature",
-      "resume": "Le mécanisme financier censé aider les populations autochtones et communautés locales qui protègent la nature, mis sur pied lors de la dernière COP biodiversité en Colombie, n’a été abondé, à ce jour, qu’à hauteur de 10 000 dollars.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/29/cop-biodiversite-intenses-negociations-pour-sauver-le-fonds-cali-sur-la-protection-de-la-nature_6802312_3244.html",
-      "published_at": "2026-10-29T10:38:43+00:00"
-    },
-    {
-      "id": "952da1458c6daaa3",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "TotalEnergies affiche des profits record, dopés par les tensions mondiales sur le gazole",
-      "resume": "La major française, dont les raffineries tournent à plein régime, a enregistré un bénéfice net en hausse de 124 % sur un an au troisième trimestre, à 8,3 milliards de dollars.",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-affiche-des-profits-record-dopes-par-les-tensions-mondiales-sur-le-gazole_6802305_3234.html",
-      "published_at": "2026-10-29T10:05:06+00:00"
-    },
-    {
       "id": "ccc249fd67e9035d",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -272,24 +308,6 @@
       "published_at": "2026-10-29T09:07:21+00:00"
     },
     {
-      "id": "77c63e849d2778e6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "TotalEnergies : bénéfice inédit au troisième trimestre, à 8,3 milliards de dollars ; le gouvernement appelle le groupe à répercuter la baisse des prix",
-      "resume": "Le bénéfice du géant pétrogazier a plus que doublé sur un an, porté par la flambée des cours des hydrocarbures liée aux conflits en Ukraine et au Moyen-Orient. En France, le gazole dépasse désormais 2,35 euros le litre à la pompe, alimentan",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html",
-      "published_at": "2026-10-29T08:57:54+00:00"
-    },
-    {
-      "id": "095f6f5826c1cf27",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les efforts mondiaux de restauration de la nature jugés « encourageants » mais toujours très insuffisants",
-      "resume": "Un rapport de l’ONU montre que 252 millions d’hectares font actuellement l’objet d’actions de restauration dans le monde. Une surface importante, toutefois bien en deçà de l’objectif de restauration de 30 % des écosystèmes dégradés d’ici à ",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/29/les-efforts-mondiaux-de-restauration-de-la-nature-juges-encourageants-mais-toujours-tres-insuffisants_6802123_3244.html",
-      "published_at": "2026-10-29T06:00:08+00:00"
-    },
-    {
       "id": "2bfec8e4dddea878",
       "source": "Novethic",
       "categorie": "Presse",
@@ -297,24 +315,6 @@
       "resume": "Le Science based targets network propose aux investisseurs des outils pour engager un dialogue sur la nature avec les entreprises. @Fatma Sonmez - Pexels La finance sera-t-elle la clé pour faire avancer les politiques sur la nature des entr",
       "url": "https://www.novethic.fr/finance-durable/finance-verte/biodiversite-le-sbtn-veut-faire-des-investisseurs-un-levier-de-pression-sur-les-entreprises",
       "published_at": "2026-10-29T05:45:11+00:00"
-    },
-    {
-      "id": "43d33fd3c5a32b5c",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "« La pente est impressionnante » : les ventes de carburants s'effondrent en France - Les Echos",
-      "resume": "« La pente est impressionnante » : les ventes de carburants s'effondrent en France Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdUNBdXJuRnI3YlNkRWctQmNyQjRPSE5qNm5OQXhGN2x0dzgtQ2E0aXNjRDE5UFJFZWJfU3BKeGYyQkd3Y1FvQmFNd0I0WVpUbEJXaFRBZm1yVkNYVXBSYTlEWmcxcFJwUXpxako3ODQ4VlhabFhrbndZRlBtb2FDTHRVTXkxbGoydGR1cHlBc0FkQ3dYMlp1czFsRlg4dk1rODhoeW5PX011VlJVZFhXNTVlOTFwYTNwRW1NSHlhYkZmQjN0VWlmZDhhSnVlTXAzRWluVzRtR29Pdk8yTWVkSlpn?oc=5",
-      "published_at": "2026-10-29T05:30:11+00:00"
-    },
-    {
-      "id": "4e923b32cd00af12",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Au Pays basque, le retour en grâce du maïs grand roux, plus résistant aux canicules",
-      "resume": "Il y a dix ans, une poignée de paysans des Pyrénées-Atlantiques opposés au développement des OGM renouaient avec une variété locale de maïs oubliée depuis les années 1950. Un pari qu’ils ne regrettent pas à l’heure d’un changement climatiqu",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/29/plus-resistant-face-aux-canicules-le-retour-en-grace-du-mais-grand-roux-au-pays-basque_6802089_4500055.html",
-      "published_at": "2026-10-29T05:30:00+00:00"
     },
     {
       "id": "8507606f1dc9a062",
@@ -371,6 +371,15 @@
       "published_at": "2026-10-28T16:08:52+00:00"
     },
     {
+      "id": "ecaf6abf6bb1d5bf",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Comment la flambée des prix provoquée par la guerre en Iran profite au chimiste BASF - Les Echos",
+      "resume": "Comment la flambée des prix provoquée par la guerre en Iran profite au chimiste BASF Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZkpsV1Y4dXlDV21ybzhtb01WZnZDZVlUbUdNc2hUd1Q2TUR0a0c3LXpyVTA1REJCall2bE4yUWJDUGFoZEhSbE90RzhRckE2VWd0R1pIZkl1VVRCYlRHMnVwOEtoZ2o0Y3pvMlVsd1hQTnNRbjBTN0lmVnhOV0JHaG9Lczgyak5ra0RUMlo1cmw3YmEwd1VpdTlRaldfZFNsMi1zRU9MMGo3SE9ZRmVOdEhrM3N4azVuSGtMcDJhNnhRcHVWMDBfc1p0ZmtSZ0tmZnBKVnlPQTZnWXl4Ti1XYmIyU2I4OFhuRk5hMlp3?oc=5",
+      "published_at": "2026-10-28T15:57:08+00:00"
+    },
+    {
       "id": "f4bdd0c8f3384084",
       "source": "Novethic",
       "categorie": "Presse",
@@ -405,15 +414,6 @@
       "resume": "La toute première loi européenne sur l’adaptation au changement climatique a été présentée le 27 octobre à Bruxelles. L’exécutif espère impulser un « changement systémique » à tous les niveaux d’action et de prise de décision pour « mieux p",
       "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-c-dici-a-2100_282976?source=rss",
       "published_at": "2026-10-28T07:00:00+00:00"
-    },
-    {
-      "id": "28a193abfb60512a",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Reporting de durabilité : mesurer ne suffit pas",
-      "resume": "Trop peu d'entreprises mettent leurs données de durabilité au service de leur transformation durable - Source : Pexels Avec l'entrée en vigueur de la CSRD (directive européenne sur le reporting de durabilité des entreprises) et la généralis",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/decalage-donnees-rse-tranformation-strategique",
-      "published_at": "2026-10-28T05:45:50+00:00"
     },
     {
       "id": "85eb73fd4fa174a2",
