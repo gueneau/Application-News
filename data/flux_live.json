@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-10-30T16:07:16.703817+00:00",
+  "generated_at": "2026-10-30T20:56:56.553202+00:00",
   "items": [
+    {
+      "id": "93cc309064bfc8d8",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Reprendre la mer », une invitation à sauver la pêche et les océans des chalutiers démesurés",
+      "resume": "Dans cet ouvrage, la militante écologiste Claire Nouvian, le philosophe du vivant Baptiste Morizot et le biologiste marin Daniel Pauly proposent le démantèlement des bateaux de plus de 33 mètres afin de préserver l’océan et de garantir l’av",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/30/reprendre-la-mer-une-invitation-a-sauver-la-peche-et-les-oceans-des-chalutiers-demesures_6803128_3232.html",
+      "published_at": "2026-10-30T18:00:02+00:00"
+    },
+    {
+      "id": "a32e49d9f21c0078",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le gouvernement met fin à cinq programmes d’aide à la rénovation énergétique des logements et des bâtiments publics",
+      "resume": "L’exécutif justifie la non-reconduction de ces projets, qui accompagnent des collectivités, des propriétaires bailleurs et des ménages très modestes, par sa volonté de réorienter les financements vers l’électrification des usages. Une décis",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/30/le-gouvernement-met-fin-a-cinq-programmes-d-aide-a-la-renovation-energetique-des-logements-et-des-batiments-publics_6803122_3224.html",
+      "published_at": "2026-10-30T17:08:42+00:00"
+    },
+    {
+      "id": "95358f2b74ca9c3c",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Biométhane : l’appel d’offres se rapproche et continue à inquiéter les agriculteurs",
+      "resume": "Une nouvelle ère débute dans le biogaz. La fin annoncée du tarif d’achat en guichet ouvert laisse place à une sélection par appel d’offres. Officiellement, le guichet ouvert s’arrêtera au 1er janvier prochain, « mais dès ce 1er novembre L’a",
+      "url": "https://www.greenunivers.com/2026/10/biomethane-lappel-doffres-se-rapproche-et-continue-a-inquieter-les-agriculteurs-437397/",
+      "published_at": "2026-10-30T16:39:19+00:00"
+    },
+    {
+      "id": "963b2542dcfca748",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les documents de la semaine",
+      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
+      "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
+      "published_at": "2026-10-30T16:25:01+00:00"
+    },
     {
       "id": "915f5041f3ea1c39",
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "Appel d’offres éolien terrestre : moins de repowering et un prix plus haut pour la 12e session",
-      "resume": "Exclusif — La publication des résultats de l’avant-dernière session d’appels d’offres pour l’éolien terrestre de l’année est imminente. Selon nos informations, le prix moyen pondéré est de L’article Appel d’offres éolien terrestre : moins d",
+      "resume": "Exclusif — La publication des résultats de l’avant-dernière session des appels d’offres pour l’éolien terrestre de l’année est imminente. Selon nos informations, le prix moyen pondéré est de L’article Appel d’offres éolien terrestre : moins",
       "url": "https://www.greenunivers.com/2026/10/appel-doffres-eolien-terrestre-moins-de-repowering-et-un-prix-plus-haut-pour-la-12e-session-437431/",
       "published_at": "2026-10-30T16:06:25+00:00"
     },
@@ -68,7 +104,7 @@
       "id": "728b0892ad5a908b",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Vingt ans après son rapport sur le coût du changement climatique, Nicholas Stern continue de croire à la croissance verte",
+      "titre": "Climat : « Nous avons perdu du temps et la situation est très dangereuse »",
       "resume": "Investissements privés, nucléaire, fin des énergies fossiles : l'économiste Nicholas Stern continue de croire au pouvoir salvateur de la croissance en dépit des limites matérielles, vingt ans après son rapport sur le climat. Il fut l'un des",
       "url": "https://reporterre.net/Nicholas-Stern-sur-le-changement-climatique-Il-faut-une-refonte-de-l-economie",
       "published_at": "2026-10-30T14:00:00+00:00"
@@ -254,15 +290,6 @@
       "published_at": "2026-10-30T08:40:02+00:00"
     },
     {
-      "id": "7096dde5de8dc34b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Aux Philippines, le volcan Mayon a craché une colonne de cendres d’environ 3 000 mètres",
-      "resume": "Le Mayon, d’une altitude de 2 462 mètres et qui forme un cône presque parfait, est l’un des trois volcans philippins qui ont été les plus actifs cette année.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/30/aux-philippines-le-volcan-mayon-a-crache-une-colonne-de-cendres-d-environ-3-000-metres_6802916_3244.html",
-      "published_at": "2026-10-30T07:51:30+00:00"
-    },
-    {
       "id": "72cd6d11d7164577",
       "source": "Novethic",
       "categorie": "Presse",
@@ -270,33 +297,6 @@
       "resume": "Lucile Peytavin, historienne et co-autrice de l'essai \"Le coût de la virilité au travail\". @Tallandier / Juliette Dupuis Carle Vous avez écrit un premier essai sur le coût de la virilité pour la société. Pourquoi avoir choisi cette fois de ",
       "url": "https://www.novethic.fr/economie-et-social/droits-humains/lucile-peytavin-si-virilite-travail-rapporte-certains-elle-coute-surtout-cher-entreprises",
       "published_at": "2026-10-30T05:45:55+00:00"
-    },
-    {
-      "id": "be796729c48eb4f2",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Climat, biodiversité : cinq initiatives citoyennes qui font avancer les choses",
-      "resume": "Dans la série « On avance », les journalistes du « Monde » vont à la rencontre de projets locaux concrets pour le climat et la protection du vivant",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/30/climat-biodiversite-cinq-initiatives-citoyennes-qui-font-avancer-les-choses_6802806_3244.html",
-      "published_at": "2026-10-30T05:30:07+00:00"
-    },
-    {
-      "id": "6983520f03adf3a3",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Fournisseur coopératif de gaz, Gazcoop se lance sur un marché risqué",
-      "resume": "Quelque 156 000€. C’est ce que Gazcoop, nouveau venu dans la fourniture de gaz, a récolté en moins d’une semaine auprès d’une centaine de sociétaires. Gazcoop a la particularité d’être un fournisseur coopératif. Rien L’article Fournisseur c",
-      "url": "https://www.greenunivers.com/2026/10/fournisseur-cooperatif-de-gaz-gazcoop-se-lance-sur-un-marche-risque-437298/",
-      "published_at": "2026-10-29T17:02:51+00:00"
-    },
-    {
-      "id": "6cc27c73056d055b",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Voltalia s’apprête à choisir l’acquéreur de sa filiale Helexia",
-      "resume": "Article complété le 30/10/2026 – Exclusif – Voltalia devrait réussir à céder sa filiale Helexia avant la fin de l’année comme il le souhaite et pourrait même conclure dans les jours qui viennent. Mis sur le marché au printemps, ce spécialis",
-      "url": "https://www.greenunivers.com/2026/10/voltalia-sapprete-a-choisir-lacquereur-de-sa-filiale-helexia-437188/",
-      "published_at": "2026-10-29T16:57:11+00:00"
     },
     {
       "id": "e50725920c0598ef",
@@ -383,10 +383,10 @@
       "id": "f84f850dbe200386",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Bénéfices records, production en hausse malgré la guerre : le carton plein de TotalEnergies - Les Echos",
-      "resume": "Bénéfices records, production en hausse malgré la guerre : le carton plein de TotalEnergies Les Echos",
+      "titre": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies - Les Echos",
+      "resume": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTZWSFV5bDMtQkxwOGtPMnFjYjduNXN4RkVEZ3g2azJSZ1BkWE9QUmQ3a0pwV3N2YjlfNThta29pNHBRVktqYVNpTGJJRG52cWlGSmt2d1dfOUpHSVM3aWpZWGc5UXFXX2YyZmtwOHhod19FSjg5dDM2b2t3R2lBcGhIMjFjamJqS3hmcm5qc2FYNTZNWG90QkRNQUQ3UnMtWm9fN1ZtcENGSW9aUERzTmpTSHVoenR0RGpzNFVjRTdCUUNNZHpVR1Y2WDdmeGVESjhwQkdnOUVDSFR2SHBwZjZpTDFKQW9SalFJaFNlXy1qRkU?oc=5",
-      "published_at": "2026-10-29T08:03:28+00:00"
+      "published_at": "2026-10-29T08:03:22+00:00"
     },
     {
       "id": "2bfec8e4dddea878",
