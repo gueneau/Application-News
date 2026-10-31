@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-10-31T06:02:54.643228+00:00",
+  "generated_at": "2026-10-31T12:53:55.570232+00:00",
   "items": [
+    {
+      "id": "8726ae4cc260faf6",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Mill 19: a creative hub built into a former steel factory",
+      "resume": "In Pittsburgh, Pennsylviania, a post-industrial site gets a second life Continue reading...",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/31/mill-19-steel-factory-pittsburgh",
+      "published_at": "2026-10-31T12:00:42+00:00"
+    },
+    {
+      "id": "ea098a4e513a911c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Les économistes abordent l’environnement avec une boîte à outils plus riche qu’il y a vingt ans »",
+      "resume": "La tentation est forte, pour les pays, de laisser les autres s’occuper de la lutte contre le réchauffement climatique. Un mauvais calcul, selon les économistes Hippolyte d’Albis et Patrice Geoffron : les travaux récents montrent que l’intér",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/31/les-economistes-abordent-l-environnement-avec-une-boite-a-outils-plus-riche-qu-il-y-a-vingt-ans_6803492_3232.html",
+      "published_at": "2026-10-31T10:00:25+00:00"
+    },
+    {
+      "id": "703e3ee404711f0a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "COP biodiversité : des avancées trop timides pour enrayer l'érosion massive du vivant",
+      "resume": "La COP17 sur la biodiversité, qui s'est clôturée dans la nuit du 30 octobre en Arménie, n'aura pas permis d'avancée notable. Un bilan qui rend les objectifs de protection du vivant inatteignables pour 2030. La fin d'une Conférence des parti",
+      "url": "https://reporterre.net/COP-biodiversite-des-avancees-trop-timides-pour-enrayer-l-erosion-massive-du-vivant",
+      "published_at": "2026-10-31T09:40:18+00:00"
+    },
+    {
+      "id": "ae60cb8cfc622175",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« À quel moment on va dire stop ? » : à Trappes, ils dénoncent le racisme du RN et des médias comme CNews",
+      "resume": "Environ 12 000 personnes se sont réunies à Trappes, le 30 octobre, contre le racisme et l'islamophobie, une semaine après l'attentat raciste qui a touché la ville. Elles dénoncent l'influence du RN et de médias comme CNews dans la transmiss",
+      "url": "https://reporterre.net/A-quel-moment-on-va-dire-stop-a-Trappes-ils-denoncent-le-racisme-du-RN-et-des-medias-comme-CNews",
+      "published_at": "2026-10-31T08:55:05+00:00"
+    },
+    {
+      "id": "5e517a4088f3b818",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Adrien Bilal, Prix du meilleur jeune économiste 2026 : « La croissance n’est pas l’adversaire de la politique climatique, c’est même l’inverse »",
+      "resume": "Les dommages du réchauffement climatique sont considérables : ils rognent la croissance et, avec elle, les marges budgétaires de la France. Réduire nos émissions de CO₂ reste pourtant rentable, même sans la coopération du reste du monde, pl",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/31/adrien-bilal-prix-du-meilleur-jeune-economiste-2026-la-croissance-n-est-pas-l-adversaire-de-la-politique-climatique-c-est-meme-l-inverse_6803479_3232.html",
+      "published_at": "2026-10-31T08:30:07+00:00"
+    },
+    {
+      "id": "43ccb1e8e16a3861",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des textes-clés mais à l’ambition affaiblie",
+      "resume": "Après deux semaines de difficiles débats, les participants à la COP17 ont adopté une cinquantaine de textes essentiels pour poursuivre la lutte contre la destruction du vivant. La quête de consensus entre pays a toutefois contraint à édulco",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/31/cop-biodiversite-a-erevan-en-armenie-pres-de-200-etats-s-accordent-sur-des-textes-cles-mais-a-l-ambition-affaiblie_6803471_3244.html",
+      "published_at": "2026-10-31T07:23:05+00:00"
+    },
+    {
+      "id": "bb72f7856a4f2d13",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Pour protéger 5 000 chauve-souris, une association achète les abords de leur grotte",
+      "resume": "Pour préserver une importante colonie de chauves-souris, une association a acheté les terres à l'entrée de leur grotte. Une protection par le foncier pour ce mammifère nocturne, dont les effectifs continuent de décliner. Tourtouse (Ariège),",
+      "url": "https://reporterre.net/Une-association-achete-les-abords-d-une-grotte-pour-proteger-ses-5-000-chauve-souris",
+      "published_at": "2026-10-31T06:05:00+00:00"
+    },
     {
       "id": "bce2cd38c51b1b32",
       "source": "Reporterre",
@@ -33,27 +96,9 @@
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature",
-      "resume": "Le premier texte est censé représenter un « examen mondial » d’un accord sur la biodiversité de 2022. Et un autre concerne le financement et la participation des pays émergents au groupe des états donateurs.",
+      "resume": "Le premier texte est censé représenter un « examen mondial » d’un accord de 2022 relatif à la biodiversité. Le second concerne le financement et la participation des pays émergents au groupe des Etats donateurs.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/30/a-la-cop17-d-erevan-malgre-les-divergences-les-etats-s-entendent-sur-des-textes-pour-tenter-de-proteger-la-nature_6803202_3244.html",
       "published_at": "2026-10-30T22:56:30+00:00"
-    },
-    {
-      "id": "93cc309064bfc8d8",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Reprendre la mer », une invitation à sauver la pêche et les océans des chalutiers démesurés",
-      "resume": "Dans cet ouvrage, la militante écologiste Claire Nouvian, le philosophe du vivant Baptiste Morizot et le biologiste marin Daniel Pauly proposent le démantèlement des bateaux de plus de 33 mètres afin de préserver l’océan et de garantir l’av",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/30/reprendre-la-mer-une-invitation-a-sauver-la-peche-et-les-oceans-des-chalutiers-demesures_6803128_3232.html",
-      "published_at": "2026-10-30T18:00:02+00:00"
-    },
-    {
-      "id": "a32e49d9f21c0078",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le gouvernement met fin à cinq programmes d’aide à la rénovation énergétique des logements et des bâtiments publics",
-      "resume": "L’exécutif justifie la non-reconduction de ces projets, qui accompagnent des collectivités, des propriétaires bailleurs et des ménages très modestes, par sa volonté de réorienter les financements vers l’électrification des usages. Une décis",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/30/le-gouvernement-met-fin-a-cinq-programmes-d-aide-a-la-renovation-energetique-des-logements-et-des-batiments-publics_6803122_3224.html",
-      "published_at": "2026-10-30T17:08:42+00:00"
     },
     {
       "id": "95358f2b74ca9c3c",
@@ -146,15 +191,6 @@
       "published_at": "2026-10-30T14:00:00+00:00"
     },
     {
-      "id": "2dc5a11dd9cf5edf",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "COP17 : les lobbies industriels au cœur des négociations sur la biodiversité",
-      "resume": "Les lobbies industriels trustent la COP17 biodiversité à Erevan, alerte le média Contexte. Selon la liste officielle des participants accrédités, publiée le 29 octobre, 479 représentants d'entreprises et de secteurs industriels participent ",
-      "url": "https://reporterre.net/COP17-les-lobbies-industriels-au-coeur-des-negociations-sur-la-biodiversite",
-      "published_at": "2026-10-30T13:05:41+00:00"
-    },
-    {
       "id": "e4b6119f4122520a",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -162,15 +198,6 @@
       "resume": "Crédit Agricole, une banque solide dans un environnement économique qui se dégrade Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRDZrY1NyY2k2SkVSSmJYUHh1RlZ6ckxZRS1iVER1Rjk3OFlkcnBacFJ3dm0wNTFDUTdsZkhYZTQzQXFtWGVqdWJtMU5YUUNORDRNV1BzN21ycS14dDhKRm9XLUZSNUVzSTFlVjBkZHc4TUttNE9XTEFGdy1qQXlkeFRVbmNtbFN5ZkRVWjVoSFhfVkoyOERTaWMyd1Y2Vng1Wks3WE9RSEdNSjlpQ3NiTTRmeHVKXzV0bnIzVnllWHF4anE5YXIxTVc5SnRTWlRCYi1CWThrZDI0UDVHaVVYVEk5SXBqYVZDY0E?oc=5",
       "published_at": "2026-10-30T13:03:09+00:00"
-    },
-    {
-      "id": "aaff704146ff004f",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le Giec traverse une grave crise qui menace les négociations climatiques",
-      "resume": "Session plénière suspendue, calendrier de publication incertain, budget des chercheurs indéfini... La crise historique que traverse le Giec menace jusqu'à la survie de son rapport fondamental sur l'état du climat. Au pire des moments, alors",
-      "url": "https://reporterre.net/Le-Giec-traverse-une-grave-crise-qui-menace-les-negociations-climatiques",
-      "published_at": "2026-10-30T13:00:00+00:00"
     },
     {
       "id": "d9896dcfacdea41c",
@@ -189,24 +216,6 @@
       "resume": "Green building materials manufacturer Fortera and tech giant Meta announced today a multi-year agreement under […]",
       "url": "https://www.esgtoday.com/meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal/?utm_source=rss&utm_medium=rss&utm_campaign=meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal",
       "published_at": "2026-10-30T12:26:22+00:00"
-    },
-    {
-      "id": "a711e81d0989f90b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Andreas Malm, intellectuel écologiste et soutien de la Palestine, interdit de séjour au Royaume-Uni",
-      "resume": "L'activiste et théoricien suédois écologiste Andreas Malm, connu pour son engagement pour la Palestine, est interdit d'entrer sur le territoire britannique. Sa présence contreviendrait à « l'intérêt public », selon les autorités. Andreas Ma",
-      "url": "https://reporterre.net/Andreas-Malm-intellectuel-ecologiste-interdit-de-sejour-au-Royaume-Uni",
-      "published_at": "2026-10-30T12:05:31+00:00"
-    },
-    {
-      "id": "65b7ef469586739b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Un dirigeant qui n’investit pas dans l’adaptation climatique aujourd’hui se comporte comme un joueur de casino »",
-      "resume": "Pour encourager les investissements en faveur de la transition écologique, il faudrait substituer à la réflexion à long terme des échéances plus immédiates, estiment, dans une tribune au « Monde », les spécialistes du risque climatique Anto",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/30/un-dirigeant-qui-n-investit-pas-dans-l-adaptation-climatique-aujourd-hui-se-comporte-comme-un-joueur-de-casino_6803083_3232.html",
-      "published_at": "2026-10-30T12:00:01+00:00"
     },
     {
       "id": "1f15d3940a079ea3",
@@ -461,15 +470,6 @@
       "published_at": "2026-10-28T04:00:00+00:00"
     },
     {
-      "id": "dca317359f80b506",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
-      "resume": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday Coastal California braces for flooding amid forecast of ‘record-breaking ti",
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
-      "published_at": "2026-10-27T21:55:44+00:00"
-    },
-    {
       "id": "1a534f1ef91fb207",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -488,6 +488,15 @@
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
+      "id": "f9ab180312964bb8",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales - Les Echos",
+      "resume": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcFd1THJtWl8xQ3NCQU4xWUF1dF9VX3lWOFMxcElla2ZjSUZZT1RhcDEyNU5JZHdWVEduZ0o4b3o0RWRIc3ltSU1PSUplUlloMEczcG1IaDBHUmlpMWpUVmFFUWYtSHhrcUpaa1oyQ05JTGF2LWJ1SkFyUXEwOFhFWW5BMnRxdHBIX1ZLU3BsaFQ0d1hmUTdhVVUxT2d5djhOZnd4a0x4bjFrUW1mcjhDcmJVN0w1RU12c1h1T3hqZGJvM3ZUcXpfQ3FTUW5fUFN4Wl9MUEV0akYtQ0F5aG9ZdVJ4T3JsOEVtOVpvWmNKTzM1Qm1OQl80QWpqLW5PRzZtcGRnSlVxczUtd1FQSDBoV3Jqb2RmcXVnNG93?oc=5",
+      "published_at": "2026-10-27T05:15:36+00:00"
+    },
+    {
       "id": "e13d05e4d455f922",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -495,15 +504,6 @@
       "resume": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
       "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-26T18:28:56+00:00"
-    },
-    {
-      "id": "bf38b10c64f0a722",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
-      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
-      "published_at": "2026-10-26T08:14:40+00:00"
     },
     {
       "id": "93decf4d397bd214",
