@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-30T20:56:56.553202+00:00",
+  "generated_at": "2026-10-31T00:21:47.958211+00:00",
   "items": [
+    {
+      "id": "5195e0b973b2922e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature",
+      "resume": "Le premier texte est censé représenter un « examen mondial » d’un accord sur la biodiversité de 2022. Et un autre concerne le financement et la participation des pays émergents au groupe des états donateurs.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/30/a-la-cop17-d-erevan-malgre-les-divergences-les-etats-s-entendent-sur-des-textes-pour-tenter-de-proteger-la-nature_6803202_3244.html",
+      "published_at": "2026-10-30T22:56:30+00:00"
+    },
     {
       "id": "93cc309064bfc8d8",
       "source": "Le Monde Planète",
@@ -281,15 +290,6 @@
       "published_at": "2026-10-30T08:51:56+00:00"
     },
     {
-      "id": "80d16906f487a3c0",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Indonésie, la pollution de l’air due aux incendies a causé la mort de 3 560 personnes en septembre",
-      "resume": "Frappé par une sécheresse aggravée par le phénomène climatique El Niño, le pays lutte depuis des mois contre des feux de forêt qui, selon l’organisme Nusantara Atlas, ont ravagé plus de 1,9 million d’hectares au cours des neuf premiers mois",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/30/en-indonesie-les-incendies-ont-cause-3-560-morts-liees-a-la-pollution-de-l-air-en-septembre_6802919_3244.html",
-      "published_at": "2026-10-30T08:40:02+00:00"
-    },
-    {
       "id": "72cd6d11d7164577",
       "source": "Novethic",
       "categorie": "Presse",
@@ -380,15 +380,6 @@
       "published_at": "2026-10-29T10:00:31+00:00"
     },
     {
-      "id": "f84f850dbe200386",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies - Les Echos",
-      "resume": "Bénéfices record, production en hausse malgré la guerre : le carton plein de TotalEnergies Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTZWSFV5bDMtQkxwOGtPMnFjYjduNXN4RkVEZ3g2azJSZ1BkWE9QUmQ3a0pwV3N2YjlfNThta29pNHBRVktqYVNpTGJJRG52cWlGSmt2d1dfOUpHSVM3aWpZWGc5UXFXX2YyZmtwOHhod19FSjg5dDM2b2t3R2lBcGhIMjFjamJqS3hmcm5qc2FYNTZNWG90QkRNQUQ3UnMtWm9fN1ZtcENGSW9aUERzTmpTSHVoenR0RGpzNFVjRTdCUUNNZHpVR1Y2WDdmeGVESjhwQkdnOUVDSFR2SHBwZjZpTDFKQW9SalFJaFNlXy1qRkU?oc=5",
-      "published_at": "2026-10-29T08:03:22+00:00"
-    },
-    {
       "id": "2bfec8e4dddea878",
       "source": "Novethic",
       "categorie": "Presse",
@@ -423,6 +414,15 @@
       "resume": "L'ancien ministre de la Transition écologique et chantre de l'adaptation au réchauffement climatique est au cœur du dispositif du candidat à l'élection présidentielle.",
       "url": "https://www.politico.eu/article/christophe-bechu-premier-lieutenant-dedouard-philippe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-28T16:53:35+00:00"
+    },
+    {
+      "id": "d225af0443df2e5f",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 - Les Echos",
+      "resume": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkZVY3R1cE5fVDJiM3pfVnhRUnA4cnBXZzh0VGVLY0hPQmZkejdXczI1UmtzaVJNR1hUV3VQRlR5NDVMYzJVUVNnd3lyQ19Ja2ZxeUsxd0ZaV2MtRi1zSU56N2tCcXFRZVhZQmgyNmhWVVluZDR3NzBRUUNIRVV4eXQ5Q3MteEtiODNhZklYY1p2V01ORXZ5VHZTRVFFd2FQdV9lYmVnX3N1V0RzX0dFUjF5MVBRODE2aG0yNnhyWHJMRE9oMjFNdjRTV3dLUFY1cGd6cXZwazQtbzNSeG9hV1dDWjJYWmNoMEJVOVFxVEN1Zw?oc=5",
+      "published_at": "2026-10-28T16:24:50+00:00"
     },
     {
       "id": "89dc674b9bbfa217",
