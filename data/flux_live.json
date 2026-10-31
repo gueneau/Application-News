@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-31T12:53:55.570232+00:00",
+  "generated_at": "2026-10-31T17:27:54.090691+00:00",
   "items": [
+    {
+      "id": "a4b49977574a55e2",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
+      "resume": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptions It’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, hel",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
+      "published_at": "2026-10-31T13:00:42+00:00"
+    },
     {
       "id": "8726ae4cc260faf6",
       "source": "The Guardian Environment",
@@ -443,15 +452,6 @@
       "published_at": "2026-10-28T16:11:56+00:00"
     },
     {
-      "id": "f4de6c9f3bb48cfc",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-      "resume": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump said his administration was “terminating” Biden-era regulations holding oil and gas companies accountable for large l",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-      "published_at": "2026-10-28T14:30:29+00:00"
-    },
-    {
       "id": "b834fe38d4c88839",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -632,15 +632,6 @@
       "published_at": "2026-10-09T08:45:20+00:00"
     },
     {
-      "id": "677c3834c04eaf26",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
-      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
-      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
-      "published_at": "2026-10-07T13:03:27+00:00"
-    },
-    {
       "id": "e08f4587b21f7778",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -648,51 +639,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
       "published_at": "2026-10-06T10:23:17+00:00"
-    },
-    {
-      "id": "c7c5fd524d735a2a",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
-      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
-      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
-      "published_at": "2026-09-30T09:38:27+00:00"
-    },
-    {
-      "id": "807bedcb7a719896",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "« France 2035, France 2050 » - Découvrez le projet",
-      "resume": "« France 2035, France 2050 » - Découvrez le projet Comment vivrons-nous en France demain ? Dans la lignée historique des travaux du Plan depuis Jean Monnet, le Haut-commissariat à la Stratégie et au Plan a lancé un grand exercice de prospec",
-      "url": "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet",
-      "published_at": "2026-09-10T10:16:39+00:00"
-    },
-    {
-      "id": "673f485ce8732418",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Conférence | Quels nouveaux moteurs pour la productivité française ?",
-      "resume": "Conférence | Quels nouveaux moteurs pour la productivité française ? La France entre dans une nouvelle phase de son histoire économique : l’accélération technologique portée par l’intelligence artificielle, le vieillissement démographique e",
-      "url": "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise",
-      "published_at": "2026-09-09T13:14:11+00:00"
-    },
-    {
-      "id": "f6a85cff203ccfc9",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps",
-      "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
-      "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
-      "published_at": "2026-09-08T13:11:58+00:00"
-    },
-    {
-      "id": "2eb28f1334062f55",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ?",
-      "resume": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ? Comment les entreprises peuvent-elles contribuer, aux côtés des collectivités, des associations, des ",
-      "url": "https://www.strategie-plan.gouv.fr/webconference-responsabilite-territoriale-de-lentreprise-quels-leviers-pour-des-territoires-plus",
-      "published_at": "2026-09-03T14:56:56+00:00"
     },
     {
       "id": "cf48f14c1a1e7e16",
@@ -720,6 +666,60 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "ebbcaca171cba5d1",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Automobile et Mobilités routières : s’engager pleinement dans la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/automobile-et-mobilites-routieres-rapport-intermediaire/",
+      "published_at": "2026-06-30T08:03:48+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
+    },
+    {
+      "id": "f6ba6a33ef09a89a",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
+      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
+      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
