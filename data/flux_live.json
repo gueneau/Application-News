@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-31T00:21:47.958211+00:00",
+  "generated_at": "2026-10-31T06:02:54.643228+00:00",
   "items": [
+    {
+      "id": "bce2cd38c51b1b32",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Obsèques hors de prix : « Il faut étendre la Sécurité sociale à la mort »",
+      "resume": "Enterrements à plus de 4 000 euros, contrats de prévoyance... Le capitalisme n'épargne rien, pas même la mort. Pour en sortir, un collectif défend une prise en charge intégrale des funérailles par la Sécu, et un véritable congé lié au deuil",
+      "url": "https://reporterre.net/Obseques-hors-de-prix-Il-faut-etendre-la-Securite-sociale-a-la-mort",
+      "published_at": "2026-10-31T06:00:00+00:00"
+    },
+    {
+      "id": "271b026bb6a27ee7",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
+      "resume": "Décuplée par l’intensité du phénomène El Niño et le changement climatique, la sécheresse qui sévit actuellement dans le territoire amazonien exacerbe les difficultés chroniques d’accès à l’eau potable des Guyanais, notamment ceux vivant dan",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
+      "published_at": "2026-10-31T05:00:44+00:00"
+    },
+    {
+      "id": "b9a42eda381793be",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pénurie de navires et tarifs record : comment la guerre au Moyen-Orient fait bondir les prix du transport de pétrole",
+      "resume": "Le conflit se traduit par une raréfaction des navires pétroliers disponibles et un allongement des temps de transport, qui favorise l’envolée des tarifs du fret. Les chaînes logistiques se réorganisent et certains acteurs du marché tentent ",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/31/penurie-de-navires-et-tarifs-record-comment-la-guerre-au-moyen-orient-fait-bondir-les-prix-du-transport-de-petrole_6803378_3234.html",
+      "published_at": "2026-10-31T04:00:48+00:00"
+    },
     {
       "id": "5195e0b973b2922e",
       "source": "Le Monde Planète",
@@ -209,15 +236,6 @@
       "published_at": "2026-10-30T11:15:58+00:00"
     },
     {
-      "id": "68a81799a82cce95",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Au Brésil, les marges de manœuvre limitées de Lula sur la protection de l’environnement",
-      "resume": "Pour son quatrième mandat, le président Luiz Inacio Lula da Silva devra composer avec la présence renforcée d’élus d’extrême droite, largement acquis aux intérêts de l’agronégoce, sur les bancs de la Chambre des députés et du Sénat.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/30/au-bresil-les-marges-de-man-uvre-limitees-de-lula-sur-la-protection-de-l-environnement_6803076_3244.html",
-      "published_at": "2026-10-30T11:00:08+00:00"
-    },
-    {
       "id": "ad8d3b75b6f8c462",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -270,24 +288,6 @@
       "resume": "TotalEnergies bénéficie d'un environnement exceptionnel, il en tire profit à plein Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSkIyRXpFS3lfSFhhd3BhbDk0YzlXbzh3V3laRUI1Z3J3MWxMQjY2dW8zZkJ0QlJkcThUSXlscmpRODgzX0lnYzZyRUh0ZlAtVlV0VENwbVZmTTdXTU5XWWxWWVA4LUExRU43d18xeXo2ajVqajZOTGdjLW9peDVSVVlVb0VGTU5jME9yTmlvXzh0OU5OMlZlS1o0WnFoQzNDRWhES1oyZUxkZnZ4dkZpTFFLUTZIcGxRY0NGMVhha3A1M3lYT2RiRDdYcHJxelo1MkhZeWhnYjV1ZkxPYTQtelF5VmJGMVZB?oc=5",
       "published_at": "2026-10-30T10:10:00+00:00"
-    },
-    {
-      "id": "56f64ec6a998fa94",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En images : les fossiles du Quercy, témoins d’un bouleversement climatique",
-      "resume": "Les phosphatières du Lot renferment des fossiles d’animaux très bien conservés, datant de 52 millions à 20 millions d’années. Une période charnière de la biodiversité pendant laquelle de nombreuses espèces animales ont disparu. Reportage vi",
-      "url": "https://www.lemonde.fr/sciences/video/2026/10/30/en-images-les-fossiles-du-quercy-temoins-d-un-bouleversement-climatique_6803064_1650684.html",
-      "published_at": "2026-10-30T10:02:07+00:00"
-    },
-    {
-      "id": "dc1a4287eafd8c83",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Shein, Temu, AliExpress : une nouvelle taxe de 2 euros sur les petits colis",
-      "resume": "Il faudra désormais débourser 2 euros de plus pour tout achat de 150 euros ou moins sur Shein, Temu ou AliExpress. À partir du 1 er novembre, cette nouvelle redevance européenne pour frais de traitement s'applique sur chaque petit colis ven",
-      "url": "https://reporterre.net/Shein-Temu-AliExpress-une-nouvelle-taxe-de-2-euros-sur-les-petits-colis",
-      "published_at": "2026-10-30T08:51:56+00:00"
     },
     {
       "id": "72cd6d11d7164577",
@@ -488,15 +488,6 @@
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
-      "id": "f9ab180312964bb8",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales - Les Echos",
-      "resume": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcFd1THJtWl8xQ3NCQU4xWUF1dF9VX3lWOFMxcElla2ZjSUZZT1RhcDEyNU5JZHdWVEduZ0o4b3o0RWRIc3ltSU1PSUplUlloMEczcG1IaDBHUmlpMWpUVmFFUWYtSHhrcUpaa1oyQ05JTGF2LWJ1SkFyUXEwOFhFWW5BMnRxdHBIX1ZLU3BsaFQ0d1hmUTdhVVUxT2d5djhOZnd4a0x4bjFrUW1mcjhDcmJVN0w1RU12c1h1T3hqZGJvM3ZUcXpfQ3FTUW5fUFN4Wl9MUEV0akYtQ0F5aG9ZdVJ4T3JsOEVtOVpvWmNKTzM1Qm1OQl80QWpqLW5PRzZtcGRnSlVxczUtd1FQSDBoV3Jqb2RmcXVnNG93?oc=5",
-      "published_at": "2026-10-27T05:15:36+00:00"
-    },
-    {
       "id": "e13d05e4d455f922",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -504,6 +495,15 @@
       "resume": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
       "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-26T18:28:56+00:00"
+    },
+    {
+      "id": "bf38b10c64f0a722",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
+      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
+      "published_at": "2026-10-26T08:14:40+00:00"
     },
     {
       "id": "93decf4d397bd214",
