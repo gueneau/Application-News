@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
-  "generated_at": "07:12",
-  "elapsed_seconds": 418,
+  "generated_at": "13:10",
+  "elapsed_seconds": 298,
   "errors": [],
   "stats": {
     "jo_analyses": 10,
@@ -9,7 +9,7 @@
     "depts_restriction": 88
   },
   "pipeline_meta": {
-    "run_at": "2026-10-31T07:12:43",
+    "run_at": "2026-10-31T13:10:36",
     "sources": {
       "JORF": 0,
       "RSS": 3,
@@ -19,8 +19,8 @@
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 35,
-    "llm_seconds": 91.4
+    "llm_calls": 27,
+    "llm_seconds": 24.4
   },
   "items": [
     {
@@ -249,11 +249,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "01",
       "dept_nom": "Ain",
       "niveau": "crise"
@@ -261,6 +256,11 @@
     {
       "dept_code": "39",
       "dept_nom": "Jura",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
