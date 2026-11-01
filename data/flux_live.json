@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-01T03:40:27.172345+00:00",
+  "generated_at": "2026-11-01T10:56:53.014340+00:00",
   "items": [
+    {
+      "id": "14e0d30794191eef",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESG Today: Week in Review",
+      "resume": "This week in ESG news: EU Commission launches climate resilience framework; investors urge ISSB to […]",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-281/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-281",
+      "published_at": "2026-11-01T10:24:42+00:00"
+    },
+    {
+      "id": "3447c4baef269d20",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les morts amènent la vie : comment cadavres d'animaux, arbres calcinés et récifs inertes nourrissent leurs congénères",
+      "resume": "Arbres morts qui hébergent des insectes, carcasses de baleines nourricières... Une recherche d'ampleur a été menée pour étudier les effets des morts sur les vivants : un « concept central de l'écologie ». La mort n'est pas une fin, bien au ",
+      "url": "https://reporterre.net/Les-morts-amenent-la-vie-comment-cadavres-d-animaux-arbres-calcines-et-recifs-inertes-nourrissent-leurs-congeneres",
+      "published_at": "2026-11-01T06:00:00+00:00"
+    },
+    {
+      "id": "f8110a0c95e0ab4a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La COP d’Erevan analysée par Steven Guilbeault, figure des négociations sur la biodiversité : « La question des subventions néfastes est probablement le cheval de bataille des prochaines années »",
+      "resume": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard positif sur la conférence qui s’est achevée le 31 octobre en Arménie.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
+      "published_at": "2026-11-01T04:00:27+00:00"
+    },
     {
       "id": "4adbaf9944658913",
       "source": "Reporterre",
@@ -110,13 +137,13 @@
       "published_at": "2026-10-31T04:00:48+00:00"
     },
     {
-      "id": "5195e0b973b2922e",
-      "source": "Le Monde Planète",
+      "id": "4d1b1023b32d1184",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "A la COP17 d’Erevan, malgré les divergences, les Etats s’entendent sur des textes pour tenter de protéger la nature",
-      "resume": "Le premier texte est censé représenter un « examen mondial » d’un accord de 2022 relatif à la biodiversité. Le second concerne le financement et la participation des pays émergents au groupe des Etats donateurs.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/30/a-la-cop17-d-erevan-malgre-les-divergences-les-etats-s-entendent-sur-des-textes-pour-tenter-de-proteger-la-nature_6803202_3244.html",
-      "published_at": "2026-10-30T22:56:30+00:00"
+      "titre": "Crise énergétique : comment les majors pétrolières tirent profit du pactole inédit des marges de raffinage - Les Echos",
+      "resume": "Crise énergétique : comment les majors pétrolières tirent profit du pactole inédit des marges de raffinage Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRjIxT1dFLXlwS21RVkNHYy1ia1RHYXhOeWV0SXh5SklZYl8xdFlEVkllU2g5Z3JUaGhYNnF4RHZ5MTJGeHFUYVRkWEpQLVhKZXU3dUJoTzJtTkJoODNWSEloVjI2U1padGlKcC1BRGRzVjUyaUxxa0hLVndraFYzdVNQWFVMandWUzZJbmpaUUdkWUNYT0xHNEl5Sno5WnNsSnNfWFBraEFPTFdmVktqTWZQZE10YXppandDRmFUcHBOaXVyZk5xNkZ3YUFzWl9MUjJHWTA4TEVpNVhnYmhzMk9ESFktbmFOM3V0UUZsM1FuNFRzUEFxTzBOV1l4TWlFYXZTT0gwd3Q?oc=5",
+      "published_at": "2026-10-30T16:49:53+00:00"
     },
     {
       "id": "95358f2b74ca9c3c",
@@ -182,15 +209,6 @@
       "published_at": "2026-10-30T15:46:50+00:00"
     },
     {
-      "id": "6f2297d79d555ed0",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Accidents graves et cadences infernales : plusieurs chantiers de data centers épinglés à travers l'Europe",
-      "resume": "Les chantiers des centres de données, dopés par l'essor de l'intelligence artificielle ( IA ), sont-ils construits au prix de l'exploitation des travailleurs ? Une enquête publiée vendredi 30 octobre par le consortium Investigate Europe, av",
-      "url": "https://reporterre.net/Accidents-graves-et-cadences-infernales-plusieurs-chantiers-de-data-centers-epingles-a",
-      "published_at": "2026-10-30T15:04:17+00:00"
-    },
-    {
       "id": "41aec3acf372f4ca",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -243,15 +261,6 @@
       "resume": "Née en 2023, la jeune pousse rémoise a mis au point un procédé de dépolymérisation sélective des polyamides (nylons). Une technologie de chimie verte qu'elle entend déployer à grande échelle pour recycler les textiles en mélanges.",
       "url": "https://www.actu-environnement.com/ae/news/syntetica-recycle-les-textiles-contenant-nylon-et-autres-matieres-elasthanne-coton-48750.php4#xtor=RSS-6",
       "published_at": "2026-10-30T11:19:21+00:00"
-    },
-    {
-      "id": "f1a69142527e30a1",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Orange Business mise sur l'économie circulaire avec Ekinops pour réduire son empreinte carbone - Les Echos",
-      "resume": "Orange Business mise sur l'économie circulaire avec Ekinops pour réduire son empreinte carbone Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3RsSVBOVnNuTFItR25XampNLW5tQUh3Qnl2dl9Bd0w5UlZXaS1XT3Y5aldJR0xnZEhRa0tuVGZELXdtem9qemxpR3lHX0llaHZPUjNWdV9QZ2NPbnRiXzZvbzFHNl8weWN3aFpiVzZtNkxTT3k2MTBlMzVFVXRjazVqYzdTVlpzTkhMT1FpcHRBVktKOG42N3lFRzFucGIwakRZSVRIMFRraFlUN21tZ3AzdmVrVkNPR0pyWG5LVjAtbVNXOHFOQ1V6dldsaU9DOExiSXcwem82X04yeXNIX1lYWVdqRmJvVGpmb0lmWUJ2TzZhb1M4MWRR?oc=5",
-      "published_at": "2026-10-30T11:15:58+00:00"
     },
     {
       "id": "ad8d3b75b6f8c462",
@@ -380,15 +389,6 @@
       "published_at": "2026-10-29T12:45:33+00:00"
     },
     {
-      "id": "d110ec261b158cbd",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Over 80% of Institutional Investors Plan to Increase Allocations to Sustainable Investments: Survey",
-      "resume": "More than four out of five institutional investors expect to increase allocations to sustainable investments […]",
-      "url": "https://www.esgtoday.com/over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey",
-      "published_at": "2026-10-29T12:31:57+00:00"
-    },
-    {
       "id": "ccc249fd67e9035d",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -488,15 +488,6 @@
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
-      "id": "f9ab180312964bb8",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales - Les Echos",
-      "resume": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcFd1THJtWl8xQ3NCQU4xWUF1dF9VX3lWOFMxcElla2ZjSUZZT1RhcDEyNU5JZHdWVEduZ0o4b3o0RWRIc3ltSU1PSUplUlloMEczcG1IaDBHUmlpMWpUVmFFUWYtSHhrcUpaa1oyQ05JTGF2LWJ1SkFyUXEwOFhFWW5BMnRxdHBIX1ZLU3BsaFQ0d1hmUTdhVVUxT2d5djhOZnd4a0x4bjFrUW1mcjhDcmJVN0w1RU12c1h1T3hqZGJvM3ZUcXpfQ3FTUW5fUFN4Wl9MUEV0akYtQ0F5aG9ZdVJ4T3JsOEVtOVpvWmNKTzM1Qm1OQl80QWpqLW5PRzZtcGRnSlVxczUtd1FQSDBoV3Jqb2RmcXVnNG93?oc=5",
-      "published_at": "2026-10-27T05:15:36+00:00"
-    },
-    {
       "id": "e13d05e4d455f922",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -504,6 +495,15 @@
       "resume": "La libération des stocks avait été décidée par Sébastien Lecornu le 7 octobre pour faire baisser les prix.",
       "url": "https://www.politico.eu/article/le-gouvernement-envisage-de-ne-pas-reconstituer-les-stocks-strategiques-de-diesel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-26T18:28:56+00:00"
+    },
+    {
+      "id": "bf38b10c64f0a722",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
+      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
+      "published_at": "2026-10-26T08:14:40+00:00"
     },
     {
       "id": "93decf4d397bd214",
