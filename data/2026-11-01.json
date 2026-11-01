@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
-  "generated_at": "07:08",
-  "elapsed_seconds": 175,
+  "generated_at": "13:07",
+  "elapsed_seconds": 119,
   "errors": [],
   "stats": {
     "jo_analyses": 5,
@@ -9,7 +9,7 @@
     "depts_restriction": 79
   },
   "pipeline_meta": {
-    "run_at": "2026-11-01T07:08:33",
+    "run_at": "2026-11-01T13:07:39",
     "sources": {
       "JORF": 0,
       "RSS": 1,
@@ -19,8 +19,8 @@
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 15,
-    "llm_seconds": 11.5
+    "llm_calls": 10,
+    "llm_seconds": 7.0
   },
   "items": [
     {
