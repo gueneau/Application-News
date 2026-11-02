@@ -1,14 +1,203 @@
 {
-  "generated_at": "2026-11-02T07:06:51.443220+00:00",
+  "generated_at": "2026-11-02T15:40:44.414131+00:00",
   "items": [
     {
-      "id": "f02af699fed72afe",
+      "id": "11d2bebcda5c73bd",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Cadres parisiens, dirigeants très diplômés : « Le RN n'a pas la volonté de faire émerger des figures populaires rurales »",
+      "resume": "Des parachutages, une hiérarchie sociale forte et l'exaltation d'un clivage contre les « urbains » : le chercheur Guillaume Letourneur décrypte la progression du Rassemblement national dans de nombreux territoires ruraux. Peu importe que la",
+      "url": "https://reporterre.net/Cadres-parisiens-dirigeants-tres-diplomes-Le-RN-n-a-pas-la-volonte-de-faire-emerger-des",
+      "published_at": "2026-11-02T15:23:00+00:00"
+    },
+    {
+      "id": "58598ca2a35f5933",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Contact alimentaire : la Commission européenne autorise quatre nouvelles substances",
+      "resume": "La Commission européenne vient d'autoriser quatre nouvelles substances aptes au contact alimentaire. Un règlement de la Commission, publié le 29 octobre, modifie l'annexe I du règlement de 2011 concernant les matériaux et objets en plastiqu",
+      "url": "https://www.actu-environnement.com/ae/news/contact-alimentaire-commission-europeenne-autorise-quatre-substances-48758.php4#xtor=RSS-6",
+      "published_at": "2026-11-02T15:02:19+00:00"
+    },
+    {
+      "id": "c7f312fe9e87dae8",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Rationalisation », recours à l'IA... Le gouvernement veut réduire les coûts de l'Anses",
+      "resume": "Le gouvernement veut réduire les coûts de l'Agence nationale de sécurité sanitaire (Anses). Fin octobre, les quatre ministres de tutelle de l'agence (Agriculture, Écologie, Santé et Travail) ont adressé une lettre de mission aux inspections",
+      "url": "https://reporterre.net/Rationalisation-recours-a-l-IA-Le-gouvernement-veut-reduire-les-couts-de-l-Anses",
+      "published_at": "2026-11-02T14:53:25+00:00"
+    },
+    {
+      "id": "49b95be0fb507adb",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Je n'ai plus envie de nourrir le monstre » : pourquoi l'écrivaine Corinne Morel Darleux quitte Meta",
+      "resume": "« Tout le monde déteste l' IA , mais tout le monde l'utilise » : dans cette nouvelle chronique, l'autrice Corinne Morel Darleux dénonce l'omniprésence de l'intelligence artificielle et affirme avoir choisi son camp... Corinne Morel Darleux ",
+      "url": "https://reporterre.net/Je-n-ai-plus-envie-de-nourrir-le-monstre-pourquoi-l-ecrivaine-Corinne-Morel-Darleux-quitte-Meta",
+      "published_at": "2026-11-02T14:46:06+00:00"
+    },
+    {
+      "id": "dee89859c14a800a",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Brazil Reconsiders Mandatory Sustainability Reporting Just Months After Scrapping Requirement",
+      "resume": "Brazil’s Securities and Exchange Commission (CVM) announced the launch of a new public consultation into […]",
+      "url": "https://www.esgtoday.com/brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement/?utm_source=rss&utm_medium=rss&utm_campaign=brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement",
+      "published_at": "2026-11-02T14:42:16+00:00"
+    },
+    {
+      "id": "61de8cbb7170a6cb",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Super El Niño » : la Bolivie décrète l'état d'urgence",
+      "resume": "Le président bolivien, Rodrigo Paz, a annoncé samedi 31 octobre avoir décrété l'état d'urgence en Bolivie pour faire face aux sécheresses et aux inondations liées au « super El Niño », phénomène climatique intense qui fait des ravages cette",
+      "url": "https://reporterre.net/BVE-Super-El-Nino-la-Bolivie-decrete-l-etat-d-urgence",
+      "published_at": "2026-11-02T14:17:46+00:00"
+    },
+    {
+      "id": "a3377d1a395b799b",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "APG Invests €500 Million in Sustainable European Infrastructure with Equitix",
+      "resume": "Dutch pension fund manager APG, on behalf of its pension fund client ABP, and infrastructure […]",
+      "url": "https://www.esgtoday.com/apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix/?utm_source=rss&utm_medium=rss&utm_campaign=apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix",
+      "published_at": "2026-11-02T14:06:15+00:00"
+    },
+    {
+      "id": "d36bde3e19f6820a",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Fonds de Cali et subventions néfastes, les maigres avancées obtenues à la COP17 Biodiversité",
+      "resume": "Clôture de la COP17 Biodiversité à Erevan samedi 31 octobre 2026. @ Karen Minasyan / AFP La COP17 Biodiversité s’est achevée comme elle avait débuté, dans une quasi indifférence générale. Après deux semaines de négociations tendues sur les ",
+      "url": "https://www.novethic.fr/environnement/biodiversite/cop17-biodiversite-fonds-de-cali-et-subventions-nefastes-les-maigres-avancees-obtenues-a-erevan",
+      "published_at": "2026-11-02T13:47:24+00:00"
+    },
+    {
+      "id": "f91d58f75c2fbebb",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La pétition pour fermer CNews dépasse les 500 000 signatures",
+      "resume": "Plus de 530 000 personnes ont signé la pétition pour supprimer la chaîne de télévision CNews. Déposée en juin sur le site de l'Assemblée nationale, cette pétition connaît un fort regain de popularité depuis l'attentat raciste de Trappes, le",
+      "url": "https://reporterre.net/La-petition-pour-fermer-CNews-depasse-les-500-000-signatures",
+      "published_at": "2026-11-02T13:44:18+00:00"
+    },
+    {
+      "id": "5bf4e119fed2c63d",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Voitures électriques : la troisième édition du leasing social peine à atteindre les 50 000 bénéficiaires",
+      "resume": "Le dispositif, qui permet de donner accès à un véhicule électrique à des ménages modestes, est moins séduisant qu’à son lancement. Fin octobre, seulement 39 000 véhicules électriques avaient été commandés sur les 50 000 subventionnés.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html",
+      "published_at": "2026-11-02T13:30:07+00:00"
+    },
+    {
+      "id": "8af53ce5817491db",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Salvador Lamas défend le carbone à tout faire - Les Echos",
-      "resume": "Salvador Lamas défend le carbone à tout faire Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzdRMXF6ak9YYml6NXR4eHFQeHNsYUFOV1JHT3dfeUlWaElFbFJOel9OYmNlMUR6RVAtSDNPSGVfN0xXeVluYjRYN0hWTlNQNGxHWkYwa3I3OG9zNktONjZTQTViMjJRcDR5azJpYjhhby1ieXdzVThaUDVLckhDS2xZZFdibUFBSW1Da2I0SzJTdUVOS0d0ZndTUDVSV1h6b1lNeUV6Wk80d2RDWC0xeGJuRng3RGxudkE?oc=5",
-      "published_at": "2026-11-02T07:00:15+00:00"
+      "titre": "« L'entrepreneur ne tient jamais tout seul » : dépasser le mythe du héros solitaire - Les Echos",
+      "resume": "« L'entrepreneur ne tient jamais tout seul » : dépasser le mythe du héros solitaire Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUjdoNnVBZXUwNTZTdnljX2NtRkNOazdYRUdaZTBNVllGMXJ5aEF4Qjh1bzA1bWFRRWRhTm9KeWtfMmFLRDVqWjdEU2tON3pXRGplUXR3SHo4RzVQdWlCdDdSdVZoc2tZS3B0YmVTZWtjZFRBYUVqLU05RFNRTXF4Zi1NRHVDSTR6Tk96QjJ4cFA4Z3NCdzJsZ2ljOVkxS1NsWkJpR0dxQ21LUWlkZnBrX3dPS1Iyb3BoUktPZEFkWDZmRVF2WkYxOXkzVjluQ2RnTmYtTG94QnVMVHVIa3IyUUNxWQ?oc=5",
+      "published_at": "2026-11-02T13:00:28+00:00"
+    },
+    {
+      "id": "0af3201a9e42226b",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Recyclage chimique : l'IFPEN entre au capital de Mapea, un spécialiste de la gestion des déchets textiles",
+      "resume": "Le 29 octobre, l'Institut français du pétrole et des énergies nouvelles (IFPEN), via sa filiale IFP Investissement, a annoncé son entrée au capital de Mapea, une PME spécialisée dans la préparation, la transformation et la valorisation des ",
+      "url": "https://www.actu-environnement.com/ae/news/recyclage-chimique-alliance-ifpen-mapea-polyester-48756.php4#xtor=RSS-6",
+      "published_at": "2026-11-02T12:23:49+00:00"
+    },
+    {
+      "id": "2c324f16edb47465",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "BofA, SMI, Eurazeo Launch New Biodiversity Solutions Fund",
+      "resume": "Bank of America, the Sustainable Markets Initiative (SMI), a global sustainability coalition launched by King […]",
+      "url": "https://www.esgtoday.com/bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund",
+      "published_at": "2026-11-02T12:14:13+00:00"
+    },
+    {
+      "id": "bf2b3a7ac53fd4a7",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
+      "resume": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with flooding Aida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
+      "published_at": "2026-11-02T12:00:41+00:00"
+    },
+    {
+      "id": "462b1fc56e9c59e7",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Carburants : le gouvernement affirme que le prix du gazole a baissé de « 12 à 18 centimes » dans plus de la moitié des stations-service grâce à la libération de stocks stratégiques",
+      "resume": "Cette baisse de la facture correspond exactement aux promesses faites par Bercy en octobre. Mais certaines stations-service indépendantes regrettent de n’avoir pas bénéficié des déstockages en même temps que les grandes surfaces ou TotalEne",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/02/carburants-le-gouvernement-affirme-que-le-prix-du-gazole-a-baisse-de-12-a-18-centimes-dans-plus-de-la-moitie-des-stations-service-grace-a-la-liberation-de-stocks-strategiques_6805242_3234.html",
+      "published_at": "2026-11-02T11:43:05+00:00"
+    },
+    {
+      "id": "1b4746e2034a3d7b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Lobbyistes fossiles emmenés aux COP climat : la France sur le podium des pires délégations",
+      "resume": "L'an dernier, lors des grandes négociations climatiques internationales de la COP30 , au Brésil, plus de 1 600 lobbyistes des énergies fossiles étaient présents pour faire valoir leurs intérêts climaticides. Et la France et l'Europe compten",
+      "url": "https://reporterre.net/Lobbyistes-fossiles-emmenes-aux-COP-climat-la-France-sur-le-podium-des-pires-delegations",
+      "published_at": "2026-11-02T11:30:36+00:00"
+    },
+    {
+      "id": "cc625507dc7b566e",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Osapiens Appoints Stephan de Barse as President",
+      "resume": "Germany-based sustainability software company osapiens announced the appointment of Stephan de Barse to the newly […]",
+      "url": "https://www.esgtoday.com/osapiens-appoints-stephan-de-barse-as-president/?utm_source=rss&utm_medium=rss&utm_campaign=osapiens-appoints-stephan-de-barse-as-president",
+      "published_at": "2026-11-02T11:01:16+00:00"
+    },
+    {
+      "id": "151e86f5b74d2c30",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Green Climate Fund Approves Record $3.3 Billion Climate Investments",
+      "resume": "UN-backed Green Climate Fund (GCF), the largest global climate fund for developing countries, announced that […]",
+      "url": "https://www.esgtoday.com/green-climate-fund-approves-record-3-3-billion-climate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=green-climate-fund-approves-record-3-3-billion-climate-investments",
+      "published_at": "2026-11-02T10:25:47+00:00"
+    },
+    {
+      "id": "9d4711846c76666a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le Canada rêve d’exporter son gaz naturel liquéfié en Europe",
+      "resume": "Ottawa est le cinquième producteur mondial de GNL et pourrait devenir une nouvelle source d’approvisionnement pour les Européens, en quête de diversification. Mais l’éloignement géographique et le manque d’infrastructures risquent de freine",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/02/le-canada-reve-d-exporter-son-gaz-naturel-liquefie-en-europe_6805185_3234.html",
+      "published_at": "2026-11-02T08:00:05+00:00"
+    },
+    {
+      "id": "7ee72f89aaf0ce6d",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "PGSSE : des platines d'analyse pour surveiller la qualité de l'eau potable, du captage au robinet",
+      "resume": "Échéances 2027 et 2029 : le PGSSE impose d'identifier les risques et de surveiller les mesures de maîtrise. Les platines d'analyse Endress+Hauser transforment cette exigence en surveillance continue, fiable et traçable.",
+      "url": "https://www.actu-environnement.com/ae/pdt/endress-hauser-pgsse-platines-analyse-qualite-eau-surveiller-captage-robinet-1500.php4#xtor=RSS-6",
+      "published_at": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "id": "2748703a9a0622df",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Chauffage et mobilité : comment les collectivités passent à l'électrique",
+      "resume": "Partenaire des collectivités depuis plus de 15 ans, Hellio accompagne les communes et EPCI* dans leur transition énergétique, sur les volets technique et financier, notamment via l'électrification des bâtiments et des flottes de véhicules p",
+      "url": "https://www.actu-environnement.com/ae/pdt/hellio-chauffage-mobilite-electrique-collectivites-pac-maires-electrification-territoires-decarbonation-1498.php4#xtor=RSS-6",
+      "published_at": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "id": "403e712ae89e1458",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Escofi se sépare de son équipe solaire, mise sur le repowering",
+      "resume": "Exclusif – Il y a du changement chez Escofi après l’arrivée d’un nouvel actionnaire majoritaire. Récemment racheté pour 134 M€ par le producteur indépendant d’énergie Econergy, une participation de RGreen Invest, Escofi a, selon nos informa",
+      "url": "https://www.greenunivers.com/2026/11/escofi-se-separe-de-son-equipe-solaire-mise-sur-le-repowering-437393/",
+      "published_at": "2026-11-02T07:45:00+00:00"
     },
     {
       "id": "e848018d92713aab",
@@ -17,25 +206,16 @@
       "titre": "L’international reste moteur chez Séché Environnement mais la France se reprend - Les Echos",
       "resume": "L’international reste moteur chez Séché Environnement mais la France se reprend Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM2xzaW1TVDk1cDhCbHcwOE8xWUhFNDlxd1dmUjhFSWhYQzZ3WEVIWTAxWlNzZTVPaTMzRWhwbWdweEhCXzJCbWVKV1dFYmtuZThUcVVZQTAwbnlxczNxbzd1NkhzX254eTZqY3BuWVRCdm4xZWhpTG5DakdtZ1FrVW50OEo2WWZkX3BmQW1lQ3hZX2ZtRGxLSUw3RlVFWDFwbFNFOW9EczhybmhjdHlwM1FMVi10SDlvSTdzN09aTms2TlN0RHJxNEpZQ1dGdGxJUHluTWRodmdjbFUyRjQ4X2pLMFVhUQ?oc=5",
-      "published_at": "2026-11-02T07:00:01+00:00"
+      "published_at": "2026-11-02T07:00:38+00:00"
     },
     {
-      "id": "b54dcc174a9d27a3",
-      "source": "Reporterre",
+      "id": "f02af699fed72afe",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Justin J. Pearson, « l'un des candidats les plus radicaux du pays » selon Trump, veut amener son écologie antiraciste au Congrès des États-Unis",
-      "resume": "Militant pour la justice environnementale et antiraciste, Justin J. Pearson, 31 ans, veut porter la voix des quartiers populaires du Tennessee. Candidat aux élections de mi-mandat du 3 novembre, il défie la droite trumpiste. Memphis (États-",
-      "url": "https://reporterre.net/Justin-J-Pearson-l-un-des-candidats-les-plus-radicaux-du-pays-selon-Trump-veut-amener-son-ecologie-antiraciste-au-Congres-des-Etats-Unis",
-      "published_at": "2026-11-02T06:10:00+00:00"
-    },
-    {
-      "id": "e299e0fd16f6f73a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Ça fonctionne bien » : cette association aide les femmes précaires à prendre leur santé à bras-le-corps",
-      "resume": "À Lille, l'association Ikambere a créé une structure destinée aux patientes précaires obèses, diabétiques ou hypertendues. Le but, leur permettre de prendre leur maladie à bras-le-corps, en composant avec les moyens du bord. Lille (Nord), r",
-      "url": "https://reporterre.net/Ca-fonctionne-bien-cette-association-aide-les-femmes-precaires-a-prendre-leur-sante-a-bras-le-corps",
-      "published_at": "2026-11-02T06:05:00+00:00"
+      "titre": "Salvador Lamas défend le carbone à tout faire - Les Echos",
+      "resume": "Salvador Lamas défend le carbone à tout faire Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzdRMXF6ak9YYml6NXR4eHFQeHNsYUFOV1JHT3dfeUlWaElFbFJOel9OYmNlMUR6RVAtSDNPSGVfN0xXeVluYjRYN0hWTlNQNGxHWkYwa3I3OG9zNktONjZTQTViMjJRcDR5azJpYjhhby1ieXdzVThaUDVLckhDS2xZZFdibUFBSW1Da2I0SzJTdUVOS0d0ZndTUDVSV1h6b1lNeUV6Wk80d2RDWC0xeGJuRng3RGxudkE?oc=5",
+      "published_at": "2026-11-02T07:00:15+00:00"
     },
     {
       "id": "48a6c3e444d765bd",
@@ -50,10 +230,10 @@
       "id": "f76008c45d1b5b86",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Le « super El Niño » continue sa progression : « Il est déjà d’une ampleur inédite »",
-      "resume": "Ce phénomène cyclique naturel, né dans le Pacifique, provoque des aléas climatiques en cascade. Tous les indicateurs pointent vers un épisode d’une ampleur majeure, alors que son pic n’est pas encore atteint. Samedi, le président bolivien a",
+      "titre": "Le « super El Niño » continue sa progression : « Il est déjà d’une ampleur inédite »",
+      "resume": "Ce phénomène cyclique naturel né dans le Pacifique provoque des aléas climatiques en cascade. Tous les indicateurs pointent vers un épisode d’une ampleur majeure, alors que son pic n’est pas encore atteint. Samedi, le président bolivien a d",
       "url": "https://www.lemonde.fr/planete/article/2026/11/02/le-super-el-nino-continue-sa-progression-il-est-deja-d-une-ampleur-inedite_6804881_3244.html",
-      "published_at": "2026-11-02T05:00:20+00:00"
+      "published_at": "2026-11-02T05:00:03+00:00"
     },
     {
       "id": "6966fe56c41c5042",
@@ -62,16 +242,7 @@
       "titre": "Le réchauffement climatique a entraîné plus de 10 000 naissances prématurées en Asie du Sud et du Sud-Est lors d’une vague de chaleur en avril 2024",
       "resume": "Une étude internationale publiée le 2 novembre quantifie le nombre de naissances prématurées attribuables au dérèglement climatique en analysant les données de l’Inde, du Bangladesh et des Philippines lors d’un épisode concret de longue can",
       "url": "https://www.lemonde.fr/planete/article/2026/11/02/le-rechauffement-climatique-a-entraine-plus-de-10-000-naissances-prematurees-en-asie-du-sud-et-du-sud-est-lors-d-une-vague-de-chaleur-en-avril-2024_6804839_3244.html",
-      "published_at": "2026-11-02T04:00:16+00:00"
-    },
-    {
-      "id": "c4bdd3db6ae164ef",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Horus, le logiciel de renseignement qui fiche des Indonésiens pour un géant minier français",
-      "resume": "Exclusif — Reporterre révèle qu'un logiciel de renseignement nommé Horus fiche à leur insu des Indonésiens à la demande d'Eramet, le fleuron minier et métallurgique français. Leurs données personnelles sont extraites sans leur consentement.",
-      "url": "https://reporterre.net/Horus-le-logiciel-de-renseignement-qui-fiche-des-Indonesiens-pour-un-geant-minier-francais",
-      "published_at": "2026-11-02T04:00:00+00:00"
+      "published_at": "2026-11-02T04:00:09+00:00"
     },
     {
       "id": "d8705309351c83d5",
@@ -92,31 +263,13 @@
       "published_at": "2026-11-02T00:25:21+00:00"
     },
     {
-      "id": "6efd57a295e841ae",
-      "source": "Reporterre",
+      "id": "d270d1ad4f4ff3a5",
+      "source": "Actu-Environnement",
       "categorie": "Presse",
-      "titre": "Glaciers, régions polaires... Les conséquences d'un +1,5 °C, même temporaire, seront irréversibles",
-      "resume": "Dépasser temporairement 1,5 °C de réchauffement pourrait provoquer des dégâts irréversibles sur les glaces de la planète. C'est l'alerte lancée le 2 novembre par deux rapports scientifiques publiés conjointement par l'Initiative internation",
-      "url": "https://reporterre.net/Glaciers-regions-polaires-Les-consequences-de-1-5-oC-meme-temporaire-seront-irreversibles",
+      "titre": "Climat : la cryosphère ne pardonnera pas un dépassement de 1,5 °C",
+      "resume": "À une semaine de l'ouverture de la COP31 en Turquie, deux rapports scientifiques adressent un avertissement sans détour aux États : chaque dixième de degré au-delà d'un réchauffement mondial de 1,5 °C se paiera le prix fort pour la cryosphè",
+      "url": "https://www.actu-environnement.com/ae/news/cryosphere-depassement-1-5-degres-cop31-48752.php4#xtor=RSS-6",
       "published_at": "2026-11-02T00:01:00+00:00"
-    },
-    {
-      "id": "5501c5b4f9fa3199",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Après le mégafeu de Gironde, créons la plus grande réserve naturelle d’Europe de l’Ouest »",
-      "resume": "Les incendies de l’été dans le sud-ouest de la France doivent provoquer un sursaut politique pour transformer la plantation artificielle inflammable en espace protégé régénéré par le génie naturel, propose un collectif de scientifiques et d",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/01/apres-le-megafeu-de-gironde-creons-la-plus-grande-reserve-naturelle-d-europe-de-l-ouest_6804525_3232.html",
-      "published_at": "2026-11-01T16:30:10+00:00"
-    },
-    {
-      "id": "e0bf70415429406b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Indonésie, la jeunesse exaspérée par les incendies : « Notre pays brûle, au sens propre comme au figuré »",
-      "resume": "La colère des étudiants indonésiens monte contre l’administration, accusée d’inaction face aux feux qui ont dévasté près de 2 millions d’hectares. La Malaisie et Singapour, également touchés par les fumées, haussent le ton.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/01/en-indonesie-la-jeunesse-exasperee-par-les-incendies-notre-pays-brule-au-sens-propre-comme-au-figure_6804410_3244.html",
-      "published_at": "2026-11-01T14:30:08+00:00"
     },
     {
       "id": "66de309ceba1307d",
@@ -128,15 +281,6 @@
       "published_at": "2026-11-01T14:00:18+00:00"
     },
     {
-      "id": "a8ec7146e5acee33",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Economie et environnement : « Il faut donner une valeur à ce qui n’a pas de prix pour éclairer nos choix collectifs »",
-      "resume": "Des méthodes ont été développées afin d’évaluer la valeur des services rendus par la nature comme des dégradations qu’elle subit, et que le produit intérieur brut, utilisé comme seul étalon de la performance économique, ne mesure pas, expli",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/01/economie-et-environnement-il-faut-donner-une-valeur-a-ce-qui-n-a-pas-de-prix-pour-eclairer-nos-choix-collectifs_6804376_3232.html",
-      "published_at": "2026-11-01T14:00:11+00:00"
-    },
-    {
       "id": "14e0d30794191eef",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -144,24 +288,6 @@
       "resume": "This week in ESG news: EU Commission launches climate resilience framework; investors urge ISSB to […]",
       "url": "https://www.esgtoday.com/esg-today-week-in-review-281/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-281",
       "published_at": "2026-11-01T10:24:42+00:00"
-    },
-    {
-      "id": "3447c4baef269d20",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les morts amènent la vie : comment cadavres d'animaux, arbres calcinés et récifs inertes nourrissent leurs congénères",
-      "resume": "Arbres morts qui hébergent des insectes, carcasses de baleines nourricières... Une recherche d'ampleur a été menée pour étudier les effets des morts sur les vivants : un « concept central de l'écologie ». La mort n'est pas une fin, bien au ",
-      "url": "https://reporterre.net/Les-morts-amenent-la-vie-comment-cadavres-d-animaux-arbres-calcines-et-recifs-inertes-nourrissent-leurs-congeneres",
-      "published_at": "2026-11-01T06:00:00+00:00"
-    },
-    {
-      "id": "4adbaf9944658913",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Acte III, version Halloween : « Les “casseurs”, c'est le gouvernement et le patronat »",
-      "resume": "500 000 personnes, dont 200 000 à Paris selon les syndicats, ont manifesté en France le 31 octobre pour l'acte III de la mobilisation sociale. Beaucoup sont venus déguisés à l'occasion d'Halloween. « C'est en étant visibles comme ça qu'on n",
-      "url": "https://reporterre.net/Acte-III-version-Halloween-Les-casseurs-c-est-le-gouvernement-et-le-patronat-article",
-      "published_at": "2026-10-31T17:40:10+00:00"
     },
     {
       "id": "a4b49977574a55e2",
@@ -218,33 +344,6 @@
       "published_at": "2026-10-30T16:04:06+00:00"
     },
     {
-      "id": "4ef22a7b801bf55d",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "REP textiles : Refashion estime remplir ses obligations de reprise sans frais de la collecte de l'ESS",
-      "resume": "Refashion assure bien la reprise sans frais des textiles collectés par les acteurs de l'économie sociale et solidaire (ESS). Telle est en substance la réponse de l'éco-organisme de la filière à responsabilité élargie des producteurs (REP) d",
-      "url": "https://www.actu-environnement.com/ae/news/rep-textiles-refashion-reprise-ess-48755.php4#xtor=RSS-6",
-      "published_at": "2026-10-30T16:02:38+00:00"
-    },
-    {
-      "id": "7317d5ebaa36cb1c",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Stockage d'électricité en zone agricole : le rejet du permis de construire suspendu",
-      "resume": "Par une ordonnance du 23 octobre 2026, le juge des référés du tribunal administratif d'Orléans a suspendu un arrêté du préfet d'Eure-et-Loir qui avait rejeté une demande de permis de construire pour l'installation d'un parc de batteries de ",
-      "url": "https://www.actu-environnement.com/ae/news/stockage-electricite-zone-agricole-permis-construire-48754.php4#xtor=RSS-6",
-      "published_at": "2026-10-30T15:49:12+00:00"
-    },
-    {
-      "id": "e66ca0a331ce586a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "CSR : l'Ademe chiffre les gains environnementaux de leur utilisation en cimenterie",
-      "resume": "Une étude de l'Ademe évalue les impacts environnementaux de la valorisation des combustibles solides de récupération en cimenterie, que ces impacts soient liés au remplacement d'énergies fossiles ou à la réduction de l'enfouissement.",
-      "url": "https://www.actu-environnement.com/ae/news/etude-ademe-acv-impact-environnemental-csr-cimenterie-48753.php4#xtor=RSS-6",
-      "published_at": "2026-10-30T15:46:50+00:00"
-    },
-    {
       "id": "41aec3acf372f4ca",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -272,15 +371,6 @@
       "published_at": "2026-10-30T12:59:23+00:00"
     },
     {
-      "id": "dbf89ff3301bee63",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Meta Backs Low Carbon Cement Producer Fortera with Multi-year EAC Deal",
-      "resume": "Green building materials manufacturer Fortera and tech giant Meta announced today a multi-year agreement under […]",
-      "url": "https://www.esgtoday.com/meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal/?utm_source=rss&utm_medium=rss&utm_campaign=meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal",
-      "published_at": "2026-10-30T12:26:22+00:00"
-    },
-    {
       "id": "1f15d3940a079ea3",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -290,15 +380,6 @@
       "published_at": "2026-10-30T11:30:52+00:00"
     },
     {
-      "id": "7e5c28089601743a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Recyclage chimique du nylon : Syntetica se positionne sur les textiles en mélanges",
-      "resume": "Née en 2023, la jeune pousse rémoise a mis au point un procédé de dépolymérisation sélective des polyamides (nylons). Une technologie de chimie verte qu'elle entend déployer à grande échelle pour recycler les textiles en mélanges.",
-      "url": "https://www.actu-environnement.com/ae/news/syntetica-recycle-les-textiles-contenant-nylon-et-autres-matieres-elasthanne-coton-48750.php4#xtor=RSS-6",
-      "published_at": "2026-10-30T11:19:21+00:00"
-    },
-    {
       "id": "f1a69142527e30a1",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -306,15 +387,6 @@
       "resume": "Orange Business mise sur l'économie circulaire avec Ekinops pour réduire son empreinte carbone Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3RsSVBOVnNuTFItR25XampNLW5tQUh3Qnl2dl9Bd0w5UlZXaS1XT3Y5aldJR0xnZEhRa0tuVGZELXdtem9qemxpR3lHX0llaHZPUjNWdV9QZ2NPbnRiXzZvbzFHNl8weWN3aFpiVzZtNkxTT3k2MTBlMzVFVXRjazVqYzdTVlpzTkhMT1FpcHRBVktKOG42N3lFRzFucGIwakRZSVRIMFRraFlUN21tZ3AzdmVrVkNPR0pyWG5LVjAtbVNXOHFOQ1V6dldsaU9DOExiSXcwem82X04yeXNIX1lYWVdqRmJvVGpmb0lmWUJ2TzZhb1M4MWRR?oc=5",
       "published_at": "2026-10-30T11:15:58+00:00"
-    },
-    {
-      "id": "ad8d3b75b6f8c462",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Orpaillage illégal en Guyane : six membres d'un réseau de soutien condamnés pénalement",
-      "resume": "Par un jugement du 24 septembre 2026, le tribunal judiciaire de Cayenne a condamné six membres d'un réseau de soutien à l'orpaillage illégal à des peines d'emprisonnement et à des amendes atteignant 5 ans et 100 000 euros, ainsi qu'à la con",
-      "url": "https://www.actu-environnement.com/ae/news/orpaillage-illegal-guyane-reseau-condamnation-48751.php4#xtor=RSS-6",
-      "published_at": "2026-10-30T10:47:25+00:00"
     },
     {
       "id": "349cbc432eb739b7",
@@ -333,24 +405,6 @@
       "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
       "url": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-282-437363/",
       "published_at": "2026-10-30T10:40:09+00:00"
-    },
-    {
-      "id": "c523be07c20d9950",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "TPG Raises $10.4 Billion for Climate Funds, Including $2.5 Billion for Global South",
-      "resume": "Global alternative asset manager TPG announced the final close of its climate-focused strategies, Rise Climate […]",
-      "url": "https://www.esgtoday.com/tpg-raises-10-4-billion-for-climate-funds-including-2-5-billion-for-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=tpg-raises-10-4-billion-for-climate-funds-including-2-5-billion-for-global-south",
-      "published_at": "2026-10-30T10:26:07+00:00"
-    },
-    {
-      "id": "a98ddcc519d46d3f",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le nouveau conseil Vecteur finance n’a pas peur de la crise",
-      "resume": "Consacrés aux nouveaux modèles d’affaires dans l’électricité renouvelable, ses posts sur LinkedIn collectionnent les pouces levés, car il y livre les conclusions de ses études et calculs. Aymeric Doutriaux, fondateur ce mois-ci à Lyon de Ve",
-      "url": "https://www.greenunivers.com/2026/10/le-nouveau-conseil-vecteur-finance-na-pas-peur-de-la-crise-437320/",
-      "published_at": "2026-10-30T10:11:44+00:00"
     },
     {
       "id": "3ec9eba364a110b3",
@@ -380,24 +434,6 @@
       "published_at": "2026-10-29T16:52:20+00:00"
     },
     {
-      "id": "e409822d43f2fbcd",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Gestion des déchets : la Fnade veut faire de la REP un outil de réindustrialisation de la France",
-      "resume": "La Fnade veut que les filières REP profitent aux industriels hexagonaux. La mise en oeuvre du principe de proximité pourrait profiter aux projets de chaudières CSR et des conseils stratégiques pourraient soutenir des filières de recyclage f",
-      "url": "https://www.actu-environnement.com/ae/news/fnade-principe-proximite-rep-csr-reindustralisation-conseil-strategique-rep-48748.php4#xtor=RSS-6",
-      "published_at": "2026-10-29T16:45:42+00:00"
-    },
-    {
-      "id": "42dee28de397e670",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Clarity AI Launches New Solution to Enable Investors to Assess Companies’ Progress on Climate Goals",
-      "resume": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a […]",
-      "url": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
-      "published_at": "2026-10-29T15:15:29+00:00"
-    },
-    {
       "id": "e3cc2c7e41540ae5",
       "source": "Novethic",
       "categorie": "Presse",
@@ -407,42 +443,6 @@
       "published_at": "2026-10-29T15:04:35+00:00"
     },
     {
-      "id": "2bcd9a20c5d98dd1",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "DuPont Unveils SBTi-Validated Net Zero Targets",
-      "resume": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to […]",
-      "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
-      "published_at": "2026-10-29T14:21:10+00:00"
-    },
-    {
-      "id": "77089fc191b9ab69",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Salesforce Signs 500,000 Ton Superpollutant Carbon Credit Deal",
-      "resume": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane […]",
-      "url": "https://www.esgtoday.com/salesforce-signs-500000-ton-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-500000-ton-superpollutant-carbon-credit-deal",
-      "published_at": "2026-10-29T13:29:17+00:00"
-    },
-    {
-      "id": "c2bac29a4457f28c",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Introduction en Bourse : Anthropic reconnaît que les risques ESG menacent son modèle économique",
-      "resume": "Anthropic a publié son document d'introduction en Bourse. Nikolas Kokovlis / NurPhoto via AFP Pour Anthropic, l’électricité pourrait bien devenir le talon d’Achille de l’intelligence artificielle. C’est ce qui ressort du dossier d’introduct",
-      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/introduction-en-bourse-anthropic-reconnait-que-les-risques-esg-menacent-son-modele-economique",
-      "published_at": "2026-10-29T12:45:33+00:00"
-    },
-    {
-      "id": "ccc249fd67e9035d",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "A new wave of electric ferries is here in the US. Some even fly",
-      "resume": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of pas",
-      "url": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
-      "published_at": "2026-10-29T10:00:31+00:00"
-    },
-    {
       "id": "b859ecb16005dbe7",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -450,15 +450,6 @@
       "resume": "L'ancien ministre de la Transition écologique et chantre de l'adaptation au réchauffement climatique est au cœur du dispositif du candidat à l'élection présidentielle.",
       "url": "https://www.politico.eu/article/christophe-bechu-premier-lieutenant-dedouard-philippe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-28T16:53:35+00:00"
-    },
-    {
-      "id": "d225af0443df2e5f",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 - Les Echos",
-      "resume": "Le prix européen du gaz dépasse les 100 euros le mégawattheure, une première depuis 2022 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkZVY3R1cE5fVDJiM3pfVnhRUnA4cnBXZzh0VGVLY0hPQmZkejdXczI1UmtzaVJNR1hUV3VQRlR5NDVMYzJVUVNnd3lyQ19Ja2ZxeUsxd0ZaV2MtRi1zSU56N2tCcXFRZVhZQmgyNmhWVVluZDR3NzBRUUNIRVV4eXQ5Q3MteEtiODNhZklYY1p2V01ORXZ5VHZTRVFFd2FQdV9lYmVnX3N1V0RzX0dFUjF5MVBRODE2aG0yNnhyWHJMRE9oMjFNdjRTV3dLUFY1cGd6cXZwazQtbzNSeG9hV1dDWjJYWmNoMEJVOVFxVEN1Zw?oc=5",
-      "published_at": "2026-10-28T16:24:50+00:00"
     },
     {
       "id": "89dc674b9bbfa217",
@@ -720,6 +711,15 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
     }
   ]
 }
