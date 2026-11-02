@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-02T15:40:44.414131+00:00",
+  "generated_at": "2026-11-02T17:18:06.046005+00:00",
   "items": [
+    {
+      "id": "5d58ce92091c4923",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Baisse des prix du gazole : Emmanuel Macron se félicite de « solutions concrètes qui portent leurs fruits », « sans toucher aux taxes »",
+      "resume": "Le prix du gazole a baissé de « 12 à 18 centimes » d’euros par litre dans « plus de la moitié » des stations-service en France, a affirmé, lundi, le ministre du commerce, Serge Papin.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/02/baisse-des-prix-du-gazole-emmanuel-macron-se-felicite-de-solutions-concretes-qui-portent-leurs-fruits-sans-toucher-aux-taxes_6805242_3235.html",
+      "published_at": "2026-11-02T17:05:03+00:00"
+    },
+    {
+      "id": "534dde76677593f0",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Appel d’offres éolien terrestre : les lauréats de la 12e session",
+      "resume": "Un peloton de trois développeurs devance tout le monde au dernier appel d’offres éolien terrestre, qui a attribué 1006 MW. L’article Appel d’offres éolien terrestre : les lauréats de la 12e session est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/11/appel-doffres-eolien-terrestre-les-laureats-de-la-12e-session-437551/",
+      "published_at": "2026-11-02T16:50:24+00:00"
+    },
+    {
+      "id": "c313d0d6e921406e",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Dans l’énergie, la rareté des fonds publics ouvre un boulevard aux fonds infrastructures",
+      "resume": "Que traduit cette affluence maximum ce matin au ministère de l’Economie et des finances qui héberge la première journée de « l’Infraweek« , la semaine de l’investissement privé dans les infrastructures ? L’inquiétude de certains investisseu",
+      "url": "https://www.greenunivers.com/2026/11/dans-lenergie-la-rarete-des-fonds-publics-ouvre-un-boulevard-aux-fonds-infrastructures-437553/",
+      "published_at": "2026-11-02T16:40:33+00:00"
+    },
+    {
+      "id": "aefd043fcbc065b8",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Pourquoi la ville de Barentin renonce à son réseau de chaleur",
+      "resume": "L’incertitude pesant sur le Fonds chaleur fait une victime : le projet de réseau de chaleur de Barentin (Seine-Maritime) est abandonné. « Son équilibre financier reposait sur le taux de L’article Pourquoi la ville de Barentin renonce à son ",
+      "url": "https://www.greenunivers.com/2026/11/pourquoi-la-ville-de-barentin-renonce-a-son-reseau-de-chaleur-437271/",
+      "published_at": "2026-11-02T16:33:18+00:00"
+    },
+    {
+      "id": "5227a659e8bbf423",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Sur le prix de l’électricité, « une France à deux vitesses » [Marchés]",
+      "resume": "Le gaz a franchi la barre des 100 €/MWh. Ce prix est dépassé pour les trois prochains mois. « Une première depuis 2022 », souligne auprès de GreenUnivers Chamsedean Aboura, adjoint à la direction commerciale grands comptes de GazelEnergie. ",
+      "url": "https://www.greenunivers.com/2026/11/sur-le-prix-de-lelectricite-une-france-a-deux-vitesses-marches-437495/",
+      "published_at": "2026-11-02T16:29:21+00:00"
+    },
+    {
+      "id": "07bb9027341f823d",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Décarbonation : la doctrine de Bercy pour arbitrer les financements",
+      "resume": "Une note de la direction générale du Trésor détaille la doctrine d'intervention publique présentée dans la stratégie pluriannuelle des financements de la transition écologique (Spafte). Sa logique éclaire plusieurs arbitrages du budget 2027",
+      "url": "https://www.actu-environnement.com/ae/news/decarbonation-doctrine-tresor-plf-2027-48759.php4#xtor=RSS-6",
+      "published_at": "2026-11-02T15:56:33+00:00"
+    },
+    {
+      "id": "c7c550177c49bf33",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESG Playbook Launches Solution to Quantify Climate and Energy Risk for Real Estate",
+      "resume": "Sustainability and business risk software company ESG Playbook announced the launch of its new real estate […]",
+      "url": "https://www.esgtoday.com/esg-playbook-launches-solution-to-quantify-climate-and-energy-risk-for-real-estate/?utm_source=rss&utm_medium=rss&utm_campaign=esg-playbook-launches-solution-to-quantify-climate-and-energy-risk-for-real-estate",
+      "published_at": "2026-11-02T15:30:47+00:00"
+    },
     {
       "id": "11d2bebcda5c73bd",
       "source": "Reporterre",
@@ -41,7 +104,7 @@
       "id": "dee89859c14a800a",
       "source": "ESG Today",
       "categorie": "Réglementation",
-      "titre": "Brazil Reconsiders Mandatory Sustainability Reporting Just Months After Scrapping Requirement",
+      "titre": "Brazil Reconsiders Mandatory Sustainability Reporting Just Months After Switch to Voluntary",
       "resume": "Brazil’s Securities and Exchange Commission (CVM) announced the launch of a new public consultation into […]",
       "url": "https://www.esgtoday.com/brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement/?utm_source=rss&utm_medium=rss&utm_campaign=brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement",
       "published_at": "2026-11-02T14:42:16+00:00"
@@ -126,15 +189,6 @@
       "resume": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with flooding Aida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are",
       "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
       "published_at": "2026-11-02T12:00:41+00:00"
-    },
-    {
-      "id": "462b1fc56e9c59e7",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Carburants : le gouvernement affirme que le prix du gazole a baissé de « 12 à 18 centimes » dans plus de la moitié des stations-service grâce à la libération de stocks stratégiques",
-      "resume": "Cette baisse de la facture correspond exactement aux promesses faites par Bercy en octobre. Mais certaines stations-service indépendantes regrettent de n’avoir pas bénéficié des déstockages en même temps que les grandes surfaces ou TotalEne",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/02/carburants-le-gouvernement-affirme-que-le-prix-du-gazole-a-baisse-de-12-a-18-centimes-dans-plus-de-la-moitie-des-stations-service-grace-a-la-liberation-de-stocks-strategiques_6805242_3234.html",
-      "published_at": "2026-11-02T11:43:05+00:00"
     },
     {
       "id": "1b4746e2034a3d7b",
@@ -281,15 +335,6 @@
       "published_at": "2026-11-01T14:00:18+00:00"
     },
     {
-      "id": "14e0d30794191eef",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "ESG Today: Week in Review",
-      "resume": "This week in ESG news: EU Commission launches climate resilience framework; investors urge ISSB to […]",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-281/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-281",
-      "published_at": "2026-11-01T10:24:42+00:00"
-    },
-    {
       "id": "a4b49977574a55e2",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -315,33 +360,6 @@
       "resume": "Une nouvelle ère débute dans le biogaz. La fin annoncée du tarif d’achat en guichet ouvert laisse place à une sélection par appel d’offres. Officiellement, le guichet ouvert s’arrêtera au 1er janvier prochain, « mais dès ce 1er novembre L’a",
       "url": "https://www.greenunivers.com/2026/10/biomethane-lappel-doffres-se-rapproche-et-continue-a-inquieter-les-agriculteurs-437397/",
       "published_at": "2026-10-30T16:39:19+00:00"
-    },
-    {
-      "id": "963b2542dcfca748",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Les documents de la semaine",
-      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
-      "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
-      "published_at": "2026-10-30T16:25:01+00:00"
-    },
-    {
-      "id": "915f5041f3ea1c39",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Appel d’offres éolien terrestre : moins de repowering et un prix plus haut pour la 12e session",
-      "resume": "Exclusif — La publication des résultats de l’avant-dernière session des appels d’offres pour l’éolien terrestre de l’année est imminente. Selon nos informations, le prix moyen pondéré est de L’article Appel d’offres éolien terrestre : moins",
-      "url": "https://www.greenunivers.com/2026/10/appel-doffres-eolien-terrestre-moins-de-repowering-et-un-prix-plus-haut-pour-la-12e-session-437431/",
-      "published_at": "2026-10-30T16:06:25+00:00"
-    },
-    {
-      "id": "179bb32c3f7e4aec",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Neoen emprunte 1 Md€ pour son portefeuille australien",
-      "resume": "Neoen annonce un prêt d’1,8 milliard de dollars australiens (AUD), soit d’environ 1,13 Md€ pour financer cinq sites en Australie : deux batteries L’article Neoen emprunte 1 Md€ pour son portefeuille australien est apparu en premier sur Gree",
-      "url": "https://www.greenunivers.com/2026/10/neoen-emprunte-1-mde-pour-son-portefeuille-australien-437424/",
-      "published_at": "2026-10-30T16:04:06+00:00"
     },
     {
       "id": "41aec3acf372f4ca",
@@ -396,15 +414,6 @@
       "resume": "Les hôtels proches des zones incendiées peuvent voir chuter leur attractivité sur plusieurs années.@Armend Nimani-AFP Incendies incontrôlables, canicules à répétition, sécheresse… Les événements climatiques dévastateurs de l’été 2026 en Eur",
       "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/exclusif-le-climat-menace-la-valeur-des-hotels-et-fait-planer-le-risque-dactifs-echoues",
       "published_at": "2026-10-30T10:40:48+00:00"
-    },
-    {
-      "id": "2f9a9319fb5e620a",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’agenda de la transition énergétique",
-      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
-      "url": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-282-437363/",
-      "published_at": "2026-10-30T10:40:09+00:00"
     },
     {
       "id": "3ec9eba364a110b3",
@@ -711,15 +720,6 @@
       "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
       "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
       "published_at": "2026-07-09T05:00:32+00:00"
-    },
-    {
-      "id": "4e3191d2bda8de04",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Lancement du projet Prospective Europe",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
-      "published_at": "2026-07-01T15:48:52+00:00"
     }
   ]
 }
