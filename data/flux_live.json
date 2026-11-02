@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-01T21:01:53.449616+00:00",
+  "generated_at": "2026-11-02T00:56:07.464223+00:00",
   "items": [
+    {
+      "id": "cd6cfb2a8c0a3b43",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Marché des médicaments antiobésité : le Wegovy arrive en comprimé dans les pharmacies françaises",
+      "resume": "Le médicament développé par Novo, jusqu’ici administré par injection en France, est désormais disponible sous forme orale, alors que le fabricant danois et son concurrent américain, Eli Lilly, rivalisent pour s’imposer sur un marché mondial",
+      "url": "https://www.lemonde.fr/sante/article/2026/11/02/marche-des-medicaments-antiobesite-le-wegovy-arrive-en-comprime-dans-les-pharmacies-francaises_6804738_1651302.html",
+      "published_at": "2026-11-02T00:25:21+00:00"
+    },
+    {
+      "id": "6efd57a295e841ae",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Glaciers, régions polaires... Les conséquences d'un +1,5 °C, même temporaire, seront irréversibles",
+      "resume": "Dépasser temporairement 1,5 °C de réchauffement pourrait provoquer des dégâts irréversibles sur les glaces de la planète. C'est l'alerte lancée le 2 novembre par deux rapports scientifiques publiés conjointement par l'Initiative internation",
+      "url": "https://reporterre.net/Glaciers-regions-polaires-Les-consequences-de-1-5-oC-meme-temporaire-seront-irreversibles",
+      "published_at": "2026-11-02T00:01:00+00:00"
+    },
     {
       "id": "5501c5b4f9fa3199",
       "source": "Le Monde Planète",
@@ -24,7 +42,7 @@
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "Colorado community fights plan to use drones to spray weed killer",
-      "resume": "Officials in Red Hill, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The wildla",
+      "resume": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The ",
       "url": "https://www.theguardian.com/us-news/2026/nov/01/colorado-drones-weed-killer",
       "published_at": "2026-11-01T14:00:18+00:00"
     },
@@ -119,15 +137,6 @@
       "published_at": "2026-10-31T08:55:05+00:00"
     },
     {
-      "id": "5e517a4088f3b818",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Adrien Bilal, Prix du meilleur jeune économiste 2026 : « La croissance n’est pas l’adversaire de la politique climatique, c’est même l’inverse »",
-      "resume": "Les dommages du réchauffement climatique sont considérables : ils rognent la croissance et, avec elle, les marges budgétaires de la France. Réduire nos émissions de CO₂ reste pourtant rentable, même sans la coopération du reste du monde, pl",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/31/adrien-bilal-prix-du-meilleur-jeune-economiste-2026-la-croissance-n-est-pas-l-adversaire-de-la-politique-climatique-c-est-meme-l-inverse_6803479_3232.html",
-      "published_at": "2026-10-31T08:30:07+00:00"
-    },
-    {
       "id": "bb72f7856a4f2d13",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -135,24 +144,6 @@
       "resume": "Pour préserver une importante colonie de chauves-souris, une association a acheté les terres à l'entrée de leur grotte. Une protection par le foncier pour ce mammifère nocturne, dont les effectifs continuent de décliner. Tourtouse (Ariège),",
       "url": "https://reporterre.net/Une-association-achete-les-abords-d-une-grotte-pour-proteger-ses-5-000-chauve-souris",
       "published_at": "2026-10-31T06:05:00+00:00"
-    },
-    {
-      "id": "bce2cd38c51b1b32",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Obsèques hors de prix : « Il faut étendre la Sécurité sociale à la mort »",
-      "resume": "Enterrements à plus de 4 000 euros, contrats de prévoyance... Le capitalisme n'épargne rien, pas même la mort. Pour en sortir, un collectif défend une prise en charge intégrale des funérailles par la Sécu, et un véritable congé lié au deuil",
-      "url": "https://reporterre.net/Obseques-hors-de-prix-Il-faut-etendre-la-Securite-sociale-a-la-mort",
-      "published_at": "2026-10-31T06:00:00+00:00"
-    },
-    {
-      "id": "4d1b1023b32d1184",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Crise énergétique : comment les majors pétrolières tirent profit du pactole inédit des marges de raffinage - Les Echos",
-      "resume": "Crise énergétique : comment les majors pétrolières tirent profit du pactole inédit des marges de raffinage Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRjIxT1dFLXlwS21RVkNHYy1ia1RHYXhOeWV0SXh5SklZYl8xdFlEVkllU2g5Z3JUaGhYNnF4RHZ5MTJGeHFUYVRkWEpQLVhKZXU3dUJoTzJtTkJoODNWSEloVjI2U1padGlKcC1BRGRzVjUyaUxxa0hLVndraFYzdVNQWFVMandWUzZJbmpaUUdkWUNYT0xHNEl5Sno5WnNsSnNfWFBraEFPTFdmVktqTWZQZE10YXppandDRmFUcHBOaXVyZk5xNkZ3YUFzWl9MUjJHWTA4TEVpNVhnYmhzMk9ESFktbmFOM3V0UUZsM1FuNFRzUEFxTzBOV1l4TWlFYXZTT0gwd3Q?oc=5",
-      "published_at": "2026-10-30T16:49:53+00:00"
     },
     {
       "id": "95358f2b74ca9c3c",
@@ -270,6 +261,15 @@
       "resume": "Née en 2023, la jeune pousse rémoise a mis au point un procédé de dépolymérisation sélective des polyamides (nylons). Une technologie de chimie verte qu'elle entend déployer à grande échelle pour recycler les textiles en mélanges.",
       "url": "https://www.actu-environnement.com/ae/news/syntetica-recycle-les-textiles-contenant-nylon-et-autres-matieres-elasthanne-coton-48750.php4#xtor=RSS-6",
       "published_at": "2026-10-30T11:19:21+00:00"
+    },
+    {
+      "id": "f1a69142527e30a1",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Orange Business mise sur l'économie circulaire avec Ekinops pour réduire son empreinte carbone - Les Echos",
+      "resume": "Orange Business mise sur l'économie circulaire avec Ekinops pour réduire son empreinte carbone Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3RsSVBOVnNuTFItR25XampNLW5tQUh3Qnl2dl9Bd0w5UlZXaS1XT3Y5aldJR0xnZEhRa0tuVGZELXdtem9qemxpR3lHX0llaHZPUjNWdV9QZ2NPbnRiXzZvbzFHNl8weWN3aFpiVzZtNkxTT3k2MTBlMzVFVXRjazVqYzdTVlpzTkhMT1FpcHRBVktKOG42N3lFRzFucGIwakRZSVRIMFRraFlUN21tZ3AzdmVrVkNPR0pyWG5LVjAtbVNXOHFOQ1V6dldsaU9DOExiSXcwem82X04yeXNIX1lYWVdqRmJvVGpmb0lmWUJ2TzZhb1M4MWRR?oc=5",
+      "published_at": "2026-10-30T11:15:58+00:00"
     },
     {
       "id": "ad8d3b75b6f8c462",
@@ -479,6 +479,15 @@
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
+      "id": "f9ab180312964bb8",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales - Les Echos",
+      "resume": "Vert, durable ou neutre en carbone… les entreprises doivent justifier leurs allégations environnementales Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcFd1THJtWl8xQ3NCQU4xWUF1dF9VX3lWOFMxcElla2ZjSUZZT1RhcDEyNU5JZHdWVEduZ0o4b3o0RWRIc3ltSU1PSUplUlloMEczcG1IaDBHUmlpMWpUVmFFUWYtSHhrcUpaa1oyQ05JTGF2LWJ1SkFyUXEwOFhFWW5BMnRxdHBIX1ZLU3BsaFQ0d1hmUTdhVVUxT2d5djhOZnd4a0x4bjFrUW1mcjhDcmJVN0w1RU12c1h1T3hqZGJvM3ZUcXpfQ3FTUW5fUFN4Wl9MUEV0akYtQ0F5aG9ZdVJ4T3JsOEVtOVpvWmNKTzM1Qm1OQl80QWpqLW5PRzZtcGRnSlVxczUtd1FQSDBoV3Jqb2RmcXVnNG93?oc=5",
+      "published_at": "2026-10-27T05:15:36+00:00"
+    },
+    {
       "id": "e13d05e4d455f922",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -495,15 +504,6 @@
       "resume": "Pétrole : Moeve et Galp renoncent à former un champion ibérique Les Echos",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDdlRWw4NTZ1MFNmVVk3UzBSbzE3bDdpQ1dhYlVyb01BT3NDMTR3YTRZdzdRSzZsSUxaUzZoMFQtNHNyV3U0Si02U3FyeVVqV0RXdmlzbFd1eE5IOWdndERpTy1lbU5oR3BmSXYzYURrVlVMRTVVaFVnb1B6bmw5dVRSTk1LVXlvVDh4cnFiTWJTTXBGSEFzVlN4VFVQcktHZjRCWDEtc1BOUUJFam85djUxT0RnSjg2NWRTRElYS3BRb04ydjRZMS05cXNkaWc?oc=5",
       "published_at": "2026-10-26T13:55:02+00:00"
-    },
-    {
-      "id": "bf38b10c64f0a722",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
-      "resume": "Valeo, Veolia Environnement, Safran, Interparfums, Sodexo, L'Oréal, Nexans, Kering, FDJ United, GTT, Eutelsat Communications, Planisware mais aussi Deutsche Boerse ailleurs en Europe : toutes les recommandations des analystes Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQM1F3alliVkM5VkM0ZnpKcHJQRW9ya1lnU2NJUlg1MHpjeGtFbWNyQkM5aWt3QXctdXVVNVQ3azZqZExHcTh3bnkza21Fb09PU054aTdhRFR6V094blpUcU9LYkc5Ti1oRUlFNFVLNm9HVkpOdGFxdGxwWkx0THoyLTJUQkdEa0tmZFpjcnoybHd0Tlh6blFCdGFUMk9EeVlGbzBoNXBvVnRCMER2SkVTOGEzaHFSSC1LRHFaeFR2WGZHODNJbFFDbmtxTjUtNm1WSkVSRFc0VjdzczVmVGdoTS0yWHVWa2c4OFpNSWQwMGFGWDBLTG5ldVQ3RS1rN3hHZ3pHRUVySFBDNkJfNDgtMWJfVlpHdndtcnVlYXlyang5MVhYSm11eE92RkRKemlWNVNlajFnd0M1UnZHZEc0a3E0UnQ1RTBaSGRWU3h1NHk4a1JQc1hKazF3WUFGMGtuOGtvb0FtRV9VWmlKZWEyMTNmdDlTZFEwVHl5NTBHWEYyVWFWTGhXcDdEcHoxOVVVejVmaW04djB2VmdoR1IxTlpUTQ?oc=5",
-      "published_at": "2026-10-26T08:14:40+00:00"
     },
     {
       "id": "93decf4d397bd214",
