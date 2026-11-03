@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-02T23:57:44.293471+00:00",
+  "generated_at": "2026-11-03T05:29:42.439642+00:00",
   "items": [
+    {
+      "id": "64025e003a49d171",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
+      "resume": "Sans attendre l’étude d’impact environnemental ni le plan d’aménagement du territoire, le géant américain a coupé à blanc 530 hectares de forêts sur deux sites, poussant les autorités, favorables à ces équipements, à durcir la législation.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
+      "published_at": "2026-11-03T04:45:08+00:00"
+    },
+    {
+      "id": "6700015736102130",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Bretagne, comment ces propriétaires ont isolé leur maison grâce à un chantier participatif",
+      "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Aujourd’hui, des bénévoles contribuent à l’isolation d’une maison écologique.",
+      "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/03/comment-on-a-isole-notre-maison-grace-a-un-chantier-participatif_6805524_6125299.html",
+      "published_at": "2026-11-03T04:00:45+00:00"
+    },
+    {
+      "id": "41a3bb0a83f27215",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A Paris, les « trottoirs Vuitton » électrisent le débat sur le financement de l’espace public",
+      "resume": "Louis Vuitton, filiale du groupe LVMH, a obtenu de transformer – à ses frais – les rues de Bassano et Galilée, au pied de son futur mégastore des Champs-Elysées. Depuis plusieurs années, le secteur privé multiplie les initiatives pour s’imm",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/03/a-paris-les-trottoirs-vuitton-electrisent-le-debat-sur-le-financement-de-l-espace-public_6805526_3234.html",
+      "published_at": "2026-11-03T04:00:19+00:00"
+    },
     {
       "id": "7cc043f1d1231433",
       "source": "Actu-Environnement",
@@ -137,15 +164,6 @@
       "published_at": "2026-11-02T14:17:46+00:00"
     },
     {
-      "id": "3a3e4e961004b50e",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables - Les Echos",
-      "resume": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlctMU0tLWtfbk52YldxM21OMGFXMDVtanFMWVpuZ295MWhkclE5eTROdFF3b1hsQkRKWlBfdlFZbmdzZ0MtZkxtdE5oNkUybjNqZ1FFZERPZEpOUDFfMEF1b1V2WFNsZXh3T3FURnRvNVZ4bF9KQzBzaS1kbFpHRTliYTBKQ2FMWC1ZaVFDckxMaDF3THR5aERLX3Z4Qm8zVmhkOHpCMWx1WkMxM2NLUzFfUUdVdFpTT0NRMGdqS19fTC1iQ1BEZDRXQTFEMHNmUWNFZlFiOTlFZWVzNkRxUHhzTDIyVlJPWnNj?oc=5",
-      "published_at": "2026-11-02T14:13:28+00:00"
-    },
-    {
       "id": "a3377d1a395b799b",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -153,6 +171,15 @@
       "resume": "Dutch pension fund manager APG, on behalf of its pension fund client ABP, and infrastructure […]",
       "url": "https://www.esgtoday.com/apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix/?utm_source=rss&utm_medium=rss&utm_campaign=apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix",
       "published_at": "2026-11-02T14:06:15+00:00"
+    },
+    {
+      "id": "3a3e4e961004b50e",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables - Les Echos",
+      "resume": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlctMU0tLWtfbk52YldxM21OMGFXMDVtanFMWVpuZ295MWhkclE5eTROdFF3b1hsQkRKWlBfdlFZbmdzZ0MtZkxtdE5oNkUybjNqZ1FFZERPZEpOUDFfMEF1b1V2WFNsZXh3T3FURnRvNVZ4bF9KQzBzaS1kbFpHRTliYTBKQ2FMWC1ZaVFDckxMaDF3THR5aERLX3Z4Qm8zVmhkOHpCMWx1WkMxM2NLUzFfUUdVdFpTT0NRMGdqS19fTC1iQ1BEZDRXQTFEMHNmUWNFZlFiOTlFZWVzNkRxUHhzTDIyVlJPWnNj?oc=5",
+      "published_at": "2026-11-02T14:00:00+00:00"
     },
     {
       "id": "d36bde3e19f6820a",
@@ -308,24 +335,6 @@
       "published_at": "2026-11-02T05:45:14+00:00"
     },
     {
-      "id": "f76008c45d1b5b86",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le « super El Niño » continue sa progression : « Il est déjà d’une ampleur inédite »",
-      "resume": "Ce phénomène cyclique naturel né dans le Pacifique provoque des aléas climatiques en cascade. Tous les indicateurs pointent vers un épisode d’une ampleur majeure, alors que son pic n’est pas encore atteint. Samedi, le président bolivien a d",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/02/le-super-el-nino-continue-sa-progression-il-est-deja-d-une-ampleur-inedite_6804881_3244.html",
-      "published_at": "2026-11-02T05:00:03+00:00"
-    },
-    {
-      "id": "6966fe56c41c5042",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le réchauffement climatique a entraîné plus de 10 000 naissances prématurées en Asie du Sud et du Sud-Est lors d’une vague de chaleur en avril 2024",
-      "resume": "Une étude internationale publiée le 2 novembre quantifie le nombre de naissances prématurées attribuables au dérèglement climatique en analysant les données de l’Inde, du Bangladesh et des Philippines lors d’un épisode concret de longue can",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/02/le-rechauffement-climatique-a-entraine-plus-de-10-000-naissances-prematurees-en-asie-du-sud-et-du-sud-est-lors-d-une-vague-de-chaleur-en-avril-2024_6804839_3244.html",
-      "published_at": "2026-11-02T04:00:09+00:00"
-    },
-    {
       "id": "d8705309351c83d5",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -333,15 +342,6 @@
       "resume": "Au terme de deux semaines de discussions ardues, les négociateurs des quelque 200 pays de la communauté internationale se sont accordés sur un compromis a minima, sans parvenir à dépasser leurs divergences, notamment sur les financements. N",
       "url": "https://www.contexte.com/fr/article/environnement/biodiversite-a-la-cop17-derevan-le-multilateralisme-sauve-les-meubles-au-prix-dune-ambition-rabotee_282860?source=rss",
       "published_at": "2026-11-02T04:00:00+00:00"
-    },
-    {
-      "id": "cd6cfb2a8c0a3b43",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le Wegovy, médicament antiobésité, arrive en comprimé dans les pharmacies françaises",
-      "resume": "Le traitement développé par Novo Nordisk, jusqu’ici administré par injection en France, est désormais disponible sous forme orale, alors que le fabricant danois et son concurrent américain, Eli Lilly, rivalisent pour s’imposer sur un marché",
-      "url": "https://www.lemonde.fr/sante/article/2026/11/02/marche-des-medicaments-antiobesite-le-wegovy-arrive-en-comprime-dans-les-pharmacies-francaises_6804738_1651302.html",
-      "published_at": "2026-11-02T00:25:21+00:00"
     },
     {
       "id": "66de309ceba1307d",
