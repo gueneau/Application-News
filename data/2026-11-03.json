@@ -1,28 +1,39 @@
 {
   "date": "2026-11-03",
-  "generated_at": "07:11",
-  "elapsed_seconds": 330,
+  "generated_at": "13:12",
+  "elapsed_seconds": 383,
   "errors": [],
   "stats": {
     "jo_analyses": 12,
     "jo_retenus": 0,
-    "depts_restriction": 81
+    "depts_restriction": 82
   },
   "pipeline_meta": {
-    "run_at": "2026-11-03T07:11:15",
+    "run_at": "2026-11-03T13:12:09",
     "sources": {
       "JORF": 0,
-      "RSS": 1,
-      "VigiEau": 81,
+      "RSS": 2,
+      "VigiEau": 82,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 31,
-    "llm_seconds": 27.6
+    "llm_calls": 36,
+    "llm_seconds": 46.5
   },
   "items": [
+    {
+      "id": "7fc1d5d22449",
+      "source": "EFRAG",
+      "categorie": "Environnement",
+      "titre": "EFRAG publishes responses to questions on its Call for Tenders: ESRS Knowledge Hub Education Module – Development of the IT Infrastructure",
+      "resume": "EFRAG publishes responses to questions on its Call for Tenders: ESRS Knowledge Hub Education Module – Development of the IT Infrastructure",
+      "pourquoi": "Mention de réglementation prioritaire.",
+      "criticite": 3,
+      "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-publishes-responses-to-questions-on-its-call-for-tenders-esrs-knowledge-hub-education-module",
+      "date": "2026-11-03"
+    },
     {
       "id": "253a58d92352",
       "source": "Actu-Environnement",
@@ -59,11 +70,6 @@
     {
       "dept_code": "44",
       "dept_nom": "Loire-Atlantique",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "53",
-      "dept_nom": "Mayenne",
       "niveau": "crise"
     },
     {
@@ -172,6 +178,11 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "71",
+      "dept_nom": "Saône-et-Loire",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "21",
       "dept_nom": "Côte-d'Or",
       "niveau": "crise"
@@ -179,11 +190,6 @@
     {
       "dept_code": "70",
       "dept_nom": "Haute-Saône",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "71",
-      "dept_nom": "Saône-et-Loire",
       "niveau": "crise"
     },
     {
@@ -222,13 +228,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
@@ -264,6 +270,11 @@
     {
       "dept_code": "76",
       "dept_nom": "Seine-Maritime",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "53",
+      "dept_nom": "Mayenne",
       "niveau": "alerte renforcée"
     },
     {
@@ -312,11 +323,6 @@
       "niveau": "alerte renforcée"
     },
     {
-      "dept_code": "57",
-      "dept_nom": "Moselle",
-      "niveau": "alerte renforcée"
-    },
-    {
       "dept_code": "54",
       "dept_nom": "Meurthe-et-Moselle",
       "niveau": "alerte renforcée"
@@ -344,6 +350,11 @@
     {
       "dept_code": "07",
       "dept_nom": "Ardèche",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "26",
+      "dept_nom": "Drôme",
       "niveau": "alerte renforcée"
     },
     {
@@ -439,6 +450,11 @@
     {
       "dept_code": "52",
       "dept_nom": "Haute-Marne",
+      "niveau": "vigilance"
+    },
+    {
+      "dept_code": "2A",
+      "dept_nom": "Corse-du-Sud",
       "niveau": "vigilance"
     }
   ],
