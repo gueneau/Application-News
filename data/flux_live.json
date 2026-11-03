@@ -1,6 +1,150 @@
 {
-  "generated_at": "2026-11-03T05:29:42.439642+00:00",
+  "generated_at": "2026-11-03T12:57:32.331332+00:00",
   "items": [
+    {
+      "id": "26ea676dfc3bb4e4",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "UK Brings ESG Ratings Providers Under Regulation",
+      "resume": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial […]",
+      "url": "https://www.esgtoday.com/uk-regulates-esg-ratings-providers/?utm_source=rss&utm_medium=rss&utm_campaign=uk-regulates-esg-ratings-providers",
+      "published_at": "2026-11-03T12:04:51+00:00"
+    },
+    {
+      "id": "b051b3a803f44406",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La démocratie de l’eau suit un chemin semé d’embûches",
+      "resume": "Le nouveau schéma d’aménagement de l’eau adopté dans le bassin de la Vilaine a été obtenu après de très longues concertations. Ce cas d’école démontre que les compromis environnementaux, produits par des acteurs locaux sous la pression de l",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/03/la-democratie-de-l-eau-suit-un-chemin-seme-d-embuches_6805576_3232.html",
+      "published_at": "2026-11-03T12:00:09+00:00"
+    },
+    {
+      "id": "014b3c742af6e8b1",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La préfecture interdit les rassemblements aux abords des lycées à Strasbourg",
+      "resume": "Blocage impossible. Au retour des vacances scolaires, lundi 2 novembre, des élèves du lycée Marie-Curie à Strasbourg ont tenté de bloquer de leur établissement. Mais juste avant 8 heures, des policiers sont arrivés et ont procédé à des cont",
+      "url": "https://reporterre.net/La-prefecture-interdit-les-rassemblements-aux-abords-des-lycees-a-Strasbourg",
+      "published_at": "2026-11-03T11:37:39+00:00"
+    },
+    {
+      "id": "699ed97d4c6bd69b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Essais nucléaires : l'Algérie réclame à la France l'emplacement des déchets radioactifs enfouis dans son sol",
+      "resume": "L'Algérie poursuit le nettoyage des déchets radioactifs laissés par les essais nucléaires français. Le ministère algérien de la Défense a lancé, dimanche 1 er novembre, une deuxième opération d'assainissement du site de Béryl, à In Ekker, d",
+      "url": "https://reporterre.net/Essais-nucleaires-l-Algerie-reclame-a-la-France-l-emplacement-des-dechets-radioactifs",
+      "published_at": "2026-11-03T11:30:06+00:00"
+    },
+    {
+      "id": "a733b15eb8ab3049",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Google Invests $160 Million in Water Projects Alongside AI Infrastructure in Malaysia",
+      "resume": "Google announced a commitment to provide $160 million in funding for new shared water infrastructure […]",
+      "url": "https://www.esgtoday.com/google-invests-160-million-in-water-projects-alongside-ai-infrastructure-in-malaysia/?utm_source=rss&utm_medium=rss&utm_campaign=google-invests-160-million-in-water-projects-alongside-ai-infrastructure-in-malaysia",
+      "published_at": "2026-11-03T11:18:42+00:00"
+    },
+    {
+      "id": "eede22668faa051f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Condamnée au silence pour avoir « dénigré » les vins de Bordeaux, Alerte aux toxiques veut « briser l’omerta » sur les pesticides",
+      "resume": "La cour d’appel de Bordeaux examine mardi le recours déposé par l’association Alerte aux toxiques. Elle avait été condamnée à 125 000 euros en 2021 pour avoir révélé la présence de traces de pesticides dans des vins labellisés « haute valeu",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/03/condamnee-au-silence-pour-avoir-denigre-les-vins-de-bordeaux-alerte-aux-toxiques-veut-briser-l-omerta-sur-les-pesticides_6805563_3244.html",
+      "published_at": "2026-11-03T10:08:45+00:00"
+    },
+    {
+      "id": "13df81af916c3cde",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Guets-apens racistes contre des livreurs : \"Vous les faites venir et vous les faites disparaître\"",
+      "resume": "Les livreurs et chauffeurs sont ciblés par des menaces racistes sur le réseau X appelant à leur tendre des pièges. PHILIPPE LOPEZ / AFP \"Vous commandez des McDonald's, des trucs comme ça, dans des zones perdues, vous les faites venir et vou",
+      "url": "https://www.novethic.fr/economie-et-social/droits-humains/guets-apens-racistes-contre-des-livreurs-vous-les-faites-venir-et-vous-les-faites-disparaitre",
+      "published_at": "2026-11-03T09:36:23+00:00"
+    },
+    {
+      "id": "f87048a618731e47",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Résultats de la Grande Consultation Santé",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/resultats-de-la-grande-consultation-sante/",
+      "published_at": "2026-11-03T09:33:58+00:00"
+    },
+    {
+      "id": "da51c9eb1ab4a9ff",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Sans conservateur » et « sans colorant » ? 20 produits épinglés pour leur marketing trompeur",
+      "resume": "Sur son « panier 0 % de matière grasse », Yoplait affirme en gros caractères : « sans conservateur, sans colorant, sans arôme artificiel ». Mais en analysant la liste complète des ingrédients, on découvre que ces yaourts contiennent d'autre",
+      "url": "https://reporterre.net/Sans-conservateur-et-sans-colorant-20-produits-epingles-pour-leur-marketing-trompeur",
+      "published_at": "2026-11-03T08:32:00+00:00"
+    },
+    {
+      "id": "304f79630a28bf4d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Une étiquette énergie pour les data centers ? Les ONG dénoncent du greenwashing et l'influence des géants du numérique",
+      "resume": "L'Union européenne veut évaluer les performances environnementales des data centers, mais le futur système de notation fait l'impasse sur plusieurs impacts écologiques et des ONG pointent l'influence des géants du numérique. L'Union europée",
+      "url": "https://reporterre.net/Une-etiquette-energie-pour-les-data-centers-Les-ONG-denoncent-du-greenwashing-et-l",
+      "published_at": "2026-11-03T08:11:57+00:00"
+    },
+    {
+      "id": "51cbe6f69db70dd1",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Walmart Backs Home Battery Startup Base Power",
+      "resume": "Retail giant Walmart announced a strategic investment in home energy and battery storage company Base […]",
+      "url": "https://www.esgtoday.com/walmart-backs-home-battery-startup-base-power/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-backs-home-battery-startup-base-power",
+      "published_at": "2026-11-03T07:50:02+00:00"
+    },
+    {
+      "id": "7f3f94369ea3d42f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Incendies en Indonésie : les étudiants mènent la révolte contre la gestion du gouvernement",
+      "resume": "En Indonésie, des milliers de personnes ont manifesté fin octobre pour dénoncer la gestion des feux de forêt par le gouvernement. Étudiants et activistes envisagent de durcir le mouvement. La colère gronde en Indonésie, où les feux de forêt",
+      "url": "https://reporterre.net/Incendies-en-Indonesie-les-etudiants-menent-la-revolte-contre-la-gestion-du-gouvernement",
+      "published_at": "2026-11-03T06:30:00+00:00"
+    },
+    {
+      "id": "9919b6ebe3d1ce2c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Camille Étienne : « On naît contaminés, c'est d'une grande injustice »",
+      "resume": "L'activiste écologiste Camille Étienne a fait de la santé son nouveau combat. Autrice du livre-enquête « Facteur X », sur la pollution chimique qui atteint nos corps à tous, elle explique en quoi l'industrie et les politiques en sont respon",
+      "url": "https://reporterre.net/Camille-Etienne-On-nait-contamines-c-est-d-une-grande-injustice",
+      "published_at": "2026-11-03T06:30:00+00:00"
+    },
+    {
+      "id": "fd75790fa258f7e9",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La bataille pour le climat est-elle féministe ?",
+      "resume": "Le changement climatique exacerbe les inégalités de genre et il faut en tenir compte pour réussir la transition. La climatologue Valérie Masson-Delmotte témoigne également de son parcours de chercheuse spécialiste du climat dans un monde ma",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/11/03/la-bataille-pour-le-climat-est-elle-feministe_6805539_5463015.html",
+      "published_at": "2026-11-03T06:30:00+00:00"
+    },
+    {
+      "id": "f09be0038bf84df9",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Alstom dans la tourmente : pourquoi le boom du ferroviaire ne profite pas (encore) au groupe",
+      "resume": "Les résultats financiers d'Alstom pâtissent des retards de production. @Alstom La série noire se poursuit chez Alstom. Le champion français du matériel ferroviaire a connu une séance dramatique en Bourse avec une chute de près de 30% de son",
+      "url": "https://www.novethic.fr/environnement/transition-energetique/alstom-dans-la-tourmente-pourquoi-le-boom-du-ferroviaire-ne-profite-pas-encore-au-groupe",
+      "published_at": "2026-11-03T05:45:58+00:00"
+    },
+    {
+      "id": "c215b945525067b4",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Prix de l'énergie : la pression s'accroît sur les ménages français - Les Echos",
+      "resume": "Prix de l'énergie : la pression s'accroît sur les ménages français Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRXEwb2g2T0tndW1sZld4TUc3RzR1QmoxX2Q0NDNxZEtEaGNCdlZFckJfUlY5TlNld081YUtkVmlSb0RBVDRqcnpYRHc0S2dVMUhOWFFSQWtraHFIR0Rrb0l0ZWdRaUdQLUZKeG1BZW5xdXAzMnFuaTl2VVdJZmFEZ2NpRlFWeG9ROGp2TGFWWlJTQnF6MzFFanhwcTRYLU5TVldKM19sdXhTX3BPSjRUNHBiQzM0blU3dXhBZGxmWUNSaW5mazRCQ2NlOUpoMXN4?oc=5",
+      "published_at": "2026-11-03T05:00:08+00:00"
+    },
     {
       "id": "64025e003a49d171",
       "source": "Le Monde Planète",
@@ -8,7 +152,7 @@
       "titre": "En Finlande, l’abattage sans autorisation de 250 000 arbres pour construire un data center de Google embarrasse le gouvernement",
       "resume": "Sans attendre l’étude d’impact environnemental ni le plan d’aménagement du territoire, le géant américain a coupé à blanc 530 hectares de forêts sur deux sites, poussant les autorités, favorables à ces équipements, à durcir la législation.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/03/en-finlande-l-abattage-sans-autorisation-de-250-000-arbres-pour-construire-un-data-center-de-google-embarrasse-le-gouvernement_6805532_3244.html",
-      "published_at": "2026-11-03T04:45:08+00:00"
+      "published_at": "2026-11-03T04:45:04+00:00"
     },
     {
       "id": "6700015736102130",
@@ -41,19 +185,10 @@
       "id": "f1cb96b147a146f2",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Coface accuse une baisse de ses résultats sur neuf mois dans un environnement \"toujours difficile\" - Investir Les Echos",
-      "resume": "Coface accuse une baisse de ses résultats sur neuf mois dans un environnement \"toujours difficile\" Investir Les Echos",
+      "titre": "Coface accuse une baisse de ses résultats sur neuf mois dans un environnement \"toujours difficile\" - Les Echos",
+      "resume": "Coface accuse une baisse de ses résultats sur neuf mois dans un environnement \"toujours difficile\" Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc2otS2pVb1R3alNyWU05ZHYwa3Q0RU05ejBiandodHBMbndhdzVIS0dlNzltLUZCZDA5VEZ3N2ZBNUxZbTZIMVVCY2ZOckFvRmpTLUNYQTdhcTAwUENTd19QTVJGMVBvSjRMMk9tYlVxQlFwckpQbGJNbUJWY2d4T09BUmRCOERVcXZ0RzJMVnR0TWFELWdQWDRzbExHaFdDU0lIRXRENlQyel9jR2JPeE50YlZoY1BwVmtycHJsa2ZyM0pzZE1MTDRrYTdocnRYeDZtWUo3dl8yemhaWjZzRFltU0pNVlpsUDNwbFFua2VsNXZaLW50dXV0ck5Fdw?oc=5",
       "published_at": "2026-11-02T17:19:00+00:00"
-    },
-    {
-      "id": "5d58ce92091c4923",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Baisse des prix du gazole : Emmanuel Macron se félicite de « solutions concrètes qui portent leurs fruits », « sans toucher aux taxes »",
-      "resume": "Le prix du gazole a baissé de « 12 à 18 centimes » d’euros par litre dans « plus de la moitié » des stations-service en France, a affirmé, lundi, le ministre du commerce, Serge Papin.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/02/baisse-des-prix-du-gazole-emmanuel-macron-se-felicite-de-solutions-concretes-qui-portent-leurs-fruits-sans-toucher-aux-taxes_6805242_3235.html",
-      "published_at": "2026-11-02T17:05:03+00:00"
     },
     {
       "id": "534dde76677593f0",
@@ -110,15 +245,6 @@
       "published_at": "2026-11-02T15:30:47+00:00"
     },
     {
-      "id": "11d2bebcda5c73bd",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Cadres parisiens, dirigeants très diplômés : « Le RN n'a pas la volonté de faire émerger des figures populaires rurales »",
-      "resume": "Des parachutages, une hiérarchie sociale forte et l'exaltation d'un clivage contre les « urbains » : le chercheur Guillaume Letourneur décrypte la progression du Rassemblement national dans de nombreux territoires ruraux. Peu importe que la",
-      "url": "https://reporterre.net/Cadres-parisiens-dirigeants-tres-diplomes-Le-RN-n-a-pas-la-volonte-de-faire-emerger-des",
-      "published_at": "2026-11-02T15:23:00+00:00"
-    },
-    {
       "id": "58598ca2a35f5933",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -128,24 +254,6 @@
       "published_at": "2026-11-02T15:02:19+00:00"
     },
     {
-      "id": "c7f312fe9e87dae8",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Rationalisation », recours à l'IA… Le gouvernement veut réduire les coûts de l'Anses",
-      "resume": "Le gouvernement veut réduire les coûts de l'Agence nationale de sécurité sanitaire (Anses). Fin octobre, les quatre ministres de tutelle de l'agence (Agriculture, Écologie, Santé et Travail) ont adressé une lettre de mission aux inspections",
-      "url": "https://reporterre.net/Rationalisation-recours-a-l-IA-Le-gouvernement-veut-reduire-les-couts-de-l-Anses",
-      "published_at": "2026-11-02T14:53:25+00:00"
-    },
-    {
-      "id": "49b95be0fb507adb",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Je n'ai plus envie de nourrir le monstre » : pourquoi quitter Meta",
-      "resume": "« Tout le monde déteste l' IA , mais tout le monde l'utilise » : dans cette nouvelle chronique, l'autrice Corinne Morel Darleux dénonce l'omniprésence de l'intelligence artificielle et affirme avoir choisi son camp... Corinne Morel Darleux ",
-      "url": "https://reporterre.net/Je-n-ai-plus-envie-de-nourrir-le-monstre-pourquoi-l-ecrivaine-Corinne-Morel-Darleux-quitte-Meta",
-      "published_at": "2026-11-02T14:46:06+00:00"
-    },
-    {
       "id": "dee89859c14a800a",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -153,15 +261,6 @@
       "resume": "Brazil’s Securities and Exchange Commission (CVM) announced the launch of a new public consultation into […]",
       "url": "https://www.esgtoday.com/brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement/?utm_source=rss&utm_medium=rss&utm_campaign=brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement",
       "published_at": "2026-11-02T14:42:16+00:00"
-    },
-    {
-      "id": "61de8cbb7170a6cb",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Super El Niño » : la Bolivie décrète l'état d'urgence",
-      "resume": "Le président bolivien, Rodrigo Paz, a annoncé samedi 31 octobre avoir décrété l'état d'urgence en Bolivie pour faire face aux sécheresses et aux inondations liées au « super El Niño », phénomène climatique intense qui fait des ravages cette",
-      "url": "https://reporterre.net/BVE-Super-El-Nino-la-Bolivie-decrete-l-etat-d-urgence",
-      "published_at": "2026-11-02T14:17:46+00:00"
     },
     {
       "id": "a3377d1a395b799b",
@@ -191,24 +290,6 @@
       "published_at": "2026-11-02T13:47:24+00:00"
     },
     {
-      "id": "f91d58f75c2fbebb",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "La pétition pour fermer CNews dépasse les 500 000 signatures",
-      "resume": "Plus de 530 000 personnes ont signé la pétition pour supprimer la chaîne de télévision CNews. Déposée en juin sur le site de l'Assemblée nationale, cette pétition connaît un fort regain de popularité depuis l'attentat raciste de Trappes, le",
-      "url": "https://reporterre.net/La-petition-pour-fermer-CNews-depasse-les-500-000-signatures",
-      "published_at": "2026-11-02T13:44:18+00:00"
-    },
-    {
-      "id": "5bf4e119fed2c63d",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Voitures électriques : la troisième édition du leasing social peine à atteindre les 50 000 bénéficiaires",
-      "resume": "Le dispositif, qui permet de donner accès à un véhicule électrique à des ménages modestes, est moins séduisant qu’à son lancement. Fin octobre, seulement 39 000 véhicules électriques avaient été commandés sur les 50 000 subventionnés.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html",
-      "published_at": "2026-11-02T13:30:07+00:00"
-    },
-    {
       "id": "8af53ce5817491db",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -227,15 +308,6 @@
       "published_at": "2026-11-02T12:23:49+00:00"
     },
     {
-      "id": "2c324f16edb47465",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "BofA, SMI, Eurazeo Launch New Biodiversity Solutions Fund",
-      "resume": "Bank of America, the Sustainable Markets Initiative (SMI), a global sustainability coalition launched by King […]",
-      "url": "https://www.esgtoday.com/bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund",
-      "published_at": "2026-11-02T12:14:13+00:00"
-    },
-    {
       "id": "bf2b3a7ac53fd4a7",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -243,42 +315,6 @@
       "resume": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with flooding Aida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are",
       "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
       "published_at": "2026-11-02T12:00:41+00:00"
-    },
-    {
-      "id": "1b4746e2034a3d7b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Lobbyistes fossiles emmenés aux COP climat : la France sur le podium des pires délégations",
-      "resume": "L'an dernier, lors des grandes négociations climatiques internationales de la COP30 , au Brésil, plus de 1 600 lobbyistes des énergies fossiles étaient présents pour faire valoir leurs intérêts climaticides. Et la France et l'Europe compten",
-      "url": "https://reporterre.net/Lobbyistes-fossiles-emmenes-aux-COP-climat-la-France-sur-le-podium-des-pires-delegations",
-      "published_at": "2026-11-02T11:30:36+00:00"
-    },
-    {
-      "id": "cc625507dc7b566e",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Osapiens Appoints Stephan de Barse as President",
-      "resume": "Germany-based sustainability software company osapiens announced the appointment of Stephan de Barse to the newly […]",
-      "url": "https://www.esgtoday.com/osapiens-appoints-stephan-de-barse-as-president/?utm_source=rss&utm_medium=rss&utm_campaign=osapiens-appoints-stephan-de-barse-as-president",
-      "published_at": "2026-11-02T11:01:16+00:00"
-    },
-    {
-      "id": "151e86f5b74d2c30",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Green Climate Fund Approves Record $3.3 Billion Climate Investments",
-      "resume": "UN-backed Green Climate Fund (GCF), the largest global climate fund for developing countries, announced that […]",
-      "url": "https://www.esgtoday.com/green-climate-fund-approves-record-3-3-billion-climate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=green-climate-fund-approves-record-3-3-billion-climate-investments",
-      "published_at": "2026-11-02T10:25:47+00:00"
-    },
-    {
-      "id": "9d4711846c76666a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le Canada rêve d’exporter son gaz naturel liquéfié en Europe",
-      "resume": "Ottawa est le cinquième producteur mondial de GNL et pourrait devenir une nouvelle source d’approvisionnement pour les Européens, en quête de diversification. Mais l’éloignement géographique et le manque d’infrastructures risquent de freine",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/02/le-canada-reve-d-exporter-son-gaz-naturel-liquefie-en-europe_6805185_3234.html",
-      "published_at": "2026-11-02T08:00:05+00:00"
     },
     {
       "id": "7ee72f89aaf0ce6d",
@@ -311,8 +347,8 @@
       "id": "e848018d92713aab",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "L’international reste moteur chez Séché Environnement mais la France se reprend - Investir Les Echos",
-      "resume": "L’international reste moteur chez Séché Environnement mais la France se reprend Investir Les Echos",
+      "titre": "L’international reste moteur chez Séché Environnement mais la France se reprend - Les Echos",
+      "resume": "L’international reste moteur chez Séché Environnement mais la France se reprend Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM2xzaW1TVDk1cDhCbHcwOE8xWUhFNDlxd1dmUjhFSWhYQzZ3WEVIWTAxWlNzZTVPaTMzRWhwbWdweEhCXzJCbWVKV1dFYmtuZThUcVVZQTAwbnlxczNxbzd1NkhzX254eTZqY3BuWVRCdm4xZWhpTG5DakdtZ1FrVW50OEo2WWZkX3BmQW1lQ3hZX2ZtRGxLSUw3RlVFWDFwbFNFOW9EczhybmhjdHlwM1FMVi10SDlvSTdzN09aTms2TlN0RHJxNEpZQ1dGdGxJUHluTWRodmdjbFUyRjQ4X2pLMFVhUQ?oc=5",
       "published_at": "2026-11-02T07:00:38+00:00"
     },
@@ -416,24 +452,6 @@
       "published_at": "2026-10-30T10:40:48+00:00"
     },
     {
-      "id": "3ec9eba364a110b3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "TotalEnergies bénéficie d'un environnement exceptionnel, il en tire profit à plein - Les Echos",
-      "resume": "TotalEnergies bénéficie d'un environnement exceptionnel, il en tire profit à plein Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSkIyRXpFS3lfSFhhd3BhbDk0YzlXbzh3V3laRUI1Z3J3MWxMQjY2dW8zZkJ0QlJkcThUSXlscmpRODgzX0lnYzZyRUh0ZlAtVlV0VENwbVZmTTdXTU5XWWxWWVA4LUExRU43d18xeXo2ajVqajZOTGdjLW9peDVSVVlVb0VGTU5jME9yTmlvXzh0OU5OMlZlS1o0WnFoQzNDRWhES1oyZUxkZnZ4dkZpTFFLUTZIcGxRY0NGMVhha3A1M3lYT2RiRDdYcHJxelo1MkhZeWhnYjV1ZkxPYTQtelF5VmJGMVZB?oc=5",
-      "published_at": "2026-10-30T10:10:00+00:00"
-    },
-    {
-      "id": "72cd6d11d7164577",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Lucile Peytavin : \"Si la virilité au travail rapporte à certains, elle coûte surtout cher aux entreprises\"",
-      "resume": "Lucile Peytavin, historienne et co-autrice de l'essai \"Le coût de la virilité au travail\". @Tallandier / Juliette Dupuis Carle Vous avez écrit un premier essai sur le coût de la virilité pour la société. Pourquoi avoir choisi cette fois de ",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/lucile-peytavin-si-virilite-travail-rapporte-certains-elle-coute-surtout-cher-entreprises",
-      "published_at": "2026-10-30T05:45:55+00:00"
-    },
-    {
       "id": "e50725920c0598ef",
       "source": "I4CE",
       "categorie": "Climat",
@@ -441,15 +459,6 @@
       "resume": "Après l'été caniculaire de 2026, le Premier ministre a commandé à un Plan d'accélération de l'adaptation de la France au changement climatique, remis fin septembre. Et depuis ? Silence radio. L’article Adaptation au changement climatique : ",
       "url": "https://www.i4ce.org/adaptation-changement-climatique-silence-matignon/",
       "published_at": "2026-10-29T16:52:20+00:00"
-    },
-    {
-      "id": "e3cc2c7e41540ae5",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Christine Lagarde quitte la BCE, quel bilan climatique après huit ans de présidence ?",
-      "resume": "Christine Lagarde, la présidente de la Banque centrale européenne, a annoncé son départ avant la fin de son mandat. @BCE \"Je quitte cette institution avec le sentiment du devoir accompli et une BCE prête pour l’avenir.\" Dans un message vidé",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/christine-lagarde-quitte-la-bce-quel-bilan-climatique-apres-huit-ans-de-presidence",
-      "published_at": "2026-10-29T15:04:35+00:00"
     },
     {
       "id": "b859ecb16005dbe7",
@@ -711,15 +720,6 @@
       "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
       "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
       "published_at": "2026-07-20T10:36:40+00:00"
-    },
-    {
-      "id": "5966e35906e93c5d",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
-      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
-      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
-      "published_at": "2026-07-09T05:00:32+00:00"
     }
   ]
 }
