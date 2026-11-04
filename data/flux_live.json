@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-11-04T14:59:45.212846+00:00",
+  "generated_at": "2026-11-04T21:08:56.156835+00:00",
   "items": [
+    {
+      "id": "36d8a956c4c05b2c",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "Midterms : 5 points que l’Europe doit surveiller après l’écrasante victoire des démocrates face à Trump",
+      "resume": "Du Texas à l'Ohio, les républicains ont connu une soirée électorale catastrophique. Quel sera l'impact de ces résultats sur l'Europe ?",
+      "url": "https://www.politico.eu/article/midterms-5-points-que-leurope-doit-surveiller-apres-lecrasante-victoire-des-democrates-face-a-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-11-04T17:55:27+00:00"
+    },
+    {
+      "id": "7a375a585d7d1d01",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Comment les renouvelables se mobilisent contre la révision des tarifs solaires",
+      "resume": "En commission fin octobre, les députés ont supprimé l’article 82 du projet de loi de finances, qui prévoyait la révision rétroactive des tarifs S6, S10 et surtout S21 sur les toitures solaires de 300 à 500 kWc. La filière a gagné une premiè",
+      "url": "https://www.greenunivers.com/2026/11/comment-les-renouvelables-se-mobilisent-contre-la-revision-des-tarifs-solaires-437868/",
+      "published_at": "2026-11-04T17:03:41+00:00"
+    },
+    {
+      "id": "c6a6f64869f6ae41",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Éco-organismes : les députés veulent un opérateur unique par filière et faire payer la contre-performance",
+      "resume": "La mission d'information de l'Assemblée sur les éco-organismes formule 57 propositions : un éco-organisme unique par filière, des objectifs manqués qui se paient et une couverture complète des coûts des collectivités.",
+      "url": "https://www.actu-environnement.com/ae/news/eco-organismes-filiere-unique-sanctions-rep-48768.php4#xtor=RSS-6",
+      "published_at": "2026-11-04T16:24:24+00:00"
+    },
+    {
+      "id": "10b45072d82dd63a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Projet de loi de finances : 10 postes en moins prévus pour les parcs nationaux",
+      "resume": "Le parc national des Cévennes risque de perdre des postes. Le Projet de loi de finances 2027 prévoit de supprimer dix emplois dans les parcs nationaux de France, dont 2,3 équivalents temps plein annuels pour celui des Cévennes. D'autres par",
+      "url": "https://reporterre.net/Projet-de-loi-de-finances-10-postes-en-moins-prevus-pour-les-parcs-nationaux",
+      "published_at": "2026-11-04T16:11:28+00:00"
+    },
+    {
+      "id": "36cb7528fadb640f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Une « faute historique » : l'UE veut simplifier les directives Oiseaux et Habitats en 2027",
+      "resume": "En 2027, quels acquis écologiques seront-ils détricotés par la droite et l'extrême droite européennes ? La Commission européenne a présenté le 4 novembre son programme de travail pour 2027, qui compte 23 nouvelles initiatives placées, encor",
+      "url": "https://reporterre.net/Une-faute-historique-l-UE-veut-simplifier-les-directives-Oiseaux-et-Habitats-en-2027",
+      "published_at": "2026-11-04T16:04:21+00:00"
+    },
+    {
+      "id": "10c1429c2e3b6545",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Logitech Launches Supply Chain Decarbonization Program",
+      "resume": "Computer peripherals and technology company Logitech announced the launch of Chain Reaction, a supply chain […]",
+      "url": "https://www.esgtoday.com/logitech-launches-supply-chain-decarbonization-program/?utm_source=rss&utm_medium=rss&utm_campaign=logitech-launches-supply-chain-decarbonization-program",
+      "published_at": "2026-11-04T15:58:18+00:00"
+    },
+    {
+      "id": "91343c5fa165aef2",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La Corse placée en vigilance orange pluie-inondation à partir de jeudi",
+      "resume": "Les précipitations devraient s’intensifier dans la soirée et se poursuivre jeudi, particulièrement sur la façade orientale de l’île, prévient Météo-France.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/04/la-corse-placee-en-vigilance-orange-pluie-inondation-a-partir-de-jeudi_6806317_3244.html",
+      "published_at": "2026-11-04T15:46:38+00:00"
+    },
+    {
+      "id": "62e79cc377f5bb84",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Décarbonation de l’industrie, un relais de croissance pour les EnR [Dossier]",
+      "resume": "Quel est le potentiel du marché de la décarbonation de l’industrie ? Et comment prendre la vague ? C’est ce que GreenUnivers a voulu identifier dans une enquête en quatre volets. Sur le papier, le débouché paraît évident pour les producteur",
+      "url": "https://www.greenunivers.com/2026/11/decarbonation-de-lindustrie-un-relais-de-croissance-pour-les-enr-dossier-437754/",
+      "published_at": "2026-11-04T15:25:33+00:00"
+    },
+    {
+      "id": "000d61656e31623e",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EU Commission Scraps Green Claims Directive",
+      "resume": "The European Commission revealed on Wednesday that it has officially withdrawn the Green Claims Directive, […]",
+      "url": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
+      "published_at": "2026-11-04T15:24:38+00:00"
+    },
+    {
+      "id": "7fd329ffa717998e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Avec la grève, on touche le grand patronat au portefeuille » : Anasse Kazib, candidat à la présidentielle, veut reprendre le pouvoir « par le bas »",
+      "resume": "Soutien à la jeunesse, pouvoir d'achat, hausse des salaires... Alors que l'intersyndicale appelle à la grève le 5 novembre, Anasse Kazib, candidat à l'élection présidentielle, considère que pour tenir, le mouvement devra s'organiser « par e",
+      "url": "https://reporterre.net/Avec-la-greve-on-touche-le-grand-patronat-au-portefeuille-Anasse-Kazib-candidat-a-la",
+      "published_at": "2026-11-04T15:22:30+00:00"
+    },
+    {
+      "id": "c98c29e68160e5a2",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Comment les étudiants serbes ont mis fin à un pouvoir corrompu et autoritaire",
+      "resume": "En Serbie, le régime nationaliste et corrompu d'Aleksandar Vučić a été battu par une liste portée par les étudiants. Une victoire qui ouvre un immense chantier démocratique et pourrait faire école en France et ailleurs. Balkans, corresponda",
+      "url": "https://reporterre.net/Comment-les-etudiants-serbes-ont-mis-fin-a-un-pouvoir-corrompu-et-autoritaire",
+      "published_at": "2026-11-04T15:21:34+00:00"
+    },
     {
       "id": "c814fa092079a3b4",
       "source": "Reporterre",
@@ -23,7 +122,7 @@
       "id": "ab36fa718ada9eb5",
       "source": "ESG Today",
       "categorie": "Réglementation",
-      "titre": "Brazil Launches Roadmaps to Phase Out Fossil Fuels, End Deforestation",
+      "titre": "Brazil Releases Roadmaps to Phase Out Fossil Fuels, End Deforestation",
       "resume": "COP30 host Brazil announced the release of two new “Roadmaps,” outlining global strategies to transitioning […]",
       "url": "https://www.esgtoday.com/brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation/?utm_source=rss&utm_medium=rss&utm_campaign=brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation",
       "published_at": "2026-11-04T14:32:25+00:00"
@@ -68,8 +167,8 @@
       "id": "c66be2b4d0a824b0",
       "source": "GreenUnivers",
       "categorie": "Climat",
-      "titre": "Etats-Unis : les élections de mi-mandat confortent les renouvelables en Bourse",
-      "resume": "La loi de la pompe. Les républicains ont perdu cette nuit les élections des midterms au profit des démocrates, désormais majoritaire au Congrès. La résultante L’article Etats-Unis : les élections de mi-mandat confortent les renouvelables en",
+      "titre": "Mid-terms US : les prix de l’énergie ne baisseront pas demain",
+      "resume": "La loi de la pompe à essence. Les républicains ont perdu cette nuit les élections des midterms au profit des démocrates, désormais majoritaires au Congrès. La résultante L’article Mid-terms US : les prix de l’énergie ne baisseront pas demai",
       "url": "https://www.greenunivers.com/2026/11/etats-unis-les-elections-de-mi-mandat-confortent-les-renouvelables-en-bourse-437778/",
       "published_at": "2026-11-04T13:59:04+00:00"
     },
@@ -164,33 +263,6 @@
       "published_at": "2026-11-04T11:15:35+00:00"
     },
     {
-      "id": "856d443f80bb3aee",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Poulets : la France veut produire plus... dans un marché saturé de poulets importés",
-      "resume": "En 2025, chaque Français a consommé 25,6 kg de poulet, le double d'il y a vingt ans. Plus de la moitié de ces poulets provenait de l'importation. Face à la demande croissante et pour regagner des parts de marché, la filière française a déci",
-      "url": "https://reporterre.net/Poulets-la-France-veut-produire-plus-dans-un-marche-sature-de-poulets-importes",
-      "published_at": "2026-11-04T11:00:00+00:00"
-    },
-    {
-      "id": "c249f5ce7d249cc7",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Antibassines, Faucheurs volontaires... Ces militants privés de manifestation par une mesure antiterroriste",
-      "resume": "Associés à une menace terroriste, des militants écologistes ayant participé au mouvement social et lycéen ont reçu une assignation à résidence, les privant de leur liberté. Ils dénoncent une « bascule autoritaire » visant à « faire taire la",
-      "url": "https://reporterre.net/Antibassines-Faucheurs-volontaires-Ces-militants-prives-de-manifestation-par-une-mesure",
-      "published_at": "2026-11-04T08:31:54+00:00"
-    },
-    {
-      "id": "171fa728547cefa6",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Midterms aux États-Unis : la victoire démocrate, un espoir pour l'écologie",
-      "resume": "En reprenant la Chambre des représentants et le Sénat lors des élections de mi-mandat, les démocrates ont infligé un sévère revers à Donald Trump. Il leur sera impossible d'enrayer totalement sa mécanique climatique mortifère, mais ils pour",
-      "url": "https://reporterre.net/Victoire-des-democrates-aux-Etats-Unis-un-espoir-pour-l-ecologie",
-      "published_at": "2026-11-04T08:28:53+00:00"
-    },
-    {
       "id": "177343c80038a4a8",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -198,15 +270,6 @@
       "resume": "L’accord, conclu dans le cadre d’une action intentée en Caroline du Sud impliquant plus de 100 000 plaignants, couvre « environ 99 % » des réclamations, selon le groupe.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/04/polluants-eternels-3m-va-verser-7-35-milliards-de-dollars-de-dedommagements_6806126_3244.html",
       "published_at": "2026-11-04T08:02:18+00:00"
-    },
-    {
-      "id": "26c4dc93491b227f",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Nous faire manger toujours plus de pesticides : ces responsables européens qui poussent l'Omnibus X",
-      "resume": "Derrière le texte européen Omnibus X qui veut allonger et favoriser l'usage de pesticides, des élus et responsables européens agissent au bénéfice des industriels. Portraits de ceux qui poussent pour démanteler les règlementations sanitaire",
-      "url": "https://reporterre.net/Nous-faire-manger-toujours-plus-de-pesticides-ces-responsables-europeens-qui-poussent-l",
-      "published_at": "2026-11-04T06:30:00+00:00"
     },
     {
       "id": "7dba10e5e6436713",
@@ -227,15 +290,6 @@
       "published_at": "2026-11-04T05:00:13+00:00"
     },
     {
-      "id": "424aa77fd7cc6888",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pesticides : « Il est urgent de renverser le rapport de force asymétrique avec les fabricants »",
-      "resume": "De la loi Duplomb à la loi d’urgence agricole et, aujourd’hui, à la loi omnibus X, le gouvernement soumet peu à peu l’expertise scientifique indépendante de l’Agence nationale de sécurité sanitaire aux exigences économiques des industriels ",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/03/pesticides-il-est-urgent-de-renverser-le-rapport-de-force-asymetrique-avec-les-fabricants_6805649_3232.html",
-      "published_at": "2026-11-03T18:30:06+00:00"
-    },
-    {
       "id": "757320ecc921f1ab",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -254,24 +308,6 @@
       "published_at": "2026-11-03T17:01:21+00:00"
     },
     {
-      "id": "5bdb51aafe2c48cb",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le gouvernement suspend le Fonds chaleur",
-      "resume": "Le Fonds chaleur est mis en mode pause. L’outil phare du soutien public à la chaleur et au froid renouvelables est victime d’un manque de moyens au regard des L’article Le gouvernement suspend le Fonds chaleur est apparu en premier sur Gree",
-      "url": "https://www.greenunivers.com/2026/11/le-gouvernement-suspend-le-fonds-chaleur-437702/",
-      "published_at": "2026-11-03T16:47:59+00:00"
-    },
-    {
-      "id": "e0630c3886cb2c01",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Plus de 200 M€ levés par les cleantech en octobre",
-      "resume": "Le mois d’octobre est celui des dirigeables dans le baromètre de GreenUnivers sur les levées de fonds des cleantech, qui se rattrapent d’un faible mois de septembre en levant 208 M€. La plus importante opération L’article Plus de 200 M€ lev",
-      "url": "https://www.greenunivers.com/2026/11/plus-de-200-me-leves-par-les-cleantech-en-octobre-437671/",
-      "published_at": "2026-11-03T16:45:45+00:00"
-    },
-    {
       "id": "9ed57eda9028467e",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -281,15 +317,6 @@
       "published_at": "2026-11-03T16:35:09+00:00"
     },
     {
-      "id": "720f7201d579bf2b",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Isometric Launches New CBAM Data Preparation and Reporting Service for Exporters",
-      "resume": "Industrial certification provider Isometric announced today the launch of Ready for CBAM, a new service […]",
-      "url": "https://www.esgtoday.com/isometric-launches-new-cbam-preparation-service-for-exporters/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-launches-new-cbam-preparation-service-for-exporters",
-      "published_at": "2026-11-03T16:15:26+00:00"
-    },
-    {
       "id": "717a509e7804fc52",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -297,24 +324,6 @@
       "resume": "Transition énergétique : le gouvernement suspend le Fonds chaleur Les Echos",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajRXcW9GdUVqYUJnLUd6WEFNQnM5ZVhraDFNZ2xNQnZWbnFWWHpjajIwZ1pxb3JicEpWcHBhMDk1M0VWOEcxbVFJTl9TeHF6eU94azkwZ0lOZlg5M3Q1bHJ4azNCa081MjREeXpnZFN1STJkS3ZVdkxqOHZBeTVWVk41NlNsdlRTWGNpN2xsWERmSUthRFFsOFB0MmlkZ0U0eGY3VTFJUVNnYXRfVWI4cVY0RjhiNjhvVnRYWkpB?oc=5",
       "published_at": "2026-11-03T15:55:26+00:00"
-    },
-    {
-      "id": "60c3cca0f64a16dc",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La justice administrative refuse de suspendre un pesticide présentant des risques importants pour l'eau",
-      "resume": "Le tribunal administratif de Melun a rejeté la demande de suspension d'un pesticide présentant des risques potentiellement inacceptables pour l'eau. Ce dernier a été autorisé pour 120 jours par la ministre de l'Agriculture à la demande des ",
-      "url": "https://www.actu-environnement.com/ae/news/avadex-factor-tribunal-suspension-pesticide-eau-48763.php4#xtor=RSS-6",
-      "published_at": "2026-11-03T15:48:54+00:00"
-    },
-    {
-      "id": "d4c1960a3ac378f0",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "BCG Appoints Jan Philipp Bender as New Global Climate & Sustainability Practice Leader",
-      "resume": "Boston Consulting Group (BCG) announced the appointment of Jan Philipp Bender as its new Global […]",
-      "url": "https://www.esgtoday.com/bcg-appoints-jan-philipp-bender-as-new-global-climate-sustainability-practice-leader/?utm_source=rss&utm_medium=rss&utm_campaign=bcg-appoints-jan-philipp-bender-as-new-global-climate-sustainability-practice-leader",
-      "published_at": "2026-11-03T15:46:40+00:00"
     },
     {
       "id": "c828294c83c09c7f",
@@ -621,15 +630,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
       "published_at": "2026-10-14T07:27:21+00:00"
-    },
-    {
-      "id": "e0aa20fa668fa3d2",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Philippe, Glucksmann, Retailleau : les temps forts du Sommet sur la compétitivité économique de POLITICO",
-      "resume": "Les trois candidats à la présidentielle ont répondu aux questions de nos journalistes sur l’Europe, l’intelligence artificielle ou l’énergie. Thèmes sur lesquels les clivages ont été nombreux.",
-      "url": "https://www.politico.eu/article/philippe-glucksmann-retailleau-les-temps-forts-du-sommet-sur-la-competitivite-economique-de-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-13T16:00:25+00:00"
     },
     {
       "id": "29632628c172cc87",
