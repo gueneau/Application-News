@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-04T00:23:30.185223+00:00",
+  "generated_at": "2026-11-04T06:47:49.112052+00:00",
   "items": [
+    {
+      "id": "26c4dc93491b227f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Nous faire manger toujours plus de pesticides : ces responsables européens qui poussent l'Omnibus X",
+      "resume": "Derrière le texte européen Omnibus X qui veut allonger et favoriser l'usage de pesticides, des élus et responsables européens agissent au bénéfice des industriels. Portraits de ceux qui poussent pour démanteler les règlementations sanitaire",
+      "url": "https://reporterre.net/Nous-faire-manger-toujours-plus-de-pesticides-ces-responsables-europeens-qui-poussent-l",
+      "published_at": "2026-11-04T06:30:00+00:00"
+    },
+    {
+      "id": "7dba10e5e6436713",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Gironde, vivre en zone inondable : « Partir ? Pour aller où ? Ici, le risque est connu, prévisible, gérable. Et nous profitons d’un art de vivre »",
+      "resume": "Les inondations de février ont-elles fait fuir les habitants du département ? A Arveyres, au bord de la Dordogne, déclaré zone de catastrophe naturelle, la résistance, au contraire, s’organise. Les riverains défendent un art de vivre qui at",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/04/en-gironde-vivre-en-zone-inondable-partir-pour-aller-ou-ici-le-risque-est-connu-previsible-gerable-et-nous-profitons-d-un-art-de-vivre_6806074_3244.html",
+      "published_at": "2026-11-04T05:00:27+00:00"
+    },
+    {
+      "id": "897a9303e9a06000",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Electrifier les usages tout en freinant sur les énergies renouvelables : la politique paradoxale de la France",
+      "resume": "Alors que le pays connaît un certain déséquilibre entre sa production et sa consommation d’électricité bas-carbone, les acteurs du solaire et de l’éolien s’inquiètent pour leur avenir avant même la présidentielle de 2027, à haut risque pour",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/04/electrifier-les-usages-tout-en-freinant-sur-les-energies-renouvelables-la-politique-paradoxale-de-la-france_6806071_3244.html",
+      "published_at": "2026-11-04T05:00:21+00:00"
+    },
     {
       "id": "424aa77fd7cc6888",
       "source": "Le Monde Planète",
@@ -173,15 +200,6 @@
       "published_at": "2026-11-03T15:16:12+00:00"
     },
     {
-      "id": "8d89a06bd239c1ad",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Comment l’essor des médicaments anti-obésité modifie les habitudes alimentaires",
-      "resume": "Moins de produits de boulangerie, de confiseries, de biscuits, de snacks salés, de boissons gazeuses et de sodas : une étude du cabinet Bain, publiée mardi, portant sur des milliers de patients, note une évolution de leur mode de consommati",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/03/comment-l-essor-des-medicaments-anti-obesite-modifie-les-habitudes-alimentaires_6805609_3234.html",
-      "published_at": "2026-11-03T15:15:02+00:00"
-    },
-    {
       "id": "e48b0592d5c6ceb1",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -198,15 +216,6 @@
       "resume": "Document – L’appel d’offres « super neutre » pour 2027 est toujours en discussion. Les pouvoirs publics ont fait circuler ces derniers jours un projet de cahier des charges – consultable en bas d’article – pour cet AO qui couvre trois génér",
       "url": "https://www.greenunivers.com/2026/11/volume-agrivoltaisme-m0-ce-qui-se-prepare-pour-lappel-doffres-super-neutre-437612/",
       "published_at": "2026-11-03T15:09:17+00:00"
-    },
-    {
-      "id": "1c0969c5fb3091a5",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP31 : « Il est essentiel que celles et ceux qui aspirent à gouverner notre pays présentent leur vision de l’avenir énergétique français »",
-      "resume": "A quelques jours de l’ouverture de la COP31 à Antalya, en Turquie, les responsables des principales ONG pour l’accès à l’énergie et la transition écologique, des experts et des représentants du monde économique demandent, dans une tribune a",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/03/cop31-il-est-essentiel-que-celles-et-ceux-qui-aspirent-a-gouverner-notre-pays-presentent-leur-vision-de-l-avenir-energetique-francais_6805605_3232.html",
-      "published_at": "2026-11-03T15:00:00+00:00"
     },
     {
       "id": "f800f82098692c41",
@@ -297,15 +306,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/resultats-de-la-grande-consultation-sante/",
       "published_at": "2026-11-03T09:33:58+00:00"
-    },
-    {
-      "id": "da51c9eb1ab4a9ff",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Sans conservateur » et « sans colorant » ? 20 produits épinglés pour leur marketing trompeur",
-      "resume": "Sur son « panier 0 % de matière grasse », Yoplait affirme en gros caractères : « sans conservateur, sans colorant, sans arôme artificiel ». Mais en analysant la liste complète des ingrédients, on découvre que ces yaourts contiennent d'autre",
-      "url": "https://reporterre.net/Sans-conservateur-et-sans-colorant-20-produits-epingles-pour-leur-marketing-trompeur",
-      "published_at": "2026-11-03T08:32:00+00:00"
     },
     {
       "id": "51cbe6f69db70dd1",
@@ -641,15 +641,6 @@
       "published_at": "2026-10-09T08:45:20+00:00"
     },
     {
-      "id": "677c3834c04eaf26",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
-      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
-      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
-      "published_at": "2026-10-07T13:03:27+00:00"
-    },
-    {
       "id": "e08f4587b21f7778",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -657,51 +648,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
       "published_at": "2026-10-06T10:23:17+00:00"
-    },
-    {
-      "id": "c7c5fd524d735a2a",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
-      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
-      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
-      "published_at": "2026-09-30T09:38:27+00:00"
-    },
-    {
-      "id": "807bedcb7a719896",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "« France 2035, France 2050 » - Découvrez le projet",
-      "resume": "« France 2035, France 2050 » - Découvrez le projet Comment vivrons-nous en France demain ? Dans la lignée historique des travaux du Plan depuis Jean Monnet, le Haut-commissariat à la Stratégie et au Plan a lancé un grand exercice de prospec",
-      "url": "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet",
-      "published_at": "2026-09-10T10:16:39+00:00"
-    },
-    {
-      "id": "673f485ce8732418",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Conférence | Quels nouveaux moteurs pour la productivité française ?",
-      "resume": "Conférence | Quels nouveaux moteurs pour la productivité française ? La France entre dans une nouvelle phase de son histoire économique : l’accélération technologique portée par l’intelligence artificielle, le vieillissement démographique e",
-      "url": "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise",
-      "published_at": "2026-09-09T13:14:11+00:00"
-    },
-    {
-      "id": "f6a85cff203ccfc9",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps",
-      "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
-      "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
-      "published_at": "2026-09-08T13:11:58+00:00"
-    },
-    {
-      "id": "2eb28f1334062f55",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ?",
-      "resume": "Webconférence | Responsabilité territoriale de l’entreprise : quels leviers pour des territoires plus durables, solidaires et résilients ? Comment les entreprises peuvent-elles contribuer, aux côtés des collectivités, des associations, des ",
-      "url": "https://www.strategie-plan.gouv.fr/webconference-responsabilite-territoriale-de-lentreprise-quels-leviers-pour-des-territoires-plus",
-      "published_at": "2026-09-03T14:56:56+00:00"
     },
     {
       "id": "cf48f14c1a1e7e16",
@@ -720,6 +666,60 @@
       "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
       "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
       "published_at": "2026-07-20T10:36:40+00:00"
+    },
+    {
+      "id": "5966e35906e93c5d",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
+      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
+      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
+      "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
+    },
+    {
+      "id": "f6ba6a33ef09a89a",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
+      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
+      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
