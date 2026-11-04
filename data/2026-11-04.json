@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "generated_at": "07:12",
-  "elapsed_seconds": 410,
+  "generated_at": "13:19",
+  "elapsed_seconds": 838,
   "errors": [],
   "stats": {
     "jo_analyses": 9,
@@ -9,18 +9,18 @@
     "depts_restriction": 82
   },
   "pipeline_meta": {
-    "run_at": "2026-11-04T07:12:32",
+    "run_at": "2026-11-04T13:19:50",
     "sources": {
       "JORF": 0,
-      "RSS": 5,
+      "RSS": 8,
       "VigiEau": 82,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 39,
-    "llm_seconds": 32.0
+    "llm_calls": 38,
+    "llm_seconds": 725.3
   },
   "items": [
     {
@@ -32,6 +32,28 @@
       "pourquoi": "Mention de réglementation prioritaire.",
       "criticite": 3,
       "url": "https://reporterre.net/Nous-faire-manger-toujours-plus-de-pesticides-ces-responsables-europeens-qui-poussent-l",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "5180b8bd7eed",
+      "source": "Actu-Environnement",
+      "categorie": "Énergie",
+      "titre": "Fonds chaleur : l'Ademe suspend temporairement les nouvelles demandes d'aides",
+      "resume": "La suspension temporaire des nouvelles demandes d'aides du Fonds chaleur par l'Ademe, face à l'afflux de projets et aux contraintes budgétaires, met en lumière un risque de ralentissement ou de report des investissements en transition énergétique pour les acteurs tertiaires et industriels.",
+      "pourquoi": "Cette suspension budgétaire de l'Ademe risque de retarder les investissements en transition énergétique de ses 3 000+ sites clients, impactant la trajectoire bas-carbone d'ABC et la demande en services d'efficacité énergétique à court terme. ABC doit immédiatement auditer l'éligibilité des projets en cours d'ici les 3 à 6 prochains mois pour sécuriser ses contrats et repositionner son offre de conseil.",
+      "criticite": 2,
+      "url": "https://www.actu-environnement.com/ae/news/fonds-chaleur-ademe-suspension-budget-48765.php4#xtor=RSS-6",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "84ab03349d2b",
+      "source": "EFRAG",
+      "categorie": "Environnement",
+      "titre": "EFRAG Update: October Edition Now Available",
+      "resume": "Publication de l'édition d'octobre de l'EFRAG Update, synthétisant les avancées sur le reporting de durabilité, les consultations en cours sur l'agenda 2027-2029 et les outils d'accompagnement des normes CSRD (ESRS).",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-update-october-edition-now-available-0",
       "date": "2026-11-04"
     },
     {
@@ -54,6 +76,17 @@
       "pourquoi": "Mention de réglementation prioritaire.",
       "criticite": 3,
       "url": "https://www.esgtoday.com/thailand-launches-mandatory-issb-aligned-sustainability-reporting-for-public-companies/?utm_source=rss&utm_medium=rss&utm_campaign=thailand-launches-mandatory-issb-aligned-sustainability-reporting-for-public-companies",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "166c95d9416a",
+      "source": "Les Echos Environnement",
+      "categorie": "Énergie",
+      "titre": "Transition énergétique : le gouvernement suspend le Fonds chaleur - Les Echos",
+      "resume": "Le gouvernement suspend le Fonds chaleur, marquant un coup d'arrêt pour le financement des projets de transition énergétique et de chaleur renouvelable.",
+      "pourquoi": "La suspension du Fonds chaleur freine les investissements de nos clients en transition énergétique, ce qui risque de reporter nos projets de conseil et de maintenance en efficacité bas-carbone à court terme (0-12 mois). Cette situation nous oblige à adapter rapidement notre offre vers des solutions d'autofinancement ou de performance contractuelle pour préserver nos opportunités commerciales.",
+      "criticite": 2,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajRXcW9GdUVqYUJnLUd6WEFNQnM5ZVhraDFNZ2xNQnZWbnFWWHpjajIwZ1pxb3JicEpWcHBhMDk1M0VWOEcxbVFJTl9TeHF6eU94azkwZ0lOZlg5M3Q1bHJ4azNCa081MjREeXpnZFN1STJkS3ZVdkxqOHZBeTVWVk41NlNsdlRTWGNpN2xsWERmSUthRFFsOFB0MmlkZ0U0eGY3VTFJUVNnYXRfVWI4cVY0RjhiNjhvVnRYWkpB?oc=5",
       "date": "2026-11-03"
     },
     {
