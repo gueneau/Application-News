@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-05T01:35:02.920728+00:00",
+  "generated_at": "2026-11-05T08:50:39.158468+00:00",
   "items": [
+    {
+      "id": "a6113ab1dfa44ebd",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’Hérault et le Gard rejoignent la Corse dans une vigilance orange pluie-inondation étendue durant la journée de jeudi",
+      "resume": "Des pluies torrentielles ont déjà provoqué des inondations, des sauvetages et la fermeture de routes en Corse, tandis que l’Hérault et le Gard se préparent jeudi à l’arrivée de l’épisode.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/05/l-herault-et-le-gard-rejoignent-la-corse-dans-une-vigilance-orange-pluie-inondation-etendue-durant-la-journee-de-jeudi_6806834_3244.html",
+      "published_at": "2026-11-05T08:01:18+00:00"
+    },
+    {
+      "id": "61d236eeef68d6c1",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le nouvel état-major de TotalEnergies Renouvelables France",
+      "resume": "TotalEnergies a fait évoluer son organisation interne cette année, ce qui, pour la branche Integrated Power, a conduit à la création d’équipes par pays, remplaçant L’article Le nouvel état-major de TotalEnergies Renouvelables France est app",
+      "url": "https://www.greenunivers.com/2026/11/le-nouvel-etat-major-de-totalenergies-renouvelables-france-437820/",
+      "published_at": "2026-11-05T07:45:00+00:00"
+    },
+    {
+      "id": "d8f8782afdd34022",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Bombes et drones : les oiseaux migrateurs bouleversés par la guerre au Liban",
+      "resume": "Plusieurs millions d'oiseaux migrateurs traversent le Liban chaque année, via la route migratoire qui relie l'Afrique à l'Europe. Déjà menacés par la chasse illégale, ces animaux subissent eux aussi la guerre menée par Israël. Zone humide d",
+      "url": "https://reporterre.net/Bombes-et-drones-les-oiseaux-migrateurs-bouleverses-par-la-guerre-au-Liban",
+      "published_at": "2026-11-05T06:32:00+00:00"
+    },
+    {
+      "id": "64ce6015514e8b28",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Bruno Meyerfeld, prix Albert Londres : « L'Amazonie est une zone en guerre, la guerre du climat »",
+      "resume": "Le journaliste Bruno Meyerfeld a remporté le 27 octobre le 88 e prix Albert Londres pour ses reportages sur l'Amazonie publiés dans « Le Monde ». C'est la première fois en presse écrite que ce prix récompense des articles sur la catastrophe",
+      "url": "https://reporterre.net/Bruno-Meyerfeld-prix-Albert-Londres-L-Amazonie-est-une-zone-en-guerre-la-guerre-du-climat",
+      "published_at": "2026-11-05T06:31:00+00:00"
+    },
+    {
+      "id": "81aad8c14f0058d8",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Mouvement social : « Le désir révolutionnaire n'est pas si minoritaire dans le pays »",
+      "resume": "Pour Arya Meroni, journaliste et militante, le mouvement social actuel invite à repenser les modes de mobilisation. L'enjeu est aujourd'hui d'imbriquer les stratégies de grève à des stratégies de débordement, estime-t-elle. Grève du 5 novem",
+      "url": "https://reporterre.net/Mouvement-social-Le-desir-revolutionnaire-n-est-pas-si-minoritaire-dans-le-pays",
+      "published_at": "2026-11-05T06:30:00+00:00"
+    },
+    {
+      "id": "5d9a5b661aa5f224",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Avec déjà 12 Omnibus au compteur, la Commission européenne poursuit sa course à la simplification",
+      "resume": "La commission européenne veut intégrer la durabilité à la commande publique en Europe - Photo de Fabian Kleisersur Unsplash La Commission européenne poursuit son grand ménage réglementaire avec déjà 12 omnibus au compteur. Ces textes législ",
+      "url": "https://www.novethic.fr/environnement/climat/avec-deja-12-omnibus-au-compteur-la-commission-europeenne-poursuit-sa-course-a-la-simplification",
+      "published_at": "2026-11-05T05:45:03+00:00"
+    },
+    {
+      "id": "a1915e3c601dba6a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le Maroc mise sur le dessalement pour soutenir son agriculture d’exportation : « Il vaut mieux avoir de l’eau chère que pas du tout »",
+      "resume": "Dans la région du Souss-Massa, près d’Agadir, des milliers d’hectares de cultures destinées à l’exportation sont irrigués depuis 2022 grâce au dessalement de l’eau de mer. Un modèle que le royaume veut dupliquer en dépit de ses impacts écol",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/05/le-maroc-mise-sur-le-dessalement-pour-soutenir-son-agriculture-d-exportation-il-vaut-mieux-avoir-de-l-eau-chere-que-pas-du-tout_6806812_3244.html",
+      "published_at": "2026-11-05T05:00:19+00:00"
+    },
     {
       "id": "0f815a30e48a8c86",
       "source": "Le Monde Planète",
@@ -101,24 +164,6 @@
       "published_at": "2026-11-04T15:22:30+00:00"
     },
     {
-      "id": "c98c29e68160e5a2",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Comment les étudiants serbes ont mis fin à un pouvoir corrompu et autoritaire",
-      "resume": "En Serbie, le régime nationaliste et corrompu d'Aleksandar Vučić a été battu par une liste portée par les étudiants. Une victoire qui ouvre un immense chantier démocratique et pourrait faire école en France et ailleurs. Balkans, corresponda",
-      "url": "https://reporterre.net/Comment-les-etudiants-serbes-ont-mis-fin-a-un-pouvoir-corrompu-et-autoritaire",
-      "published_at": "2026-11-04T15:21:34+00:00"
-    },
-    {
-      "id": "c814fa092079a3b4",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Pesticides dans le vin : Valérie Murat, lanceuse d'alerte, de retour au tribunal",
-      "resume": "Valérie Murat, la lanceuse d'alerte sur les pesticides dans le vin, est de retour devant les tribunaux pour dénoncer la procédure bâillon dont elle a été victime, comme l'explique le média Basta. En février 2021, cette porte-parole de l'ass",
-      "url": "https://reporterre.net/Valerie-Murat-la-lanceuse-d-alerte-de-retour-au-tribunal",
-      "published_at": "2026-11-04T14:51:10+00:00"
-    },
-    {
       "id": "e8a9afa8ac1f30f8",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -200,15 +245,6 @@
       "published_at": "2026-11-04T13:33:16+00:00"
     },
     {
-      "id": "09a3e0e62b5caa8e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Livret A : le plafond relevé pour financer le nucléaire et l'adaptation climatique",
-      "resume": "Le gouvernement veut mobiliser davantage l'épargne des Françaises et Français. Le 3 novembre, devant l'Assemblée nationale, le Premier ministre Sébastien Lecornu a annoncé un relèvement du plafond du livret A. Actuellement fixé à 22 950 eur",
-      "url": "https://reporterre.net/Livret-A-le-plafond-releve-pour-financer-le-nucleaire-et-l-adaptation-climatique",
-      "published_at": "2026-11-04T13:05:15+00:00"
-    },
-    {
       "id": "f40a855ada3ac4f5",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -270,42 +306,6 @@
       "resume": "La hausse des prix de l’électricité complique l’acquisition de nouveaux clients pour les fournisseurs alternatifs. « Si ça continue, cela n’aura bientôt plus de sens de L’article Les prix élevés de l’électricité paralysent les fournisseurs ",
       "url": "https://www.greenunivers.com/2026/11/les-prix-eleves-de-lelectricite-paralysent-les-fournisseurs-437429/",
       "published_at": "2026-11-04T11:15:35+00:00"
-    },
-    {
-      "id": "177343c80038a4a8",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Polluants éternels : 3M va verser 7,35 milliards de dollars de dédommagements",
-      "resume": "L’accord, conclu dans le cadre d’une action intentée en Caroline du Sud impliquant plus de 100 000 plaignants, couvre « environ 99 % » des réclamations, selon le groupe.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/04/polluants-eternels-3m-va-verser-7-35-milliards-de-dollars-de-dedommagements_6806126_3244.html",
-      "published_at": "2026-11-04T08:02:18+00:00"
-    },
-    {
-      "id": "7dba10e5e6436713",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Gironde, vivre en zone inondable : « Partir ? Pour aller où ? Ici, le risque est connu, prévisible, gérable. Et nous profitons d’un art de vivre »",
-      "resume": "Les inondations de février ont-elles fait fuir les habitants du département ? A Arveyres, au bord de la Dordogne, déclaré zone de catastrophe naturelle, la résistance, au contraire, s’organise. Les riverains défendent un art de vivre qui at",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/04/en-gironde-vivre-en-zone-inondable-partir-pour-aller-ou-ici-le-risque-est-connu-previsible-gerable-et-nous-profitons-d-un-art-de-vivre_6806074_3244.html",
-      "published_at": "2026-11-04T05:00:13+00:00"
-    },
-    {
-      "id": "757320ecc921f1ab",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Construction et rénovation du bâti scolaire : les normes à simplifier",
-      "resume": "La mission inter-inspections (IGA, IGF, Igedd) formule dix-sept recommandations pour simplifier les normes appliquées aux bâtiments scolaires, notamment en matière d'adaptation climatique, de RE 2020, de commande publique et d'accessibilité",
-      "url": "https://www.actu-environnement.com/ae/news/normes-bati-scolaire-simplification-rapport-interinspections-igedd-iga-igf-48764.php4#xtor=RSS-6",
-      "published_at": "2026-11-03T17:08:52+00:00"
-    },
-    {
-      "id": "caf86381507defc2",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Mirova lance un « fonds de continuation »",
-      "resume": "Exclusif – Mirova présentera le 12 novembre un fonds d’investissement dit « de continuation », selon nos informations. Ce véhicule financier sert à conserver des participations et actifs tout en fermant à la date prévue le fonds qui les a f",
-      "url": "https://www.greenunivers.com/2026/11/mirova-lance-un-fonds-de-continuation-437678/",
-      "published_at": "2026-11-03T17:01:21+00:00"
     },
     {
       "id": "9ed57eda9028467e",
@@ -371,15 +371,6 @@
       "published_at": "2026-11-03T09:33:58+00:00"
     },
     {
-      "id": "f09be0038bf84df9",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Alstom dans la tourmente : pourquoi le boom du ferroviaire ne profite pas (encore) au groupe",
-      "resume": "Les résultats financiers d'Alstom pâtissent des retards de production. @Alstom La série noire se poursuit chez Alstom. Le champion français du matériel ferroviaire a connu une séance dramatique en Bourse avec une chute de près de 30% de son",
-      "url": "https://www.novethic.fr/environnement/transition-energetique/alstom-dans-la-tourmente-pourquoi-le-boom-du-ferroviaire-ne-profite-pas-encore-au-groupe",
-      "published_at": "2026-11-03T05:45:58+00:00"
-    },
-    {
       "id": "c215b945525067b4",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -398,15 +389,6 @@
       "published_at": "2026-11-02T17:19:00+00:00"
     },
     {
-      "id": "3a3e4e961004b50e",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables - Les Echos",
-      "resume": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlctMU0tLWtfbk52YldxM21OMGFXMDVtanFMWVpuZ295MWhkclE5eTROdFF3b1hsQkRKWlBfdlFZbmdzZ0MtZkxtdE5oNkUybjNqZ1FFZERPZEpOUDFfMEF1b1V2WFNsZXh3T3FURnRvNVZ4bF9KQzBzaS1kbFpHRTliYTBKQ2FMWC1ZaVFDckxMaDF3THR5aERLX3Z4Qm8zVmhkOHpCMWx1WkMxM2NLUzFfUUdVdFpTT0NRMGdqS19fTC1iQ1BEZDRXQTFEMHNmUWNFZlFiOTlFZWVzNkRxUHhzTDIyVlJPWnNj?oc=5",
-      "published_at": "2026-11-02T14:00:00+00:00"
-    },
-    {
       "id": "bf2b3a7ac53fd4a7",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -414,6 +396,15 @@
       "resume": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with flooding Aida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are",
       "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
       "published_at": "2026-11-02T12:00:41+00:00"
+    },
+    {
+      "id": "e848018d92713aab",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "L’international reste moteur chez Séché Environnement mais la France se reprend - Investir Les Echos",
+      "resume": "L’international reste moteur chez Séché Environnement mais la France se reprend Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM2xzaW1TVDk1cDhCbHcwOE8xWUhFNDlxd1dmUjhFSWhYQzZ3WEVIWTAxWlNzZTVPaTMzRWhwbWdweEhCXzJCbWVKV1dFYmtuZThUcVVZQTAwbnlxczNxbzd1NkhzX254eTZqY3BuWVRCdm4xZWhpTG5DakdtZ1FrVW50OEo2WWZkX3BmQW1lQ3hZX2ZtRGxLSUw3RlVFWDFwbFNFOW9EczhybmhjdHlwM1FMVi10SDlvSTdzN09aTms2TlN0RHJxNEpZQ1dGdGxJUHluTWRodmdjbFUyRjQ4X2pLMFVhUQ?oc=5",
+      "published_at": "2026-11-02T07:00:38+00:00"
     },
     {
       "id": "d8705309351c83d5",
@@ -720,6 +711,15 @@
       "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
       "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
       "published_at": "2026-07-20T10:36:40+00:00"
+    },
+    {
+      "id": "5966e35906e93c5d",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
+      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
+      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
+      "published_at": "2026-07-09T05:00:32+00:00"
     }
   ]
 }
