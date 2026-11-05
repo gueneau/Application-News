@@ -1,26 +1,26 @@
 {
   "date": "2026-11-05",
-  "generated_at": "07:14",
-  "elapsed_seconds": 504,
+  "generated_at": "13:15",
+  "elapsed_seconds": 611,
   "errors": [],
   "stats": {
     "jo_analyses": 18,
     "jo_retenus": 0,
-    "depts_restriction": 82
+    "depts_restriction": 81
   },
   "pipeline_meta": {
-    "run_at": "2026-11-05T07:14:12",
+    "run_at": "2026-11-05T13:15:50",
     "sources": {
       "JORF": 0,
-      "RSS": 5,
-      "VigiEau": 82,
+      "RSS": 9,
+      "VigiEau": 81,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 45,
-    "llm_seconds": 73.4
+    "llm_calls": 44,
+    "llm_seconds": 206.6
   },
   "items": [
     {
@@ -43,6 +43,17 @@
       "pourquoi": "En tant que grande entreprise de services soumise à la CSRD, ABC doit anticiper la demande croissante de transparence de ses clients grands comptes en adoptant ces formats numériques standardisés. Cette mise en conformité imminente sécurise ses contrats majeurs et valorise sa performance extra-financière face à des exigences de reporting de plus en plus techniques.",
       "criticite": 2,
       "url": "https://www.efrag.org/en/news-and-calendar/news/efrag-releases-the-voluntary-standard-digital-template-and-xbrl-converter",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "22e0e6f527d6",
+      "source": "Actu-Environnement",
+      "categorie": "Climat",
+      "titre": "Le chiffre du jour : 56 %",
+      "resume": "56% of European municipalities plan to increase GHG‑reduction investments, indicating a growing policy momentum that could drive future demand for climate‑compliant services.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1848.html#xtor=RSS-6",
       "date": "2026-11-05"
     },
     {
@@ -76,6 +87,39 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/eco-organismes-filiere-unique-sanctions-rep-48768.php4#xtor=RSS-6",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "86f463fe4b06",
+      "source": "Actu-Environnement",
+      "categorie": "Climat",
+      "titre": "Le chiffre du jour : 50 391 décès",
+      "resume": "Étude européenne montrant 50 391 décès supplémentaires liés à la chaleur dans 854 villes, soulignant la menace du réchauffement climatique et la nécessité de réduire les émissions et d’adapter les mesures de préparation.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1847.html#xtor=RSS-6",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "495e3140e977",
+      "source": "Reporterre",
+      "categorie": "Biodiversité",
+      "titre": "Une « faute historique » : l'UE veut simplifier les directives Oiseaux et Habitats en 2027",
+      "resume": "Simplification des directives Oiseaux et Habitats prévue en 2027 pourrait réduire les obligations de conformité pour les entreprises, impactant potentiellement les exigences environnementales des sites clients d’ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://reporterre.net/Une-faute-historique-l-UE-veut-simplifier-les-directives-Oiseaux-et-Habitats-en-2027",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "093d5681b231",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Décarbonation de l’industrie, un relais de croissance pour les EnR [Dossier]",
+      "resume": "L’article expose la croissance du marché de la décarbonation industrielle comme moteur de développement des énergies renouvelables, soulignant une tendance sectorielle qui peut influencer la demande de solutions à faible émission auprès des clients d’ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.greenunivers.com/2026/11/decarbonation-de-lindustrie-un-relais-de-croissance-pour-les-enr-dossier-437754/",
       "date": "2026-11-04"
     }
   ],
@@ -226,13 +270,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "01",
-      "dept_nom": "Ain",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "01",
+      "dept_nom": "Ain",
       "niveau": "crise"
     },
     {
@@ -261,13 +305,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
@@ -289,11 +333,6 @@
       "dept_code": "90",
       "dept_nom": "Territoire de Belfort",
       "niveau": "crise"
-    },
-    {
-      "dept_code": "14",
-      "dept_nom": "Calvados",
-      "niveau": "alerte renforcée"
     },
     {
       "dept_code": "61",
