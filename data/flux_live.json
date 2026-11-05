@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-04T21:08:56.156835+00:00",
+  "generated_at": "2026-11-05T01:35:02.920728+00:00",
   "items": [
+    {
+      "id": "0f815a30e48a8c86",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En RDC, l’OMS alerte sur la « pire épidémie de choléra depuis des décennies », avec 1 800 morts, sur fond de crise liée à Ebola",
+      "resume": "Selon l’OMS, 2025 avait enregistré le nombre de cas signalés le plus élevé depuis plus de vingt-cinq ans, mais « l’année en cours s’annonce encore plus grave ».",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-rdc-l-oms-alerte-sur-la-pire-epidemie-de-cholera-depuis-des-decennies-avec-1-800-morts-sur-fond-de-crise-liee-a-ebola_6806432_3212.html",
+      "published_at": "2026-11-04T21:17:39+00:00"
+    },
     {
       "id": "36d8a956c4c05b2c",
       "source": "Politico Energy EU",
@@ -281,15 +290,6 @@
       "published_at": "2026-11-04T05:00:13+00:00"
     },
     {
-      "id": "897a9303e9a06000",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Electrifier les usages tout en freinant sur les énergies renouvelables, la politique paradoxale de la France",
-      "resume": "Alors que le pays connaît un déséquilibre entre sa production et sa consommation d’électricité bas-carbone, les acteurs du solaire et de l’éolien s’inquiètent pour leur avenir avant même la présidentielle de 2027, à haut risque pour le sect",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/04/electrifier-les-usages-tout-en-freinant-sur-les-energies-renouvelables-la-politique-paradoxale-de-la-france_6806071_3244.html",
-      "published_at": "2026-11-04T05:00:13+00:00"
-    },
-    {
       "id": "757320ecc921f1ab",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -398,6 +398,15 @@
       "published_at": "2026-11-02T17:19:00+00:00"
     },
     {
+      "id": "3a3e4e961004b50e",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables - Les Echos",
+      "resume": "Les notations extra-financières, une donnée parmi d'autres pour les investisseurs responsables Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlctMU0tLWtfbk52YldxM21OMGFXMDVtanFMWVpuZ295MWhkclE5eTROdFF3b1hsQkRKWlBfdlFZbmdzZ0MtZkxtdE5oNkUybjNqZ1FFZERPZEpOUDFfMEF1b1V2WFNsZXh3T3FURnRvNVZ4bF9KQzBzaS1kbFpHRTliYTBKQ2FMWC1ZaVFDckxMaDF3THR5aERLX3Z4Qm8zVmhkOHpCMWx1WkMxM2NLUzFfUUdVdFpTT0NRMGdqS19fTC1iQ1BEZDRXQTFEMHNmUWNFZlFiOTlFZWVzNkRxUHhzTDIyVlJPWnNj?oc=5",
+      "published_at": "2026-11-02T14:00:00+00:00"
+    },
+    {
       "id": "bf2b3a7ac53fd4a7",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -405,15 +414,6 @@
       "resume": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with flooding Aida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are",
       "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
       "published_at": "2026-11-02T12:00:41+00:00"
-    },
-    {
-      "id": "e848018d92713aab",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "L’international reste moteur chez Séché Environnement mais la France se reprend - Investir Les Echos",
-      "resume": "L’international reste moteur chez Séché Environnement mais la France se reprend Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM2xzaW1TVDk1cDhCbHcwOE8xWUhFNDlxd1dmUjhFSWhYQzZ3WEVIWTAxWlNzZTVPaTMzRWhwbWdweEhCXzJCbWVKV1dFYmtuZThUcVVZQTAwbnlxczNxbzd1NkhzX254eTZqY3BuWVRCdm4xZWhpTG5DakdtZ1FrVW50OEo2WWZkX3BmQW1lQ3hZX2ZtRGxLSUw3RlVFWDFwbFNFOW9EczhybmhjdHlwM1FMVi10SDlvSTdzN09aTms2TlN0RHJxNEpZQ1dGdGxJUHluTWRodmdjbFUyRjQ4X2pLMFVhUQ?oc=5",
-      "published_at": "2026-11-02T07:00:38+00:00"
     },
     {
       "id": "d8705309351c83d5",
