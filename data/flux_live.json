@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-06T11:16:38.125730+00:00",
+  "generated_at": "2026-11-06T14:06:24.803277+00:00",
   "items": [
+    {
+      "id": "9e0388ed9764fb27",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Le mois d'octobre 2026 a été le plus chaud jamais enregistré",
+      "resume": "Le mois d'octobre a été le plus chaud jamais enregistré à l'échelle mondiale, avec une température moyenne de 15,35 °C, soit 0,90 °C au-dessus de la moyenne de la période 1991-2020, selon le bulletin mensuel de l'Institut Copernicus, publié",
+      "url": "https://reporterre.net/Le-mois-d-octobre-2026-a-ete-le-plus-chaud-jamais-enregistre",
+      "published_at": "2026-11-06T14:00:37+00:00"
+    },
+    {
+      "id": "83cffd4f165687c1",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Derrière la starisation du poulet, quatre plaques tournantes organisent l’intensification de la filière",
+      "resume": "Quatre pays - la Pologne, la Belgique, les Pays-Bas et l’Allemagne - représentent 90% des importations françaises de poulet. @Alejandro Maroto Pexels Que se cache-t-il derrière la starisation du poulet ? On le trouve partout, dans nos poke ",
+      "url": "https://www.novethic.fr/environnement/biodiversite/derriere-la-starisation-du-poulet-quatre-plaques-tournantes-organisent-lintensification-de-la-filiere",
+      "published_at": "2026-11-06T13:50:14+00:00"
+    },
+    {
+      "id": "d543d07894f7d966",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Heures « super creuses », tarifs dynamiques… restent un pari commercial",
+      "resume": "Avec la multiplication des épisodes de prix négatifs, différentes offres de fourniture ont été lancées en France proposant des heures à prix très faibles, voire nuls avant les taxes, surtout en milieu de journée. L’opportunité marketing éta",
+      "url": "https://www.greenunivers.com/2026/11/heures-super-creuses-tarifs-dynamiques-restent-un-pari-commercial-437957/",
+      "published_at": "2026-11-06T12:56:48+00:00"
+    },
+    {
+      "id": "78983223c97210cd",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "NBIM Acquires $300 Million Stake in Aypa Power in First Direct Battery Storage Investment",
+      "resume": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, announced […]",
+      "url": "https://www.esgtoday.com/nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment",
+      "published_at": "2026-11-06T12:34:08+00:00"
+    },
+    {
+      "id": "616376c948c26079",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
+      "resume": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf population Idaho officials paid hunters thousands of dollars for killing a dozen newborn wolf pups this spring, including what app",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
+      "published_at": "2026-11-06T12:00:42+00:00"
+    },
+    {
+      "id": "c5f15c0fd7f6a043",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les plus riches les plus exposés aux catastrophes naturelles… parce qu'ils ont plus de maisons",
+      "resume": "Les plus aisés seraient davantage exposés, matériellement, aux risques climatiques. Et pour cause, comme ils vivent davantage en maison, leurs biens immobiliers subissent davantage les dégâts causés par les catastrophes naturelles, selon un",
+      "url": "https://reporterre.net/Les-plus-riches-les-plus-exposes-aux-catastrophes-naturelles-parce-qu-ils-ont-plus-de",
+      "published_at": "2026-11-06T11:33:02+00:00"
+    },
+    {
+      "id": "3ab53959fe4c0e84",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’autoroute A69 ouverte aux automobilistes, après quatre ans de contestation, avec un péage à 20,40 euros",
+      "resume": "Depuis 2023, les associations environnementales ont multiplié les recours juridiques et rassemblements pour​ contester ce projet devenu symbole des combats écologistes. Le prix de l’aller-retour Toulouse-Castres, parmi les plus élevés de Fr",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/06/l-autoroute-a69-ouverte-aux-automobilistes-apres-quatre-ans-de-contestation-avec-un-peage-a-20-40-euros_6807779_3244.html",
+      "published_at": "2026-11-06T11:30:04+00:00"
+    },
     {
       "id": "6d5465bf36734086",
       "source": "Novethic",
@@ -50,10 +113,10 @@
       "id": "2420ea06aaf36b04",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Les importations d’animaux vers Vantara, gigantesque sanctuaire indien, restent sous surveillance malgré la volonté du centre de redorer son image",
+      "titre": "Les importations d’animaux vers Vantara, un sanctuaire indien hors norme, restent sous surveillance malgré la volonté du centre de redorer son image",
       "resume": "Alors que l’Inde a été critiquée pour ne pas avoir suffisamment contrôlé les importations massives d’animaux à destination de cette grande réserve privée, le pays demeure sous la surveillance de la Cites, la convention internationale chargé",
       "url": "https://www.lemonde.fr/planete/article/2026/11/06/les-importations-d-animaux-vers-vantara-gigantesque-sanctuaire-indien-restent-sous-surveillance-malgre-la-volonte-du-centre-de-redorer-son-image_6807749_3244.html",
-      "published_at": "2026-11-06T09:00:11+00:00"
+      "published_at": "2026-11-06T09:00:07+00:00"
     },
     {
       "id": "8b0d4393c7a252ac",
@@ -68,7 +131,7 @@
       "id": "444608624c0d55e9",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Cette garderie solidaire permet aux parents d'aller en manif",
+      "titre": "Manifester quand on est parent de jeunes enfants, c'est possible avec la garderie solidaire",
       "resume": "Comment manifester quand on craint d'exposer ses enfants à la répression policière ? À Grenoble, une garderie solidaire s'organise pour permettre aux parents d'aller défiler plus sereinement. Grenoble (Isère), reportage « Bonjour, bienvenue",
       "url": "https://reporterre.net/Cette-garderie-solidaire-permet-aux-parents-d-aller-en-manif",
       "published_at": "2026-11-06T08:24:54+00:00"
@@ -173,33 +236,6 @@
       "published_at": "2026-11-05T21:23:22+00:00"
     },
     {
-      "id": "34c66ac880165ac7",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Midterms 2026 : « Il y a désormais un fort potentiel d’avancées en matière climatique aux Etats-Unis »",
-      "resume": "Spécialiste des politiques environnementales et professeure associée à l’université de Californie à Santa Barbara, Leah C. Stokes juge, dans un entretien au « Monde », que les démocrates, en contrôlant le Sénat et la Chambre des représentan",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/05/midterms-2026-il-y-a-desormais-un-fort-potentiel-d-avancees-en-matiere-climatique-aux-etats-unis_6807334_3244.html",
-      "published_at": "2026-11-05T19:00:08+00:00"
-    },
-    {
-      "id": "cdebd34f525de09c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le bruit, une « source de stress omniprésent » pour la biodiversité",
-      "resume": "Pour l'ensemble du vivant, la pollution sonore représente une menace globale. C'est le message, peu surprenant mais inquiétant, qui émane d'une étude réalisée par deux chercheurs de l'université Queen's de Belfast, en Irlande du Nord, et pu",
-      "url": "https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite",
-      "published_at": "2026-11-05T19:00:00+00:00"
-    },
-    {
-      "id": "3e78b984fc4b16b5",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Ils ont peur de vivre en dictature » : l'angoisse de la Gen Z, un carburant des mobilisations",
-      "resume": "Beaucoup de jeunes trouvent dans les mobilisations collectives une réponse au mélange d'inquiétudes qui obscurcit leur vision de l'avenir. Avec le recul des libertés et le chaos climatique comme point central. Paris, Aubervilliers et Saint-",
-      "url": "https://reporterre.net/Je-n-ai-jamais-ressenti-un-tel-sentiment-de-communaute-se-mobiliser-un-remede-aux",
-      "published_at": "2026-11-05T17:27:33+00:00"
-    },
-    {
       "id": "f2c219f276769879",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -290,15 +326,6 @@
       "published_at": "2026-11-05T15:46:49+00:00"
     },
     {
-      "id": "73185e5d868be6fb",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EU Lawmakers Move to Water Down CO2 Emissions Reduction Requirements for Cars",
-      "resume": "Lawmakers in the European Parliament’s Environment Committee (ENVI) adopted a position in a 48-30 vote […]",
-      "url": "https://www.esgtoday.com/eu-lawmakers-vote-to-water-down-co2-emissions-reduction-requirements-for-cars/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-vote-to-water-down-co2-emissions-reduction-requirements-for-cars",
-      "published_at": "2026-11-05T15:10:51+00:00"
-    },
-    {
       "id": "b3c6334c63deefc0",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -371,15 +398,6 @@
       "published_at": "2026-11-04T17:55:27+00:00"
     },
     {
-      "id": "7a375a585d7d1d01",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Comment les renouvelables se mobilisent contre la révision des tarifs solaires",
-      "resume": "En commission fin octobre, les députés ont supprimé l’article 82 du projet de loi de finances, qui prévoyait la révision rétroactive des tarifs S6, S10 et surtout S21 sur les toitures solaires de 300 à 500 kWc. La filière a gagné une premiè",
-      "url": "https://www.greenunivers.com/2026/11/comment-les-renouvelables-se-mobilisent-contre-la-revision-des-tarifs-solaires-437868/",
-      "published_at": "2026-11-04T17:03:41+00:00"
-    },
-    {
       "id": "8b52e6e0e5e717ee",
       "source": "Novethic",
       "categorie": "Presse",
@@ -396,15 +414,6 @@
       "resume": "« Paris et Berlin peuvent démontrer aux sceptiques que le marché carbone sait concilier climat et compétitivité » Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa21uQkc4cWRkYlZzLU44TEd3NVZtQmQ3SjdhSTJtVHJMVHRQMXlqMS14ajhBbDNkYXJ5U3R0a2p0Vl9LaHVCcHNwTGc3MU5MZ1R4Qk52bkwwV1VXQjNWM3FfN3kxVUQ2WXhCUjFXX2F0NzBoN0xBcWJIUHVHZWpLTV90bEVKUHdrdXVRYUhwTTFxVENPdXREdWpURlI2T3VhUENsUl9JMTh4VXdhRUVKdmFVblVDZGtRbnNpT1pMRWpzeG1TZW9RaENTRlVnNmhWcG9MUDBWZ1RMeDdsVHFhbWFaTlB3NUNuTWI2NlhZLWRwRzA?oc=5",
       "published_at": "2026-11-04T12:20:09+00:00"
-    },
-    {
-      "id": "3f701a350e7ee12d",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Énergies propres, IA, cryptomonnaies : après la défaite de Trump, les entreprises face au séisme des midterms",
-      "resume": "Donald Trump a essuyé une défaite historique à son parti pour les midterms du 3 novembre.- SAUL LOEB _ AFP Le verdict des urnes est sans appel. Le 3 novembre, les démocrates ont remporté les deux chambres du Congrès américain (la Chambre de",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/energies-propres-ia-cryptomonnaies-apres-la-defaite-de-trump-les-entreprises-face-au-seisme-des-midterms",
-      "published_at": "2026-11-04T11:59:43+00:00"
     },
     {
       "id": "717a509e7804fc52",
@@ -459,15 +468,6 @@
       "resume": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The ",
       "url": "https://www.theguardian.com/us-news/2026/nov/01/colorado-drones-weed-killer",
       "published_at": "2026-11-01T14:00:18+00:00"
-    },
-    {
-      "id": "a4b49977574a55e2",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
-      "resume": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptions It’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, hel",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
-      "published_at": "2026-10-31T13:00:42+00:00"
     },
     {
       "id": "e50725920c0598ef",
