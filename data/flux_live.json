@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-06T18:10:46.225457+00:00",
+  "generated_at": "2026-11-06T23:21:41.901895+00:00",
   "items": [
+    {
+      "id": "e34f22575277d0a3",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Famous New Mexico rock formation destroyed after torrential El Niño rains",
+      "resume": "Officials expected to investigate whether super El Niño storms in US south-west damaged the Alien Throne spires Undulating, gravity-defying rock spires are one of the most magical parts of the landscape of the US south-west. But after torre",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
+      "published_at": "2026-11-06T19:23:03+00:00"
+    },
+    {
+      "id": "4c2d76d09a3a242b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Surfréquentation à Chamonix : vers l’instauration de quotas touristiques, une première dans les Alpes",
+      "resume": "L’accès au lac Blanc et aux lacs des Chéserys, offrant une vue imprenable sur le massif du Mont-Blanc, devrait être soumis à une réservation obligatoire, avec des jauges de 600 à 1 000 personnes, à partir de l’été 2027, sur le modèle en pla",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/06/surfrequentation-a-chamonix-vers-l-instauration-de-quotas-touristiques-une-premiere-dans-les-alpes_6807854_3244.html",
+      "published_at": "2026-11-06T18:30:06+00:00"
+    },
     {
       "id": "359a7078c843a641",
       "source": "Le Monde Planète",
@@ -8,7 +26,7 @@
       "titre": "Crue à Porto-Vecchio : un couple de septuagénaires emporté par des eaux torrentielles",
       "resume": "Depuis jeudi 5 novembre, au matin, le sud de la Corse était placé en vigilance orange, de même que le Gard et l’Hérault, en raison d’un épisode méditerranéen qui s’est avéré particulièrement intense.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/06/crue-a-porto-vecchio-un-couple-de-septuagenaires-emporte-par-des-eaux-torrentielles_6807847_3244.html",
-      "published_at": "2026-11-06T17:52:40+00:00"
+      "published_at": "2026-11-06T17:52:36+00:00"
     },
     {
       "id": "6b6cf4c6ae9b084b",
@@ -74,21 +92,21 @@
       "published_at": "2026-11-06T16:02:16+00:00"
     },
     {
-      "id": "1bac7d56848e9dd9",
+      "id": "f45e425a6fae4599",
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Lumir Lapray détaille les recettes de la victoire contre Trump, transposables en France",
       "resume": "La gauche a gagné aux États-Unis grâce à une mobilisation de terrain et des solutions concrètes, estime cette essayiste, qui appelle à s'inspirer de ce « community organizing » pour contrer l'extrême droite en France. En reprenant le contrô",
-      "url": "https://reporterre.net/Lumir-Lapray-aux-Etats-Unis-comme-en-France-chaque-voix-est-a-arracher-avec-les-dents",
+      "url": "https://reporterre.net/Lumir-Lapray-detaille-les-recettes-de-la-victoire-contre-Trump-transposables-en-France",
       "published_at": "2026-11-06T15:33:09+00:00"
     },
     {
-      "id": "3212af28e80d78d4",
+      "id": "ae5d671b020bf495",
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Les techniques des géants du tabac utilisées pour nous rendre dépendants aux aliments ultratransformés",
       "resume": "Omniprésents dans les supermarchés, les produits ultratransformés se sont inspirés et ont été aidés par les géants du tabac. 60 Millions de consommateurs consacre un hors-série sur le « lien historique » entre ces deux industries. Dans son ",
-      "url": "https://reporterre.net/Aliments-ultratransformes-les-techniques-des-geants-du-tabac-utilisees-pour-nous-rendre",
+      "url": "https://reporterre.net/Les-techniques-des-geants-du-tabac-utilisees-pour-nous-rendre-dependants-aux-aliments",
       "published_at": "2026-11-06T15:01:00+00:00"
     },
     {
@@ -243,15 +261,6 @@
       "resume": "Carbon management platform Seedling announced the acquisition of carbon accounting company Go Climate Positive, in […]",
       "url": "https://www.esgtoday.com/seedling-acquires-carbon-accounting-provider-go-climate-positive/?utm_source=rss&utm_medium=rss&utm_campaign=seedling-acquires-carbon-accounting-provider-go-climate-positive",
       "published_at": "2026-11-06T08:32:40+00:00"
-    },
-    {
-      "id": "79f568cf208c8265",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Intempéries en Corse-du-Sud : deux personnes retrouvées mortes après que leur véhicule a été emporté par les eaux",
-      "resume": "Une des trois personnes présentes dans le véhicule a réussi à s’extraire et a été évacuée par hélicoptère vers la clinique de Porto-Vecchio, a fait savoir la préfecture.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/intemperies-en-corse-du-sud-deux-personnes-retrouvees-mortes-apres-que-leur-vehicule-a-ete-emporte-par-les-eaux_6807740_3244.html",
-      "published_at": "2026-11-06T08:24:24+00:00"
     },
     {
       "id": "75a031d74d1f1b26",
@@ -450,15 +459,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/resultats-de-la-grande-consultation-sante/",
       "published_at": "2026-11-03T09:33:58+00:00"
-    },
-    {
-      "id": "bf2b3a7ac53fd4a7",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
-      "resume": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with flooding Aida Havel mulled her fate over coffee after working the early voting polls all day in Kill Devil Hills, North Carolina. “We are",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
-      "published_at": "2026-11-02T12:00:41+00:00"
     },
     {
       "id": "d8705309351c83d5",
