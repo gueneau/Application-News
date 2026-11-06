@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-11-06T14:06:24.803277+00:00",
+  "generated_at": "2026-11-06T18:10:46.225457+00:00",
   "items": [
+    {
+      "id": "359a7078c843a641",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Crue à Porto-Vecchio : un couple de septuagénaires emporté par des eaux torrentielles",
+      "resume": "Depuis jeudi 5 novembre, au matin, le sud de la Corse était placé en vigilance orange, de même que le Gard et l’Hérault, en raison d’un épisode méditerranéen qui s’est avéré particulièrement intense.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/06/crue-a-porto-vecchio-un-couple-de-septuagenaires-emporte-par-des-eaux-torrentielles_6807847_3244.html",
+      "published_at": "2026-11-06T17:52:40+00:00"
+    },
+    {
+      "id": "6b6cf4c6ae9b084b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Poulets labellisés « Bien-être animal » : des associations animalistes attaquent les marques en justice",
+      "resume": "LDC , leader français de la volaille, va devoir s'expliquer devant le juge, deux mois à peine après le lancement de son logo « Bien-être animal - Filière agricole engagée ». L'Oaba (Œuvre d'assistance aux bêtes d'abattoirs) et Welfarm ont a",
+      "url": "https://reporterre.net/Poulets-labellises-Bien-etre-animal-des-associations-animalistes-attaquent-les-marques-en",
+      "published_at": "2026-11-06T17:40:29+00:00"
+    },
+    {
+      "id": "6a82eebce7377451",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Bruxelles annonce une révision des directives sur la nature et une initiative sur l'eau",
+      "resume": "L'exécutif européen a présenté son programme de travail pour 2027. Au menu ? Le réexamen des directives Habitats et Oiseaux, suscitant les craintes des ONG, une initiative sur l'eau, et l'abandon de la directive sur les allégations environn",
+      "url": "https://www.actu-environnement.com/ae/news/commission-europeenne-programme-travail-2027-directives-nature-48776.php4#xtor=RSS-6",
+      "published_at": "2026-11-06T17:00:11+00:00"
+    },
+    {
+      "id": "5cc6b241359a51c2",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "La Cour des comptes passe au crible la gestion du fonds Barnier",
+      "resume": "Face à des risques naturels plus fréquents et plus intenses, la Cour des comptes formule des recommandations sur la gestion du fonds Barnier, sa couverture territoriale et son financement face à l'adaptation au changement climatique.",
+      "url": "https://www.actu-environnement.com/ae/news/fonds-barnier-cour-comptes-risques-naturels-adaptation-changement-climatique-48775.php4#xtor=RSS-6",
+      "published_at": "2026-11-06T16:50:42+00:00"
+    },
+    {
+      "id": "092126470a7ef86d",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "A qui profitera l’appel d’offres « super neutre » pour 2027 ?",
+      "resume": "Pour 2027, les pouvoirs publics ne planchent actuellement que sur un seul appel d’offres destiné aux énergies renouvelables et dans un format inédit « super neutre ». Autrement dit, une compétition où toutes les typologies et les tailles se",
+      "url": "https://www.greenunivers.com/2026/11/a-qui-profitera-lappel-doffres-super-neutre-pour-2027-438125/",
+      "published_at": "2026-11-06T16:46:33+00:00"
+    },
+    {
+      "id": "be0b8802372ee5ad",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "COP 31 : la conférence climat s'ouvre dans un monde sous tension",
+      "resume": "La COP 31 s'ouvre lundi à Antalya en pleine crise énergétique, alors que les États-Unis ont quitté la Ccnucc, sous une présidence inédite partagée entre la Turquie et l'Australie. Un contexte qui fragilise la coopération, sans la rendre imp",
+      "url": "https://www.actu-environnement.com/ae/news/cop31-antalya-tensions-geopolitiques-climat-48774.php4#xtor=RSS-6",
+      "published_at": "2026-11-06T16:46:19+00:00"
+    },
+    {
+      "id": "d514c2621e1d5429",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’agenda de la transition énergétique",
+      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
+      "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-282-437363/",
+      "published_at": "2026-11-06T16:20:15+00:00"
+    },
+    {
+      "id": "33deb2c291d78d66",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "RTE prêt à diversifier ses sources de financement",
+      "resume": "Cette phrase pose un jalon et il ne fallait pas la rater. Le tarif de réseau « couvre nos coûts de fonctionnement et le service de notre dette, mais ne finance pas le programme d’investissement ; nous pensons donc que nous aurons besoin de ",
+      "url": "https://www.greenunivers.com/2026/11/rte-pret-a-diversifier-ses-sources-de-financement-438094/",
+      "published_at": "2026-11-06T16:02:16+00:00"
+    },
+    {
+      "id": "1bac7d56848e9dd9",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Lumir Lapray détaille les recettes de la victoire contre Trump, transposables en France",
+      "resume": "La gauche a gagné aux États-Unis grâce à une mobilisation de terrain et des solutions concrètes, estime cette essayiste, qui appelle à s'inspirer de ce « community organizing » pour contrer l'extrême droite en France. En reprenant le contrô",
+      "url": "https://reporterre.net/Lumir-Lapray-aux-Etats-Unis-comme-en-France-chaque-voix-est-a-arracher-avec-les-dents",
+      "published_at": "2026-11-06T15:33:09+00:00"
+    },
+    {
+      "id": "3212af28e80d78d4",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les techniques des géants du tabac utilisées pour nous rendre dépendants aux aliments ultratransformés",
+      "resume": "Omniprésents dans les supermarchés, les produits ultratransformés se sont inspirés et ont été aidés par les géants du tabac. 60 Millions de consommateurs consacre un hors-série sur le « lien historique » entre ces deux industries. Dans son ",
+      "url": "https://reporterre.net/Aliments-ultratransformes-les-techniques-des-geants-du-tabac-utilisees-pour-nous-rendre",
+      "published_at": "2026-11-06T15:01:00+00:00"
+    },
+    {
+      "id": "d237aeb191e7815f",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "In Alaska’s capital, food comes by water, air or, most often, community sharing",
+      "resume": "Juneau has little arable land, a short growing season and few farmers – and deep traditions of residents and the land feeding each other Forty miles north-west of Alaska’s capital, the highway just ends. At Glacier Highway’s most northern p",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access",
+      "published_at": "2026-11-06T15:00:46+00:00"
+    },
+    {
+      "id": "6863553f0a76048b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "COP31 : pour stopper les pollueurs, « il est grand temps de réformer la gouvernance climatique »",
+      "resume": "À l'approche de la COP31 , les auteurs de cette tribune appellent la France, garante de l'Accord de Paris, à mettre fin à la redoutable influence de l'industrie fossile dans les COP . Et à permettre, enfin, des décisions à hauteur de la sit",
+      "url": "https://reporterre.net/COP31-pour-stopper-les-pollueurs-il-est-grand-temps-de-reformer-la-gouvernance-climatique",
+      "published_at": "2026-11-06T15:00:00+00:00"
+    },
+    {
+      "id": "fd886c2b60961bbd",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Deux ans après le retour de Donald Trump au pouvoir, le bilan alarmant des climatologues américains",
+      "resume": "Des chercheurs en sciences du climat accusent l’administration américaine de « chercher à briser le moral de la communauté » scientifique, avec la suppression de divisions entières dans des agences fédérales et des baisses de financement.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/06/deux-ans-apres-le-retour-de-donald-trump-au-pouvoir-le-bilan-alarmant-des-climatologues-americains_6807798_1650684.html",
+      "published_at": "2026-11-06T14:30:02+00:00"
+    },
     {
       "id": "9e0388ed9764fb27",
       "source": "Reporterre",
@@ -128,15 +245,6 @@
       "published_at": "2026-11-06T08:32:40+00:00"
     },
     {
-      "id": "444608624c0d55e9",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Manifester quand on est parent de jeunes enfants, c'est possible avec la garderie solidaire",
-      "resume": "Comment manifester quand on craint d'exposer ses enfants à la répression policière ? À Grenoble, une garderie solidaire s'organise pour permettre aux parents d'aller défiler plus sereinement. Grenoble (Isère), reportage « Bonjour, bienvenue",
-      "url": "https://reporterre.net/Cette-garderie-solidaire-permet-aux-parents-d-aller-en-manif",
-      "published_at": "2026-11-06T08:24:54+00:00"
-    },
-    {
       "id": "79f568cf208c8265",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -144,6 +252,15 @@
       "resume": "Une des trois personnes présentes dans le véhicule a réussi à s’extraire et a été évacuée par hélicoptère vers la clinique de Porto-Vecchio, a fait savoir la préfecture.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/06/intemperies-en-corse-du-sud-deux-personnes-retrouvees-mortes-apres-que-leur-vehicule-a-ete-emporte-par-les-eaux_6807740_3244.html",
       "published_at": "2026-11-06T08:24:24+00:00"
+    },
+    {
+      "id": "75a031d74d1f1b26",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les documents de la semaine",
+      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
+      "url": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
+      "published_at": "2026-11-06T08:00:00+00:00"
     },
     {
       "id": "7a7e00a5069936dd",
@@ -155,24 +272,6 @@
       "published_at": "2026-11-06T07:35:09+00:00"
     },
     {
-      "id": "87300e4aacd5e87a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Pétition contre CNews : face au racisme, l'indulgence des autorités",
-      "resume": "Une pétition réclamant la suppression de CNews a recueilli plus de 900 000 signatures. La chaîne d'extrême droite peut-elle vraiment disparaître ? Les sanctions n'ont jusqu'ici pas fait cesser les injures racistes et les fausses information",
-      "url": "https://reporterre.net/Fermer-CNews-face-au-racisme-l-indulgence-des-autorites",
-      "published_at": "2026-11-06T06:30:00+00:00"
-    },
-    {
-      "id": "678957c455997181",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Clémence Guetté : « Les sujets écologiques sont la colonne vertébrale du nouveau programme de LFI »",
-      "resume": "Pour 2027, La France insoumise veut prendre « à bras le corps l'urgence sociale et l'urgence écologique », soutient la députée Clémence Guetté, responsable du programme des insoumis publié le 6 novembre. La « crise existentielle » actuelle ",
-      "url": "https://reporterre.net/Clemence-Guette-Les-sujets-ecologiques-sont-la-colonne-vertebrale-du-nouveau-programme-de",
-      "published_at": "2026-11-06T06:30:00+00:00"
-    },
-    {
       "id": "bc520c144b8a3a31",
       "source": "Novethic",
       "categorie": "Presse",
@@ -182,15 +281,6 @@
       "published_at": "2026-11-06T05:45:24+00:00"
     },
     {
-      "id": "ade1d6364a1ab993",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Sait-on recycler les batteries électriques ?",
-      "resume": "Chaque semaine, l’équipe du podcast « Chaleur humaine » répond à vos questions sur la transition climatique",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/sait-on-recycler-les-batteries-electriques_6807730_3244.html",
-      "published_at": "2026-11-06T05:30:07+00:00"
-    },
-    {
       "id": "e7e6b1f9b6227575",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -198,24 +288,6 @@
       "resume": "Energie solaire : la demande des pays émergents prend le relais de la Chine et de l'Europe Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWF9Ial9WM2NvQUNWaUZtSEd6NndOaWtkUk9lNVdMRXdWWThpdnRPTk8wRWRVdWJCY3pVamV6U2M2NU9IY1BxOTFZeTZrYXFMYmhoeXBOREk3WW5BbTByeE9BVE5WUnV1blBOMjJXN2RaTHNiRTlnUTFJTkcteUl1WE1RNlg3bFl6MXlrc0JaTDV6UlZ0Tm1yYTFXYU9HTjN0NFhJSnVHenRoQUtaUUNsY1RCZk9SVW1ubzREVmtEUEJCWWVleHZscUJzNEFxSjBBNHJwcEJobVVzTHFaX1EzdmhWZVVqMGVUZDZaTnVURVlzQQ?oc=5",
       "published_at": "2026-11-06T05:05:09+00:00"
-    },
-    {
-      "id": "4cdaccd57629c76a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La Corse en vigilance orange pluie-inondation jusqu’à vendredi midi, plusieurs évacuations au sud de l’île",
-      "resume": "Des pluies torrentielles ont provoqué des inondations, des évacuations et la fermeture de routes en Corse, jeudi, alors que l’Hérault et le Gard ont également été frappés par des orages.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/la-corse-en-vigilance-orange-pluie-inondation-jusqu-a-vendredi-midi-plusieurs-evacuations-au-sud-de-l-ile_6806834_3245.html",
-      "published_at": "2026-11-06T02:24:25+00:00"
-    },
-    {
-      "id": "0f3c788f4030d139",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le scénario d'une Terre invivable pourrait être plus proche que prévu",
-      "resume": "Les chercheurs alertent depuis longtemps sur la menace des points de bascule climatiques et le risque d'un emballement du réchauffement planétaire. Ce dernier pourrait déclencher des processus biogéophysiques, comme l'effondrement irréversi",
-      "url": "https://reporterre.net/Le-scenario-d-une-Terre-invivable-pourrait-etre-plus-proche-que-prevu",
-      "published_at": "2026-11-06T00:01:00+00:00"
     },
     {
       "id": "98c007cf04541856",
@@ -281,24 +353,6 @@
       "published_at": "2026-11-05T16:38:57+00:00"
     },
     {
-      "id": "ebdac09e172195fd",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Adaptation : même triplés, les financements couvriraient moins d'un tiers des besoins, alerte l'ONU",
-      "resume": "À quelques jours de l'ouverture de la COP 31, le Pnue publie son rapport annuel sur l'adaptation. La promesse de triplement adoptée à Belém reste loin du compte. La France affiche l'adaptation comme une priorité, mais la finance surtout par",
-      "url": "https://www.actu-environnement.com/ae/news/financement-adaptation-climatique-pnue-cop31-48770.php4#xtor=RSS-6",
-      "published_at": "2026-11-05T16:33:08+00:00"
-    },
-    {
-      "id": "95894c01a43c7e65",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Les contours du premier appel à projets dans l’hydrogène naturel",
-      "resume": "Le directeur de la DGEC, Cédric Bourillet, vient d’annoncer sur Linkedin le lancement d’un appel à projets pour l’hydrogène natif, naturel ou blanc, c’est-à-dire naturellement présent dans le sous-sol. Les contours du dispositif n’ont pas e",
-      "url": "https://www.greenunivers.com/2026/11/les-contours-du-premier-appel-a-projets-dans-lhydrogene-naturel-437938/",
-      "published_at": "2026-11-05T16:21:09+00:00"
-    },
-    {
       "id": "f161a6afaa2479e7",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -308,15 +362,6 @@
       "published_at": "2026-11-05T16:11:11+00:00"
     },
     {
-      "id": "2fce37f1afb4d565",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Financé par Marguerite, Nexun achète 60 MW agrivoltaïques en France",
-      "resume": "Nexun acquiert 60 MW agrivoltaïques appartenant à « un grand groupe énergétique européen », selon le communiqué de ce développeur. Il précise qu’il s’agit L’article Financé par Marguerite, Nexun achète 60 MW agrivoltaïques en France est app",
-      "url": "https://www.greenunivers.com/2026/11/finance-par-marguerite-nexun-achete-60-mw-agrivoltaiques-en-france-437923/",
-      "published_at": "2026-11-05T15:59:45+00:00"
-    },
-    {
       "id": "1f2dc8056ff54068",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -324,15 +369,6 @@
       "resume": "Deloitte announced the launch of Green Claim Navigator, a new AI-powered solution aimed at enabling […]",
       "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-help-companies-avoid-greenwashing/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-launches-new-solution-to-help-companies-avoid-greenwashing",
       "published_at": "2026-11-05T15:46:49+00:00"
-    },
-    {
-      "id": "b3c6334c63deefc0",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Electrification : le gouvernement veut flécher 100 M€ de CEE vers la sortie du gaz",
-      "resume": "La prochaine séance du Conseil supérieur de l’énergie est convoquée pour le 19 novembre. A l’ordre du jour figurent surtout des textes portant sur les certificats d’économies d’énergie (CEE), sur lesquels le gouvernement compte pour finance",
-      "url": "https://www.greenunivers.com/2026/11/electrification-le-gouvernement-veut-flecher-100-me-de-cee-vers-la-sortie-du-gaz-437910/",
-      "published_at": "2026-11-05T14:47:02+00:00"
     },
     {
       "id": "db936a46f155f227",
@@ -351,33 +387,6 @@
       "resume": "Natural Resources Defense Council shows how federal rules changes will spike up public’s exposure to carcinogens Amid a surge in early onset cancer , the Trump administration has taken more than 500 actions to systematically dismantle prote",
       "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
       "published_at": "2026-11-05T12:00:23+00:00"
-    },
-    {
-      "id": "209bdcb19ab66c17",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le chiffre du jour : 56 %",
-      "resume": "C'est la proportion de villes européennes qui ont l’intention d’investir davantage dans la réduction des émissions de gaz à effet de serre, selon la dernière enquête de la Banque européenne d’investissement (BEI). L’échantillon comprend 1 0",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1848.html#xtor=RSS-6",
-      "published_at": "2026-11-05T11:27:06+00:00"
-    },
-    {
-      "id": "5b574c3c139988f6",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Déplafonnement des contrats ENR : les nouveaux prix seuils publiés au Journal officiel",
-      "resume": "L'arrêté fixant les prix seuils par filière pour le déplafonnement de certains contrats de complément de rémunération des énergies renouvelables (ENR) a été publié au Journal officiel le 4 novembre. Il met en oeuvre le dispositif révisé par",
-      "url": "https://www.actu-environnement.com/ae/news/prix-seuils-complement-remuneration-enr-arrete-48769.php4#xtor=RSS-6",
-      "published_at": "2026-11-05T11:15:52+00:00"
-    },
-    {
-      "id": "61d236eeef68d6c1",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le nouvel état-major de TotalEnergies Renouvelables France",
-      "resume": "*Article modifié le 6/11 suite à des précisions de TotalEnergies sur la direction des EnR en outremer TotalEnergies a fait évoluer son organisation interne cette année, ce qui, pour la branche Integrated Power, a conduit à la création d’équ",
-      "url": "https://www.greenunivers.com/2026/11/le-nouvel-etat-major-de-totalenergies-renouvelables-france-437820/",
-      "published_at": "2026-11-05T07:45:00+00:00"
     },
     {
       "id": "5d9a5b661aa5f224",
@@ -459,15 +468,6 @@
       "resume": "Au terme de deux semaines de discussions ardues, les négociateurs des quelque 200 pays de la communauté internationale se sont accordés sur un compromis a minima, sans parvenir à dépasser leurs divergences, notamment sur les financements. N",
       "url": "https://www.contexte.com/fr/article/environnement/biodiversite-a-la-cop17-derevan-le-multilateralisme-sauve-les-meubles-au-prix-dune-ambition-rabotee_282860?source=rss",
       "published_at": "2026-11-02T04:00:00+00:00"
-    },
-    {
-      "id": "66de309ceba1307d",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Colorado community fights plan to use drones to spray weed killer",
-      "resume": "Officials in Boulder County, Colorado, say they have a safe plan to wipe out invasive weeds, but some locals are concerned Soon, weed-killing chemicals will start falling from the sky over the Red Hill area of Boulder county, Colorado. The ",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/colorado-drones-weed-killer",
-      "published_at": "2026-11-01T14:00:18+00:00"
     },
     {
       "id": "e50725920c0598ef",
