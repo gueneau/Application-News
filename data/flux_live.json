@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-05T22:37:45.197237+00:00",
+  "generated_at": "2026-11-06T03:00:57.856988+00:00",
   "items": [
+    {
+      "id": "4cdaccd57629c76a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La Corse en vigilance orange pluie-inondation jusqu’à vendredi midi, plusieurs évacuations au sud de l’île",
+      "resume": "Des pluies torrentielles ont provoqué des inondations, des évacuations et la fermeture de routes en Corse, jeudi, alors que l’Hérault et le Gard ont également été frappés par des orages.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/06/la-corse-en-vigilance-orange-pluie-inondation-jusqu-a-vendredi-midi-plusieurs-evacuations-au-sud-de-l-ile_6806834_3245.html",
+      "published_at": "2026-11-06T02:24:30+00:00"
+    },
+    {
+      "id": "0f3c788f4030d139",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Le scénario d'une Terre invivable pourrait être plus proche que prévu",
+      "resume": "Les chercheurs alertent depuis longtemps sur la menace des points de bascule climatiques et le risque d'un emballement du réchauffement planétaire. Ce dernier pourrait déclencher des processus biogéophysiques, comme l'effondrement irréversi",
+      "url": "https://reporterre.net/Le-scenario-d-une-Terre-invivable-pourrait-etre-plus-proche-que-prevu",
+      "published_at": "2026-11-06T00:01:00+00:00"
+    },
     {
       "id": "98c007cf04541856",
       "source": "Actu-Environnement",
@@ -78,7 +96,7 @@
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
-      "resume": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Climate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped the Senate, House and several governor’s races. Voters were l",
+      "resume": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Q&A: Ask your questions about Democrats’ win in the midterms Climate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped ",
       "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-climate-crisis-in-midterm-election-results",
       "published_at": "2026-11-05T17:00:28+00:00"
     },
@@ -270,24 +288,6 @@
       "resume": "L'arrêté fixant les prix seuils par filière pour le déplafonnement de certains contrats de complément de rémunération des énergies renouvelables (ENR) a été publié au Journal officiel le 4 novembre. Il met en oeuvre le dispositif révisé par",
       "url": "https://www.actu-environnement.com/ae/news/prix-seuils-complement-remuneration-enr-arrete-48769.php4#xtor=RSS-6",
       "published_at": "2026-11-05T11:15:52+00:00"
-    },
-    {
-      "id": "2be9d761c240074e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Cyberattaque : de fausses alertes nucléaires envoyées aux Ukrainiens et aux Russes",
-      "resume": "Des pirates informatiques ont semé la confusion en faisant croire à des attaques nucléaires en Ukraine et en Russie. Dans la nuit du dimanche 1 er au lundi 2 novembre, les applications mobiles d'alerte à la population des deux pays ont été ",
-      "url": "https://reporterre.net/Cyberattaque-de-fausses-alertes-nucleaires-envoyees-aux-Ukrainiens-et-aux-Russes",
-      "published_at": "2026-11-05T11:07:14+00:00"
-    },
-    {
-      "id": "a6113ab1dfa44ebd",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’Hérault, le Gard et la Corse placés en vigilance orange pluie-inondation, plusieurs évacuations au sud de l’île",
-      "resume": "Des pluies torrentielles ont provoqué des inondations, des évacuations et la fermeture de routes en Corse, alors que l’Hérault et le Gard sont frappés par des orages, jeudi, depuis l’arrivée de l’épisode.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/05/l-herault-et-le-gard-rejoignent-la-corse-dans-une-vigilance-orange-pluie-inondation-etendue-durant-la-journee-de-jeudi_6806834_3244.html",
-      "published_at": "2026-11-05T08:01:17+00:00"
     },
     {
       "id": "61d236eeef68d6c1",
