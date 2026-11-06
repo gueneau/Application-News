@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
-  "generated_at": "07:13",
-  "elapsed_seconds": 479,
+  "generated_at": "13:13",
+  "elapsed_seconds": 438,
   "errors": [],
   "stats": {
     "jo_analyses": 12,
@@ -9,20 +9,31 @@
     "depts_restriction": 80
   },
   "pipeline_meta": {
-    "run_at": "2026-11-06T07:13:42",
+    "run_at": "2026-11-06T13:13:11",
     "sources": {
       "JORF": 0,
-      "RSS": 6,
+      "RSS": 7,
       "VigiEau": 80,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 45,
-    "llm_seconds": 40.5
+    "llm_calls": 41,
+    "llm_seconds": 40.4
   },
   "items": [
+    {
+      "id": "65d3c3d76280",
+      "source": "GreenUnivers",
+      "categorie": "Énergie",
+      "titre": "Heures « super creuses », tarifs dynamiques… restent un pari commercial",
+      "resume": "L'évolution des offres de fourniture d'électricité en France vers des heures « super creuses » ou des tarifs dynamiques, liée à la multiplication des prix négatifs, interroge sur leur portée réelle pour les consommateurs.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.greenunivers.com/2026/11/heures-super-creuses-tarifs-dynamiques-restent-un-pari-commercial-437957/",
+      "date": "2026-11-06"
+    },
     {
       "id": "1e3926149043",
       "source": "Reporterre",
@@ -68,17 +79,6 @@
       "date": "2026-11-05"
     },
     {
-      "id": "22e0e6f527d6",
-      "source": "Actu-Environnement",
-      "categorie": "Climat",
-      "titre": "Le chiffre du jour : 56 %",
-      "resume": "Selon une enquête de la BEI auprès de municipalités européennes, 56 % d'entre elles prévoient d'accroître leurs investissements dans la réduction des émissions et environ la moitié dans l'adaptation climatique, tout en faisant face à un manque d'expertise technique (jusqu'à 30 %).",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1848.html#xtor=RSS-6",
-      "date": "2026-11-05"
-    },
-    {
       "id": "c591279c81f7",
       "source": "GreenUnivers",
       "categorie": "Énergie",
@@ -87,6 +87,17 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.greenunivers.com/2026/11/electrification-le-gouvernement-veut-flecher-100-me-de-cee-vers-la-sortie-du-gaz-437910/",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "22e0e6f527d6",
+      "source": "Actu-Environnement",
+      "categorie": "Climat",
+      "titre": "Le chiffre du jour : 56 %",
+      "resume": "Selon une enquête de la BEI auprès de municipalités européennes, 56 % d'entre elles prévoient d'accroître leurs investissements dans la réduction des émissions et environ la moitié dans l'adaptation climatique, tout en faisant face à un manque d'expertise technique (jusqu'à 30 %).",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1848.html#xtor=RSS-6",
       "date": "2026-11-05"
     }
   ],
@@ -167,16 +178,6 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "28",
-      "dept_nom": "Eure-et-Loir",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "95",
-      "dept_nom": "Val-d'Oise",
-      "niveau": "crise"
-    },
-    {
       "dept_code": "02",
       "dept_nom": "Aisne",
       "niveau": "crise"
@@ -184,6 +185,11 @@
     {
       "dept_code": "55",
       "dept_nom": "Meuse",
+      "niveau": "crise"
+    },
+    {
+      "dept_code": "28",
+      "dept_nom": "Eure-et-Loir",
       "niveau": "crise"
     },
     {
@@ -349,6 +355,11 @@
     {
       "dept_code": "60",
       "dept_nom": "Oise",
+      "niveau": "alerte renforcée"
+    },
+    {
+      "dept_code": "95",
+      "dept_nom": "Val-d'Oise",
       "niveau": "alerte renforcée"
     },
     {
