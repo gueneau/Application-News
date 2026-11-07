@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-07T09:42:04.527316+00:00",
+  "generated_at": "2026-11-07T16:00:35.161695+00:00",
   "items": [
+    {
+      "id": "8f98d1f72de4eb73",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan",
+      "resume": "A quelque 560 kilomètres de la station balnéaire d’Antalya, où se tiendra à partir de lundi la 31ᵉ Conférence des parties sur le climat, le village de Çogulhan est cerné par deux centrales thermiques au charbon. Les derniers habitants de ce",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
+      "published_at": "2026-11-07T14:00:05+00:00"
+    },
+    {
+      "id": "fad8b3c95e4859a4",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "resume": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complicati",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+      "published_at": "2026-11-07T12:00:13+00:00"
+    },
     {
       "id": "2f0536ae0be1847f",
       "source": "Le Monde Planète",
@@ -8,7 +26,7 @@
       "titre": "COP31 : trop grosses, trop lentes, inefficaces… Les conférences mondiales sur le climat peuvent-elles être réformées ?",
       "resume": "La 31ᵉ Conférence des parties sur le climat s’ouvre lundi dans la station balnéaire d’Antalya, en Turquie. Si ces grands sommets annuels restent indispensables pour faire avancer la lutte contre le réchauffement climatique, de plus en plus ",
       "url": "https://www.lemonde.fr/planete/article/2026/11/07/cop31-trop-grosses-trop-lentes-inefficaces-les-conferences-mondiales-sur-le-climat-peuvent-elles-etre-reformees_6808253_3244.html",
-      "published_at": "2026-11-07T08:39:36+00:00"
+      "published_at": "2026-11-07T08:39:34+00:00"
     },
     {
       "id": "95b98c55dfb62f5b",
@@ -24,7 +42,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "COP31 : pour éviter l'avion, Reporterre a fait 54 heures de train jusqu'en Turquie",
-      "resume": "Une addition de CO ₂ réduite par trois : pour couvrir la COP31 , qui a lieu à Antalya, notre journaliste Emmanuel Clévenot a préféré partir de la gare de l'Est à Paris et traverser sept pays, que de l'aéroport. « Bon, j'ai une mauvaise nouv",
+      "resume": "Une addition de CO ₂ divisée par trois : pour couvrir la COP31 , qui a lieu à Antalya, notre journaliste Emmanuel Clévenot a préféré partir de la gare de l'Est à Paris et traverser sept pays, plutôt que de l'aéroport. « Bon, j'ai une mauvai",
       "url": "https://reporterre.net/COP31-pour-eviter-l-avion-Reporterre-a-fait-54-heures-de-train-jusqu-en-Turquie",
       "published_at": "2026-11-07T06:30:00+00:00"
     },
@@ -159,7 +177,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Les techniques des géants du tabac utilisées pour nous rendre dépendants aux aliments ultratransformés",
-      "resume": "Omniprésents dans les supermarchés, les produits ultratransformés se sont inspirés et ont été aidés par les géants du tabac. 60 Millions de consommateurs consacre un hors-série sur le « lien historique » entre ces deux industries. Dans son ",
+      "resume": "Omniprésents dans les supermarchés, les produits ultratransformés se sont inspirés et ont été aidés par les géants du tabac. 60 Millions de consommateurs consacre une enquête au « lien historique » entre ces deux industries. Dans son nouvea",
       "url": "https://reporterre.net/Les-techniques-des-geants-du-tabac-utilisees-pour-nous-rendre-dependants-aux-aliments",
       "published_at": "2026-11-06T15:01:00+00:00"
     },
@@ -171,15 +189,6 @@
       "resume": "Juneau has little arable land, a short growing season and few farmers – and deep traditions of residents and the land feeding each other Forty miles north-west of Alaska’s capital, the highway just ends. At Glacier Highway’s most northern p",
       "url": "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access",
       "published_at": "2026-11-06T15:00:46+00:00"
-    },
-    {
-      "id": "fd886c2b60961bbd",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Deux ans après le retour de Donald Trump au pouvoir, le bilan alarmant des climatologues américains",
-      "resume": "Des chercheurs en sciences du climat accusent l’administration américaine de « chercher à briser le moral de la communauté » scientifique, avec la suppression de divisions entières dans des agences fédérales et des baisses de financement.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/11/06/deux-ans-apres-le-retour-de-donald-trump-au-pouvoir-le-bilan-alarmant-des-climatologues-americains_6807798_1650684.html",
-      "published_at": "2026-11-06T14:30:02+00:00"
     },
     {
       "id": "83cffd4f165687c1",
@@ -308,24 +317,6 @@
       "published_at": "2026-11-06T05:05:09+00:00"
     },
     {
-      "id": "98c007cf04541856",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "TGAP : la facture des collectivités franciliennes pourrait presque doubler d'ici à 2030",
-      "resume": "L'Ordif, l'observatoire des déchets de L'Institut Paris Region, consacre sa cinquième chronique de l'économie circulaire, signée Aurélie Tupek, à la trajectoire de la taxe générale sur les activités polluantes (TGAP). Au titre de 2024, la T",
-      "url": "https://www.actu-environnement.com/ae/news/tgap-dechets-collectivites-idf-2030-48773.php4#xtor=RSS-6",
-      "published_at": "2026-11-05T21:35:44+00:00"
-    },
-    {
-      "id": "08e7d8c06f2f7928",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le pilotage connecté pourrait apporter jusqu'à 30 % d'économie d'énergie en logement collectif",
-      "resume": "IGNES (Industriels des solutions électriques et numériques du bâtiment) a dévoilé le 4 novembre, à l'occasion du Salon de la copropriété et de l'habitat, l'étude « Évaluation multicritère des solutions de pilotage connecté pour le logement ",
-      "url": "https://www.actu-environnement.com/ae/news/pilotage-connecte-logement-collectif-economie-energie-48772.php4#xtor=RSS-6",
-      "published_at": "2026-11-05T21:23:22+00:00"
-    },
-    {
       "id": "f2c219f276769879",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -360,15 +351,6 @@
       "resume": "Veolia avance au pas de charge sur ses cessions et prépare un projet ambitieux en France Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUxiNUtPazVnOThzanN2UUE0aTJUMWxuT2pNS0sxUUhNMm96RVdnUGphWFNyb2RheDZQQjJic0U4Vm9SZndvLW4zTnBXR0JVT3NnNmZEOGNIVUx5aWFTLUhaNExESXYtYWdtWFYtNWtzYkM2dXh2YmxTN3o0Z0hMajJxaHhLdHFzQkJrWjRDb2pwVHpLXzE1Z2JaVnJuN2sxUFNRYXUzQkRoMnZvRllibVlIUklabkhpMEtmVDNPbGxRa0UwaTk5ajJqMTY4Q1M2Mk8xSHNxbldhelBfLTVNY0ozUFFWY2RwanloV0JVMjBBeUU?oc=5",
       "published_at": "2026-11-05T16:54:59+00:00"
-    },
-    {
-      "id": "60efb3b3a06c5b15",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "PPE3 : les objectifs renouvelables votés en régions dépassent globalement la trajectoire nationale",
-      "resume": "Le Syndicat des énergies renouvelables (SER) a publié, ce 5 novembre, son bilan des votes rendus par les comités régionaux de l'énergie (CRé) sur la déclinaison régionale de la troisième programmation pluriannuelle de l'énergie (PPE 3). La ",
-      "url": "https://www.actu-environnement.com/ae/news/ppe3-objectifs-regionaux-renouvelables-trajectoire-48771.php4#xtor=RSS-6",
-      "published_at": "2026-11-05T16:38:57+00:00"
     },
     {
       "id": "f161a6afaa2479e7",
@@ -441,15 +423,6 @@
       "resume": "« Paris et Berlin peuvent démontrer aux sceptiques que le marché carbone sait concilier climat et compétitivité » Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa21uQkc4cWRkYlZzLU44TEd3NVZtQmQ3SjdhSTJtVHJMVHRQMXlqMS14ajhBbDNkYXJ5U3R0a2p0Vl9LaHVCcHNwTGc3MU5MZ1R4Qk52bkwwV1VXQjNWM3FfN3kxVUQ2WXhCUjFXX2F0NzBoN0xBcWJIUHVHZWpLTV90bEVKUHdrdXVRYUhwTTFxVENPdXREdWpURlI2T3VhUENsUl9JMTh4VXdhRUVKdmFVblVDZGtRbnNpT1pMRWpzeG1TZW9RaENTRlVnNmhWcG9MUDBWZ1RMeDdsVHFhbWFaTlB3NUNuTWI2NlhZLWRwRzA?oc=5",
       "published_at": "2026-11-04T12:20:09+00:00"
-    },
-    {
-      "id": "ba8eb29b2108a86c",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "North America’s most widely distributed game bird is under threat",
-      "resume": "For the first time since 1937, no open permits to hunt ruffed grouse in Ohio have been issued due to falling numbers Every November, hundreds of hunters descend on four designated wilderness areas in southern Ohio in pursuit of the elusive ",
-      "url": "https://www.theguardian.com/environment/2026/nov/04/ruffed-grouse-population-decline",
-      "published_at": "2026-11-03T13:00:07+00:00"
     },
     {
       "id": "f87048a618731e47",
@@ -720,6 +693,33 @@
       "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
       "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
       "published_at": "2026-07-20T10:36:40+00:00"
+    },
+    {
+      "id": "5966e35906e93c5d",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
+      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il […] L’article Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC est apparu en p",
+      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
+      "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
     }
   ]
 }
