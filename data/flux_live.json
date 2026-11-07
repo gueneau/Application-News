@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-06T23:21:41.901895+00:00",
+  "generated_at": "2026-11-07T02:58:39.320786+00:00",
   "items": [
+    {
+      "id": "28a5a14c2f5e7a95",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Etats-Unis : plus de 5 000 cas de rougeole recensés depuis le début de l’année, un niveau jamais-vu en trente-cinq ans",
+      "resume": "La quasi-totalité des personnes infectées étaient non-vaccinées.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/07/etats-unis-plus-de-5-000-cas-de-rougeole-recenses-depuis-le-debut-de-l-annee-un-niveau-jamais-vu-en-trente-cinq-ans_6807968_3244.html",
+      "published_at": "2026-11-07T00:35:17+00:00"
+    },
     {
       "id": "e34f22575277d0a3",
       "source": "The Guardian Environment",
@@ -243,15 +252,6 @@
       "resume": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its […]",
       "url": "https://www.esgtoday.com/impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo",
       "published_at": "2026-11-06T09:28:00+00:00"
-    },
-    {
-      "id": "2420ea06aaf36b04",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les importations d’animaux vers Vantara, un sanctuaire indien hors norme, restent sous surveillance malgré la volonté du centre de redorer son image",
-      "resume": "Alors que l’Inde a été critiquée pour ne pas avoir suffisamment contrôlé les importations massives d’animaux à destination de cette grande réserve privée, le pays demeure sous la surveillance de la Cites, la convention internationale chargé",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/les-importations-d-animaux-vers-vantara-gigantesque-sanctuaire-indien-restent-sous-surveillance-malgre-la-volonte-du-centre-de-redorer-son-image_6807749_3244.html",
-      "published_at": "2026-11-06T09:00:07+00:00"
     },
     {
       "id": "8b0d4393c7a252ac",
