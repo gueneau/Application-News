@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-11-07T02:58:39.320786+00:00",
+  "generated_at": "2026-11-07T09:42:04.527316+00:00",
   "items": [
+    {
+      "id": "2f0536ae0be1847f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP31 : trop grosses, trop lentes, inefficaces… Les conférences mondiales sur le climat peuvent-elles être réformées ?",
+      "resume": "La 31ᵉ Conférence des parties sur le climat s’ouvre lundi dans la station balnéaire d’Antalya, en Turquie. Si ces grands sommets annuels restent indispensables pour faire avancer la lutte contre le réchauffement climatique, de plus en plus ",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/07/cop31-trop-grosses-trop-lentes-inefficaces-les-conferences-mondiales-sur-le-climat-peuvent-elles-etre-reformees_6808253_3244.html",
+      "published_at": "2026-11-07T08:39:36+00:00"
+    },
+    {
+      "id": "95b98c55dfb62f5b",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Ouverture de l'A69 : retour sur 4 années d'une lutte farouche et inventive",
+      "resume": "L'autoroute A69 reliant Toulouse à Castres a été ouverte aux voitures le 6 novembre. Un dénouement qui ne fera pas oublier quatre années de lutte acharnée, menées par des opposants qui auront tout tenté contre le chantier, malgré la répress",
+      "url": "https://reporterre.net/Ouverture-de-l-A69-retour-sur-4-annees-d-une-lutte-farouche-et-inventive",
+      "published_at": "2026-11-07T06:30:00+00:00"
+    },
+    {
+      "id": "c96d24b8203e9cce",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "COP31 : pour éviter l'avion, Reporterre a fait 54 heures de train jusqu'en Turquie",
+      "resume": "Une addition de CO ₂ réduite par trois : pour couvrir la COP31 , qui a lieu à Antalya, notre journaliste Emmanuel Clévenot a préféré partir de la gare de l'Est à Paris et traverser sept pays, que de l'aéroport. « Bon, j'ai une mauvaise nouv",
+      "url": "https://reporterre.net/COP31-pour-eviter-l-avion-Reporterre-a-fait-54-heures-de-train-jusqu-en-Turquie",
+      "published_at": "2026-11-07T06:30:00+00:00"
+    },
+    {
+      "id": "ac6bccd06605d033",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« La montagne est éventrée » : en Toscane, les dégâts du business du marbre",
+      "resume": "Le marbre de Carrare, en Toscane, est connu dans le monde entier pour sa pureté exceptionnelle. Longtemps restée artisanale, sa production s'est intensifiée. Désormais, la pierre de luxe est extraite aux dépens de l'environnement et des hab",
+      "url": "https://reporterre.net/La-montagne-est-eventree-en-Toscane-les-degats-du-business-du-marbre",
+      "published_at": "2026-11-07T06:30:00+00:00"
+    },
+    {
+      "id": "c42392f4b874039a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Que faire si je constate des fissures sur ma maison ?",
+      "resume": "Il faut d’abord dater leur apparition, puis documenter régulièrement leur évolution à l’aide de photos et de mesures, explique Olivier Moustacakis, cofondateur d’Assurland.com.",
+      "url": "https://www.lemonde.fr/argent/article/2026/11/07/que-faire-si-je-constate-des-fissures-sur-ma-maison_6808202_1657007.html",
+      "published_at": "2026-11-07T05:00:04+00:00"
+    },
     {
       "id": "28a5a14c2f5e7a95",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Etats-Unis : plus de 5 000 cas de rougeole recensés depuis le début de l’année, un niveau jamais-vu en trente-cinq ans",
-      "resume": "La quasi-totalité des personnes infectées étaient non-vaccinées.",
+      "titre": "Etats-Unis : plus de 5 000 cas de rougeole recensés depuis le début de l’année, un niveau inédit en trente-cinq ans",
+      "resume": "La plupart des personnes infectées n’étaient pas vaccinées.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/07/etats-unis-plus-de-5-000-cas-de-rougeole-recenses-depuis-le-debut-de-l-annee-un-niveau-jamais-vu-en-trente-cinq-ans_6807968_3244.html",
       "published_at": "2026-11-07T00:35:17+00:00"
     },
@@ -128,15 +173,6 @@
       "published_at": "2026-11-06T15:00:46+00:00"
     },
     {
-      "id": "6863553f0a76048b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "COP31 : pour stopper les pollueurs, « il est grand temps de réformer la gouvernance climatique »",
-      "resume": "À l'approche de la COP31 , les auteurs de cette tribune appellent la France, garante de l'Accord de Paris, à mettre fin à la redoutable influence de l'industrie fossile dans les COP . Et à permettre, enfin, des décisions à hauteur de la sit",
-      "url": "https://reporterre.net/COP31-pour-stopper-les-pollueurs-il-est-grand-temps-de-reformer-la-gouvernance-climatique",
-      "published_at": "2026-11-06T15:00:00+00:00"
-    },
-    {
       "id": "fd886c2b60961bbd",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -144,15 +180,6 @@
       "resume": "Des chercheurs en sciences du climat accusent l’administration américaine de « chercher à briser le moral de la communauté » scientifique, avec la suppression de divisions entières dans des agences fédérales et des baisses de financement.",
       "url": "https://www.lemonde.fr/sciences/article/2026/11/06/deux-ans-apres-le-retour-de-donald-trump-au-pouvoir-le-bilan-alarmant-des-climatologues-americains_6807798_1650684.html",
       "published_at": "2026-11-06T14:30:02+00:00"
-    },
-    {
-      "id": "9e0388ed9764fb27",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Le mois d'octobre 2026 a été le plus chaud jamais enregistré",
-      "resume": "Le mois d'octobre a été le plus chaud jamais enregistré à l'échelle mondiale, avec une température moyenne de 15,35 °C, soit 0,90 °C au-dessus de la moyenne de la période 1991-2020, selon le bulletin mensuel de l'Institut Copernicus, publié",
-      "url": "https://reporterre.net/Le-mois-d-octobre-2026-a-ete-le-plus-chaud-jamais-enregistre",
-      "published_at": "2026-11-06T14:00:37+00:00"
     },
     {
       "id": "83cffd4f165687c1",
@@ -191,22 +218,13 @@
       "published_at": "2026-11-06T12:00:42+00:00"
     },
     {
-      "id": "c5f15c0fd7f6a043",
-      "source": "Reporterre",
+      "id": "ca6e8bbcc81ee717",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Les plus riches les plus exposés aux catastrophes naturelles… parce qu'ils ont plus de maisons",
-      "resume": "Les plus aisés seraient davantage exposés, matériellement, aux risques climatiques. Et pour cause, comme ils vivent davantage en maison, leurs biens immobiliers subissent davantage les dégâts causés par les catastrophes naturelles, selon un",
-      "url": "https://reporterre.net/Les-plus-riches-les-plus-exposes-aux-catastrophes-naturelles-parce-qu-ils-ont-plus-de",
-      "published_at": "2026-11-06T11:33:02+00:00"
-    },
-    {
-      "id": "3ab53959fe4c0e84",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’autoroute A69 ouverte aux automobilistes, après quatre ans de contestation, avec un péage à 20,40 euros",
-      "resume": "Depuis 2023, les associations environnementales ont multiplié les recours juridiques et rassemblements pour​ contester ce projet devenu symbole des combats écologistes. Le prix de l’aller-retour Toulouse-Castres, parmi les plus élevés de Fr",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/l-autoroute-a69-ouverte-aux-automobilistes-apres-quatre-ans-de-contestation-avec-un-peage-a-20-40-euros_6807779_3244.html",
-      "published_at": "2026-11-06T11:30:04+00:00"
+      "titre": "Loi méthane : les Vingt-Sept actent un report d'un an, le feuilleton continue - Les Echos",
+      "resume": "Loi méthane : les Vingt-Sept actent un report d'un an, le feuilleton continue Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcDRLLTNFV2V0Mnh1V05Pd0xoT0RLLTM3Um51ZVJDY1V2QXg1Z2V1QWhhdUw0TjhjZWZ4MjZiVW9ZeWVqbmZmQm13XzdBSWU3SndJcFBzbzJmOGNEbWhESGZlM0VrYmpfR1J0ZWJoc1BSOHVDTmtJLVJ6R19ZeGc4Y0ZjMnJqTXFYeVF6d3ZDNjdCYTRyTFZsU083d2xySlpSam9LOTFkeW8tSGZ3RGI4ZmZ2TTFQUm4zYzlHMklWdHZxX05rZWhrOGJBa2Q2bzVvZl9yR1cwXzhNTlF4cTc4?oc=5",
+      "published_at": "2026-11-06T11:10:43+00:00"
     },
     {
       "id": "6d5465bf36734086",
@@ -225,15 +243,6 @@
       "resume": "Electric truck manufacturer Harbinger announced that it has raised $240 million in a Series D […]",
       "url": "https://www.esgtoday.com/ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense/?utm_source=rss&utm_medium=rss&utm_campaign=ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense",
       "published_at": "2026-11-06T10:31:51+00:00"
-    },
-    {
-      "id": "7e99e3105b354081",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’année 2026 sera « probablement » la deuxième année la plus chaude jamais enregistrée dans le monde, après 2024",
-      "resume": "Par ailleurs, octobre 2026 a été, à l’échelle mondiale, le mois d’octobre le plus chaud jamais enregistré sur la planète, avec une température moyenne de l’air supérieure de 1,75 °C à celle de l’époque préindustrielle, selon l’observatoire ",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/l-annee-2026-sera-probablement-la-deuxieme-annee-la-plus-chaude-jamais-enregistree-dans-le-monde-apres-2024_6807768_3244.html",
-      "published_at": "2026-11-06T10:25:24+00:00"
     },
     {
       "id": "20173b8e5b9a0de9",
@@ -432,15 +441,6 @@
       "resume": "« Paris et Berlin peuvent démontrer aux sceptiques que le marché carbone sait concilier climat et compétitivité » Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa21uQkc4cWRkYlZzLU44TEd3NVZtQmQ3SjdhSTJtVHJMVHRQMXlqMS14ajhBbDNkYXJ5U3R0a2p0Vl9LaHVCcHNwTGc3MU5MZ1R4Qk52bkwwV1VXQjNWM3FfN3kxVUQ2WXhCUjFXX2F0NzBoN0xBcWJIUHVHZWpLTV90bEVKUHdrdXVRYUhwTTFxVENPdXREdWpURlI2T3VhUENsUl9JMTh4VXdhRUVKdmFVblVDZGtRbnNpT1pMRWpzeG1TZW9RaENTRlVnNmhWcG9MUDBWZ1RMeDdsVHFhbWFaTlB3NUNuTWI2NlhZLWRwRzA?oc=5",
       "published_at": "2026-11-04T12:20:09+00:00"
-    },
-    {
-      "id": "717a509e7804fc52",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Transition énergétique : le gouvernement suspend le Fonds chaleur - Les Echos",
-      "resume": "Transition énergétique : le gouvernement suspend le Fonds chaleur Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajRXcW9GdUVqYUJnLUd6WEFNQnM5ZVhraDFNZ2xNQnZWbnFWWHpjajIwZ1pxb3JicEpWcHBhMDk1M0VWOEcxbVFJTl9TeHF6eU94azkwZ0lOZlg5M3Q1bHJ4azNCa081MjREeXpnZFN1STJkS3ZVdkxqOHZBeTVWVk41NlNsdlRTWGNpN2xsWERmSUthRFFsOFB0MmlkZ0U0eGY3VTFJUVNnYXRfVWI4cVY0RjhiNjhvVnRYWkpB?oc=5",
-      "published_at": "2026-11-03T15:55:26+00:00"
     },
     {
       "id": "ba8eb29b2108a86c",
