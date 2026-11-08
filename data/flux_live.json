@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-08T16:55:50.779008+00:00",
+  "generated_at": "2026-11-08T20:56:14.799119+00:00",
   "items": [
+    {
+      "id": "e060f5b82ab4120e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le mémo de la COP31 : agenda, organisation et enjeux de la conférence climat d’Antalya",
+      "resume": "Tout savoir en bref sur la 31ᵉ conférence mondiale sur le climat qui débute lundi 9 novembre dans la station balnéaire des rives méditerranéennes de la Turquie.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/08/le-memo-de-la-cop31-agenda-organisation-et-enjeux-de-la-conference-climat-d-antalya_6808459_3244.html",
+      "published_at": "2026-11-08T17:30:02+00:00"
+    },
+    {
+      "id": "eba5691301a98517",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
+      "resume": "La 31ᵉ conférence mondiale sur le climat s’ouvre lundi à Antalya. Sur fond de crise énergétique et de tensions géopolitiques, ces négociations internationales doivent aplanir les obstacles qui freinent la décarbonation des activités humaine",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
+      "published_at": "2026-11-08T17:00:00+00:00"
+    },
     {
       "id": "5f62802632e19f78",
       "source": "The Guardian Environment",
@@ -81,24 +99,6 @@
       "resume": "Dans un cadre dérogatoire, en l’absence de réglementations, partout en France les projets de valorisation des excreta humains fleurissent. A la clé, des bénéfices environnementaux et économiques non négligeables, une fois le frein psycholog",
       "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/l-urine-nouvelle-ressource-on-veut-s-engager-dans-la-revolution-du-pipi-utile_6808399_4497916.html",
       "published_at": "2026-11-08T05:00:17+00:00"
-    },
-    {
-      "id": "dbb60c0b37ea1549",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« La fronde américaine contre les data centers a bouleversé les midterms comme aucune question environnementale ne l’avait fait jusqu’à présent »",
-      "resume": "Dans sa chronique, le journaliste au « Monde » Stéphane Foucart revient sur les centres de données, dont le développement massif aux Etats-Unis a pesé en partie sur le vote des Américains, lors des élections de mi-mandat du 3 novembre.",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html",
-      "published_at": "2026-11-08T04:30:11+00:00"
-    },
-    {
-      "id": "8f98d1f72de4eb73",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Turquie, pays d’accueil de la COP31, les ravages sans fin de la double centrale au charbon d’Afsin-Elbistan",
-      "resume": "A quelque 560 kilomètres de la station balnéaire d’Antalya, où se tiendra à partir de lundi la 31ᵉ Conférence des parties sur le climat, le village de Çogulhan est cerné par deux centrales thermiques au charbon. Les derniers habitants de ce",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/07/en-turquie-pays-d-accueil-de-la-cop31-les-ravages-sans-fin-de-la-double-centrale-au-charbon-d-afsin-elbistan_6808282_3244.html",
-      "published_at": "2026-11-07T14:00:05+00:00"
     },
     {
       "id": "fad8b3c95e4859a4",
@@ -225,6 +225,15 @@
       "resume": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf population Idaho officials paid hunters thousands of dollars for killing a dozen newborn wolf pups this spring, including what app",
       "url": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
       "published_at": "2026-11-06T12:00:42+00:00"
+    },
+    {
+      "id": "ca6e8bbcc81ee717",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Loi méthane : les Vingt-Sept actent un report d'un an, le feuilleton continue - Les Echos",
+      "resume": "Loi méthane : les Vingt-Sept actent un report d'un an, le feuilleton continue Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcDRLLTNFV2V0Mnh1V05Pd0xoT0RLLTM3Um51ZVJDY1V2QXg1Z2V1QWhhdUw0TjhjZWZ4MjZiVW9ZeWVqbmZmQm13XzdBSWU3SndJcFBzbzJmOGNEbWhESGZlM0VrYmpfR1J0ZWJoc1BSOHVDTmtJLVJ6R19ZeGc4Y0ZjMnJqTXFYeVF6d3ZDNjdCYTRyTFZsU083d2xySlpSam9LOTFkeW8tSGZ3RGI4ZmZ2TTFQUm4zYzlHMklWdHZxX05rZWhrOGJBa2Q2bzVvZl9yR1cwXzhNTlF4cTc4?oc=5",
+      "published_at": "2026-11-06T11:10:43+00:00"
     },
     {
       "id": "6d5465bf36734086",
@@ -387,15 +396,6 @@
       "resume": "Les entreprises de la Silicon Valley se sont opposées à la taxe sur les milliardaires. @Maarten van den Heuvel-unsplash Les milliardaires californiens peuvent dormir sur leurs deux oreilles. La \"proposition 40\" qui était soumise au vote en ",
       "url": "https://www.novethic.fr/economie-et-social/droits-humains/californie-les-milliardaires-remportent-leur-bras-de-fer-contre-la-taxe-sur-les-grandes-fortunes",
       "published_at": "2026-11-04T14:01:08+00:00"
-    },
-    {
-      "id": "a9f310ecfa762b7e",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "« Paris et Berlin peuvent démontrer aux sceptiques que le marché carbone sait concilier climat et compétitivité » - Les Echos",
-      "resume": "« Paris et Berlin peuvent démontrer aux sceptiques que le marché carbone sait concilier climat et compétitivité » Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa21uQkc4cWRkYlZzLU44TEd3NVZtQmQ3SjdhSTJtVHJMVHRQMXlqMS14ajhBbDNkYXJ5U3R0a2p0Vl9LaHVCcHNwTGc3MU5MZ1R4Qk52bkwwV1VXQjNWM3FfN3kxVUQ2WXhCUjFXX2F0NzBoN0xBcWJIUHVHZWpLTV90bEVKUHdrdXVRYUhwTTFxVENPdXREdWpURlI2T3VhUENsUl9JMTh4VXdhRUVKdmFVblVDZGtRbnNpT1pMRWpzeG1TZW9RaENTRlVnNmhWcG9MUDBWZ1RMeDdsVHFhbWFaTlB3NUNuTWI2NlhZLWRwRzA?oc=5",
-      "published_at": "2026-11-04T12:20:09+00:00"
     },
     {
       "id": "f87048a618731e47",
