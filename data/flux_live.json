@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-08T03:44:21.343982+00:00",
+  "generated_at": "2026-11-08T10:58:03.271820+00:00",
   "items": [
+    {
+      "id": "83d6efe6ebd06964",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESG Today: Week in Review",
+      "resume": "This week in ESG news: UK to introduce supply chain human rights due diligence law; […]",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-282/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-282",
+      "published_at": "2026-11-08T09:56:29+00:00"
+    },
+    {
+      "id": "734d440870350d29",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Louve, escargot et chamois blessé : trois documentaires pour se rappeler la beauté du sauvage",
+      "resume": "Le périple d'un escargot, la vie cachée d'une louve, le miroir que nous tendent des animaux blessés... Découvrez notre sélection de documentaires, dont la beauté sauvage nous ouvre d'inattendus horizons. Plus l'horizon paraît bouché, plus l",
+      "url": "https://reporterre.net/Louve-escargot-et-chamois-blesse-trois-documentaires-pour-se-rappeler-la-beaute-du",
+      "published_at": "2026-11-08T06:31:00+00:00"
+    },
+    {
+      "id": "54bd919b3ffda0ad",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Pinar Selek : « La COP31 participera à légitimer le pouvoir autoritaire d'Erdogan »",
+      "resume": "Alors que la conférence s'ouvre ce lundi à Antalya, le pouvoir turc réprime les militants LGBT +, des droits humains et les paysans. Entretien avec la sociologue écoféministe Pinar Selek, exilée en France. Un État où les droits humains sont",
+      "url": "https://reporterre.net/Pinar-Selek-La-COP31-participera-a-legitimer-le-pouvoir-autoritaire-d-Erdogan",
+      "published_at": "2026-11-08T06:30:00+00:00"
+    },
+    {
+      "id": "55f70dd58dc3a05a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Au Japon, un séisme de magnitude 5,7 fait plusieurs blessés",
+      "resume": "Le tremblement de terre s’est produit dans la nuit, dans l’ouest de la préfecture de Shizuoka, à environ 200 kilomètres à l’ouest de Tokyo.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/08/au-japon-un-seisme-de-magnitude-5-7-fait-plusieurs-blesses_6808408_3244.html",
+      "published_at": "2026-11-08T06:25:19+00:00"
+    },
+    {
+      "id": "9b79c30cbd95458e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le « super El Niño » inquiète les horticulteurs kényans, qui fournissent un tiers des fleurs importées de l’UE",
+      "resume": "Ce pays d’Afrique de l’Est fournit aux étals européens de nombreux produits agricoles et horticoles. Les producteurs se préparent à un El Niño d’une puissance peut-être jamais vue.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/08/le-super-el-nino-inquiete-les-horticulteurs-kenyans-qui-fournissent-un-tiers-des-fleurs-importees-de-l-ue_6808402_3234.html",
+      "published_at": "2026-11-08T05:25:07+00:00"
+    },
+    {
+      "id": "96307368f76c3194",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’urine, nouvelle ressource : « On veut s’engager dans la révolution du pipi utile »",
+      "resume": "Dans un cadre dérogatoire, en l’absence de réglementations, partout en France les projets de valorisation des excreta humains fleurissent. A la clé, des bénéfices environnementaux et économiques non négligeables, une fois le frein psycholog",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/l-urine-nouvelle-ressource-on-veut-s-engager-dans-la-revolution-du-pipi-utile_6808399_4497916.html",
+      "published_at": "2026-11-08T05:00:17+00:00"
+    },
+    {
+      "id": "dbb60c0b37ea1549",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« La fronde américaine contre les data centers a bouleversé les midterms comme aucune question environnementale ne l’avait fait jusqu’à présent »",
+      "resume": "Dans sa chronique, le journaliste au « Monde » Stéphane Foucart revient sur les centres de données, dont le développement massif aux Etats-Unis a pesé en partie sur le vote des Américains, lors des élections de mi-mandat du 3 novembre.",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/08/la-fronde-americaine-contre-les-data-centers-a-bouleverse-les-midterms-comme-aucune-question-environnementale-ne-l-avait-fait-jusqu-a-present_6808392_3232.html",
+      "published_at": "2026-11-08T04:30:11+00:00"
+    },
     {
       "id": "8f98d1f72de4eb73",
       "source": "Le Monde Planète",
@@ -56,24 +119,6 @@
       "published_at": "2026-11-07T06:30:00+00:00"
     },
     {
-      "id": "c42392f4b874039a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Que faire si je constate des fissures sur ma maison ?",
-      "resume": "Il faut d’abord dater leur apparition, puis documenter régulièrement leur évolution à l’aide de photos et de mesures, explique Olivier Moustacakis, cofondateur d’Assurland.com.",
-      "url": "https://www.lemonde.fr/argent/article/2026/11/07/que-faire-si-je-constate-des-fissures-sur-ma-maison_6808202_1657007.html",
-      "published_at": "2026-11-07T05:00:04+00:00"
-    },
-    {
-      "id": "28a5a14c2f5e7a95",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Etats-Unis : plus de 5 000 cas de rougeole recensés depuis le début de l’année, un niveau inédit en trente-cinq ans",
-      "resume": "La plupart des personnes infectées n’étaient pas vaccinées.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/07/etats-unis-plus-de-5-000-cas-de-rougeole-recenses-depuis-le-debut-de-l-annee-un-niveau-jamais-vu-en-trente-cinq-ans_6807968_3244.html",
-      "published_at": "2026-11-07T00:35:17+00:00"
-    },
-    {
       "id": "e34f22575277d0a3",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -81,24 +126,6 @@
       "resume": "Officials expected to investigate whether super El Niño storms in US south-west damaged the Alien Throne spires Undulating, gravity-defying rock spires are one of the most magical parts of the landscape of the US south-west. But after torre",
       "url": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
       "published_at": "2026-11-06T19:23:03+00:00"
-    },
-    {
-      "id": "4c2d76d09a3a242b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Surfréquentation à Chamonix : vers l’instauration de quotas touristiques, une première dans les Alpes",
-      "resume": "L’accès au lac Blanc et aux lacs des Chéserys, offrant une vue imprenable sur le massif du Mont-Blanc, devrait être soumis à une réservation obligatoire, avec des jauges de 600 à 1 000 personnes, à partir de l’été 2027, sur le modèle en pla",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/surfrequentation-a-chamonix-vers-l-instauration-de-quotas-touristiques-une-premiere-dans-les-alpes_6807854_3244.html",
-      "published_at": "2026-11-06T18:30:06+00:00"
-    },
-    {
-      "id": "359a7078c843a641",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Crue à Porto-Vecchio : un couple de septuagénaires emporté par des eaux torrentielles",
-      "resume": "Depuis jeudi 5 novembre, au matin, le sud de la Corse était placé en vigilance orange, de même que le Gard et l’Hérault, en raison d’un épisode méditerranéen qui s’est avéré particulièrement intense.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/06/crue-a-porto-vecchio-un-couple-de-septuagenaires-emporte-par-des-eaux-torrentielles_6807847_3244.html",
-      "published_at": "2026-11-06T17:52:36+00:00"
     },
     {
       "id": "6b6cf4c6ae9b084b",
@@ -110,24 +137,6 @@
       "published_at": "2026-11-06T17:40:29+00:00"
     },
     {
-      "id": "6a82eebce7377451",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Bruxelles annonce une révision des directives sur la nature et une initiative sur l'eau",
-      "resume": "L'exécutif européen a présenté son programme de travail pour 2027. Au menu ? Le réexamen des directives Habitats et Oiseaux, suscitant les craintes des ONG, une initiative sur l'eau, et l'abandon de la directive sur les allégations environn",
-      "url": "https://www.actu-environnement.com/ae/news/commission-europeenne-programme-travail-2027-directives-nature-48776.php4#xtor=RSS-6",
-      "published_at": "2026-11-06T17:00:11+00:00"
-    },
-    {
-      "id": "5cc6b241359a51c2",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La Cour des comptes passe au crible la gestion du fonds Barnier",
-      "resume": "Face à des risques naturels plus fréquents et plus intenses, la Cour des comptes formule des recommandations sur la gestion du fonds Barnier, sa couverture territoriale et son financement face à l'adaptation au changement climatique.",
-      "url": "https://www.actu-environnement.com/ae/news/fonds-barnier-cour-comptes-risques-naturels-adaptation-changement-climatique-48775.php4#xtor=RSS-6",
-      "published_at": "2026-11-06T16:50:42+00:00"
-    },
-    {
       "id": "092126470a7ef86d",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -135,15 +144,6 @@
       "resume": "Pour 2027, les pouvoirs publics ne planchent actuellement que sur un seul appel d’offres destiné aux énergies renouvelables et dans un format inédit « super neutre ». Autrement dit, une compétition où toutes les typologies et les tailles se",
       "url": "https://www.greenunivers.com/2026/11/a-qui-profitera-lappel-doffres-super-neutre-pour-2027-438125/",
       "published_at": "2026-11-06T16:46:33+00:00"
-    },
-    {
-      "id": "be0b8802372ee5ad",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "COP 31 : la conférence climat s'ouvre dans un monde sous tension",
-      "resume": "La COP 31 s'ouvre lundi à Antalya en pleine crise énergétique, alors que les États-Unis ont quitté la Ccnucc, sous une présidence inédite partagée entre la Turquie et l'Australie. Un contexte qui fragilise la coopération, sans la rendre imp",
-      "url": "https://www.actu-environnement.com/ae/news/cop31-antalya-tensions-geopolitiques-climat-48774.php4#xtor=RSS-6",
-      "published_at": "2026-11-06T16:46:19+00:00"
     },
     {
       "id": "d514c2621e1d5429",
@@ -162,24 +162,6 @@
       "resume": "Cette phrase pose un jalon et il ne fallait pas la rater. Le tarif de réseau « couvre nos coûts de fonctionnement et le service de notre dette, mais ne finance pas le programme d’investissement ; nous pensons donc que nous aurons besoin de ",
       "url": "https://www.greenunivers.com/2026/11/rte-pret-a-diversifier-ses-sources-de-financement-438094/",
       "published_at": "2026-11-06T16:02:16+00:00"
-    },
-    {
-      "id": "f45e425a6fae4599",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Lumir Lapray détaille les recettes de la victoire contre Trump, transposables en France",
-      "resume": "La gauche a gagné aux États-Unis grâce à une mobilisation de terrain et des solutions concrètes, estime cette essayiste, qui appelle à s'inspirer de ce « community organizing » pour contrer l'extrême droite en France. En reprenant le contrô",
-      "url": "https://reporterre.net/Lumir-Lapray-detaille-les-recettes-de-la-victoire-contre-Trump-transposables-en-France",
-      "published_at": "2026-11-06T15:33:09+00:00"
-    },
-    {
-      "id": "ae5d671b020bf495",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les techniques des géants du tabac utilisées pour nous rendre dépendants aux aliments ultratransformés",
-      "resume": "Omniprésents dans les supermarchés, les produits ultratransformés se sont inspirés et ont été aidés par les géants du tabac. 60 Millions de consommateurs consacre une enquête au « lien historique » entre ces deux industries. Dans son nouvea",
-      "url": "https://reporterre.net/Les-techniques-des-geants-du-tabac-utilisees-pour-nous-rendre-dependants-aux-aliments",
-      "published_at": "2026-11-06T15:01:00+00:00"
     },
     {
       "id": "d237aeb191e7815f",
@@ -360,15 +342,6 @@
       "resume": "Energy storage provider Return announced that it has secured €835 million (USD$936 million) in portfolio […]",
       "url": "https://www.esgtoday.com/deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany",
       "published_at": "2026-11-05T16:11:11+00:00"
-    },
-    {
-      "id": "1f2dc8056ff54068",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Deloitte Launches New Solution to Help Companies Avoid Greenwashing",
-      "resume": "Deloitte announced the launch of Green Claims Navigator, a new AI-powered solution aimed at enabling […]",
-      "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-help-companies-avoid-greenwashing/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-launches-new-solution-to-help-companies-avoid-greenwashing",
-      "published_at": "2026-11-05T15:46:49+00:00"
     },
     {
       "id": "db936a46f155f227",
@@ -720,6 +693,33 @@
       "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences […] L’article Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil",
       "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
       "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux […] L’article Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil ",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la […] L’article Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthiq",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
+    },
+    {
+      "id": "f6ba6a33ef09a89a",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
+      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts […] L’article Le Haut conseil pour le climat publie un rapport sur les politiques climatiques d",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
+      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
