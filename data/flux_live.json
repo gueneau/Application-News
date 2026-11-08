@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-08T10:58:03.271820+00:00",
+  "generated_at": "2026-11-08T16:55:50.779008+00:00",
   "items": [
+    {
+      "id": "5f62802632e19f78",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
+      "resume": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrapped A beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from ",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
+      "published_at": "2026-11-08T15:00:43+00:00"
+    },
+    {
+      "id": "4383431f77ebf9b7",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+      "resume": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules t",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+      "published_at": "2026-11-08T13:00:40+00:00"
+    },
+    {
+      "id": "2289f2131cb81a45",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Nouvelle-Aquitaine, une première dans l’achat groupé d’énergie",
+      "resume": "Neuf entreprises se sont associées pour acheter de l’énergie décarbonée, à un prix prédéfini pendant quinze ans. Un modèle qui peut faire école.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/08/en-nouvelle-aquitaine-une-premiere-dans-l-achat-groupe-d-energie_6808429_3234.html",
+      "published_at": "2026-11-08T13:00:03+00:00"
+    },
     {
       "id": "83d6efe6ebd06964",
       "source": "ESG Today",
@@ -81,15 +108,6 @@
       "resume": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complicati",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
       "published_at": "2026-11-07T12:00:13+00:00"
-    },
-    {
-      "id": "2f0536ae0be1847f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP31 : trop grosses, trop lentes, inefficaces… Les conférences mondiales sur le climat peuvent-elles être réformées ?",
-      "resume": "La 31ᵉ Conférence des parties sur le climat s’ouvre lundi dans la station balnéaire d’Antalya, en Turquie. Si ces grands sommets annuels restent indispensables pour faire avancer la lutte contre le réchauffement climatique, de plus en plus ",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/07/cop31-trop-grosses-trop-lentes-inefficaces-les-conferences-mondiales-sur-le-climat-peuvent-elles-etre-reformees_6808253_3244.html",
-      "published_at": "2026-11-07T08:39:34+00:00"
     },
     {
       "id": "95b98c55dfb62f5b",
@@ -209,15 +227,6 @@
       "published_at": "2026-11-06T12:00:42+00:00"
     },
     {
-      "id": "ca6e8bbcc81ee717",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Loi méthane : les Vingt-Sept actent un report d'un an, le feuilleton continue - Les Echos",
-      "resume": "Loi méthane : les Vingt-Sept actent un report d'un an, le feuilleton continue Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcDRLLTNFV2V0Mnh1V05Pd0xoT0RLLTM3Um51ZVJDY1V2QXg1Z2V1QWhhdUw0TjhjZWZ4MjZiVW9ZeWVqbmZmQm13XzdBSWU3SndJcFBzbzJmOGNEbWhESGZlM0VrYmpfR1J0ZWJoc1BSOHVDTmtJLVJ6R19ZeGc4Y0ZjMnJqTXFYeVF6d3ZDNjdCYTRyTFZsU083d2xySlpSam9LOTFkeW8tSGZ3RGI4ZmZ2TTFQUm4zYzlHMklWdHZxX05rZWhrOGJBa2Q2bzVvZl9yR1cwXzhNTlF4cTc4?oc=5",
-      "published_at": "2026-11-06T11:10:43+00:00"
-    },
-    {
       "id": "6d5465bf36734086",
       "source": "Novethic",
       "categorie": "Presse",
@@ -281,6 +290,15 @@
       "published_at": "2026-11-06T07:35:09+00:00"
     },
     {
+      "id": "b376625f02346984",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "« Nous pourrions avoir des actionnaires chinois dans nos mines d'uranium » : les options stratégiques du patron d'Orano dans le nucléaire - Les Echos",
+      "resume": "« Nous pourrions avoir des actionnaires chinois dans nos mines d'uranium » : les options stratégiques du patron d'Orano dans le nucléaire Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbHhlS0JUS2VvY0kzUzloaFZoNkhFaDBKYTVpRnl1WkoxamtBdWF5SWRPc0dNXzlxVHlFZjNya2ZVbXdoQW9neEo5dlRTa3NZLVdzY0R6bm54clVWeE9kRG5EaTN3b3U3LWZVVzF2TXVmLWh0QjBRTnVYcjEwYldEeXJ3ZjlCb1gtTkd2QWJtd1RsbDFwaVhUbVlOaF9hNXJNQ3gtd29nNVl6UEttUU5Tc1lqQksxdlphMzBySDZOTnVuSG5GWk5fYnBSRXk5VVNHTzEzSWcwcVgxa1EtSjI5OTdDVDdObVJTVVVnZ3llQi1NZVBpUVhmYk1pWVU5bVNaZkxYRndHQkNOYVhpMzhZckZYRmVDMzliSkd6b1Z2TzZNR0JWSTVGOTJn?oc=5",
+      "published_at": "2026-11-06T06:25:08+00:00"
+    },
+    {
       "id": "bc520c144b8a3a31",
       "source": "Novethic",
       "categorie": "Presse",
@@ -317,15 +335,6 @@
       "published_at": "2026-11-05T17:04:36+00:00"
     },
     {
-      "id": "abeb7e70bf28b294",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "How Democrats used the midterms to turn affordability concerns into ‘green populism’",
-      "resume": "From energy prices to datacenters, climate became a cost-of-living issue – and a winning one Q&A: Ask your questions about Democrats’ win in the midterms Climate-forward Democrats swept into power on Tuesday night as a blue tsunami flipped ",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-climate-crisis-in-midterm-election-results",
-      "published_at": "2026-11-05T17:00:28+00:00"
-    },
-    {
       "id": "f0eb0e24cd349734",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -351,15 +360,6 @@
       "resume": "Les mobilisations lycéennes cachent aussi un sentiment de déclassement économique et professionnel - SYLVAIN COURROS _ HANS LUCAS _ HANS LUCAS VIA AFP La colère ne faiblit pas. Malgré les vacances et la reprise des classes, les lycéens et l",
       "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/mobilisations-lyceens-inquietude-insertion-emploi-precarisation",
       "published_at": "2026-11-05T13:06:15+00:00"
-    },
-    {
-      "id": "46c61154f1737233",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Trump takes 500 actions to weaken cancer protections, new report says",
-      "resume": "Natural Resources Defense Council shows how federal rules changes will spike up public’s exposure to carcinogens Amid a surge in early onset cancer , the Trump administration has taken more than 500 actions to systematically dismantle prote",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
-      "published_at": "2026-11-05T12:00:23+00:00"
     },
     {
       "id": "5d9a5b661aa5f224",
