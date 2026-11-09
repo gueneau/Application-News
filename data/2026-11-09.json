@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
-  "generated_at": "07:12",
-  "elapsed_seconds": 420,
+  "generated_at": "13:14",
+  "elapsed_seconds": 515,
   "errors": [],
   "stats": {
     "jo_analyses": 13,
@@ -9,21 +9,54 @@
     "depts_restriction": 79
   },
   "pipeline_meta": {
-    "run_at": "2026-11-09T07:12:42",
+    "run_at": "2026-11-09T13:14:22",
     "sources": {
       "JORF": 0,
-      "RSS": 0,
+      "RSS": 3,
       "VigiEau": 79,
       "AN Agenda": 8
     },
     "errors": [
-      "SOURCE VIDE — JORF : 0 textes retenus",
-      "SOURCE VIDE — RSS : 0 articles retenus"
+      "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 39,
-    "llm_seconds": 34.6
+    "llm_calls": 49,
+    "llm_seconds": 45.5
   },
-  "items": [],
+  "items": [
+    {
+      "id": "67e616efeff6",
+      "source": "Actu-Environnement",
+      "categorie": "Eau",
+      "titre": "Nappes : la vidange se prolonge de manière inhabituelle",
+      "resume": "Selon le bulletin du BRGM au 1er novembre 2026, la vidange des nappes phréatiques se prolonge en raison de faibles pluies en octobre, avec seulement 27 % des nappes en recharge.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.actu-environnement.com/ae/news/nappes-phreatiques-vidange-novembre-inhabituelle-48778.php4#xtor=RSS-6",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "cd1db8095741",
+      "source": "Le Monde Planète",
+      "categorie": "Eau",
+      "titre": "La situation des nappes phréatiques en France reste « très préoccupante », malgré une pluviométrie conforme à la normale en octobre",
+      "resume": "Malgré une pluviométrie conforme en octobre, la situation des nappes phréatiques reste très préoccupante en France, avec des niveaux très bas dans plusieurs régions.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/11/09/la-situation-des-nappes-phreatiques-en-france-reste-tres-preoccupante-malgre-une-pluviometrie-conforme-a-la-normale-en-octobre_6808642_3244.html",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "080a60393afd",
+      "source": "ESG Today",
+      "categorie": "Émissions",
+      "titre": "Credible Scope 3 Reporting Starts with Showing Your Work",
+      "resume": "L'analyse de plus de 56 000 entreprises montre que seulement 40 % déclarent leurs émissions de Scope 3 et 4 % utilisent des données primaires fournisseurs, entraînant potentiellement une sous-estimation du bilan carbone par un facteur allant jusqu'à trois.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.esgtoday.com/credible-scope-3-reporting-starts-with-showing-your-work/?utm_source=rss&utm_medium=rss&utm_campaign=credible-scope-3-reporting-starts-with-showing-your-work",
+      "date": "2026-11-09"
+    }
+  ],
   "restrictions_eau": [
     {
       "dept_code": "22",
@@ -73,11 +106,6 @@
     {
       "dept_code": "16",
       "dept_nom": "Charente",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "40",
-      "dept_nom": "Landes",
       "niveau": "crise"
     },
     {
@@ -166,13 +194,18 @@
       "niveau": "crise"
     },
     {
+      "dept_code": "69",
+      "dept_nom": "Rhône",
+      "niveau": "crise"
+    },
+    {
       "dept_code": "01",
       "dept_nom": "Ain",
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "39",
+      "dept_nom": "Jura",
       "niveau": "crise"
     },
     {
@@ -246,6 +279,11 @@
       "niveau": "alerte renforcée"
     },
     {
+      "dept_code": "40",
+      "dept_nom": "Landes",
+      "niveau": "alerte renforcée"
+    },
+    {
       "dept_code": "64",
       "dept_nom": "Pyrénées-Atlantiques",
       "niveau": "alerte renforcée"
@@ -298,11 +336,6 @@
     {
       "dept_code": "42",
       "dept_nom": "Loire",
-      "niveau": "alerte renforcée"
-    },
-    {
-      "dept_code": "39",
-      "dept_nom": "Jura",
       "niveau": "alerte renforcée"
     },
     {
