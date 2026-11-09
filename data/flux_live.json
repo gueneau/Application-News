@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-11-09T00:26:46.476942+00:00",
+  "generated_at": "2026-11-09T06:59:38.150714+00:00",
   "items": [
+    {
+      "id": "dbded5c5b78d714d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "L'angoisse des factures d'énergie explose en France",
+      "resume": "En un an, les prix de l'énergie ont grimpé de 24 %. Un Français sur trois éprouve des difficultés à payer ses factures d'énergie, soit deux fois plus qu'il y a six ans. De plus en plus de ménages se trouvent dans une impasse financière, fac",
+      "url": "https://reporterre.net/L-angoisse-des-factures-d-energie-explose-en-France",
+      "published_at": "2026-11-09T06:32:00+00:00"
+    },
+    {
+      "id": "019bc7b7172cbf81",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Chiesi réduit son empreinte carbone grâce à l'écodesign et l'autoproduction - Les Echos",
+      "resume": "Chiesi réduit son empreinte carbone grâce à l'écodesign et l'autoproduction Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDJfR0I0QkdQellCcVlXWWVWQmVzOU9WU0hZeTExNnZFWFJZUEZaWUVxcnVLdnFRQmY5UGFraW45ZFpLb0lxbXFrWDY2d0pnX3M0MGFKLU1SNTJ2dEIzM0pTaU5oMWtXMnNJcXB3VlVZRWhwZGFjTFU1bHFvT1FJUHZET1p1LWh4QWpIMC1rZ3RwbEpEbjNtVGdkNURTb181eDJSa08wZlNTVUxvWFBHOU9PLVNTdm5hSjV1Mw?oc=5",
+      "published_at": "2026-11-09T06:31:00+00:00"
+    },
+    {
+      "id": "867a5cdacf0360c4",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "COP31 : qu'attendre de ce nouveau sommet pour le climat ?",
+      "resume": "Fin des combustibles fossiles, versement des contributions à l'adaptation climatique, limiter le réchauffement... La COP31 qui s'ouvre en Turquie doit parvenir à passer des grands discours à une mise en œuvre concrète des engagements des pa",
+      "url": "https://reporterre.net/COP31-qu-attendre-de-ce-nouveau-sommet-pour-le-climat",
+      "published_at": "2026-11-09T06:30:00+00:00"
+    },
+    {
+      "id": "2fb574233457e82b",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+      "resume": "US government will have no official presence at UN’s annual climate summit, this year’s Cop31 held in Antalya, Turkey The US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal ",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+      "published_at": "2026-11-09T06:00:01+00:00"
+    },
+    {
+      "id": "becd63a428308b24",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "COP31 : les entreprises attendent un électrochoc mondial sur l’électrification",
+      "resume": "La COP31 d'Antalya sur le climat s'ouvre le 9 novembre 2026. @Photo par Anadolu via AFP Electrify baby electrify. Tel pourrait être le slogan de la COP31 Climat, qui s’ouvre ce lundi 9 novembre à Antalya, en Turquie, co-organisée avec l’Aus",
+      "url": "https://www.novethic.fr/environnement/climat/cop31-les-entreprises-attendent-un-electrochoc-mondial-sur-lelectrification",
+      "published_at": "2026-11-09T05:45:24+00:00"
+    },
+    {
+      "id": "bb9158c064fd7f8f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pourquoi n’est-on pas encore sorti de la sécheresse ?",
+      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/09/pourquoi-n-est-on-pas-encore-sorti-de-la-secheresse_6808617_3244.html",
+      "published_at": "2026-11-09T05:30:05+00:00"
+    },
+    {
+      "id": "2032b204c9b45341",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pollution aux pesticides : en restreignant la portée d’une taxe, le gouvernement a privé les agences de l’eau de plus de 90 millions d’euros de redevance",
+      "resume": "En consultant la liste des substances soumises à la redevance pour pollutions diffuses, reversée aux agences et offices de l’eau, l’association Générations futures s’est rendu compte que les taux appliqués aux substances les plus problémati",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/09/pollution-aux-pesticides-en-restreignant-la-portee-d-une-taxe-le-gouvernement-a-prive-les-agences-de-l-eau-de-plus-de-90-millions-d-euros-de-redevance_6808615_3244.html",
+      "published_at": "2026-11-09T05:00:56+00:00"
+    },
+    {
+      "id": "18cc7ef13cd39c6a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP31 : la Turquie et l’Australie, deux pays fortement dépendants du charbon, aux manettes du principal sommet sur le climat",
+      "resume": "Pour la première fois, la présidence de la conférence mondiale, qui s’ouvre lundi à Antalya, est partagée entre deux Etats. Ces deux derniers ont jusqu’ici évité d’aborder la question des énergies fossiles, principales responsables du récha",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/09/cop31-la-turquie-et-l-australie-deux-pays-fortement-dependants-du-charbon-aux-manettes-du-principal-sommet-sur-le-climat_6808608_3244.html",
+      "published_at": "2026-11-09T05:00:32+00:00"
+    },
+    {
+      "id": "aec0990c5e69a853",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Produire en France : la transition énergétique, levier de rentabilité pour Osborn Metals - Les Echos",
+      "resume": "Produire en France : la transition énergétique, levier de rentabilité pour Osborn Metals Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRFZ1NkFOcVVlUjc1RUNsMnR0eEY5dmd0NGhVZTA5MC1Wdm1kX01xUV92YlVoOHExdXhCdVBnZ0Z3a0g2VlhQX3FSdzk4XzdyQ04tS0Y5RHRNekp1dmdwU1pPTDRSQldfT1BGS2x4OHp6enR1aXFFS3J1MDg4clVabXYtdWdNTjlValNuQ0ZaRWxDdWJld213S2wyYS14VVk1UXFDV0RYT2t3MU9KNVRNVXhIUUU3TnBFeWs5U3AzRHhXZ2VoYzJyZnZQcmVncjBvNXNsZm1tbWpjVmJwd0t3eXhXRV96OFZPbGlmU0RYUXozQ3ht?oc=5",
+      "published_at": "2026-11-09T05:00:09+00:00"
+    },
+    {
+      "id": "8105ae27444ea7c0",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dérèglement climatique : que peut-on espérer de la COP31 ?",
+      "resume": "La COP31 s’ouvre le 9 novembre à Antalya, en Turquie, sur fond de crise énergétique et de conflits. Quels sont les enjeux de cette conférence sur le climat ? Parviendra-t-elle à envoyer un message suffisamment fort pour avoir un écho mondia",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/11/09/dereglement-climatique-que-peut-on-esperer-de-la-cop31_6808566_5463015.html",
+      "published_at": "2026-11-09T04:00:05+00:00"
+    },
     {
       "id": "e060f5b82ab4120e",
       "source": "Le Monde Planète",
@@ -14,8 +104,8 @@
       "id": "eba5691301a98517",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
-      "resume": "La 31ᵉ conférence mondiale sur le climat s’ouvre lundi à Antalya. Sur fond de crise énergétique et de tensions géopolitiques, ces négociations internationales doivent aplanir les obstacles qui freinent la décarbonation des activités humaine",
+      "titre": "La COP31, qui s’ouvre en Turquie, vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
+      "resume": "Sur fond de crise énergétique et de tensions géopolitiques, ces négociations internationales doivent aplanir les obstacles qui freinent la décarbonation des activités humaines.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
       "published_at": "2026-11-08T17:00:00+00:00"
     },
@@ -36,15 +126,6 @@
       "resume": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules t",
       "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
       "published_at": "2026-11-08T13:00:40+00:00"
-    },
-    {
-      "id": "2289f2131cb81a45",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Nouvelle-Aquitaine, une première dans l’achat groupé d’énergie",
-      "resume": "Neuf entreprises se sont associées pour acheter de l’énergie décarbonée, à un prix prédéfini pendant quinze ans. Un modèle qui peut faire école.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/08/en-nouvelle-aquitaine-une-premiere-dans-l-achat-groupe-d-energie_6808429_3234.html",
-      "published_at": "2026-11-08T13:00:03+00:00"
     },
     {
       "id": "83d6efe6ebd06964",
@@ -74,33 +155,6 @@
       "published_at": "2026-11-08T06:30:00+00:00"
     },
     {
-      "id": "55f70dd58dc3a05a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Au Japon, un séisme de magnitude 5,7 fait plusieurs blessés",
-      "resume": "Le tremblement de terre s’est produit dans la nuit, dans l’ouest de la préfecture de Shizuoka, à environ 200 kilomètres à l’ouest de Tokyo.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/08/au-japon-un-seisme-de-magnitude-5-7-fait-plusieurs-blesses_6808408_3244.html",
-      "published_at": "2026-11-08T06:25:19+00:00"
-    },
-    {
-      "id": "9b79c30cbd95458e",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le « super El Niño » inquiète les horticulteurs kényans, qui fournissent un tiers des fleurs importées de l’UE",
-      "resume": "Ce pays d’Afrique de l’Est fournit aux étals européens de nombreux produits agricoles et horticoles. Les producteurs se préparent à un El Niño d’une puissance peut-être jamais vue.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/08/le-super-el-nino-inquiete-les-horticulteurs-kenyans-qui-fournissent-un-tiers-des-fleurs-importees-de-l-ue_6808402_3234.html",
-      "published_at": "2026-11-08T05:25:07+00:00"
-    },
-    {
-      "id": "96307368f76c3194",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’urine, nouvelle ressource : « On veut s’engager dans la révolution du pipi utile »",
-      "resume": "Dans un cadre dérogatoire, en l’absence de réglementations, partout en France les projets de valorisation des excreta humains fleurissent. A la clé, des bénéfices environnementaux et économiques non négligeables, une fois le frein psycholog",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/l-urine-nouvelle-ressource-on-veut-s-engager-dans-la-revolution-du-pipi-utile_6808399_4497916.html",
-      "published_at": "2026-11-08T05:00:17+00:00"
-    },
-    {
       "id": "fad8b3c95e4859a4",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -128,15 +182,6 @@
       "published_at": "2026-11-07T06:30:00+00:00"
     },
     {
-      "id": "ac6bccd06605d033",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« La montagne est éventrée » : en Toscane, les dégâts du business du marbre",
-      "resume": "Le marbre de Carrare, en Toscane, est connu dans le monde entier pour sa pureté exceptionnelle. Longtemps restée artisanale, sa production s'est intensifiée. Désormais, la pierre de luxe est extraite aux dépens de l'environnement et des hab",
-      "url": "https://reporterre.net/La-montagne-est-eventree-en-Toscane-les-degats-du-business-du-marbre",
-      "published_at": "2026-11-07T06:30:00+00:00"
-    },
-    {
       "id": "e34f22575277d0a3",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -144,15 +189,6 @@
       "resume": "Officials expected to investigate whether super El Niño storms in US south-west damaged the Alien Throne spires Undulating, gravity-defying rock spires are one of the most magical parts of the landscape of the US south-west. But after torre",
       "url": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
       "published_at": "2026-11-06T19:23:03+00:00"
-    },
-    {
-      "id": "6b6cf4c6ae9b084b",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Poulets labellisés « Bien-être animal » : des associations animalistes attaquent les marques en justice",
-      "resume": "LDC , leader français de la volaille, va devoir s'expliquer devant le juge, deux mois à peine après le lancement de son logo « Bien-être animal - Filière agricole engagée ». L'Oaba (Œuvre d'assistance aux bêtes d'abattoirs) et Welfarm ont a",
-      "url": "https://reporterre.net/Poulets-labellises-Bien-etre-animal-des-associations-animalistes-attaquent-les-marques-en",
-      "published_at": "2026-11-06T17:40:29+00:00"
     },
     {
       "id": "092126470a7ef86d",
@@ -218,15 +254,6 @@
       "published_at": "2026-11-06T12:34:08+00:00"
     },
     {
-      "id": "616376c948c26079",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
-      "resume": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf population Idaho officials paid hunters thousands of dollars for killing a dozen newborn wolf pups this spring, including what app",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
-      "published_at": "2026-11-06T12:00:42+00:00"
-    },
-    {
       "id": "6d5465bf36734086",
       "source": "Novethic",
       "categorie": "Presse",
@@ -288,15 +315,6 @@
       "resume": "Climat : soyons réalistes, donnons un coût au carbone ! Les Echos",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQkZXY2x0NjFMMGg1QlNDc2FDWTEwbjFfN3pxSVVCemdZOWRKWlo2cGNwVDhLQU9LZGFVV0p3eGpfbXh3aUY1VF82LUV3aGFmQlhlMWhWdHpZc280MHV5R3UzYjZvNmlSNXBLSVczSjdQNVM4TGxOS3pkbXRKYlNzNTJOWHdmSjAwbDJDaEFEMWR1TENpalk4eTZzSGhQUi05a2ZmUEY0WG5BMUdyNUxtNg?oc=5",
       "published_at": "2026-11-06T07:35:09+00:00"
-    },
-    {
-      "id": "b376625f02346984",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "« Nous pourrions avoir des actionnaires chinois dans nos mines d'uranium » : les options stratégiques du patron d'Orano dans le nucléaire - Les Echos",
-      "resume": "« Nous pourrions avoir des actionnaires chinois dans nos mines d'uranium » : les options stratégiques du patron d'Orano dans le nucléaire Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbHhlS0JUS2VvY0kzUzloaFZoNkhFaDBKYTVpRnl1WkoxamtBdWF5SWRPc0dNXzlxVHlFZjNya2ZVbXdoQW9neEo5dlRTa3NZLVdzY0R6bm54clVWeE9kRG5EaTN3b3U3LWZVVzF2TXVmLWh0QjBRTnVYcjEwYldEeXJ3ZjlCb1gtTkd2QWJtd1RsbDFwaVhUbVlOaF9hNXJNQ3gtd29nNVl6UEttUU5Tc1lqQksxdlphMzBySDZOTnVuSG5GWk5fYnBSRXk5VVNHTzEzSWcwcVgxa1EtSjI5OTdDVDdObVJTVVVnZ3llQi1NZVBpUVhmYk1pWVU5bVNaZkxYRndHQkNOYVhpMzhZckZYRmVDMzliSkd6b1Z2TzZNR0JWSTVGOTJn?oc=5",
-      "published_at": "2026-11-06T06:25:08+00:00"
     },
     {
       "id": "bc520c144b8a3a31",
@@ -378,24 +396,6 @@
       "resume": "Du Texas à l'Ohio, les républicains ont connu une soirée électorale catastrophique. Quel sera l'impact de ces résultats sur l'Europe ?",
       "url": "https://www.politico.eu/article/midterms-5-points-que-leurope-doit-surveiller-apres-lecrasante-victoire-des-democrates-face-a-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-04T17:55:27+00:00"
-    },
-    {
-      "id": "8b52e6e0e5e717ee",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Californie : les milliardaires remportent leur bras de fer contre la taxe sur les grandes fortunes",
-      "resume": "Les entreprises de la Silicon Valley se sont opposées à la taxe sur les milliardaires. @Maarten van den Heuvel-unsplash Les milliardaires californiens peuvent dormir sur leurs deux oreilles. La \"proposition 40\" qui était soumise au vote en ",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/californie-les-milliardaires-remportent-leur-bras-de-fer-contre-la-taxe-sur-les-grandes-fortunes",
-      "published_at": "2026-11-04T14:01:08+00:00"
-    },
-    {
-      "id": "a9f310ecfa762b7e",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "« Paris et Berlin peuvent démontrer aux sceptiques que le marché carbone sait concilier climat et compétitivité » - Les Echos",
-      "resume": "« Paris et Berlin peuvent démontrer aux sceptiques que le marché carbone sait concilier climat et compétitivité » Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa21uQkc4cWRkYlZzLU44TEd3NVZtQmQ3SjdhSTJtVHJMVHRQMXlqMS14ajhBbDNkYXJ5U3R0a2p0Vl9LaHVCcHNwTGc3MU5MZ1R4Qk52bkwwV1VXQjNWM3FfN3kxVUQ2WXhCUjFXX2F0NzBoN0xBcWJIUHVHZWpLTV90bEVKUHdrdXVRYUhwTTFxVENPdXREdWpURlI2T3VhUENsUl9JMTh4VXdhRUVKdmFVblVDZGtRbnNpT1pMRWpzeG1TZW9RaENTRlVnNmhWcG9MUDBWZ1RMeDdsVHFhbWFaTlB3NUNuTWI2NlhZLWRwRzA?oc=5",
-      "published_at": "2026-11-04T12:20:09+00:00"
     },
     {
       "id": "f87048a618731e47",
