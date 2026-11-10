@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
-  "generated_at": "07:17",
-  "elapsed_seconds": 579,
+  "generated_at": "13:19",
+  "elapsed_seconds": 569,
   "errors": [],
   "stats": {
     "jo_analyses": 11,
@@ -9,20 +9,31 @@
     "depts_restriction": 79
   },
   "pipeline_meta": {
-    "run_at": "2026-11-10T07:17:30",
+    "run_at": "2026-11-10T13:19:21",
     "sources": {
       "JORF": 0,
-      "RSS": 10,
+      "RSS": 14,
       "VigiEau": 79,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 53,
-    "llm_seconds": 104.3
+    "llm_calls": 39,
+    "llm_seconds": 283.4
   },
   "items": [
+    {
+      "id": "f708c5c57f4d",
+      "source": "Politico Energy EU",
+      "categorie": "Énergie",
+      "titre": "COP31 : l’UE soutiendra l’objectif d’électrification",
+      "resume": "L'Union européenne s'engage à soutenir l'objectif d'électrification mondiale à 35 % d'ici 2035, ce qui peut influencer les décisions d'ABC concernant la transition de sa flotte vers des véhicules électriques.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.politico.eu/article/cop31-lue-soutiendra-lobjectif-delectrification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "date": "2026-11-10"
+    },
     {
       "id": "db28762d729a",
       "source": "Contexte Environnement",
@@ -32,6 +43,28 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.contexte.com/fr/article/energie/reduction-des-emissions-lue-face-au-risque-dune-sortie-de-route_284327?source=rss",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "9197ea18fdda",
+      "source": "Le Monde Planète",
+      "categorie": "Énergie",
+      "titre": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, dans le sillage de la guerre au Moyen-Orient",
+      "resume": "Augmentation moyenne de la facture gaz de 11,8 % en 2026, soit 143 € de plus, selon la Commission de régulation de l’énergie.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "cbd26f64252e",
+      "source": "Le Monde Planète",
+      "categorie": "Environnement",
+      "titre": "Les émissions de CO₂ liées aux énergies fossiles en très légère baisse dans le monde, un signal encourageant mais insuffisant",
+      "resume": "Les émissions de CO₂ liées aux énergies fossiles devraient baisser de 0,4 % en 2026, indiquant une légère amélioration mondiale grâce aux renouvelables et à la crise au Moyen‑Orient.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/11/10/les-emissions-de-co-liees-aux-energies-fossiles-en-tres-legere-baisse-dans-le-monde-un-signal-encourageant-mais-insuffisant_6808774_3244.html",
       "date": "2026-11-10"
     },
     {
@@ -68,6 +101,28 @@
       "date": "2026-11-09"
     },
     {
+      "id": "7abd1a44f341",
+      "source": "GreenUnivers",
+      "categorie": "Énergie",
+      "titre": "Enedis généralise les nouvelles heures creuses",
+      "resume": "Enedis généralise une nouvelle répartition des heures pleines et heures creuses après un test à grande échelle auprès de 1,7 million de foyers.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.greenunivers.com/2026/11/enedis-generalise-les-nouvelles-heures-creuses-438313/",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "b64ca834f40e",
+      "source": "GreenUnivers",
+      "categorie": "Environnement",
+      "titre": "Les projets que va favoriser la deuxième enchère européenne sur la chaleur",
+      "resume": "L’article annonce la deuxième enchère européenne sur la chaleur industrielle, soulignant le soutien financier de l’UE aux projets de production ou de stockage de chaleur, ce qui constitue une évolution de la politique énergétique pouvant influencer les décisions d’investissement des clients d’ABC.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.greenunivers.com/2026/11/les-projets-que-va-favoriser-la-deuxieme-enchere-europeenne-sur-la-chaleur-437550/",
+      "date": "2026-11-09"
+    },
+    {
       "id": "67e616efeff6",
       "source": "Actu-Environnement",
       "categorie": "Eau",
@@ -87,17 +142,6 @@
       "pourquoi": "",
       "criticite": 1,
       "url": "https://www.actu-environnement.com/ae/news/biomethane-mecanisme-mise-en-relation-commission-europeenne-48777.php4#xtor=RSS-6",
-      "date": "2026-11-09"
-    },
-    {
-      "id": "7abd1a44f341",
-      "source": "GreenUnivers",
-      "categorie": "Énergie",
-      "titre": "Enedis généralise les nouvelles heures creuses",
-      "resume": "Enedis généralise une nouvelle répartition des heures pleines et heures creuses après un test à grande échelle auprès de 1,7 million de foyers.",
-      "pourquoi": "",
-      "criticite": 1,
-      "url": "https://www.greenunivers.com/2026/11/enedis-generalise-les-nouvelles-heures-creuses-438313/",
       "date": "2026-11-09"
     },
     {
@@ -183,11 +227,6 @@
     {
       "dept_code": "16",
       "dept_nom": "Charente",
-      "niveau": "crise"
-    },
-    {
-      "dept_code": "40",
-      "dept_nom": "Landes",
       "niveau": "crise"
     },
     {
@@ -281,13 +320,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "69",
-      "dept_nom": "Rhône",
+      "dept_code": "39",
+      "dept_nom": "Jura",
       "niveau": "crise"
     },
     {
-      "dept_code": "39",
-      "dept_nom": "Jura",
+      "dept_code": "69",
+      "dept_nom": "Rhône",
       "niveau": "crise"
     },
     {
@@ -311,13 +350,13 @@
       "niveau": "crise"
     },
     {
-      "dept_code": "12",
-      "dept_nom": "Aveyron",
+      "dept_code": "81",
+      "dept_nom": "Tarn",
       "niveau": "crise"
     },
     {
-      "dept_code": "81",
-      "dept_nom": "Tarn",
+      "dept_code": "12",
+      "dept_nom": "Aveyron",
       "niveau": "crise"
     },
     {
@@ -361,6 +400,11 @@
       "niveau": "alerte renforcée"
     },
     {
+      "dept_code": "40",
+      "dept_nom": "Landes",
+      "niveau": "alerte renforcée"
+    },
+    {
       "dept_code": "64",
       "dept_nom": "Pyrénées-Atlantiques",
       "niveau": "alerte renforcée"
@@ -383,11 +427,6 @@
     {
       "dept_code": "60",
       "dept_nom": "Oise",
-      "niveau": "alerte renforcée"
-    },
-    {
-      "dept_code": "95",
-      "dept_nom": "Val-d'Oise",
       "niveau": "alerte renforcée"
     },
     {
@@ -458,6 +497,11 @@
     {
       "dept_code": "78",
       "dept_nom": "Yvelines",
+      "niveau": "alerte"
+    },
+    {
+      "dept_code": "95",
+      "dept_nom": "Val-d'Oise",
       "niveau": "alerte"
     },
     {
