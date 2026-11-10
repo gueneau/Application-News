@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-11-09T17:18:25.962027+00:00",
+  "generated_at": "2026-11-10T00:47:36.620887+00:00",
   "items": [
+    {
+      "id": "db17fbf13386b1a6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Heures creuses d’électricité : Enedis adapte les plages horaires selon les saisons pour 9,3 millions de clients",
+      "resume": "A partir du 1ᵉʳ décembre, le gestionnaire du réseau de distribution d’électricité mettra en place la deuxième phase de la réforme des heures creuses, lancée il y a un an, dans le but de déplacer la consommation au moment où la production es",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/10/heures-creuses-d-electricite-enedis-adapte-les-plages-horaires-selon-les-saisons-pour-9-3-millions-de-clients_6808707_3244.html",
+      "published_at": "2026-11-09T23:16:16+00:00"
+    },
+    {
+      "id": "6b512717de9bf3b2",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Coca, Nestlé, Pepsi... Comment les banques françaises financent la pollution plastique",
+      "resume": "C'est le premier du genre. Un rapport publié le 10 novembre par les collectifs Break Free From Plastic, Facing Finance et FairFin comptabilise l'ampleur des financements attribués par les grandes banques à quatre entreprises leader de l'agr",
+      "url": "https://reporterre.net/Coca-Nestle-Pepsi-Comment-les-banques-francaises-financent-la-pollution-plastique",
+      "published_at": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "id": "93961751cb50040b",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
+      "resume": "Environmentalists torn over procedural vote to boost infrastructure projects but weaken environmental laws It’s a bill that would make it easier to build big infrastructure projects in America – everything from fossil fuel pipelines to tran",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+      "published_at": "2026-11-09T18:42:32+00:00"
+    },
     {
       "id": "2e89268f96b8bd0e",
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "« C’est inédit » : un syndicat d’énergie devient fournisseur d’électricité",
-      "resume": "Le syndicat départemental d’énergie d’Ille-et-Vilaine (SDE 35) est depuis quelques semaines fournisseur d’électricité. Une première en France pour un EPCI de ce type chargé de l’organisation de la distribution de l’énergie. L’initiative pou",
+      "resume": "Le syndicat départemental d’énergie d’Ille-et-Vilaine (SDE 35) est depuis quelques semaines fournisseur d’électricité. Une première en France pour un EPCI de ce type chargé de l’organisation de la distribution de l’énergie. L’initiative L’a",
       "url": "https://www.greenunivers.com/2026/11/cest-inedit-un-syndicat-denergie-devient-fournisseur-delectricite-438272/",
       "published_at": "2026-11-09T16:55:47+00:00"
     },
@@ -162,15 +189,6 @@
       "resume": "Faut-il laisser plus de temps aux importateurs d'énergies fossiles pour appliquer les règles européennes sur le méthane ? Le Parlement et les États membres acquiescent, mais pas dans les mêmes proportions : trois ans pour les premiers, un a",
       "url": "https://www.actu-environnement.com/ae/news/reglement-methane-report-parlement-conseil-48779.php4#xtor=RSS-6",
       "published_at": "2026-11-09T14:13:58+00:00"
-    },
-    {
-      "id": "acf2466a32807b05",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "En Guyane, la justice suspend l'exploitation de biomasse au nom de la protection des espèces",
-      "resume": "Saisi par des associations écologistes, le tribunal administratif de Cayenne a jugé que l'exploitation des arbres immergés de Petit Saut par l'entreprise Triton portait atteinte à des espèces protégées. La préfecture a deux mois pour demand",
-      "url": "https://reporterre.net/C-est-une-tres-bonne-nouvelle-en-Guyane-la-justice-stoppe-un-projet-a-biomasse-au-nom-de",
-      "published_at": "2026-11-09T14:12:37+00:00"
     },
     {
       "id": "d4c5ad9badc2c897",
@@ -335,15 +353,6 @@
       "published_at": "2026-11-09T05:30:04+00:00"
     },
     {
-      "id": "2032b204c9b45341",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pollution aux pesticides : en restreignant la portée d’une taxe, le gouvernement a privé les agences de l’eau de plus de 90 millions d’euros de redevance",
-      "resume": "En consultant la liste des substances soumises à la redevance pour pollutions diffuses, reversée aux agences et offices de l’eau, l’association Générations futures s’est rendu compte que les taux appliqués aux substances les plus problémati",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/09/pollution-aux-pesticides-en-restreignant-la-portee-d-une-taxe-le-gouvernement-a-prive-les-agences-de-l-eau-de-plus-de-90-millions-d-euros-de-redevance_6808615_3244.html",
-      "published_at": "2026-11-09T05:00:42+00:00"
-    },
-    {
       "id": "aec0990c5e69a853",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -396,15 +405,6 @@
       "resume": "Pour 2027, les pouvoirs publics ne planchent actuellement que sur un seul appel d’offres destiné aux énergies renouvelables et dans un format inédit « super neutre ». Autrement dit, une compétition où toutes les typologies et les tailles se",
       "url": "https://www.greenunivers.com/2026/11/a-qui-profitera-lappel-doffres-super-neutre-pour-2027-438125/",
       "published_at": "2026-11-06T16:46:33+00:00"
-    },
-    {
-      "id": "d237aeb191e7815f",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "In Alaska’s capital, food comes by water, air or, most often, community sharing",
-      "resume": "Juneau has little arable land, a short growing season and few farmers – and deep traditions of residents and the land feeding each other Forty miles north-west of Alaska’s capital, the highway just ends. At Glacier Highway’s most northern p",
-      "url": "https://www.theguardian.com/environment/2026/nov/06/alaska-juneau-food-access",
-      "published_at": "2026-11-06T15:00:46+00:00"
     },
     {
       "id": "83cffd4f165687c1",
