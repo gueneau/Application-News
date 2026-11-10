@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-11-10T00:47:36.620887+00:00",
+  "generated_at": "2026-11-10T07:56:06.382371+00:00",
   "items": [
+    {
+      "id": "80a047326e8b2629",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Raphaël Glucksmann et Yannick Jadot s'allient sur le dos de la lutte antinucléaire",
+      "resume": "Raphaël Glucksmann a dévoilé le 9 novembre la première partie de son programme écologique. Il a confié à Yannick Jadot le soin d'imaginer ces mesures… même si les deux hommes n'ont finalement pas la même opinion sur le volet énergétique. Ar",
+      "url": "https://reporterre.net/Raphael-Glucksmann-et-Yannick-Jadot-s-allient-sur-le-dos-de-la-lutte-antinucleaire",
+      "published_at": "2026-11-10T07:27:42+00:00"
+    },
+    {
+      "id": "f27b470de289dffb",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Aurea confirme son retour à la croissance au troisième trimestre - Investir Les Echos",
+      "resume": "Aurea confirme son retour à la croissance au troisième trimestre Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOW1RZ1BZdUJZcGRMcWs0ZjkyZ0p3azZtc2RhbFdwWEFaTHM3YzVKUWQ2UTJIdWpuRTFMUDNidjY5ckh4bzZSb09Ic19xbF9mMkRUWEI0ZlV1SXVIYUlKRzRpdkhtVVFPaDhZeFppSWVrYUVFWWs5d1pKVHh1dXFicVlmNnlXMWlqYnBnbnJrOUg1LUJIbmZFXzR6M1NIY19sd0x3NnNvYUs4REVFU3VMZzVrS1V3dlV6NmtVOWd6dlpMOEVSTVZaaGxvTDYtLVB3LU1B?oc=5",
+      "published_at": "2026-11-10T07:00:34+00:00"
+    },
+    {
+      "id": "e62bfc0b25d56e87",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Réduction des émissions : l’UE face au risque d’une sortie de route",
+      "resume": "Dans son dernier rapport d’étape, la Commission européenne tire la sonnette d’alarme face au ralentissement de la baisse des émissions de gaz à effet de serre. Alors que les transports, le bâtiment et l’agriculture sont à la traîne, les déb",
+      "url": "https://www.contexte.com/fr/article/energie/reduction-des-emissions-lue-face-au-risque-dune-sortie-de-route_284327?source=rss",
+      "published_at": "2026-11-10T07:00:00+00:00"
+    },
+    {
+      "id": "2de5247f5502fff2",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Un an après l'assassinat de son frère, l'écologiste Amine Kessaci défie toujours le narcotrafic",
+      "resume": "Un an après l'assassinat de son frère Mehdi, l'élu écologiste marseillais, qui avait déjà perdu un frère à cause du narcotrafic, ne ralentit pas. De ces deuils, il puise la force de mener son combat politique : l'écologie du soin comme remè",
+      "url": "https://reporterre.net/Un-an-apres-l-assassinat-de-son-frere-l-ecologiste-Amine-Kessaci-defie-toujours-le-narcotrafic",
+      "published_at": "2026-11-10T06:00:00+00:00"
+    },
+    {
+      "id": "5bd257bc64902e60",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Infidélité, espionnage présumé : le cas Jensen Huang met à l’épreuve les contre-pouvoirs chez Nvidia",
+      "resume": "Le PDG de Nvidia, Jensen Huang, a reconnu une relation extra-conjugale avec une femme qui est soupçonnée d'être une espionne chinoise. Brendan Smialowski / AFP \"J'ai été infidèle à ma femme. Mes actes l'ont blessée, elle et nos enfants. Rie",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/infidelite-espionnage-presume-le-cas-jensen-huang-met-a-lepreuve-les-contre-pouvoirs-chez-nvidia",
+      "published_at": "2026-11-10T05:48:30+00:00"
+    },
+    {
+      "id": "87c8f955b679f48d",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les émissions de CO₂ liées aux énergies fossiles en très légère baisse dans le monde, un signal encourageant mais insuffisant",
+      "resume": "Selon le Global Carbon Project, les émissions provoquées par la combustion de charbon, de pétrole et de gaz devraient baisser de 0,4 % en 2026 grâce au déploiement des renouvelables mais aussi en raison de la crise au Moyen-Orient.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/10/les-emissions-de-co-liees-aux-energies-fossiles-en-tres-legere-baisse-dans-le-monde-un-signal-encourageant-mais-insuffisant_6808774_3244.html",
+      "published_at": "2026-11-10T04:00:14+00:00"
+    },
+    {
+      "id": "c360d74786f5b235",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment on a redonné vie à des variétés locales de blé capables de s’adapter au changement climatique",
+      "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Dans les Hauts-de-France, un groupe de paysans, meuniers et boulangers s’organise en réseau d’entraide",
+      "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/10/comment-on-a-redonne-vie-a-des-varietes-locales-de-ble-capables-de-s-adapter-au-changement-climatique_6808772_6125299.html",
+      "published_at": "2026-11-10T04:00:02+00:00"
+    },
+    {
+      "id": "072d0441c0863790",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La Cour suprême américaine autorise la reprise de travaux de l’administration Trump à la frontière avec le Mexique dans un parc national au Texas",
+      "resume": "Le chantier dans le parc national de Big Bend, auquel s’opposent les associations environnementales, peut désormais redémarrer à tout moment.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/10/la-cour-supreme-americaine-autorise-la-reprise-de-travaux-de-l-administration-trump-a-la-frontiere-avec-le-mexique-dans-un-parc-national-au-texas_6808766_3210.html",
+      "published_at": "2026-11-10T02:34:30+00:00"
+    },
+    {
+      "id": "93961751cb50040b",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+      "resume": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infras",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+      "published_at": "2026-11-10T02:28:00+00:00"
+    },
     {
       "id": "db17fbf13386b1a6",
       "source": "Le Monde Planète",
@@ -20,13 +101,13 @@
       "published_at": "2026-11-09T23:00:00+00:00"
     },
     {
-      "id": "93961751cb50040b",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
-      "resume": "Environmentalists torn over procedural vote to boost infrastructure projects but weaken environmental laws It’s a bill that would make it easier to build big infrastructure projects in America – everything from fossil fuel pipelines to tran",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-      "published_at": "2026-11-09T18:42:32+00:00"
+      "id": "0cc274c9dc9fd50e",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "Pourquoi la COP31 pourrait être la dernière chance pour l’UE de peser sur les négociations climatiques",
+      "resume": "La perspective d’une vague populiste lors des élections dans les douze prochains mois risque de compromettre les efforts diplomatiques européens.",
+      "url": "https://www.politico.eu/article/pourquoi-la-cop31-pourrait-etre-la-derniere-chance-pour-lue-de-peser-sur-les-negociations-climatiques/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-11-09T18:43:50+00:00"
     },
     {
       "id": "2e89268f96b8bd0e",
@@ -146,15 +227,6 @@
       "published_at": "2026-11-09T14:59:25+00:00"
     },
     {
-      "id": "2a9250ebb05dfbb7",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Data center : un chantier géant envahi par des activistes à Amsterdam",
-      "resume": "Des centaines de militants s'en sont pris au chantier d'un data center géant à Amsterdam. Le site a été envahi et brièvement transformé en terrain de jeu, dans le cadre d'un weekend d'action européen contre les centres de données. Amsterdam",
-      "url": "https://reporterre.net/Data-center-un-chantier-geant-envahi-par-des-activistes-a-Amsterdam",
-      "published_at": "2026-11-09T14:37:49+00:00"
-    },
-    {
       "id": "a67a078d4d9ab2fc",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -171,15 +243,6 @@
       "resume": "Spanish bank BBVA announced a significant increase in its sustainable finance activity in the first […]",
       "url": "https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-27-to-e120-billion/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-sustainable-finance-activity-jumps-27-to-e120-billion",
       "published_at": "2026-11-09T14:23:47+00:00"
-    },
-    {
-      "id": "ecb8e97542df9383",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Le temps que le dépistage soit autorisé, je serai ménopausée » : l'Espagne, dernier espoir de Françaises confrontées à l'infertilité",
-      "resume": "Des femmes qui n'arrivent pas à avoir d'enfants partent à l'étranger réaliser un test génétique qu'une proposition de loi vise à autoriser en France. « Reporterre » a accompagné un couple dans une clinique de Barcelone. Barcelone (Espagne) ",
-      "url": "https://reporterre.net/Le-temps-que-le-depistage-soit-autorise-je-serai-menopausee-l-Espagne-dernier-espoir-de-Francaises-confrontees-a-l-infertilite",
-      "published_at": "2026-11-09T14:15:36+00:00"
     },
     {
       "id": "5814457bb0977d9b",
@@ -290,24 +353,6 @@
       "published_at": "2026-11-09T07:45:08+00:00"
     },
     {
-      "id": "e3021b45bff060bd",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Un El Niño hors norme entre en collision avec une planète déjà surchauffée » : l’année 2026 sera l’une des plus chaudes jamais enregistrées",
-      "resume": "Alors que la COP31 s’ouvre lundi en Turquie, l’Organisation météorologique mondiale publie son bulletin annuel sur l’état du climat.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/09/un-el-nino-hors-norme-entre-en-collision-avec-une-planete-deja-surchauffee-2026-sera-l-une-des-annees-les-plus-chaudes-jamais-enregistrees_6808623_3244.html",
-      "published_at": "2026-11-09T07:30:09+00:00"
-    },
-    {
-      "id": "8d0b224aa94a58fa",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Emmanuelle Cosse, de l’Union sociale pour l’habitat : « Raboter les aides personnelles au logement, c’est fabriquer la crise de demain »",
-      "resume": "Devant la baisse constante des aides au logement depuis 2017, la présidente de l’organisation professionnelle des HLM appelle les candidats à l’élection présidentielle, dans une tribune au « Monde », à « faire du logement ce qu’il est deven",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/09/emmanuelle-cosse-de-l-union-sociale-pour-l-habitat-raboter-les-aides-personnelles-au-logement-c-est-fabriquer-la-crise-de-demain_6808622_3232.html",
-      "published_at": "2026-11-09T07:00:09+00:00"
-    },
-    {
       "id": "29a3eaad834b762f",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -342,15 +387,6 @@
       "resume": "La COP31 d'Antalya sur le climat s'ouvre le 9 novembre 2026. @Photo par Anadolu via AFP Electrify baby electrify. Tel pourrait être le slogan de la COP31 Climat, qui s’ouvre ce lundi 9 novembre à Antalya, en Turquie, co-organisée avec l’Aus",
       "url": "https://www.novethic.fr/environnement/climat/cop31-les-entreprises-attendent-un-electrochoc-mondial-sur-lelectrification",
       "published_at": "2026-11-09T05:45:24+00:00"
-    },
-    {
-      "id": "bb9158c064fd7f8f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pourquoi n’est-on pas encore sorti de la sécheresse en France ?",
-      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/09/pourquoi-n-est-on-pas-encore-sorti-de-la-secheresse_6808617_3244.html",
-      "published_at": "2026-11-09T05:30:04+00:00"
     },
     {
       "id": "aec0990c5e69a853",
@@ -416,15 +452,6 @@
       "published_at": "2026-11-06T13:50:14+00:00"
     },
     {
-      "id": "6d5465bf36734086",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Comment le label ISR veut s'étendre au marché du capital-investissement",
-      "resume": "Les fonds d'investissement dans les entreprises non cotées pourront bientôt bénéficier du label ISR. @Sakorn Sukkasemsakorn / iStock Ce sera une première pour le label français sur l’investissement responsable. Après s’être ouvert aux fonds",
-      "url": "https://www.novethic.fr/finance-durable/finance-verte/comment-le-label-isr-veut-setendre-au-marche-du-capital-investissement",
-      "published_at": "2026-11-06T10:45:06+00:00"
-    },
-    {
       "id": "20173b8e5b9a0de9",
       "source": "I4CE",
       "categorie": "Climat",
@@ -441,15 +468,6 @@
       "resume": "Climat : soyons réalistes, donnons un coût au carbone ! Les Echos",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQkZXY2x0NjFMMGg1QlNDc2FDWTEwbjFfN3pxSVVCemdZOWRKWlo2cGNwVDhLQU9LZGFVV0p3eGpfbXh3aUY1VF82LUV3aGFmQlhlMWhWdHpZc280MHV5R3UzYjZvNmlSNXBLSVczSjdQNVM4TGxOS3pkbXRKYlNzNTJOWHdmSjAwbDJDaEFEMWR1TENpalk4eTZzSGhQUi05a2ZmUEY0WG5BMUdyNUxtNg?oc=5",
       "published_at": "2026-11-06T07:35:09+00:00"
-    },
-    {
-      "id": "e7e6b1f9b6227575",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Energie solaire : la demande des pays émergents prend le relais de la Chine et de l'Europe - Les Echos",
-      "resume": "Energie solaire : la demande des pays émergents prend le relais de la Chine et de l'Europe Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWF9Ial9WM2NvQUNWaUZtSEd6NndOaWtkUk9lNVdMRXdWWThpdnRPTk8wRWRVdWJCY3pVamV6U2M2NU9IY1BxOTFZeTZrYXFMYmhoeXBOREk3WW5BbTByeE9BVE5WUnV1blBOMjJXN2RaTHNiRTlnUTFJTkcteUl1WE1RNlg3bFl6MXlrc0JaTDV6UlZ0Tm1yYTFXYU9HTjN0NFhJSnVHenRoQUtaUUNsY1RCZk9SVW1ubzREVmtEUEJCWWVleHZscUJzNEFxSjBBNHJwcEJobVVzTHFaX1EzdmhWZVVqMGVUZDZaTnVURVlzQQ?oc=5",
-      "published_at": "2026-11-06T05:05:09+00:00"
     },
     {
       "id": "f0eb0e24cd349734",
@@ -542,15 +560,6 @@
       "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
-      "id": "42a50f9fb2df5b8e",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Le ZAN ou la loi qui en demandait trop",
-      "resume": "Mis en place par la loi climat-résilience issue de la Convention citoyenne sur le climat, le principe du « zéro artificialisation nette » est, depuis, attaqué par de nombreux politiques, qui l’accusent d’empêcher le développement des zones ",
-      "url": "https://www.contexte.com/fr/article/environnement/le-zan-ou-la-loi-qui-en-demandait-trop_281920?source=rss",
-      "published_at": "2026-10-27T07:00:00+00:00"
-    },
-    {
       "id": "e13d05e4d455f922",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -585,15 +594,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
       "published_at": "2026-10-22T05:00:26+00:00"
-    },
-    {
-      "id": "eb56a5afc3bb8b5a",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Emmanuel Macron fera l’impasse sur la COP31",
-      "resume": "PARIS — Emmanuel Macron ne participera pas au dernier grand raout des négociations climatiques de son mandat, a confirmé l’Elysée auprès de POLITICO. Comme rapporté par POLITICO, un conflit d’agenda laissait planer un doute sur la présence ",
-      "url": "https://www.politico.eu/article/emmanuel-macron-fera-limpasse-sur-la-cop31/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-20T12:20:32+00:00"
     },
     {
       "id": "52ca2e26d42df576",
