@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
-  "generated_at": "07:16",
-  "elapsed_seconds": 644,
+  "generated_at": "13:13",
+  "elapsed_seconds": 446,
   "errors": [],
   "stats": {
     "jo_analyses": 28,
@@ -9,20 +9,31 @@
     "depts_restriction": 78
   },
   "pipeline_meta": {
-    "run_at": "2026-11-11T07:16:34",
+    "run_at": "2026-11-11T13:13:11",
     "sources": {
       "JORF": 0,
-      "RSS": 4,
+      "RSS": 5,
       "VigiEau": 78,
       "AN Agenda": 8
     },
     "errors": [
       "SOURCE VIDE — JORF : 0 textes retenus"
     ],
-    "llm_calls": 62,
-    "llm_seconds": 94.6
+    "llm_calls": 36,
+    "llm_seconds": 82.4
   },
   "items": [
+    {
+      "id": "7f6581461a49",
+      "source": "Le Monde Planète",
+      "categorie": "Climat",
+      "titre": "En remettant en cause le fonds chaleur et le programme Actee, le gouvernement rabote les financements de la transition écologique dans les territoires",
+      "resume": "Le gouvernement a remis en cause le fonds chaleur et le programme Actee, réduisant les financements publics pour l'adaptation au changement climatique et la décarbonation des collectivités locales.",
+      "pourquoi": "",
+      "criticite": 1,
+      "url": "https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html",
+      "date": "2026-11-11"
+    },
     {
       "id": "424b33a1e75a",
       "source": "Actu-Environnement",
