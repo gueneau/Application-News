@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-11T16:49:03.373648+00:00",
+  "generated_at": "2026-11-11T23:14:50.501099+00:00",
   "items": [
+    {
+      "id": "0e5336e6420c4f51",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les voitures électriques, un gouffre financier pour les assureurs",
+      "resume": "La réparation des véhicules électriques coûte 14 % de plus que celle des modèles thermiques. En cause : des batteries peu réparables, des dommages plus importants, des pièces détachées encore peu disponibles sur le court terme.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/11/les-voitures-electriques-un-gouffre-financier-pour-les-assureurs_6809004_3234.html",
+      "published_at": "2026-11-11T17:00:08+00:00"
+    },
+    {
+      "id": "cb891e8b3a3832f9",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« L'avenir de la planète peut attendre » : les chefs d'État brillent par leur manque d'ambition à la COP31",
+      "resume": "Hypocrisie ambiante, absence des grandes puissances mondiales... Si la COP31 a vu défiler le 11 novembre de nombreux chefs d'État et de gouvernement, le manque des pays riches envoie un « signal inquiétant ». « Trouvez de l'argent pour la v",
+      "url": "https://reporterre.net/L-avenir-de-la-planete-peut-attendre-les-chefs-d-Etat-brillent-par-leur-manque-d-ambition-a-la-COP31",
+      "published_at": "2026-11-11T16:50:50+00:00"
+    },
     {
       "id": "6cfdaf064f867bb5",
       "source": "ESG Today",
@@ -137,15 +155,6 @@
       "published_at": "2026-11-11T05:00:03+00:00"
     },
     {
-      "id": "1b567df08c0df986",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La tempête Charles arrive au Portugal, placé en alerte mercredi par crainte de « phénomènes météorologiques extrêmes »",
-      "resume": "Les autorités portugaises ont placé la partie sud du pays, dont Lisbonne, en alerte rouge mardi soir. « Ne sous-estimez pas la dangerosité et les risques associés » a averti le premier ministre, Luis Montenegro, alors que des inondations po",
-      "url": "https://www.lemonde.fr/international/article/2026/11/10/la-tempete-charles-arrive-au-portugal-place-en-alerte-mercredi-par-crainte-de-phenomenes-meteorologiques-extremes_6808908_3210.html",
-      "published_at": "2026-11-10T21:46:31+00:00"
-    },
-    {
       "id": "950c03428ed03d59",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -245,20 +254,11 @@
       "published_at": "2026-11-10T15:48:07+00:00"
     },
     {
-      "id": "32ba962e7ebe022d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Conflit d'intérêts : une lobbyiste de la viande s'infiltre au bureau exécutif du Modem",
-      "resume": "Élue à la tête des Jeunes démocrates, Louise Daniel est aussi lobbyiste de Culture Viande. Sa double casquette soulève des interrogations autour de potentiels conflits d'intérêts entre le Modem et l'industrie de la viande. Peut-on participe",
-      "url": "https://reporterre.net/Conflit-d-interets-une-lobbyiste-de-la-viande-s-infiltre-au-bureau-executif-du-Modem",
-      "published_at": "2026-11-10T15:35:00+00:00"
-    },
-    {
       "id": "e963401b5d1bc487",
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "Symphonics met au point un contrat de vente directe pour pallier la fin du « S21 »",
-      "resume": "En agrégeant la production de plusieurs petites centrales solaire et le gisement de flexibilité de batteries, Symphonics veut proposer des PPA plus sophistiqués qui correspondraient L’article Symphonics met au point un contrat de vente dire",
+      "resume": "En agrégeant la production de plusieurs petites centrales solaires et le gisement de flexibilité de batteries, Symphonics veut proposer des PPA plus sophistiqués qui correspondraient L’article Symphonics met au point un contrat de vente dir",
       "url": "https://www.greenunivers.com/2026/11/symphonics-veut-prendre-le-relais-du-s21-avec-des-ppa-sophistiques-438364/",
       "published_at": "2026-11-10T15:33:14+00:00"
     },
@@ -315,6 +315,15 @@
       "resume": "Selon trois diplomates, le bloc serait parvenu à un consensus pour soutenir l'engagement phare du sommet.",
       "url": "https://www.politico.eu/article/cop31-lue-soutiendra-lobjectif-delectrification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-10T10:21:37+00:00"
+    },
+    {
+      "id": "655dcdf25ae4ac0a",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle - Les Echos",
+      "resume": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlBtQzA3cWhHbUoyYnJsSVhjZW9RYzFRaWZuMG1zMVQwMUJlVDM3ZWozb19KRHBySVA3aXdzb05OcDN1YmVGc2VmZnN3bHRsQ3A0NGhEeXhvUGRwNW9VR2lhOEFEblE5LVpKdUdoNWlnNWV6MVdOdGtaTDVuTUtDdkxWWWJyell0NEVTeVlrS016T1VsZ3RDdFBDNWtfWlZ0VWJmWUpZX01HTXdmbUM0N1BRSkNGVkxneFU1YXU1R0lhVC00WFB1OTlxVFdHTjkyak9mX0hVSHgwZnBO?oc=5",
+      "published_at": "2026-11-10T09:30:32+00:00"
     },
     {
       "id": "632cb0f01f588787",
@@ -441,15 +450,6 @@
       "resume": "US government will have no official presence at UN’s annual climate summit, held this year in Antalya, Turkey The US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the c",
       "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
       "published_at": "2026-11-09T06:00:01+00:00"
-    },
-    {
-      "id": "aec0990c5e69a853",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Produire en France : la transition énergétique, levier de rentabilité pour Osborn Metals - Les Echos",
-      "resume": "Produire en France : la transition énergétique, levier de rentabilité pour Osborn Metals Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRFZ1NkFOcVVlUjc1RUNsMnR0eEY5dmd0NGhVZTA5MC1Wdm1kX01xUV92YlVoOHExdXhCdVBnZ0Z3a0g2VlhQX3FSdzk4XzdyQ04tS0Y5RHRNekp1dmdwU1pPTDRSQldfT1BGS2x4OHp6enR1aXFFS3J1MDg4clVabXYtdWdNTjlValNuQ0ZaRWxDdWJld213S2wyYS14VVk1UXFDV0RYT2t3MU9KNVRNVXhIUUU3TnBFeWs5U3AzRHhXZ2VoYzJyZnZQcmVncjBvNXNsZm1tbWpjVmJwd0t3eXhXRV96OFZPbGlmU0RYUXozQ3ht?oc=5",
-      "published_at": "2026-11-09T05:00:09+00:00"
     },
     {
       "id": "5f62802632e19f78",
