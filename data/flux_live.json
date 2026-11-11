@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-11T01:38:20.442097+00:00",
+  "generated_at": "2026-11-11T08:42:49.494270+00:00",
   "items": [
+    {
+      "id": "712576f10a529753",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La forêt jardinée, un modèle pour résister au chaos climatique",
+      "resume": "Meilleure résistance face au chaos climatique, respect du vivant, peu de coupes rases… La forêt jardinée présente bon nombre d'avantages. La preuve en Suisse, où un jeune forestier a lancé son expérimentation il y a près de 150 ans. Cet art",
+      "url": "https://reporterre.net/La-foret-jardinee-un-modele-pour-resister-au-chaos-climatique",
+      "published_at": "2026-11-11T06:05:00+00:00"
+    },
+    {
+      "id": "7a4cd8a242fce474",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Les puissances fossiles défendent leurs intérêts de façon beaucoup plus explicite »",
+      "resume": "Avec « La Mutation climatique », Amy Dahan et Stefan C. Aykut décrivent un monde où la crise du climat se mêle aux guerres et aux reculs démocratiques. À l'heure de la COP31 , rien n'est pourtant écrit, insistent ces chercheurs. Ils suivent",
+      "url": "https://reporterre.net/Les-puissances-fossiles-defendent-leurs-interets-de-facon-beaucoup-plus-explicite-article",
+      "published_at": "2026-11-11T06:00:00+00:00"
+    },
+    {
+      "id": "dac700419ae027a1",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Ce \"glacier de l'apocalypse\" qui pourrait accélérer la montée des eaux",
+      "resume": "Le glacier de Thwaites pourrait fondre plus vite que prévu et accélérer la montée des eaux - Image Credit: NASA/James Yungel Les alertes se multiplient autour du désormais célèbre glacier de Thwaites. Ce glacier, situé en Antarctique occide",
+      "url": "https://www.novethic.fr/environnement/climat/glacier-apocalypse-acceleration-montee-des-eaux-thwaite",
+      "published_at": "2026-11-11T05:45:48+00:00"
+    },
+    {
+      "id": "2f056efd096b1355",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dans le Calvados, l’interdiction du ramassage des fossiles sur les plages ne passe pas : « On nous contraint à laisser la marée les emporter »",
+      "resume": "Entre Villers-sur-Mer et Houlgate, les falaises des Vaches noires recèlent de nombreux fossiles qui se déposent sur la plage. Mais la création d’une réserve naturelle en a prohibé le ramassage par les amateurs. Une décision contestée devant",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/11/dans-le-calvados-l-interdiction-du-ramassage-des-fossiles-sur-les-plages-ne-passe-pas-on-nous-contraint-a-laisser-la-maree-les-emporter_6808932_3244.html",
+      "published_at": "2026-11-11T05:00:25+00:00"
+    },
+    {
+      "id": "a56c3eb4d3113c2c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP31 : lors des négociations climatiques, le difficile positionnement des « bons élèves » européens",
+      "resume": "Le président français, Emmanuel Macron, est absent du « sommet des leaders » qui se tient mercredi et jeudi à Antalya, en Turquie. La présidente de la Commission européenne, Ursula von der Leyen, exprimera les attentes des Européens.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/11/cop31-lors-des-negociations-climatiques-le-difficile-positionnement-des-bons-eleves-europeens_6808929_3244.html",
+      "published_at": "2026-11-11T05:00:03+00:00"
+    },
     {
       "id": "1b567df08c0df986",
       "source": "Le Monde Planète",
@@ -218,15 +263,6 @@
       "published_at": "2026-11-10T14:31:46+00:00"
     },
     {
-      "id": "2a5058b4d5ff74c4",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Des poireaux 55 % plus cher : le chaos climatique fait grimper le prix des aliments",
-      "resume": "Les manifestations dénonçant la vie chère se succèdent en France, et pour cause. Des aliments comme les poireaux et les laitues coûtaient respectivement 55 % et 54 % plus cher en septembre par rapport à la moyenne des cinq dernières années,",
-      "url": "https://reporterre.net/Des-poireaux-55-plus-cher-le-chaos-climatique-fait-grimper-le-prix-des-aliments",
-      "published_at": "2026-11-10T14:17:17+00:00"
-    },
-    {
       "id": "0c1c9ed76def7fbd",
       "source": "Novethic",
       "categorie": "Presse",
@@ -263,15 +299,6 @@
       "published_at": "2026-11-10T12:29:53+00:00"
     },
     {
-      "id": "1331d04118ea814b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« La préservation de l’eau douce doit être discutée dans un cadre propre, et le fait que les ressources soient locales n’y change rien »",
-      "resume": "Alors que les alertes se multiplient dans le monde sur les stocks d’eau douce, le professeur de sciences de gestion Simon Porcher estime, dans une tribune au « Monde », que cet enjeu fondamental devrait faire l’objet de négociations interna",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/10/la-preservation-de-l-eau-douce-doit-etre-discutee-dans-un-cadre-propre-et-le-fait-que-les-ressources-soient-locales-n-y-change-rien_6808831_3232.html",
-      "published_at": "2026-11-10T12:15:00+00:00"
-    },
-    {
       "id": "0134b8753822c7bb",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -279,24 +306,6 @@
       "resume": "Business and financial markets information service provider Bloomberg announced the launch of its new Impact […]",
       "url": "https://www.esgtoday.com/bloomberg-launches-new-tool-enabling-investors-to-assess-sustainable-bond-allocations-and-impact/?utm_source=rss&utm_medium=rss&utm_campaign=bloomberg-launches-new-tool-enabling-investors-to-assess-sustainable-bond-allocations-and-impact",
       "published_at": "2026-11-10T11:50:56+00:00"
-    },
-    {
-      "id": "7ff26d8289832b6f",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Nappes d'eau : une situation « très préoccupante » malgré le retour des pluies",
-      "resume": "Une situation « très préoccupante ». Malgré le retour des pluies au mois d'octobre, le niveau des nappes d'eau reste bas, indique le Bureau de recherches géologiques et minières ( BRGM ) dans son bulletin mensuel. 64 % des points d'observat",
-      "url": "https://reporterre.net/Nappes-d-eau-une-situation-tres-preoccupante",
-      "published_at": "2026-11-10T11:29:59+00:00"
-    },
-    {
-      "id": "f003ddf5acce9b21",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient",
-      "resume": "En 2026, l’augmentation moyenne de la facture devrait atteindre 11,8 %, soit 143 euros de plus, selon les calculs de la Commission de régulation de l’énergie.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
-      "published_at": "2026-11-10T11:16:20+00:00"
     },
     {
       "id": "c3adbbc8180fe36d",
@@ -432,15 +441,6 @@
       "resume": "US government will have no official presence at UN’s annual climate summit, held this year in Antalya, Turkey The US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the c",
       "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
       "published_at": "2026-11-09T06:00:01+00:00"
-    },
-    {
-      "id": "becd63a428308b24",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "COP31 : les entreprises attendent un électrochoc mondial sur l’électrification",
-      "resume": "La COP31 d'Antalya sur le climat s'ouvre le 9 novembre 2026. @Photo par Anadolu via AFP Electrify baby electrify. Tel pourrait être le slogan de la COP31 Climat, qui s’ouvre ce lundi 9 novembre à Antalya, en Turquie, co-organisée avec l’Aus",
-      "url": "https://www.novethic.fr/environnement/climat/cop31-les-entreprises-attendent-un-electrochoc-mondial-sur-lelectrification",
-      "published_at": "2026-11-09T05:45:24+00:00"
     },
     {
       "id": "aec0990c5e69a853",
