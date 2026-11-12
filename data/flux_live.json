@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-11-12T03:58:48.591270+00:00",
+  "generated_at": "2026-11-12T08:25:53.366713+00:00",
   "items": [
+    {
+      "id": "e7e157b9fac6c8dc",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Les oscillations du futur budget de l’Union européenne",
+      "resume": "Un peu plus ? Beaucoup moins ? Pas de changement ? Les discussions sur l’exercice budgétaire 2028-2034 vont bon train à Bruxelles. Pour s’y retrouver entre la proposition originelle de la Commission de 2025 et celle maintenant discutée par ",
+      "url": "https://www.contexte.com/fr/article/pouvoirs/les-oscillations-du-futur-budget-de-lunion-europeenne_268567?source=rss",
+      "published_at": "2026-11-12T07:00:00+00:00"
+    },
+    {
+      "id": "a0613dd126db4169",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« La solitude, je n'en pouvais plus » : ces retraités ont choisi l'habitat partagé",
+      "resume": "En Gironde, des retraités vivent ensemble dans une maison qu'ils ont eux-mêmes imaginée. Une façon de chasser l'isolement tout en leur permettant de se réinstaller en zone rurale, à l'endroit où ils ont passé leur vie. Castillon-la-Bataille",
+      "url": "https://reporterre.net/La-solitude-je-n-en-pouvais-plus-ces-retraites-ont-choisi-l-habitat-partage",
+      "published_at": "2026-11-12T06:10:00+00:00"
+    },
+    {
+      "id": "e924e7f6dae13557",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« La “guerre contre la voiture” est l'une des principales paniques morales générées par l'extrême droite »",
+      "resume": "Le chercheur William Callison du Zetkin Collective analyse comment l'extrême droite a fait de l'écologie un ennemi existentiel pour la civilisation occidentale. Au profit des industries fossiles. William Callison est maître de conférences e",
+      "url": "https://reporterre.net/La-guerre-contre-la-voiture-est-l-une-des-principales-paniques-morales-generees-par-l-extreme-droite",
+      "published_at": "2026-11-12T06:05:00+00:00"
+    },
+    {
+      "id": "cd2835ab78c69993",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La France exporte ses stations de ski au Kazakhstan, malgré une forte opposition locale",
+      "resume": "Plus de 200 km de pistes, au moins 8 000 arbres abattus... Un futur complexe de ski au Kazakhstan suscite de vives critiques. Basé sur le modèle des stations françaises, ce projet en Asie centrale paraît déjà dépassé au vu du réchauffement ",
+      "url": "https://reporterre.net/La-France-exporte-ses-stations-de-ski-au-Kazakhstan-malgre-une-forte-opposition-locale",
+      "published_at": "2026-11-12T06:00:00+00:00"
+    },
+    {
+      "id": "67347af04478cba0",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Les compétences vertes gagnent du terrain dans tous les métiers de l'économie, selon LinkedIn",
+      "resume": "Les compétences vertes sont de plus en plus - Photo de Markus Spiske sur Unsplash Les compétences liées à la transition écologique constituent un atout croissant sur le marché du travail. C’est ce que montre le Global Green Skills Report 20",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/competences-vertes-diffusion-economie-recrutements-linkedin-rapport",
+      "published_at": "2026-11-12T05:45:18+00:00"
+    },
+    {
+      "id": "a7b859972310335b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
+      "resume": "A l’origine, immense lac d’eau douce partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues ",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
+      "published_at": "2026-11-12T05:00:28+00:00"
+    },
     {
       "id": "dbaca0c27418e138",
       "source": "The Guardian Environment",
@@ -128,15 +182,6 @@
       "published_at": "2026-11-11T06:05:00+00:00"
     },
     {
-      "id": "7a4cd8a242fce474",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Face aux puissances industrielles et autoritaires, la bataille du climat est-elle perdue ? Pas encore, assurent ces chercheurs",
-      "resume": "Avec « La Mutation climatique », Amy Dahan et Stefan C. Aykut décrivent un monde où la crise du climat se mêle aux guerres et aux reculs démocratiques. À l'heure de la COP31 , rien n'est pourtant écrit, insistent ces chercheurs. Ils suivent",
-      "url": "https://reporterre.net/Les-puissances-fossiles-defendent-leurs-interets-de-facon-beaucoup-plus-explicite-article",
-      "published_at": "2026-11-11T06:00:00+00:00"
-    },
-    {
       "id": "dac700419ae027a1",
       "source": "Novethic",
       "categorie": "Presse",
@@ -153,15 +198,6 @@
       "resume": "Entre Villers-sur-Mer et Houlgate, les falaises des Vaches noires recèlent de nombreux fossiles qui se déposent sur la plage. Mais la création d’une réserve naturelle en a prohibé le ramassage par les amateurs. Une décision contestée devant",
       "url": "https://www.lemonde.fr/planete/article/2026/11/11/dans-le-calvados-l-interdiction-du-ramassage-des-fossiles-sur-les-plages-ne-passe-pas-on-nous-contraint-a-laisser-la-maree-les-emporter_6808932_3244.html",
       "published_at": "2026-11-11T05:00:15+00:00"
-    },
-    {
-      "id": "a56c3eb4d3113c2c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP31 : lors des négociations climatiques, le difficile positionnement des « bons élèves » européens",
-      "resume": "Le président français, Emmanuel Macron, est absent du « sommet des leaders » qui se tient mercredi et jeudi à Antalya, en Turquie. La présidente de la Commission européenne, Ursula von der Leyen, exprimera les attentes des Européens.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/11/cop31-lors-des-negociations-climatiques-le-difficile-positionnement-des-bons-eleves-europeens_6808929_3244.html",
-      "published_at": "2026-11-11T05:00:03+00:00"
     },
     {
       "id": "950c03428ed03d59",
@@ -207,24 +243,6 @@
       "resume": "L'industrie chimique au coeur d'une bataille de lobbying sur le marché européen du carbone Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVZtVGw4UlBjTjA1WUNXdkdlZVJLbnlsTkFFV3VpQmR1S0ctcEQzb3E5Z2M0NmcyVHhLRDIwQ2M2ODB5amQ3cVh6X2JXdWo5YTIyUU1SMWRMRHZjQXJlS2tPVW1jVDdfYjJ4cHNiU1l1VFE4cEFFX05EdV9sLUlveml3Z0IzMlEwRWVjVGJjM0lWc3lrVzQ4dWlmM3ZpeENFTnIxRnh5VWI2emZxR2ttVGc4VW5QdVEybkxZNkVDdTFZekpYMk4xR1lFaE9zUExEeE43YW1pUUhydmxQLVcyRVlXMl9WZXZfejBSeUM1ajlQZ2s?oc=5",
       "published_at": "2026-11-10T16:24:37+00:00"
-    },
-    {
-      "id": "6c9e502ad79fcdfc",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "IA : le géant Anthropic achète des turbines à gaz pour alimenter ses centres de données",
-      "resume": "En pleine COP , où les États tentent de préserver les apparences mais ne font aucune mention de la sortie des hydrocarbures, le symbole est fâcheux : le géant de l' IA Anthropic vient d'acheter, pour 3,4 milliards de dollars, deux générateu",
-      "url": "https://reporterre.net/IA-le-geant-Anthropic-achete-des-turbines-a-gaz-pour-alimenter-ses-centres-de-donnees",
-      "published_at": "2026-11-10T16:23:26+00:00"
-    },
-    {
-      "id": "6b1b44dedd35135f",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "La pétition pour fermer CNews dépasse le million de signatures, les députés ne donnent pas suite",
-      "resume": "Plus de 1 million de personnes ont signé la pétition pour supprimer la chaîne de télévision CNews, et n'auront pas droit à leur débat. Mardi 10 novembre, le bureau de la commission des affaires culturelles et de l'éducation de l'Assemblée n",
-      "url": "https://reporterre.net/Plus-d-un-millions-de-personnes-ont-signela",
-      "published_at": "2026-11-10T16:11:34+00:00"
     },
     {
       "id": "063b3557795ec01a",
@@ -425,15 +443,6 @@
       "published_at": "2026-11-09T13:14:12+00:00"
     },
     {
-      "id": "33960d82e22791bd",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "La vague démocrate aux Etats-Unis relance le risque de bulle de l’IA",
-      "resume": "Les chiffres de ventes de puces pour l'intelligence artificielle ont montré des signes de faiblesse. @Igor Omilaev-Unsplash Nouvelles secousses sur les marchés américains. Les valeurs liées à la tech et à l’IA ont encore connu une chute imp",
-      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/la-vague-democrate-aux-etats-unis-relance-le-risque-de-bulle-de-lia",
-      "published_at": "2026-11-09T11:24:42+00:00"
-    },
-    {
       "id": "f776b368b607d538",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -567,15 +576,6 @@
       "resume": "Ce fonds, censé financer des actions en faveur de la biodiversité, peine à se remplir depuis son lancement il y a dix-huit mois. À Erevan, les négociateurs s’opposent sur le caractère volontaire des contributions des entreprises pour alimen",
       "url": "https://www.contexte.com/fr/article/environnement/cop17-biodiversite-les-etats-face-au-bourbier-du-fonds-cali_282710?source=rss",
       "published_at": "2026-10-28T04:00:00+00:00"
-    },
-    {
-      "id": "1a534f1ef91fb207",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Présidentielle 2027 : qui prépare le programme écologique des candidats ?",
-      "resume": "Comment les candidats déclarés à l’élection présidentielle élaborent-ils leurs propositions sur l’environnement ? Et avec qui ? Groupes d’experts, députés, contributions citoyennes… Dans l’ombre des organigrammes officiels, un travail de fo",
-      "url": "https://www.contexte.com/fr/article/environnement/presidentielle-2027-qui-prepare-le-programme-ecologique-des-candidats_279467?source=rss",
-      "published_at": "2026-10-27T07:00:00+00:00"
     },
     {
       "id": "93decf4d397bd214",
