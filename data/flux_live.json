@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-12T08:25:53.366713+00:00",
+  "generated_at": "2026-11-12T09:42:22.864752+00:00",
   "items": [
+    {
+      "id": "b28035b2d6130c65",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
+      "resume": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) […]",
+      "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss&utm_medium=rss&utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
+      "published_at": "2026-11-12T09:34:17+00:00"
+    },
+    {
+      "id": "a7644e3edd821ca1",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Le plan de relance agricole laisse les éleveurs seuls face à une transformation qui, en réalité, a déjà commencé »",
+      "resume": "En dix ans, la France a perdu plus d’un million de vaches, et la moitié des poulets qu’elle consomme vient désormais d’ailleurs. L’élevage français change, mais cette transformation doit être organisée plutôt que subie, affirme, dans une tr",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/12/le-plan-de-relance-agricole-laisse-les-eleveurs-seuls-face-a-une-transformation-qui-en-realite-a-deja-commence_6809075_3232.html",
+      "published_at": "2026-11-12T09:00:10+00:00"
+    },
     {
       "id": "e7e157b9fac6c8dc",
       "source": "Contexte Environnement",
@@ -51,7 +69,7 @@
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
-      "resume": "A l’origine, immense lac d’eau douce partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues ",
+      "resume": "A l’origine immense lac d’eau douce partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues l",
       "url": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
       "published_at": "2026-11-12T05:00:28+00:00"
     },
@@ -155,15 +173,6 @@
       "published_at": "2026-11-11T11:01:50+00:00"
     },
     {
-      "id": "2eaf742e56e3b3e9",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "RWE, KKR Secure Record $17 Billion Financing to Build Major UK Offshore Wind Projects",
-      "resume": "German power producer RWE and alternative asset manager KKR announced on Wednesday that they have […]",
-      "url": "https://www.esgtoday.com/rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects/?utm_source=rss&utm_medium=rss&utm_campaign=rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects",
-      "published_at": "2026-11-11T10:35:41+00:00"
-    },
-    {
       "id": "c4edc17047423735",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -191,15 +200,6 @@
       "published_at": "2026-11-11T05:45:48+00:00"
     },
     {
-      "id": "2f056efd096b1355",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Dans le Calvados, l’interdiction du ramassage des fossiles sur les plages ne passe pas : « On nous contraint à laisser la marée les emporter »",
-      "resume": "Entre Villers-sur-Mer et Houlgate, les falaises des Vaches noires recèlent de nombreux fossiles qui se déposent sur la plage. Mais la création d’une réserve naturelle en a prohibé le ramassage par les amateurs. Une décision contestée devant",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/11/dans-le-calvados-l-interdiction-du-ramassage-des-fossiles-sur-les-plages-ne-passe-pas-on-nous-contraint-a-laisser-la-maree-les-emporter_6808932_3244.html",
-      "published_at": "2026-11-11T05:00:15+00:00"
-    },
-    {
       "id": "950c03428ed03d59",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -207,33 +207,6 @@
       "resume": "La maison mère de Zara s'associe à la Banque mondiale pour réduire l'empreinte carbone du textile Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcXJFR05vcmdTWC1kN1NZM201Z0NZc19kOVhkV01Qb3JmcVJmN1hnQlFRLU8wREZPS2ZmWG1kUlpFODFpdjVJU05Sb0RIUVNJYU9hdGF2bUNNaERMNkEwWDA5bkRrV0s4SlpvX1U5OUFMbEtwWHNOdzhLTTRvRGJmV1k5dndFZG8tV1F3RGR2SzJSdDlpOVVHbUtfTlA1eUQ5NS1WT0Zjb21mbmc4bTVPbldmUGZxMXliNlZrQk9zYTVZTDE3Q0pvWjRXTmE3NTRZLWdMb0VDUlFqcUhSRzZiS2xqYTlVUUhqRlpvOEdGMTNlbzhmN2lhQg?oc=5",
       "published_at": "2026-11-10T18:42:36+00:00"
-    },
-    {
-      "id": "30194c561242851a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le CAE plaide pour cibler les plus vulnérables, pas seulement les plus exposés",
-      "resume": "Le Conseil d'analyse économique alerte : face aux risques climatiques, la vulnérabilité sociale prime sur l'exposition géographique. Il propose de réformer la prévention et le régime CatNat en conséquence.",
-      "url": "https://www.actu-environnement.com/ae/news/cae-vulnerabilite-risques-naturels-catnat-48788.php4#xtor=RSS-6",
-      "published_at": "2026-11-10T18:42:18+00:00"
-    },
-    {
-      "id": "3c1f360766c99c4f",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Crues et sécheresse : les leviers à actionner pour améliorer la gestion franco-suisse",
-      "resume": "La Cour des comptes genevoise côté Suisse et la Chambre régionale d'Auvergne-Rhône-Alpes coté France se sont penchées sur les leviers pour mieux gérer les événements extrêmes liés à l'eau à l'échelle transfrontalière. Détails des propositio",
-      "url": "https://www.actu-environnement.com/ae/news/crues-etiages-rapport-commun-cour-comptes-genevoise-regionale-auvergne-rhone-alpes-gestion-transfrontaliere-48789.php4#xtor=RSS-6",
-      "published_at": "2026-11-10T17:14:02+00:00"
-    },
-    {
-      "id": "533addfe479d23f3",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Au Mans, Radiant démontre que la concentration solaire peut décarboner l'industrie",
-      "resume": "La chaleur représente 75 % des besoins en énergie de l'industrie. Pour en produire avec moins de carbone, la start-up Radiant a développé une solution de concentration solaire pas plus coûteuse que le gaz et facile à intégrer aux installati",
-      "url": "https://www.actu-environnement.com/ae/news/demonstrateur-de-production-de-chaleur-industrielle-par-concentration-solaire-inaugure-au-mans-48786.php4#xtor=RSS-6",
-      "published_at": "2026-11-10T16:56:27+00:00"
     },
     {
       "id": "b543bb17a0681928",
@@ -252,15 +225,6 @@
       "resume": "A première vue incompréhensible, l’animation illustre les calculs et ajustements réalisés en permanence par les logiciels L’article A quoi ressemble la valorisation d’une batterie sur les marchés est apparu en premier sur GreenUnivers .",
       "url": "https://www.greenunivers.com/2026/11/a-quoi-ressemble-la-valorisation-dune-batterie-sur-les-marches-438199/",
       "published_at": "2026-11-10T15:54:12+00:00"
-    },
-    {
-      "id": "69390bb5610053b5",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Un plan national d'actions en faveur des vieux bois et forêts subnaturelles",
-      "resume": "Conserver et développer une trame de vieux bois gérée en libre évolution, identifier et cartographier des forêts subnaturelles en vue de leur mise sous protection forte, rétablir une continuité écologique fonctionnelle entre ces composantes",
-      "url": "https://www.actu-environnement.com/ae/news/plan-national-actions-vieux-bois-forets-subnaturelles-48787.php4#xtor=RSS-6",
-      "published_at": "2026-11-10T15:54:09+00:00"
     },
     {
       "id": "cfa96972d4a16727",
@@ -299,15 +263,6 @@
       "published_at": "2026-11-10T15:31:07+00:00"
     },
     {
-      "id": "2ad004c42541c7d5",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Lire notre dossier d'actu \"Flexibiliser le système électrique : un défi à anticiper\"",
-      "resume": "Le développement massif des énergies renouvelables et l'électrification de certains usages (mobilité, industrie, chauffage) vont fortement accroître les besoins en flexibilité du système électrique. Moduler l'offre et la demande permet en e",
-      "url": "https://www.actu-environnement.com/dossier-actu/flexibilite-systeme-electrique-offre-demande-effacement-consommation-electricite-pilotage-108#xtor=RSS-6",
-      "published_at": "2026-11-10T15:05:31+00:00"
-    },
-    {
       "id": "4534846ae558129c",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -315,15 +270,6 @@
       "resume": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028 Jimmy Carter ’s family farm has been acquired by a group dedicated to permanently protecting the south-west Georgia land where the ",
       "url": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
       "published_at": "2026-11-10T15:01:41+00:00"
-    },
-    {
-      "id": "4fa3909e287804cc",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "L'autorisation d'un parc conchylicole annulée faute de suivi des mesures d'évitement et de réduction",
-      "resume": "Par une décision du 2 novembre 2026, la cour administrative d'appel de Nantes a annulé l'autorisation environnementale d'un parc d'activités conchylicoles à Pénestin (Morbihan) en raison du défaut de suivi des mesures d'évitement et de rédu",
-      "url": "https://www.actu-environnement.com/ae/news/parc-conchylicole-penestin-autorisation-annulee-especes-protegees-48785.php4#xtor=RSS-6",
-      "published_at": "2026-11-10T14:46:44+00:00"
     },
     {
       "id": "0c1c9ed76def7fbd",
@@ -720,6 +666,60 @@
       "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
       "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
       "published_at": "2026-07-20T10:36:40+00:00"
+    },
+    {
+      "id": "5966e35906e93c5d",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
+      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il se poursuit à un rythme record et l’Europe est le continent qui se réchauffe le plus vite. Les impacts du changement ",
+      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
+      "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "4e3191d2bda8de04",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Lancement du projet Prospective Europe",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
+      "published_at": "2026-07-01T15:48:52+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux notes à l’attention du Haut conseil pour le climat (HCC) dans le cadre d’une mission d’expertise visan",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la vie et de la santé (CCNE) le 9 avril 2026. Le HCC partage aujourd’hui sa contribution, transmise au CCNE, dans le cadre de ",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
+    },
+    {
+      "id": "f6ba6a33ef09a89a",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
+      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts du changement climatique : multiplication des vagues de chaleur, aggravation des sécheresses, i",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
+      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
