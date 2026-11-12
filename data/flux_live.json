@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-12T09:42:22.864752+00:00",
+  "generated_at": "2026-11-12T12:19:07.994367+00:00",
   "items": [
+    {
+      "id": "ddf177a184c62614",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
+      "resume": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to […]",
+      "url": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
+      "published_at": "2026-11-12T11:50:09+00:00"
+    },
+    {
+      "id": "abc5b94d905c2c54",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
+      "resume": "Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for voters Donald Trump is the “biggest loser we’ve seen in a long time” for scrapping action on the climate crisis and ceding the ",
+      "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+      "published_at": "2026-11-12T11:00:48+00:00"
+    },
+    {
+      "id": "5043e1f427ada837",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "RSE : les PME veulent s'engager, encore faut-il leur en donner les moyens",
+      "resume": "Les dirigeants de PME réclament plus de financements et d'accompagnements pour s'engager sur les enjeux sociaux et environnementaux - Photo de Jeriden Villegas sur Unsplash Les entreprises n'ont pas laissé tomber les engagements sociaux et ",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/rse-pme-besoins-financement-acompagnement-etat",
+      "published_at": "2026-11-12T10:45:10+00:00"
+    },
+    {
+      "id": "84e054e3cf197cca",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
+      "resume": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments […]",
+      "url": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
+      "published_at": "2026-11-12T10:34:31+00:00"
+    },
+    {
+      "id": "dbad879505028186",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "La réparation du préjudice écologique par le juge administratif : conditions de la carence fautive de l'État",
+      "resume": "Dix ans après la loi du 8 août 2016, le contentieux administratif du préjudice écologique se concentre sur la carence fautive de l'État. La jurisprudence permet d'en dégager trois conditions cumulatives.",
+      "url": "https://www.actu-environnement.com/ae/news/prejudice-ecologique-carence-fautive-etat-juge-administratif-48790.php4#xtor=RSS-6",
+      "published_at": "2026-11-12T10:00:00+00:00"
+    },
+    {
+      "id": "1f27b0d7560743e3",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Former à l’IA sans renoncer à la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/former-ia-sans-renoncer-a-la-decarbonation/",
+      "published_at": "2026-11-12T09:44:56+00:00"
+    },
+    {
+      "id": "de54885e113cd8d1",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP31 : le Royaume-Uni se dote d’une émissaire « pour la sécurité climatique », une première mondiale",
+      "resume": "Annoncée par Andy Burnham à Antalya, la nomination de Madeleine Alessandri, ancienne présidente du Comité mixte du renseignement, doit intégrer les risques climatiques à la politique de sécurité nationale britannique",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/12/cop31-le-royaume-uni-se-dote-d-un-emissaire-pour-la-securite-climatique-une-premiere-mondiale_6809081_3244.html",
+      "published_at": "2026-11-12T09:39:41+00:00"
+    },
     {
       "id": "b28035b2d6130c65",
       "source": "ESG Today",
@@ -69,7 +132,7 @@
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
-      "resume": "A l’origine immense lac d’eau douce partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues l",
+      "resume": "A l’origine immense lac partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues le royaume ex",
       "url": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
       "published_at": "2026-11-12T05:00:28+00:00"
     },
@@ -128,15 +191,6 @@
       "published_at": "2026-11-11T14:03:33+00:00"
     },
     {
-      "id": "c54b7f1a70fcdd2f",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Climate Asset Management Appoints Former HSBC AM Sustainability Head Erin Leonard as New CEO",
-      "resume": "Natural capital investment firm Climate Asset Management has appointed Erin Leonard, formerly HSBC Asset Management’s […]",
-      "url": "https://www.esgtoday.com/climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo",
-      "published_at": "2026-11-11T13:32:25+00:00"
-    },
-    {
       "id": "5e9a17030733e780",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -146,15 +200,6 @@
       "published_at": "2026-11-11T13:00:06+00:00"
     },
     {
-      "id": "536f2825ff83e39a",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Global Sustainable Fund Inflows Reach Highest Level Since 2024: Morningstar",
-      "resume": "Global sustainable investment funds experienced their third consecutive quarter of positive net flows in the […]",
-      "url": "https://www.esgtoday.com/global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar/?utm_source=rss&utm_medium=rss&utm_campaign=global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar",
-      "published_at": "2026-11-11T12:31:02+00:00"
-    },
-    {
       "id": "fbc8f6477ed2064a",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -162,15 +207,6 @@
       "resume": "Mardi soir, l’agence météo nationale portugaise anticipait des rafales pouvant atteindre les 140 kilomètres/heure, et le gouvernement avait décidé de fermer les écoles et les services publics non essentiels mercredi.",
       "url": "https://www.lemonde.fr/international/article/2026/11/11/la-tempete-charles-s-annonce-moins-intense-que-prevu-a-l-approche-du-portugal_6808959_3210.html",
       "published_at": "2026-11-11T11:01:57+00:00"
-    },
-    {
-      "id": "d38d5906b683a592",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A la COP31, l’ONU presse les dirigeants d’agir contre les énergies fossiles : « La vérité, brutale, est que la crise du climat nous dépasse », déclare Antonio Guterres",
-      "resume": "Le chef de l’ONU a exhorté les responsables réunis pour parler du climat à éliminer les énergies fossiles et à mettre de côté leurs différends, de manière à coopérer sur les meilleures façons de lutter contre le réchauffement.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/11/a-la-cop31-l-onu-presse-les-dirigeants-d-agir-contre-les-energies-fossiles-la-verite-brutale-est-que-la-crise-du-climat-nous-depasse-declare-antonio-guterres_6808958_3244.html",
-      "published_at": "2026-11-11T11:01:50+00:00"
     },
     {
       "id": "c4edc17047423735",
@@ -380,15 +416,6 @@
       "published_at": "2026-11-09T16:04:00+00:00"
     },
     {
-      "id": "8459423d4fa43cd7",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Nouveau label bas carbone tourbières : \"Il y a un intérêt business, au-delà de la stratégie climat\"",
-      "resume": "La restauration du marais des Planches, dans l'Ain, sera le premier projet labellisé Bas carbone tourbière. @Syndicat du Haut Rhône Elles ne représentent que 0,3% du territoire mais permettent de stocker 690 millions de tonnes équivalent CO",
-      "url": "https://www.novethic.fr/environnement/biodiversite/nouveau-label-bas-carbone-tourbieres-il-y-a-un-interet-business-au-dela-de-la-strategie-climat",
-      "published_at": "2026-11-09T13:14:12+00:00"
-    },
-    {
       "id": "f776b368b607d538",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -423,15 +450,6 @@
       "resume": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrapped A beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from ",
       "url": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
       "published_at": "2026-11-08T15:00:43+00:00"
-    },
-    {
-      "id": "4383431f77ebf9b7",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
-      "resume": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules t",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
-      "published_at": "2026-11-08T13:00:40+00:00"
     },
     {
       "id": "20173b8e5b9a0de9",
@@ -677,15 +695,6 @@
       "published_at": "2026-07-09T05:00:32+00:00"
     },
     {
-      "id": "4e3191d2bda8de04",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Lancement du projet Prospective Europe",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/lancement-du-projet-prospective-europe/",
-      "published_at": "2026-07-01T15:48:52+00:00"
-    },
-    {
       "id": "2da2b921127fe578",
       "source": "Haut Conseil pour le Climat",
       "categorie": "Climat",
@@ -711,15 +720,6 @@
       "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la vie et de la santé (CCNE) le 9 avril 2026. Le HCC partage aujourd’hui sa contribution, transmise au CCNE, dans le cadre de ",
       "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
       "published_at": "2026-04-16T12:28:44+00:00"
-    },
-    {
-      "id": "f6ba6a33ef09a89a",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Le Haut conseil pour le climat publie un rapport sur les politiques climatiques dans les territoires",
-      "resume": "Les territoires, en première ligne des impacts du changement climatique Les territoires sont directement exposés à l’intensification des impacts du changement climatique : multiplication des vagues de chaleur, aggravation des sécheresses, i",
-      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-publie-un-rapport-sur-les-politiques-climatiques-dans-les-territoires/",
-      "published_at": "2026-04-03T04:00:30+00:00"
     }
   ]
 }
