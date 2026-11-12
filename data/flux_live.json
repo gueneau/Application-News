@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-11T23:14:50.501099+00:00",
+  "generated_at": "2026-11-12T03:58:48.591270+00:00",
   "items": [
+    {
+      "id": "dbaca0c27418e138",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
+      "resume": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, wh",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+      "published_at": "2026-11-12T03:07:16+00:00"
+    },
     {
       "id": "0e5336e6420c4f51",
       "source": "Le Monde Planète",
@@ -468,15 +477,6 @@
       "resume": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules t",
       "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
       "published_at": "2026-11-08T13:00:40+00:00"
-    },
-    {
-      "id": "fad8b3c95e4859a4",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
-      "resume": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complicati",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
-      "published_at": "2026-11-07T12:00:13+00:00"
     },
     {
       "id": "20173b8e5b9a0de9",
