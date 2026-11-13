@@ -1,12 +1,246 @@
 {
-  "generated_at": "2026-11-13T08:22:31.187368+00:00",
+  "generated_at": "2026-11-13T16:38:30.453870+00:00",
   "items": [
+    {
+      "id": "1b8fbfda6f87e1ac",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Google et Engie font équipe pour préparer un grand centre de données",
+      "resume": "Engie et Google ont noué un partenariat sur le volet énergétique d’un projet de centre de données près de Châteauroux (Indre). Ce partenariat fait pour l’instant l’objet d’un simple protocole d’accord. Sa mise en œuvre se fera « sous réserv",
+      "url": "https://www.greenunivers.com/2026/11/google-et-engie-font-equipe-pour-preparer-un-grand-centre-de-donnees-438673/",
+      "published_at": "2026-11-13T16:30:19+00:00"
+    },
+    {
+      "id": "2fcfbc38e159fa0f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Les Côtes-d'Armor se préparent à une situation de rupture",
+      "resume": "Prioriser les usages et rendre supportable une potentielle rupture de distribution d'eau potable dans les Côtes-d'Armor dans un programme d'actions concrètes : c'est la consigne du préfet demandée sous quinze jours aux responsables de la pr",
+      "url": "https://www.actu-environnement.com/ae/news/stress-hydrique-cotes-armor-preparent-rupture-alimentation-eau-potable-bretagne-finistere-crise-48796.php4#xtor=RSS-6",
+      "published_at": "2026-11-13T16:25:20+00:00"
+    },
+    {
+      "id": "12675dd7d26fa0d0",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Fonds chaleur : le gouvernement traque les effets d’aubaine",
+      "resume": "Le gouvernement passe le Fonds chaleur à la moulinette d’une « nouvelle réalité économique ». Sa suspension sera certes « temporaire », a confirmé le gouvernement cette semaine, mais sa réouverture sera sous conditions. Elle tiendra compte ",
+      "url": "https://www.greenunivers.com/2026/11/fonds-chaleur-le-gouvernement-traque-les-effets-daubaine-438636/",
+      "published_at": "2026-11-13T16:04:12+00:00"
+    },
+    {
+      "id": "72419c84cc98d552",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "EDF et RTE préparent une centrale thermique au biodiesel  dans l’Hexagone",
+      "resume": "Dans le Val d’Oise, EDF et RTE veulent installer deux turbines à combustion pour 650 MW au total sur le site L’article EDF et RTE préparent une centrale thermique au biodiesel dans l’Hexagone est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/11/edf-et-rte-preparent-une-centrale-thermique-au-biodiesel-dans-lhexagone-438651/",
+      "published_at": "2026-11-13T15:44:18+00:00"
+    },
+    {
+      "id": "b795efc19b157f8d",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Trois leviers pour atteindre le seuil 2028 sans surcoût",
+      "resume": "Le Hub des prescripteurs bas carbone, piloté par l'Ifpeb et Carbone 4, identifie trois leviers permettant aux logements collectifs neufs d'atteindre le seuil 2028 de la RE 2020 sans surcoût significatif.",
+      "url": "https://www.actu-environnement.com/ae/news/RE2020-seuil-2028-logements-collectifs-surcout-hub-prescripteurs-bas-carbone-ifpeb-carbone4-48797.php4#xtor=RSS-6",
+      "published_at": "2026-11-13T15:43:34+00:00"
+    },
+    {
+      "id": "ee0a41081af08697",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le repowering éolien plus cher lors du dernier appel d’offres",
+      "resume": "Comme lors de la 11e session, il y a eu beaucoup de projets de repowering, 518 MW, déposés pour la 12e session de l’appel d’offres éolien terrestre, indique la Commission de régulation de l’énergie (CRE) dans L’article Le repowering éolien ",
+      "url": "https://www.greenunivers.com/2026/11/le-repowering-eolien-plus-cher-lors-du-dernier-appel-doffres-438624/",
+      "published_at": "2026-11-13T15:30:30+00:00"
+    },
+    {
+      "id": "6a44b98adf19b7bf",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Éolien : la recherche d'une alternative à l'échelle métropolitaine est satisfaisante",
+      "resume": "Par une décision du 10 novembre 2026, la cour administrative d'appel de Nantes a rejeté la requête de l'association Apeljou et de plusieurs personnes physiques qui demandaient l'annulation de l'autorisation environnementale et de la dérogat",
+      "url": "https://www.actu-environnement.com/ae/news/eolien-derogation-especes-protegees-solution-alternative-metropolitaine-48795.php4#xtor=RSS-6",
+      "published_at": "2026-11-13T15:11:25+00:00"
+    },
+    {
+      "id": "b6a4d8a01e7462ad",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La Cour suprême norvégienne invalide trois licences pétrolières en mer du Nord, un « jugement historique »",
+      "resume": "Si elle n’a pas d’effet immédiat sur la production, la décision de la plus haute instance de justice à Oslo contraint l’Etat à calculer les émissions totales de chacun des projets d’extraction et à en évaluer l’impact sur les températures m",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/13/la-cour-supreme-norvegienne-invalide-trois-licences-petrolieres-en-mer-du-nord-un-jugement-historique_6809339_3244.html",
+      "published_at": "2026-11-13T15:10:43+00:00"
+    },
+    {
+      "id": "3f54a5c478b0f28b",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’agenda de la transition énergétique",
+      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
+      "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-283-438660/",
+      "published_at": "2026-11-13T15:10:16+00:00"
+    },
+    {
+      "id": "64c250fed2e52d45",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
+      "resume": "La crise du détroit d’Ormuz pousse les producteurs du Golfe et les importateurs asiatiques à créer de nouvelles capacités de réserve pour mieux surmonter de futurs chocs d’approvisionnement.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html",
+      "published_at": "2026-11-13T15:00:06+00:00"
+    },
+    {
+      "id": "de541ecc42d68ce7",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Réprimer ses militants écologistes... et accueillir la COP31 : le jeu trouble de la Turquie",
+      "resume": "Emblème de la lutte écologiste en Turquie, les défenseurs de la forêt d'Akbelen sont visés par des arrestations et harcelés. Alors que le pays accueille la COP31 , activistes et experts dénoncent « l'hypocrisie » du gouvernement. Ikizköy et",
+      "url": "https://reporterre.net/Reprimer-ses-militants-ecologistes-et-accueillir-la-COP31-le-jeu-trouble-de-la-Turquie",
+      "published_at": "2026-11-13T13:30:00+00:00"
+    },
+    {
+      "id": "13a0d3d6056abc58",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Nucléaire : EDF voudrait relever les limites de température des fleuves, et tant pis pour les poissons",
+      "resume": "Les canicules ayant plombé sa production, l'opérateur veut assouplir les normes sur les eaux qui refroidissent ses centrales. Mauvaise idée selon les défenseurs des écosystèmes, alors que les poissons ont déjà trop chaud. Va-t-on vers un as",
+      "url": "https://reporterre.net/Nucleaire-EDF-voudrait-relever-les-limites-de-temperature-des-fleuves-et-tant-pis-pour-les-poissons",
+      "published_at": "2026-11-13T13:26:03+00:00"
+    },
+    {
+      "id": "81931e177d69ebaf",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
+      "resume": "L’offre mondiale de pétrole devrait dépasser la demande au dernier trimestre 2026, pour la première fois depuis le déclenchement de la guerre en Iran fin février, déclare vendredi 13 novembre l’Agence internationale de l’énergie.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
+      "published_at": "2026-11-13T13:12:17+00:00"
+    },
+    {
+      "id": "4926e3ccd1ab541c",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Renouvelables : production, consommation et électrification progressent en 2025",
+      "resume": "Les énergies renouvelables se rapprochent doucement de leurs objectifs. Les dernières statistiques publiques, publiées jeudi 12 novembre, montrent qu’elles comptent en 2025 pour L’article Renouvelables : production, consommation et électrif",
+      "url": "https://www.greenunivers.com/2026/11/renouvelables-production-consommation-et-electrification-progressent-en-2025-438623/",
+      "published_at": "2026-11-13T12:51:50+00:00"
+    },
+    {
+      "id": "b06a7252146fe506",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Amazon Launches Product Carbon Footprinting Solution",
+      "resume": "Amazon announced the release of its product carbon footprint (PCF) tool on its Sustainability Exchange […]",
+      "url": "https://www.esgtoday.com/amazon-launches-product-carbon-footprinting-solution/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-product-carbon-footprinting-solution",
+      "published_at": "2026-11-13T12:50:45+00:00"
+    },
+    {
+      "id": "0e0d31f5def152f7",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "COP31 : Qui contribue à la crise climatique ? 5 graphiques pour tout comprendre",
+      "resume": "La COP31 Climat se tient à Antalya, en Turquie, jusqu'au 20 novembre. @UN Climate Change - Kiara Worth / Flickr L’article COP31 : Qui contribue à la crise climatique ? 5 graphiques pour tout comprendre est apparu en premier sur Novethic .",
+      "url": "https://www.novethic.fr/environnement/climat/cop31-qui-contribue-a-la-crise-climatique-5-graphiques-pour-tout-comprendre",
+      "published_at": "2026-11-13T12:45:18+00:00"
+    },
+    {
+      "id": "d92efbfac4c43802",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "New York is running out of room for its waste even with Statue of Liberty-sized landfill",
+      "resume": "One company is proposing elongating the life of the dump, pungent smell and all, several more decades As a visual representation of how New York is running out of places to put its waste, the largest active landfill in the state is a striki",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
+      "published_at": "2026-11-13T12:30:18+00:00"
+    },
+    {
+      "id": "1f159d4f62e67daf",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
+      "resume": "Water temperatures are climbing the charts, high tides are swallowing the shoreline and vital parts of the food web that feed ocean diversity are disappearing On a picturesque autumn afternoon last week, the beaches of California’s Monterey",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
+      "published_at": "2026-11-13T12:00:19+00:00"
+    },
+    {
+      "id": "7bc9a1e6aa7af3bd",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Tunisie, comment un projet d’élevage d’insectes a été au cœur de tensions et de violences",
+      "resume": "Après plusieurs semaines de protestations, une usine quasi achevée de protéines d’insectes au sud-est de Tunis a été incendiée fin octobre, peu après la mort d’un manifestant. Le projet, mis depuis à l’arrêt, avait été en partie financé par",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/13/en-tunisie-comment-un-projet-d-elevage-d-insectes-a-ete-au-c-ur-de-tensions-et-de-violences_6809321_3244.html",
+      "published_at": "2026-11-13T11:30:10+00:00"
+    },
+    {
+      "id": "6fb878f42b6eb1fe",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Lire notre dossier d'actu \"Batteries : le stockage change d’échelle\"",
+      "resume": "Le parc français de batteries stationnaires a doublé en dix-huit mois pour dépasser 2 GW, et plus de 17 GW de projets attendent leur raccordement. Des « mégabatteries » de plus de 200 MW aux petites installations couplées au solaire, le sto",
+      "url": "https://www.actu-environnement.com/dossier-actu/dossier-axctu-stockage-electricite-batteries-135#xtor=RSS-6",
+      "published_at": "2026-11-13T11:27:53+00:00"
+    },
+    {
+      "id": "c3e61922406ad887",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Chasse : une plainte contre X déposée après les révélations de Reporterre",
+      "resume": "L'association AC !! Anticorruption a déposé le 5 novembre une plainte contre X pour des infractions à la réglementation des réserves naturelles nationales de Py et Mantet. Cette action en justice fait suite aux révélations de Reporterre sur",
+      "url": "https://reporterre.net/Chasse-une-plainte-contre-X-deposee-apres-les-revelations-de-Reporterre",
+      "published_at": "2026-11-13T10:45:33+00:00"
+    },
+    {
+      "id": "87f63db9d0e14e62",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EU Parliament, Council Strike Deal to Give Industry €10 Billion in Additional Free Carbon Allowances",
+      "resume": "Lawmakers in the European Parliament and EU Member States announced that they reached a late-night […]",
+      "url": "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances",
+      "published_at": "2026-11-13T10:42:29+00:00"
+    },
+    {
+      "id": "d68fc1c9aec85177",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "L’objectif de 1,5° de réchauffement est mort, mais personne ne veut l’enterrer",
+      "resume": "Les dirigeants présents à la COP31 s'attachent à cet objectif emblématique, même après que l'ONU et de nombreux scientifiques ont déclaré qu'il était impossible à atteindre.",
+      "url": "https://www.politico.eu/article/lobjectif-de-15-de-rechauffement-est-mort-mais-personne-ne-veut-lenterrer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-11-13T10:30:09+00:00"
+    },
+    {
+      "id": "707770d09db25eb5",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Panne mondiale de Microsoft, les fragilités d'un monde sous dépendance",
+      "resume": "Microsoft subit une panne depuis plus de 12h sans arriver à rétablir ses services. @Istock. Si vous n'avez pas reçu vos mails sur Outlook ce vendredi matin, vous n'êtes pas seul. Le problème est mondial. Depuis jeudi 12 novembre, plusieurs ",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/panne-mondiale-de-microsoft-les-fragilites-dun-monde-sous-dependance",
+      "published_at": "2026-11-13T09:47:16+00:00"
+    },
+    {
+      "id": "a6e4d160e45f2d0b",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "How Can We Finance COP31’s Electrification Plan?",
+      "resume": "Guest post by: Tsvetelina Kuzmanova, EU Sustainable Finance Policy Lead, Cambridge Institute for Sustainability Leadership […]",
+      "url": "https://www.esgtoday.com/how-can-we-finance-cop31s-electrification-plan/?utm_source=rss&utm_medium=rss&utm_campaign=how-can-we-finance-cop31s-electrification-plan",
+      "published_at": "2026-11-13T09:47:16+00:00"
+    },
+    {
+      "id": "1f27b0d7560743e3",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Former à l’IA sans renoncer à la décarbonation",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/former-ia-sans-renoncer-a-la-decarbonation/",
+      "published_at": "2026-11-13T09:44:56+00:00"
+    },
     {
       "id": "9adf3b5ba09d94be",
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "« J'suis pas payé par Total, hein » : la délégation française ouvre grand ses portes aux lobbyistes à la COP31",
-      "resume": "Le PDG de TotalEnergies figure une fois de plus dans la délégation française à la COP31 , aux côtés d'autres employés d'entreprises parmi les plus polluantes. Une « accréditation scandaleuse », dénoncent des ONG , qui plaident pour une réfo",
+      "resume": "Le PDG de TotalEnergies a une fois de plus été accrédité pour la délégation française à la COP31 , aux côtés d'autres employés d'entreprises parmi les plus polluantes. Une « accréditation scandaleuse », dénoncent des ONG , qui plaident pour",
       "url": "https://reporterre.net/J-suis-pas-paye-par-Total-hein-la-delegation-francaise-ouvre-grand-ses-portes-aux-lobbyistes-a-la-COP31",
       "published_at": "2026-11-13T08:00:00+00:00"
     },
@@ -14,7 +248,7 @@
       "id": "f6cf37e883367f58",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« Passer du moche en acrylique au 100% local » : elles fabriquent des pulls de la brebis au tricot",
+      "titre": "« Passer du moche en acrylique au 100 % local » : elles fabriquent des pulls, de la brebis au tricot",
       "resume": "Dans le Maine-et-Loire, un petit groupe de tricot s'est lancé le défi de confectionner un pull en laine 100 % local avec un éleveur de brebis. En réapprenant au passage un savoir-faire perdu depuis longtemps en France. Gennes (Maine-et-Loir",
       "url": "https://reporterre.net/Passer-du-moche-en-acrylique-au-100-local-elles-fabriquent-des-pulls-de-la-brebis-au-tricot",
       "published_at": "2026-11-13T06:05:00+00:00"
@@ -44,7 +278,7 @@
       "titre": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
       "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
       "url": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
-      "published_at": "2026-11-13T05:30:09+00:00"
+      "published_at": "2026-11-13T05:30:07+00:00"
     },
     {
       "id": "2659ef9201b647fc",
@@ -53,34 +287,7 @@
       "titre": "Les mobilisations lycéennes naissent aussi d’une prise de conscience de la crise climatique",
       "resume": "Après l’été le plus chaud jamais enregistré en France, les manifestations des lycéens ont mis en avant, de façon inhabituelle, la mauvaise adaptation du bâti scolaire. Une revendication pour laquelle la canicule de juin a joué un rôle de ca",
       "url": "https://www.lemonde.fr/idees/article/2026/11/13/les-mobilisations-lyceennes-naissent-aussi-d-une-prise-de-conscience-de-la-crise-climatique_6809278_3232.html",
-      "published_at": "2026-11-13T05:00:35+00:00"
-    },
-    {
-      "id": "fbe73e7580280a4b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Gaz : la piste d’une réserve stratégique à l’étude pour anticiper de futures crises",
-      "resume": "La France réfléchit à la possibilité de disposer d’un stock d’urgence, comme pour le pétrole, afin de prévenir tout risque de rupture des approvisionnements. Un tel projet est désormais mis en œuvre en Allemagne.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/13/gaz-la-piste-d-une-reserve-strategique-a-l-etude-pour-anticiper-de-futures-crises_6809277_3234.html",
       "published_at": "2026-11-13T05:00:32+00:00"
-    },
-    {
-      "id": "529aa85c05a0ae95",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Turquie, une petite radio associative offre une rare fenêtre sur l’écologie sous le régime d’Erdogan",
-      "resume": "Depuis trente ans, Apaçik Radyo diffuse d’Istanbul des émissions de sensibilisation au changement climatique. Privée de fréquence, elle se démène plus que jamais pour faire entendre la voix des militants écologistes à l’heure de la COP31 à ",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html",
-      "published_at": "2026-11-13T04:00:34+00:00"
-    },
-    {
-      "id": "0322dc2b656cdd38",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Crues : la Haute-Corse rétrogradée en vigilance jaune",
-      "resume": "Le département avait été placé par Météo-France en vigilance orange jeudi après-midi en raison de la dépression Charles, qui a donné lieu en Corse à des précipitations ayant « un caractère orageux intense » ayant « engendré une montée très ",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/13/crues-la-haute-corse-retrogradee-en-vigilance-jaune_6809126_3245.html",
-      "published_at": "2026-11-12T23:00:05+00:00"
     },
     {
       "id": "847205027a063975",
@@ -92,15 +299,6 @@
       "published_at": "2026-11-12T22:12:56+00:00"
     },
     {
-      "id": "78a4c32e269ae070",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
-      "resume": "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur dix ans, mais peu orienté vers la transiti",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
-      "published_at": "2026-11-12T21:10:52+00:00"
-    },
-    {
       "id": "829d029ae57c025d",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -110,22 +308,13 @@
       "published_at": "2026-11-12T20:53:49+00:00"
     },
     {
-      "id": "ea491f8e7d073d62",
-      "source": "Reporterre",
+      "id": "ef2126b2ac8aeb96",
+      "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Fonte des glaces : une nouvelle limite planétaire est dépassée",
-      "resume": "Clé de voûte de la régulation de la planète, la cryosphère atteint un niveau d'instabilité critique. En pleine COP31 , une trentaine de chercheurs sonnent l'alerte. Sans glace sur Terre, pas de civilisation humaine. Problème : toutes les gl",
-      "url": "https://reporterre.net/Fonte-des-glaces-une-nouvelle-limite-planetaire-est-depassee",
-      "published_at": "2026-11-12T19:00:00+00:00"
-    },
-    {
-      "id": "f9661859e9f386e0",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "« Il n’y aura pas forcément une baisse du nombre de consommateurs de gaz » [J-C Colas-Roy]",
-      "resume": "Interrogé sur le réalisme du décommissionnement des réseaux de gaz, à l’occasion d’un webinaire sur les filières innovantes dans les gaz verts, Jean-Charles Colas-Roy, président de l’association Coenove, appelle à éviter toute approche « na",
-      "url": "https://www.greenunivers.com/2026/11/il-ny-aura-pas-forcement-une-baisse-du-nombre-de-consommateurs-de-gaz-j-c-colas-roy-438521/",
-      "published_at": "2026-11-12T17:03:54+00:00"
+      "titre": "Véhicules électriques : l'ambitieuse voie ouverte par Veolia dans le recyclage des batteries - Les Echos",
+      "resume": "Véhicules électriques : l'ambitieuse voie ouverte par Veolia dans le recyclage des batteries Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ0tlN0owZDg2bmJJd2pPYVAyWWcweWZWYnFVRXg2WmRtc2V6Y2E1MS1VNG1Fa2NTMlY3VjlERzFLdUhPbk9uVWlNa1JkZGZLTXFHNk5QOXVZVlRtQU1HUjRmNmdOY2Y5eF9oYlFKS3lHZFVoRFZRRFJNd3BwN0hTUWdTbmhiUXhtZ3pZczF3QnpvazNBX19GRHVidTk5UGZaOWxvZEQtUmR1NVJIendnbVhxNG5NaTBEeGI1bm4zYUVXLTlwenlubERkZXpqWHlHdHhBUkxCREEtNFV5LTBuQ0NGaGFDRm00cnZWSGlHbTFGVzRX?oc=5",
+      "published_at": "2026-11-12T18:28:43+00:00"
     },
     {
       "id": "2b59337e75d0f11f",
@@ -135,24 +324,6 @@
       "resume": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the […]",
       "url": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
       "published_at": "2026-11-12T17:03:04+00:00"
-    },
-    {
-      "id": "c149e874ee74abb0",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Attentat de Trappes : deux personnalités écologistes sur la liste du tireur",
-      "resume": "Deux personnalités écologistes figuraient sur la liste retrouvée chez le tireur de Trappes : la députée écologiste Sandrine Rousseau et le député Aymeric Caron, apparenté à La France insoumise ( LFI ). Sur la note manuscrite découverte par ",
-      "url": "https://reporterre.net/Attentat-de-Trappes-deux-personnalites-ecologistes-sur-la-liste-du-tireur",
-      "published_at": "2026-11-12T16:58:08+00:00"
-    },
-    {
-      "id": "fda3f57d15318447",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Infranity lève 1,5 Md€ et dépasse les 15 Mds€ sous gestion",
-      "resume": "Le gestionnaire d’infrastructures français adossé à Generali Investments clôt son 4e fonds à 1,5 Md€, dédié à la dette privée. Via ce véhicule, L’article Infranity lève 1,5 Md€ et dépasse les 15 Mds€ sous gestion est apparu en premier sur G",
-      "url": "https://www.greenunivers.com/2026/11/infranity-leve-15-mde-et-depasse-les-15-mdse-sous-gestion-438554/",
-      "published_at": "2026-11-12T16:50:26+00:00"
     },
     {
       "id": "76cb1ad9f5cd68ce",
@@ -167,28 +338,10 @@
       "id": "73b345ecd137afea",
       "source": "Actu-Environnement",
       "categorie": "Presse",
-      "titre": "Lac de Petit-Saut en Guyane : la justice enjoint au préfet de déposer une dérogation « espèce protégée »",
+      "titre": "Lac de Petit-Saut en Guyane : la justice enjoint au préfet de déposer une dérogation « espèces protégées »",
       "resume": "Par un jugement du 5 novembre 2026, le tribunal administratif de Guyane a enjoint au préfet de mettre en demeure, dans un délai de deux mois, la société Triton Guyane de déposer une demande de dérogation « espèces protégées » et, à défaut, ",
       "url": "https://www.actu-environnement.com/ae/news/petit-saut-guyane-derogation-especes-protegees-48794.php4#xtor=RSS-6",
       "published_at": "2026-11-12T16:40:40+00:00"
-    },
-    {
-      "id": "e4a1c0218f0033ad",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Nucléaire : EDF jugé pour une surveillance défaillante des rejets à Chinon",
-      "resume": "La surveillance des rejets radioactifs de la centrale nucléaire de Chinon devant la justice. EDF et le directeur du site seront jugés vendredi 13 novembre à 9 heures au tribunal de police de Tours (Indre-et-Loire), à la suite d'une plainte ",
-      "url": "https://reporterre.net/Nucleaire-EDF-juge-pour-une-surveillance-defaillante-des-rejets-a-Chinon",
-      "published_at": "2026-11-12T16:34:30+00:00"
-    },
-    {
-      "id": "511c2afdca121ebd",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "OpenAI veut rendre ses futurs centres de données flexibles",
-      "resume": "La maison mère de ChatGPT a lancé au début du mois le programme Grid Protectors, visant à rendre ses futurs centres de données capables L’article OpenAI veut rendre ses futurs centres de données flexibles est apparu en premier sur GreenUniv",
-      "url": "https://www.greenunivers.com/2026/11/openai-veut-rendre-ses-futurs-centres-de-donnees-flexibles-438562/",
-      "published_at": "2026-11-12T16:21:10+00:00"
     },
     {
       "id": "0bc27c8e54d74360",
@@ -200,15 +353,6 @@
       "published_at": "2026-11-12T15:51:03+00:00"
     },
     {
-      "id": "8389b2c07e3df0ef",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Face à un monde en crise, l'absence de transition robuste renforce les vulnérabilités",
-      "resume": "Énergie, alimentation, climat... Les crises se suivent, s'enchaînent et s'alimentent, dans un monde interconnecté. Les impacts de ces crises vont s'amplifier, faute de réponse durable et robuste. Avec des conséquences sociales et politiques",
-      "url": "https://www.actu-environnement.com/ae/news/polycrise-transition-energetique-dependances-robustesse-48792.php4#xtor=RSS-6",
-      "published_at": "2026-11-12T15:48:52+00:00"
-    },
-    {
       "id": "f07ce8d5de237e7a",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -216,24 +360,6 @@
       "resume": "The European Commission announced today the launch of a consultation on a newly released draft […]",
       "url": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
       "published_at": "2026-11-12T15:33:42+00:00"
-    },
-    {
-      "id": "4569647602c783c5",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Chlordécone : l'État condamné à indemniser un ouvrier agricole atteint d'un cancer de la prostate",
-      "resume": "Par un jugement du 27 octobre 2026, le tribunal administratif de Guadeloupe a condamné l'État à réparer le préjudice subi par un ancien ouvrier agricole dont le cancer de la prostate, reconnu comme maladie professionnelle, a été causé par s",
-      "url": "https://www.actu-environnement.com/ae/news/chlordecone-etat-condamne-ouvrier-agricole-cancer-48791.php4#xtor=RSS-6",
-      "published_at": "2026-11-12T15:27:05+00:00"
-    },
-    {
-      "id": "537ffbc8fa0cc194",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Eolien en mer : un investissement de 12 Mds£ validé au Royaume-Uni",
-      "resume": "La hausse des coûts de l’éolien en mer ces dernières années se fait sentir dans la décision finale d’investissement que viennent de prendre RWE et KKR au Royaume-Uni. Les deux acteurs L’article Eolien en mer : un investissement de 12 Mds£ v",
-      "url": "https://www.greenunivers.com/2026/11/eolien-en-mer-un-investissement-de-12-mds-valide-au-royaume-uni-438539/",
-      "published_at": "2026-11-12T15:25:20+00:00"
     },
     {
       "id": "78c9b1e532834f4c",
@@ -245,15 +371,6 @@
       "published_at": "2026-11-12T15:05:24+00:00"
     },
     {
-      "id": "806c9eaff0710214",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Gaz, géothermie, CEE… : les objectifs du candidat Retailleau",
-      "resume": "Exclusif — Sur la production d’électricité, le candidat à l’élection présidentielle Bruno Retailleau a déjà égrené ses propositions : pas d’appels d’offres pour les renouvelables, allongement de la durée de vie des réacteurs nucléaires et c",
-      "url": "https://www.greenunivers.com/2026/11/gaz-geothermie-cee-les-objectifs-du-candidat-retailleau-438496/",
-      "published_at": "2026-11-12T13:45:35+00:00"
-    },
-    {
       "id": "b8263453e788883d",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -261,15 +378,6 @@
       "resume": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch […]",
       "url": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss&utm_medium=rss&utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
       "published_at": "2026-11-12T13:45:08+00:00"
-    },
-    {
-      "id": "6b3c182aec304c16",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "UK Proposes Mandatory Supply Chain Deforestation Due Diligence Rules",
-      "resume": "The UK Government announced the launch of a consultation into proposed new due diligence regulations […]",
-      "url": "https://www.esgtoday.com/uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules/?utm_source=rss&utm_medium=rss&utm_campaign=uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules",
-      "published_at": "2026-11-12T12:51:58+00:00"
     },
     {
       "id": "6a08637a1e4c5f6c",
@@ -290,15 +398,6 @@
       "published_at": "2026-11-12T12:40:08+00:00"
     },
     {
-      "id": "ddf177a184c62614",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
-      "resume": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to […]",
-      "url": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
-      "published_at": "2026-11-12T11:50:09+00:00"
-    },
-    {
       "id": "abc5b94d905c2c54",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -317,33 +416,6 @@
       "published_at": "2026-11-12T10:45:10+00:00"
     },
     {
-      "id": "84e054e3cf197cca",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
-      "resume": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments […]",
-      "url": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
-      "published_at": "2026-11-12T10:34:31+00:00"
-    },
-    {
-      "id": "dbad879505028186",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La réparation du préjudice écologique par le juge administratif : conditions de la carence fautive de l'État",
-      "resume": "Dix ans après la loi du 8 août 2016, le contentieux administratif du préjudice écologique se concentre sur la carence fautive de l'État. La jurisprudence permet d'en dégager trois conditions cumulatives.",
-      "url": "https://www.actu-environnement.com/ae/news/prejudice-ecologique-carence-fautive-etat-juge-administratif-48790.php4#xtor=RSS-6",
-      "published_at": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "id": "1f27b0d7560743e3",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Former à l’IA sans renoncer à la décarbonation",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/former-ia-sans-renoncer-a-la-decarbonation/",
-      "published_at": "2026-11-12T09:44:56+00:00"
-    },
-    {
       "id": "e7e157b9fac6c8dc",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -353,15 +425,6 @@
       "published_at": "2026-11-12T07:00:00+00:00"
     },
     {
-      "id": "67347af04478cba0",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Les compétences vertes gagnent du terrain dans tous les métiers de l'économie, selon LinkedIn",
-      "resume": "Les compétences vertes sont de plus en plus - Photo de Markus Spiske sur Unsplash Les compétences liées à la transition écologique constituent un atout croissant sur le marché du travail. C’est ce que montre le Global Green Skills Report 20",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/competences-vertes-diffusion-economie-recrutements-linkedin-rapport",
-      "published_at": "2026-11-12T05:45:18+00:00"
-    },
-    {
       "id": "dbaca0c27418e138",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -369,15 +432,6 @@
       "resume": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, wh",
       "url": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
       "published_at": "2026-11-12T03:07:16+00:00"
-    },
-    {
-      "id": "dac700419ae027a1",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Ce \"glacier de l'apocalypse\" qui pourrait accélérer la montée des eaux",
-      "resume": "Le glacier de Thwaites pourrait fondre plus vite que prévu et accélérer la montée des eaux - Image Credit: NASA/James Yungel Les alertes se multiplient autour du désormais célèbre glacier de Thwaites. Ce glacier, situé en Antarctique occide",
-      "url": "https://www.novethic.fr/environnement/climat/glacier-apocalypse-acceleration-montee-des-eaux-thwaite",
-      "published_at": "2026-11-11T05:45:48+00:00"
     },
     {
       "id": "950c03428ed03d59",
@@ -398,24 +452,6 @@
       "published_at": "2026-11-10T16:24:37+00:00"
     },
     {
-      "id": "063b3557795ec01a",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "A quoi ressemble la valorisation d’une batterie sur les marchés",
-      "resume": "A première vue incompréhensible, l’animation illustre les calculs et ajustements réalisés en permanence par les logiciels L’article A quoi ressemble la valorisation d’une batterie sur les marchés est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/11/a-quoi-ressemble-la-valorisation-dune-batterie-sur-les-marches-438199/",
-      "published_at": "2026-11-10T15:54:12+00:00"
-    },
-    {
-      "id": "4534846ae558129c",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Jimmy Carter’s Georgia farm acquired by conservation group planning to open it to public",
-      "resume": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028 Jimmy Carter ’s family farm has been acquired by a group dedicated to permanently protecting the south-west Georgia land where the ",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
-      "published_at": "2026-11-10T15:01:41+00:00"
-    },
-    {
       "id": "c3adbbc8180fe36d",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -423,15 +459,6 @@
       "resume": "Selon trois diplomates, le bloc serait parvenu à un consensus pour soutenir l'engagement phare du sommet.",
       "url": "https://www.politico.eu/article/cop31-lue-soutiendra-lobjectif-delectrification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-10T10:21:37+00:00"
-    },
-    {
-      "id": "655dcdf25ae4ac0a",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle - Les Echos",
-      "resume": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlBtQzA3cWhHbUoyYnJsSVhjZW9RYzFRaWZuMG1zMVQwMUJlVDM3ZWozb19KRHBySVA3aXdzb05OcDN1YmVGc2VmZnN3bHRsQ3A0NGhEeXhvUGRwNW9VR2lhOEFEblE5LVpKdUdoNWlnNWV6MVdOdGtaTDVuTUtDdkxWWWJyell0NEVTeVlrS016T1VsZ3RDdFBDNWtfWlZ0VWJmWUpZX01HTXdmbUM0N1BRSkNGVkxneFU1YXU1R0lhVC00WFB1OTlxVFdHTjkyak9mX0hVSHgwZnBO?oc=5",
-      "published_at": "2026-11-10T09:30:32+00:00"
     },
     {
       "id": "632cb0f01f588787",
@@ -450,15 +477,6 @@
       "resume": "Dans son dernier rapport d’étape, la Commission européenne tire la sonnette d’alarme face au ralentissement de la baisse des émissions de gaz à effet de serre. Alors que les transports, le bâtiment et l’agriculture sont à la traîne, les déb",
       "url": "https://www.contexte.com/fr/article/energie/reduction-des-emissions-lue-face-au-risque-dune-sortie-de-route_284327?source=rss",
       "published_at": "2026-11-10T07:00:00+00:00"
-    },
-    {
-      "id": "93961751cb50040b",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-      "resume": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infras",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-      "published_at": "2026-11-10T02:28:00+00:00"
     },
     {
       "id": "0cc274c9dc9fd50e",
@@ -549,15 +567,6 @@
       "resume": "L'ancien ministre de la Transition écologique et chantre de l'adaptation au réchauffement climatique est au cœur du dispositif du candidat à l'élection présidentielle.",
       "url": "https://www.politico.eu/article/christophe-bechu-premier-lieutenant-dedouard-philippe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-10-28T16:53:35+00:00"
-    },
-    {
-      "id": "89dc674b9bbfa217",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Le gouvernement met fin à plusieurs programmes de lutte contre la précarité énergétique",
-      "resume": "Ne poursuivant pas l’objectif d’électrification du gouvernement, cinq programmes d’aide au plus précaires et aux collectivités ne seront pas renouvelés à la fin de l’année, dévoile POLITICO.",
-      "url": "https://www.politico.eu/article/le-gouvernement-met-fin-a-plusieurs-programmes-de-lutte-contre-la-precarite-energetique/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-10-28T16:11:56+00:00"
     },
     {
       "id": "b834fe38d4c88839",
@@ -711,15 +720,6 @@
       "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
       "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
       "published_at": "2026-09-08T13:11:58+00:00"
-    },
-    {
-      "id": "cf48f14c1a1e7e16",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Un an après notre financement participatif, faisons le point",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/un-an-apres-notre-financement-participatif-faisons-le-point/",
-      "published_at": "2026-08-20T09:46:13+00:00"
     }
   ]
 }
