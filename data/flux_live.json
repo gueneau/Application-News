@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-11-13T01:18:19.859472+00:00",
+  "generated_at": "2026-11-13T08:22:31.187368+00:00",
   "items": [
+    {
+      "id": "9adf3b5ba09d94be",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« J'suis pas payé par Total, hein » : la délégation française ouvre grand ses portes aux lobbyistes à la COP31",
+      "resume": "Le PDG de TotalEnergies figure une fois de plus dans la délégation française à la COP31 , aux côtés d'autres employés d'entreprises parmi les plus polluantes. Une « accréditation scandaleuse », dénoncent des ONG , qui plaident pour une réfo",
+      "url": "https://reporterre.net/J-suis-pas-paye-par-Total-hein-la-delegation-francaise-ouvre-grand-ses-portes-aux-lobbyistes-a-la-COP31",
+      "published_at": "2026-11-13T08:00:00+00:00"
+    },
+    {
+      "id": "f6cf37e883367f58",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Passer du moche en acrylique au 100% local » : elles fabriquent des pulls de la brebis au tricot",
+      "resume": "Dans le Maine-et-Loire, un petit groupe de tricot s'est lancé le défi de confectionner un pull en laine 100 % local avec un éleveur de brebis. En réapprenant au passage un savoir-faire perdu depuis longtemps en France. Gennes (Maine-et-Loir",
+      "url": "https://reporterre.net/Passer-du-moche-en-acrylique-au-100-local-elles-fabriquent-des-pulls-de-la-brebis-au-tricot",
+      "published_at": "2026-11-13T06:05:00+00:00"
+    },
+    {
+      "id": "2169efa2e528652d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« On se sent abandonnés » : trois mois après le mégafeu en Gironde, la colère des sinistrés ne s'éteint pas",
+      "resume": "Faute de dialogue avec l'administration, la souffrance des sinistrés du Porge se double d'une défiance envers l'État, trois mois après les incendies de Gironde. Le Porge (Gironde), reportage En sortant de la mairie, Benjamin Veyres est déçu",
+      "url": "https://reporterre.net/On-se-sent-abandonnes-trois-mois-apres-le-megafeu-en-Gironde-la-colere-des-sinistres-ne-s-eteint-pas",
+      "published_at": "2026-11-13T06:00:00+00:00"
+    },
+    {
+      "id": "c5149f4da8201110",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Greenwashing : comment le Digital Fairness Act pourrait renforcer l'encadrement des allégations environnementales",
+      "resume": "La Commission introduit un nouveau texte qui pourrait harmoniser l'encadrement du greenwashing @ Jason Mavrommatis sur Unsplash Ca va, ça vient en matière de greenwashing au niveau européen. Une semaine seulement après avoir annoncé son int",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/digital-fairness-act-greenwashing-allegations-environnementales",
+      "published_at": "2026-11-13T05:45:03+00:00"
+    },
+    {
+      "id": "d6500a9ef6b9f959",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
+      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
+      "published_at": "2026-11-13T05:30:09+00:00"
+    },
+    {
+      "id": "2659ef9201b647fc",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les mobilisations lycéennes naissent aussi d’une prise de conscience de la crise climatique",
+      "resume": "Après l’été le plus chaud jamais enregistré en France, les manifestations des lycéens ont mis en avant, de façon inhabituelle, la mauvaise adaptation du bâti scolaire. Une revendication pour laquelle la canicule de juin a joué un rôle de ca",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/13/les-mobilisations-lyceennes-naissent-aussi-d-une-prise-de-conscience-de-la-crise-climatique_6809278_3232.html",
+      "published_at": "2026-11-13T05:00:35+00:00"
+    },
+    {
+      "id": "fbe73e7580280a4b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Gaz : la piste d’une réserve stratégique à l’étude pour anticiper de futures crises",
+      "resume": "La France réfléchit à la possibilité de disposer d’un stock d’urgence, comme pour le pétrole, afin de prévenir tout risque de rupture des approvisionnements. Un tel projet est désormais mis en œuvre en Allemagne.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/13/gaz-la-piste-d-une-reserve-strategique-a-l-etude-pour-anticiper-de-futures-crises_6809277_3234.html",
+      "published_at": "2026-11-13T05:00:32+00:00"
+    },
+    {
+      "id": "529aa85c05a0ae95",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Turquie, une petite radio associative offre une rare fenêtre sur l’écologie sous le régime d’Erdogan",
+      "resume": "Depuis trente ans, Apaçik Radyo diffuse d’Istanbul des émissions de sensibilisation au changement climatique. Privée de fréquence, elle se démène plus que jamais pour faire entendre la voix des militants écologistes à l’heure de la COP31 à ",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/13/en-turquie-une-petite-radio-associative-offre-une-rare-fenetre-sur-l-ecologie-sous-le-regime-d-erdogan_6809268_3244.html",
+      "published_at": "2026-11-13T04:00:34+00:00"
+    },
     {
       "id": "0322dc2b656cdd38",
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Crues : la Haute-Corse rétrogradée en vigilance jaune",
-      "resume": "Le département avait été placé par Météo-France en vigilance orange jeudi après-midi en raison de la dépression Charles qui a donné lieu en Corse à des précipitations ayant « un caractère orageux intense » ayant « engendré une montée très r",
+      "resume": "Le département avait été placé par Météo-France en vigilance orange jeudi après-midi en raison de la dépression Charles, qui a donné lieu en Corse à des précipitations ayant « un caractère orageux intense » ayant « engendré une montée très ",
       "url": "https://www.lemonde.fr/planete/article/2026/11/13/crues-la-haute-corse-retrogradee-en-vigilance-jaune_6809126_3245.html",
       "published_at": "2026-11-12T23:00:05+00:00"
     },
@@ -44,15 +116,6 @@
       "titre": "Fonte des glaces : une nouvelle limite planétaire est dépassée",
       "resume": "Clé de voûte de la régulation de la planète, la cryosphère atteint un niveau d'instabilité critique. En pleine COP31 , une trentaine de chercheurs sonnent l'alerte. Sans glace sur Terre, pas de civilisation humaine. Problème : toutes les gl",
       "url": "https://reporterre.net/Fonte-des-glaces-une-nouvelle-limite-planetaire-est-depassee",
-      "published_at": "2026-11-12T19:00:00+00:00"
-    },
-    {
-      "id": "cbcf405ed8e35624",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Hantavirus : décrypter la souche Andes, une étape essentielle pour retracer le parcours de l’épidémie",
-      "resume": "Une seule contamination entre rongeur et humain, mais où et quand ? Quatre mois après la fin de la crise sanitaire déclenchée par la survenue de cas à bord d’un navire de croisière, un article publié jeudi dans la revue « Science » apporte ",
-      "url": "https://www.lemonde.fr/sciences/article/2026/11/12/decrypter-le-genome-du-hantavirus-andes-une-etape-essentielle-pour-retracer-le-parcours-de-l-epidemie_6809156_1650684.html",
       "published_at": "2026-11-12T19:00:00+00:00"
     },
     {
@@ -182,33 +245,6 @@
       "published_at": "2026-11-12T15:05:24+00:00"
     },
     {
-      "id": "9c5e518b41b5041d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Aux Arbres ! » La nouvelle BD pour défendre nos forêts",
-      "resume": "Reporterre sort en collaboration avec La Revue dessinée la BD « Aux Arbres ! Des forêts à défendre ». En librairie le 18 novembre, elle est déjà en prévente ici. Découvrez des extraits et commandez votre exemplaire ! Après le succès, l'anné",
-      "url": "https://reporterre.net/Aux-Arbres-La-nouvelle-BD-de-Reporterre-pour-defendre-nos-forets",
-      "published_at": "2026-11-12T15:00:00+00:00"
-    },
-    {
-      "id": "606c18b2158ea49f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Agriculture : la ministre de l’agriculture détaille un plan de relance pour le secteur de « 725 millions d’euros »",
-      "resume": "Le montant dépasse la fourchette de 500 à 700 millions d’euros évoquée en octobre par le premier ministre, Sébastien Lecornu.",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/12/plan-de-relance-agricole-la-ministre-annie-genevard-devoile-une-enveloppe-de-725-millions-d-euros_6809111_823448.html",
-      "published_at": "2026-11-12T14:17:15+00:00"
-    },
-    {
-      "id": "f238c41618b1417f",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Mariages d'enfants et d'adolescentes : un phénomène « aggravé par la sécheresse » en Afghanistan",
-      "resume": "Des provinces afghanes sont particulièrement touchées par la sécheresse. Pour survivre, des familles vendent la main de leurs filles mineures. Un phénomène « dévastateur », documenté par la photojournaliste Élise Blanchard. Photojournaliste",
-      "url": "https://reporterre.net/Mariages-de-mineures-un-phenomene-aggrave-par-la-secheresse-en-Afghanistan",
-      "published_at": "2026-11-12T14:01:28+00:00"
-    },
-    {
       "id": "806c9eaff0710214",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -308,24 +344,6 @@
       "published_at": "2026-11-12T09:44:56+00:00"
     },
     {
-      "id": "de54885e113cd8d1",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP31 : le Royaume-Uni se dote d’une émissaire « pour la sécurité climatique », une première mondiale",
-      "resume": "Annoncée par Andy Burnham à Antalya, la nomination de Madeleine Alessandri, ancienne présidente du Comité mixte du renseignement, doit intégrer les risques climatiques à la politique de sécurité nationale britannique",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/12/cop31-le-royaume-uni-se-dote-d-un-emissaire-pour-la-securite-climatique-une-premiere-mondiale_6809081_3244.html",
-      "published_at": "2026-11-12T09:39:41+00:00"
-    },
-    {
-      "id": "a7644e3edd821ca1",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Le plan de relance agricole laisse les éleveurs seuls face à une transformation qui, en réalité, a déjà commencé »",
-      "resume": "En dix ans, la France a perdu plus d’un million de vaches, et la moitié des poulets qu’elle consomme vient désormais d’ailleurs. L’élevage français change, mais cette transformation doit être organisée plutôt que subie, affirme, dans une tr",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/12/le-plan-de-relance-agricole-laisse-les-eleveurs-seuls-face-a-une-transformation-qui-en-realite-a-deja-commence_6809075_3232.html",
-      "published_at": "2026-11-12T09:00:10+00:00"
-    },
-    {
       "id": "e7e157b9fac6c8dc",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -333,15 +351,6 @@
       "resume": "Un peu plus ? Beaucoup moins ? Pas de changement ? Les discussions sur l’exercice budgétaire 2028-2034 vont bon train à Bruxelles. Pour s’y retrouver entre la proposition originelle de la Commission de 2025 et celle maintenant discutée par ",
       "url": "https://www.contexte.com/fr/article/pouvoirs/les-oscillations-du-futur-budget-de-lunion-europeenne_268567?source=rss",
       "published_at": "2026-11-12T07:00:00+00:00"
-    },
-    {
-      "id": "a0613dd126db4169",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« La solitude, je n'en pouvais plus » : ces retraités ont choisi l'habitat partagé",
-      "resume": "En Gironde, des retraités vivent ensemble dans une maison qu'ils ont eux-mêmes imaginée. Une façon de chasser l'isolement tout en leur permettant de se réinstaller en zone rurale, à l'endroit où ils ont passé leur vie. Castillon-la-Bataille",
-      "url": "https://reporterre.net/La-solitude-je-n-en-pouvais-plus-ces-retraites-ont-choisi-l-habitat-partage",
-      "published_at": "2026-11-12T06:10:00+00:00"
     },
     {
       "id": "67347af04478cba0",
@@ -407,15 +416,6 @@
       "published_at": "2026-11-10T15:01:41+00:00"
     },
     {
-      "id": "0c1c9ed76def7fbd",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Bank of America, HSBC, BNP Paribas... : les grandes banques financent massivement la pollution plastique",
-      "resume": "PepsiCo est l'entreprise la plus financée, à hauteur de 82 milliards de dollars, entre 2019 et 2025. @Unsplash Le plastique est le nouveau charbon. Alors que les ONG ont longtemps bataillé pour exclure les projets liés au charbon des financ",
-      "url": "https://www.novethic.fr/environnement/biodiversite/bank-of-america-hsbc-bnp-paribas-les-grandes-banques-financent-massivement-la-pollution-plastique",
-      "published_at": "2026-11-10T14:12:00+00:00"
-    },
-    {
       "id": "c3adbbc8180fe36d",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -425,6 +425,15 @@
       "published_at": "2026-11-10T10:21:37+00:00"
     },
     {
+      "id": "655dcdf25ae4ac0a",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle - Les Echos",
+      "resume": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlBtQzA3cWhHbUoyYnJsSVhjZW9RYzFRaWZuMG1zMVQwMUJlVDM3ZWozb19KRHBySVA3aXdzb05OcDN1YmVGc2VmZnN3bHRsQ3A0NGhEeXhvUGRwNW9VR2lhOEFEblE5LVpKdUdoNWlnNWV6MVdOdGtaTDVuTUtDdkxWWWJyell0NEVTeVlrS016T1VsZ3RDdFBDNWtfWlZ0VWJmWUpZX01HTXdmbUM0N1BRSkNGVkxneFU1YXU1R0lhVC00WFB1OTlxVFdHTjkyak9mX0hVSHgwZnBO?oc=5",
+      "published_at": "2026-11-10T09:30:32+00:00"
+    },
+    {
       "id": "632cb0f01f588787",
       "source": "France Stratégie",
       "categorie": "Climat",
@@ -432,15 +441,6 @@
       "resume": "Remise du Prix Jean Monnet pour la Jeunesse du Haut-commissariat à la Stratégie et au Plan Clément Beaune, Haut-commissaire à la Stratégie et au Plan et Garance Pineau ancienne conseillère Europe du Président de la République et ancienne Di",
       "url": "https://www.strategie-plan.gouv.fr/actualites/remise-du-prix-jean-monnet-pour-la-jeunesse-du-haut-commissariat-la-strategie-et-au-plan",
       "published_at": "2026-11-10T09:00:21+00:00"
-    },
-    {
-      "id": "f27b470de289dffb",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Aurea confirme son retour à la croissance au troisième trimestre - Investir Les Echos",
-      "resume": "Aurea confirme son retour à la croissance au troisième trimestre Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOW1RZ1BZdUJZcGRMcWs0ZjkyZ0p3azZtc2RhbFdwWEFaTHM3YzVKUWQ2UTJIdWpuRTFMUDNidjY5ckh4bzZSb09Ic19xbF9mMkRUWEI0ZlV1SXVIYUlKRzRpdkhtVVFPaDhZeFppSWVrYUVFWWs5d1pKVHh1dXFicVlmNnlXMWlqYnBnbnJrOUg1LUJIbmZFXzR6M1NIY19sd0x3NnNvYUs4REVFU3VMZzVrS1V3dlV6NmtVOWd6dlpMOEVSTVZaaGxvTDYtLVB3LU1B?oc=5",
-      "published_at": "2026-11-10T07:00:34+00:00"
     },
     {
       "id": "e62bfc0b25d56e87",
