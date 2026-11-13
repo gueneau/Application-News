@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-12T20:14:13.828129+00:00",
+  "generated_at": "2026-11-13T01:18:19.859472+00:00",
   "items": [
+    {
+      "id": "0322dc2b656cdd38",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Crues : la Haute-Corse rétrogradée en vigilance jaune",
+      "resume": "Le département avait été placé par Météo-France en vigilance orange jeudi après-midi en raison de la dépression Charles qui a donné lieu en Corse à des précipitations ayant « un caractère orageux intense » ayant « engendré une montée très r",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/13/crues-la-haute-corse-retrogradee-en-vigilance-jaune_6809126_3245.html",
+      "published_at": "2026-11-12T23:00:05+00:00"
+    },
+    {
+      "id": "847205027a063975",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
+      "resume": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Sena",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
+      "published_at": "2026-11-12T22:12:56+00:00"
+    },
+    {
+      "id": "78a4c32e269ae070",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
+      "resume": "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur dix ans, mais peu orienté vers la transiti",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
+      "published_at": "2026-11-12T21:10:52+00:00"
+    },
+    {
+      "id": "829d029ae57c025d",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
+      "resume": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterways A humpback whale was spotted on Thursday swimming in New York’s Hudson River, sparking a social media frenzy. Brad Hoylman-Sigal",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
+      "published_at": "2026-11-12T20:53:49+00:00"
+    },
     {
       "id": "ea491f8e7d073d62",
       "source": "Reporterre",
@@ -90,15 +126,6 @@
       "resume": "La maison mère de ChatGPT a lancé au début du mois le programme Grid Protectors, visant à rendre ses futurs centres de données capables L’article OpenAI veut rendre ses futurs centres de données flexibles est apparu en premier sur GreenUniv",
       "url": "https://www.greenunivers.com/2026/11/openai-veut-rendre-ses-futurs-centres-de-donnees-flexibles-438562/",
       "published_at": "2026-11-12T16:21:10+00:00"
-    },
-    {
-      "id": "11a0e8c440dff1e2",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Vigilance orange crue en Haute-Corse jeudi et vendredi",
-      "resume": "L’épisode pluvieux en cours dans le sud du pays et en Corse va « se poursuivre jusqu’à vendredi matin », selon Météo-France.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/12/la-haute-corse-placee-en-vigilance-orange-crue-jeudi-et-vendredi_6809126_3244.html",
-      "published_at": "2026-11-12T16:16:45+00:00"
     },
     {
       "id": "0bc27c8e54d74360",
@@ -326,15 +353,6 @@
       "published_at": "2026-11-12T05:45:18+00:00"
     },
     {
-      "id": "a7b859972310335b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
-      "resume": "A l’origine immense lac partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues le royaume ex",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
-      "published_at": "2026-11-12T05:00:28+00:00"
-    },
-    {
       "id": "dbaca0c27418e138",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -468,24 +486,6 @@
       "resume": "Après une COP30 décevante, même difficile pour elle, l’UE aborde la conférence sur le climat à Antalya avec une nouvelle ouverture d’esprit, des objectifs en matière d’électrification propre et une position ferme sur la question du financem",
       "url": "https://www.contexte.com/fr/article/energie/a-la-cop31-lue-tente-une-nouvelle-approche_283874?source=rss",
       "published_at": "2026-11-09T07:00:00+00:00"
-    },
-    {
-      "id": "2fb574233457e82b",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
-      "resume": "US government will have no official presence at UN’s annual climate summit, held this year in Antalya, Turkey The US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the c",
-      "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
-      "published_at": "2026-11-09T06:00:01+00:00"
-    },
-    {
-      "id": "5f62802632e19f78",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
-      "resume": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrapped A beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from ",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
-      "published_at": "2026-11-08T15:00:43+00:00"
     },
     {
       "id": "20173b8e5b9a0de9",
