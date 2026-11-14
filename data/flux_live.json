@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-11-14T09:41:36.153728+00:00",
+  "generated_at": "2026-11-14T16:16:48.029184+00:00",
   "items": [
+    {
+      "id": "40814ebb30e25585",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie et inondations : les départements du Gard, de l’Hérault et des Bouches-du-Rhône placés en vigilance orange à partir de samedi soir",
+      "resume": "L’agence météorologique met en garde contre des « risques de ruissellements » et de possibles « phénomènes tourbillonnaires (type trombe marine) », alors que les trois départements ont déjà été touchés par des inondations il y a quelques se",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-de-l-herault-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3245.html",
+      "published_at": "2026-11-14T15:38:48+00:00"
+    },
+    {
+      "id": "1ecd2bb88904cdc3",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+      "resume": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acqu",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
+      "published_at": "2026-11-14T14:00:46+00:00"
+    },
+    {
+      "id": "445dde8e695f5176",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
+      "resume": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter When water last month began gushing through a crack in the ceiling of a Morton Salt mine in Ohio, the company had only on",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
+      "published_at": "2026-11-14T13:00:45+00:00"
+    },
+    {
+      "id": "e362249a118229f5",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
+      "resume": "En Europe, les anguilles ont diminué de quelque 90 % depuis les années 1980, et même de plus de 99 % par rapport aux années 1960.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
+      "published_at": "2026-11-14T11:33:09+00:00"
+    },
     {
       "id": "fede07e294193f46",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Data centers : en Espagne, la droite et les lobbies tentent d'empêcher leur régulation",
+      "titre": "La droite et les lobbies tentent d'empêcher la régulation des data centers en Espagne",
       "resume": "Le gouvernement espagnol s'apprête à approuver un texte pour limiter les dégâts des data centers. L'influence politique du secteur et la potentielle victoire de la droite aux élections du 29 novembre pourraient cependant rendre son applicat",
       "url": "https://reporterre.net/Data-centers-en-Espagne-la-droite-et-les-lobbies-tentent-d-empecher-leur-regulation",
       "published_at": "2026-11-14T06:10:00+00:00"
@@ -23,7 +59,7 @@
       "id": "f61ad6aac1d5c593",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Refuge et résistance : les cafés associatifs, bases arrières du mouvement social",
+      "titre": "« On a besoin de lieux de résistance » : les bases arrière du mouvement social ciblées par la police et l'extrême droite",
       "resume": "Fabrique de pancartes, garderie militante, lieu de repli… Les cafés associatifs constituent d'incontournables bases arrière du mouvement social. Au risque d'être la cible de la police ou de l'extrême droite. Montpellier (Hérault), reportage",
       "url": "https://reporterre.net/Sans-espace-pour-s-organiser-on-ne-peut-pas-mener-la-lutte-les-cafes-associatifs-precieux-allies-du-mouvement-social",
       "published_at": "2026-11-14T06:00:00+00:00"
@@ -245,15 +281,6 @@
       "published_at": "2026-11-13T12:00:19+00:00"
     },
     {
-      "id": "7bc9a1e6aa7af3bd",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Tunisie, comment un projet d’élevage d’insectes a été au cœur de tensions et de violences",
-      "resume": "Après plusieurs semaines de protestations, une usine quasi achevée de protéines d’insectes au sud-est de Tunis a été incendiée fin octobre, peu après la mort d’un manifestant. Le projet, mis depuis à l’arrêt, avait été en partie financé par",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/13/en-tunisie-comment-un-projet-d-elevage-d-insectes-a-ete-au-c-ur-de-tensions-et-de-violences_6809321_3244.html",
-      "published_at": "2026-11-13T11:30:10+00:00"
-    },
-    {
       "id": "6fb878f42b6eb1fe",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -326,33 +353,6 @@
       "published_at": "2026-11-13T05:45:03+00:00"
     },
     {
-      "id": "d6500a9ef6b9f959",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
-      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
-      "published_at": "2026-11-13T05:30:07+00:00"
-    },
-    {
-      "id": "847205027a063975",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
-      "resume": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Sena",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
-      "published_at": "2026-11-12T22:12:56+00:00"
-    },
-    {
-      "id": "829d029ae57c025d",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
-      "resume": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterways A humpback whale was spotted on Thursday swimming in New York’s Hudson River, sparking a social media frenzy. Brad Hoylman-Sigal",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
-      "published_at": "2026-11-12T20:53:49+00:00"
-    },
-    {
       "id": "ef2126b2ac8aeb96",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -387,15 +387,6 @@
       "resume": "The European Commission announced today the launch of a consultation on a newly released draft […]",
       "url": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
       "published_at": "2026-11-12T15:33:42+00:00"
-    },
-    {
-      "id": "78c9b1e532834f4c",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Data-center, géothermie, incinérateurs… Les communes incitées à mutualiser face aux enjeux énergétiques - Les Echos",
-      "resume": "Data-center, géothermie, incinérateurs… Les communes incitées à mutualiser face aux enjeux énergétiques Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWmZTYkVQX3phMVRLTzNuTVNpNllxS0pSaGZXOFpNSkZDby1mLVh1aVBRTkJqVEJBRVNZNTJXZW9nMFFSU19ac1pSOFduOHRDM0lxY25pVmRWb253VXdCbEs0Z05uTnA0eTc2d3AzZzVvVXhNdHNxNHZhQzNRaFNHN28tZlBvX3dpOW9KdDVWeWg2clBjbEN0RGh4ajJqaWVkVlpoSDlKb244bi1VOUdpbEMxOEkycFlkc3FFSFpweWk3YW1mMU03anBJM3RpMktvX0hRWTZUUERkQVBvclpwMXl0LUJHb1dmVGRNVGJ3NA?oc=5",
-      "published_at": "2026-11-12T15:05:24+00:00"
     },
     {
       "id": "b8263453e788883d",
@@ -459,6 +450,15 @@
       "resume": "Selon trois diplomates, le bloc serait parvenu à un consensus pour soutenir l'engagement phare du sommet.",
       "url": "https://www.politico.eu/article/cop31-lue-soutiendra-lobjectif-delectrification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-10T10:21:37+00:00"
+    },
+    {
+      "id": "655dcdf25ae4ac0a",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle - Les Echos",
+      "resume": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlBtQzA3cWhHbUoyYnJsSVhjZW9RYzFRaWZuMG1zMVQwMUJlVDM3ZWozb19KRHBySVA3aXdzb05OcDN1YmVGc2VmZnN3bHRsQ3A0NGhEeXhvUGRwNW9VR2lhOEFEblE5LVpKdUdoNWlnNWV6MVdOdGtaTDVuTUtDdkxWWWJyell0NEVTeVlrS016T1VsZ3RDdFBDNWtfWlZ0VWJmWUpZX01HTXdmbUM0N1BRSkNGVkxneFU1YXU1R0lhVC00WFB1OTlxVFdHTjkyak9mX0hVSHgwZnBO?oc=5",
+      "published_at": "2026-11-10T09:30:32+00:00"
     },
     {
       "id": "632cb0f01f588787",
