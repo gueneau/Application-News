@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-14T02:34:05.487500+00:00",
+  "generated_at": "2026-11-14T09:41:36.153728+00:00",
   "items": [
+    {
+      "id": "fede07e294193f46",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Data centers : en Espagne, la droite et les lobbies tentent d'empêcher leur régulation",
+      "resume": "Le gouvernement espagnol s'apprête à approuver un texte pour limiter les dégâts des data centers. L'influence politique du secteur et la potentielle victoire de la droite aux élections du 29 novembre pourraient cependant rendre son applicat",
+      "url": "https://reporterre.net/Data-centers-en-Espagne-la-droite-et-les-lobbies-tentent-d-empecher-leur-regulation",
+      "published_at": "2026-11-14T06:10:00+00:00"
+    },
+    {
+      "id": "5b28d778baaee36d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Aucun athlète ne prendra cette remontée mécanique » : à Courchevel, le téléphérique des JO vivement contesté",
+      "resume": "Le projet d'ascenseur valléen entre Bozel et Courchevel, qui doit défricher bois et prairies remarquables, est contesté. Ses opposants dénoncent un projet totalement inadapté et un gaspillage d'argent public. Bozel (Savoie), reportage Une c",
+      "url": "https://reporterre.net/Aucun-athlete-ne-prendra-cette-remontee-mecanique-a-Courchevel-le-telepherique-des-JO-vivement-conteste",
+      "published_at": "2026-11-14T06:05:00+00:00"
+    },
+    {
+      "id": "f61ad6aac1d5c593",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Refuge et résistance : les cafés associatifs, bases arrières du mouvement social",
+      "resume": "Fabrique de pancartes, garderie militante, lieu de repli… Les cafés associatifs constituent d'incontournables bases arrière du mouvement social. Au risque d'être la cible de la police ou de l'extrême droite. Montpellier (Hérault), reportage",
+      "url": "https://reporterre.net/Sans-espace-pour-s-organiser-on-ne-peut-pas-mener-la-lutte-les-cafes-associatifs-precieux-allies-du-mouvement-social",
+      "published_at": "2026-11-14T06:00:00+00:00"
+    },
+    {
+      "id": "56fb93f984121735",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A La Réunion, une sécheresse exceptionnelle menace la biodiversité d’une rivière du Sud sauvage",
+      "resume": "Le manque de pluies depuis deux ans dans le massif du volcan, région traditionnellement très pluvieuse, n’a pas permis la recharge en eau de la rivière Langevin, mettant en danger des espèces locales.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/14/a-la-reunion-une-secheresse-exceptionnelle-menace-la-biodiversite-d-une-riviere-du-sud-sauvage_6809623_3244.html",
+      "published_at": "2026-11-14T04:30:18+00:00"
+    },
     {
       "id": "6917799efb096114",
       "source": "The Guardian Environment",
@@ -155,24 +191,6 @@
       "published_at": "2026-11-13T15:00:06+00:00"
     },
     {
-      "id": "de541ecc42d68ce7",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Nous avons fait face aux canons à eau, au gaz lacrymogène et à l'armée » : les militants écologistes réprimés par le pays hôte de la COP31",
-      "resume": "Emblème de la lutte écologiste en Turquie, les défenseurs de la forêt d'Akbelen sont visés par des arrestations et harcelés. Alors que le pays accueille la COP31 , activistes et experts dénoncent « l'hypocrisie » du gouvernement. Ikizköy et",
-      "url": "https://reporterre.net/Reprimer-ses-militants-ecologistes-et-accueillir-la-COP31-le-jeu-trouble-de-la-Turquie",
-      "published_at": "2026-11-13T13:30:00+00:00"
-    },
-    {
-      "id": "13a0d3d6056abc58",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Nucléaire : EDF voudrait relever les limites de température des fleuves, et tant pis pour les poissons",
-      "resume": "Les canicules ayant plombé sa production, l'opérateur veut assouplir les normes sur les eaux qui refroidissent ses centrales. Mauvaise idée selon les défenseurs des écosystèmes, alors que les poissons ont déjà trop chaud. Va-t-on vers un as",
-      "url": "https://reporterre.net/Nucleaire-EDF-voudrait-relever-les-limites-de-temperature-des-fleuves-et-tant-pis-pour-les-poissons",
-      "published_at": "2026-11-13T13:26:03+00:00"
-    },
-    {
       "id": "81931e177d69ebaf",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -245,15 +263,6 @@
       "published_at": "2026-11-13T11:27:53+00:00"
     },
     {
-      "id": "c3e61922406ad887",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Chasse : une plainte contre X déposée après les révélations de Reporterre",
-      "resume": "L'association AC !! Anticorruption a déposé le 5 novembre une plainte contre X pour des infractions à la réglementation des réserves naturelles nationales de Py et Mantet. Cette action en justice fait suite aux révélations de Reporterre sur",
-      "url": "https://reporterre.net/Chasse-une-plainte-contre-X-deposee-apres-les-revelations-de-Reporterre",
-      "published_at": "2026-11-13T10:45:33+00:00"
-    },
-    {
       "id": "87f63db9d0e14e62",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -299,6 +308,15 @@
       "published_at": "2026-11-13T09:44:56+00:00"
     },
     {
+      "id": "a86e968f9750378b",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "« Lorsqu'elles sont abîmées, les planches à découper et les spatules libèrent plus de particules »: comment limiter son exposition aux microplastiques - Les Echos",
+      "resume": "« Lorsqu'elles sont abîmées, les planches à découper et les spatules libèrent plus de particules »: comment limiter son exposition aux microplastiques Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQbW5qTHhGbkhvUm1HMWlCVGxqSGU0TXVQY0pvUFRJb2ZMblAxOGRiX1NyNVJkeDZBc0xCUTFEMjZuRy1DQjdhZDl4TkY0ZkhlMUdON0Vva1FMZGlJcEdNeEtSeDFjdF9zSmQ0TFY5REtCZWZ0cU91eFZUNEliWEhYdTl5b1poMm5oREhGWER0ZnNGUE8tT3V6cTdNeTNDY2FpX0xtcDdhamNTWWhIOHhSdElWQkhvc29aZmI0NHh2TmRhNmY1ODY3Z3dNeXB4cmRFSG1sUkdOTnM0a0tTRnFmajZXdWs0TEo4QkNRV21VZjktME94bjc3RjQ0aFNVeU5aZUxhd1NLY0ZKWjd6ZDJqYzBPZ25IbFZM?oc=5",
+      "published_at": "2026-11-13T08:25:09+00:00"
+    },
+    {
       "id": "c5149f4da8201110",
       "source": "Novethic",
       "categorie": "Presse",
@@ -315,15 +333,6 @@
       "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
       "url": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
       "published_at": "2026-11-13T05:30:07+00:00"
-    },
-    {
-      "id": "2659ef9201b647fc",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les mobilisations lycéennes naissent aussi d’une prise de conscience de la crise climatique",
-      "resume": "Après l’été le plus chaud jamais enregistré en France, les manifestations des lycéens ont mis en avant, de façon inhabituelle, la mauvaise adaptation du bâti scolaire. Une revendication pour laquelle la canicule de juin a joué un rôle de ca",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/13/les-mobilisations-lyceennes-naissent-aussi-d-une-prise-de-conscience-de-la-crise-climatique_6809278_3232.html",
-      "published_at": "2026-11-13T05:00:32+00:00"
     },
     {
       "id": "847205027a063975",
@@ -434,15 +443,6 @@
       "published_at": "2026-11-12T07:00:00+00:00"
     },
     {
-      "id": "950c03428ed03d59",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "La maison mère de Zara s'associe à la Banque mondiale pour réduire l'empreinte carbone du textile - Les Echos",
-      "resume": "La maison mère de Zara s'associe à la Banque mondiale pour réduire l'empreinte carbone du textile Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcXJFR05vcmdTWC1kN1NZM201Z0NZc19kOVhkV01Qb3JmcVJmN1hnQlFRLU8wREZPS2ZmWG1kUlpFODFpdjVJU05Sb0RIUVNJYU9hdGF2bUNNaERMNkEwWDA5bkRrV0s4SlpvX1U5OUFMbEtwWHNOdzhLTTRvRGJmV1k5dndFZG8tV1F3RGR2SzJSdDlpOVVHbUtfTlA1eUQ5NS1WT0Zjb21mbmc4bTVPbldmUGZxMXliNlZrQk9zYTVZTDE3Q0pvWjRXTmE3NTRZLWdMb0VDUlFqcUhSRzZiS2xqYTlVUUhqRlpvOEdGMTNlbzhmN2lhQg?oc=5",
-      "published_at": "2026-11-10T18:42:36+00:00"
-    },
-    {
       "id": "b543bb17a0681928",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -521,7 +521,7 @@
       "titre": "Veolia avance au pas de charge sur ses cessions et prépare un projet ambitieux en France - Les Echos",
       "resume": "Veolia avance au pas de charge sur ses cessions et prépare un projet ambitieux en France Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUxiNUtPazVnOThzanN2UUE0aTJUMWxuT2pNS0sxUUhNMm96RVdnUGphWFNyb2RheDZQQjJic0U4Vm9SZndvLW4zTnBXR0JVT3NnNmZEOGNIVUx5aWFTLUhaNExESXYtYWdtWFYtNWtzYkM2dXh2YmxTN3o0Z0hMajJxaHhLdHFzQkJrWjRDb2pwVHpLXzE1Z2JaVnJuN2sxUFNRYXUzQkRoMnZvRllibVlIUklabkhpMEtmVDNPbGxRa0UwaTk5ajJqMTY4Q1M2Mk8xSHNxbldhelBfLTVNY0ozUFFWY2RwanloV0JVMjBBeUU?oc=5",
-      "published_at": "2026-11-05T16:54:59+00:00"
+      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
       "id": "36d8a956c4c05b2c",
