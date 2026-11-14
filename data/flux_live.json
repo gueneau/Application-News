@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-14T16:16:48.029184+00:00",
+  "generated_at": "2026-11-14T20:51:24.864030+00:00",
   "items": [
+    {
+      "id": "94c253cdadb83f03",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
+      "resume": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
+      "published_at": "2026-11-14T19:18:07+00:00"
+    },
     {
       "id": "40814ebb30e25585",
       "source": "Le Monde Planète",
@@ -227,15 +236,6 @@
       "published_at": "2026-11-13T15:00:06+00:00"
     },
     {
-      "id": "81931e177d69ebaf",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
-      "resume": "L’offre mondiale de pétrole devrait dépasser la demande au dernier trimestre 2026, pour la première fois depuis le déclenchement de la guerre en Iran fin février, déclare vendredi 13 novembre l’Agence internationale de l’énergie.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
-      "published_at": "2026-11-13T13:12:17+00:00"
-    },
-    {
       "id": "4926e3ccd1ab541c",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -452,15 +452,6 @@
       "published_at": "2026-11-10T10:21:37+00:00"
     },
     {
-      "id": "655dcdf25ae4ac0a",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle - Les Echos",
-      "resume": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlBtQzA3cWhHbUoyYnJsSVhjZW9RYzFRaWZuMG1zMVQwMUJlVDM3ZWozb19KRHBySVA3aXdzb05OcDN1YmVGc2VmZnN3bHRsQ3A0NGhEeXhvUGRwNW9VR2lhOEFEblE5LVpKdUdoNWlnNWV6MVdOdGtaTDVuTUtDdkxWWWJyell0NEVTeVlrS016T1VsZ3RDdFBDNWtfWlZ0VWJmWUpZX01HTXdmbUM0N1BRSkNGVkxneFU1YXU1R0lhVC00WFB1OTlxVFdHTjkyak9mX0hVSHgwZnBO?oc=5",
-      "published_at": "2026-11-10T09:30:32+00:00"
-    },
-    {
       "id": "632cb0f01f588787",
       "source": "France Stratégie",
       "categorie": "Climat",
@@ -468,6 +459,15 @@
       "resume": "Remise du Prix Jean Monnet pour la Jeunesse du Haut-commissariat à la Stratégie et au Plan Clément Beaune, Haut-commissaire à la Stratégie et au Plan et Garance Pineau ancienne conseillère Europe du Président de la République et ancienne Di",
       "url": "https://www.strategie-plan.gouv.fr/actualites/remise-du-prix-jean-monnet-pour-la-jeunesse-du-haut-commissariat-la-strategie-et-au-plan",
       "published_at": "2026-11-10T09:00:21+00:00"
+    },
+    {
+      "id": "f27b470de289dffb",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Aurea confirme son retour à la croissance au troisième trimestre - Investir Les Echos",
+      "resume": "Aurea confirme son retour à la croissance au troisième trimestre Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOW1RZ1BZdUJZcGRMcWs0ZjkyZ0p3azZtc2RhbFdwWEFaTHM3YzVKUWQ2UTJIdWpuRTFMUDNidjY5ckh4bzZSb09Ic19xbF9mMkRUWEI0ZlV1SXVIYUlKRzRpdkhtVVFPaDhZeFppSWVrYUVFWWs5d1pKVHh1dXFicVlmNnlXMWlqYnBnbnJrOUg1LUJIbmZFXzR6M1NIY19sd0x3NnNvYUs4REVFU3VMZzVrS1V3dlV6NmtVOWd6dlpMOEVSTVZaaGxvTDYtLVB3LU1B?oc=5",
+      "published_at": "2026-11-10T07:00:34+00:00"
     },
     {
       "id": "e62bfc0b25d56e87",
