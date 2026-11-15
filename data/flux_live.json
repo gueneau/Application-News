@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-11-15T00:36:20.808075+00:00",
+  "generated_at": "2026-11-15T07:24:54.820828+00:00",
   "items": [
+    {
+      "id": "9e98831c10a7d687",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Double vitrage, ardoises, liège... Comment transformer sa passoire thermique en maison confortable",
+      "resume": "Avec l'aide d'une architecte et d'artisans locaux, Nicolas Guilliet a restauré une ancienne ferme, devenue une maison de ville. En misant sur les pierres d'origine et les matériaux biosourcés, il a sorti son habitat de la case passoire ther",
+      "url": "https://reporterre.net/Double-vitrage-ardoises-liege-Comment-transformer-sa-passoire-thermique-en-maison-confortable",
+      "published_at": "2026-11-15T06:05:00+00:00"
+    },
+    {
+      "id": "d56ae646678e6653",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "L'ONF veut ouvrir 20 000 hectares de foret primaire à l'exploitation, tollé en Guyane",
+      "resume": "La décision de l'Office national des forêts d'ouvrir une zone de forêt primaire à l'exploitation provoque un tollé en Guyane. Plus que le modèle, durable, ce sont les potentiels usages illégaux des nouvelles pistes forestières qui inquièten",
+      "url": "https://reporterre.net/L-ONF-veut-ouvrir-20-000-hectares-de-foret-primaire-a-l-exploitation-tolle-en-Guyane",
+      "published_at": "2026-11-15T06:00:00+00:00"
+    },
+    {
+      "id": "cb6917fb563eecdb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« La cueillette est désastreuse » : les champignons, affaiblis par la sécheresse, sont de plus en plus rares",
+      "resume": "Dans la forêt domaniale de Hez-Froidmont, dans l’Oise, des mycologues amateurs s’inquiètent d’une raréfaction des champignons. Le déclin affecte ceux dont la partie sous terre est profonde, comme les trompettes-de-la-mort, les chanterelles ",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/15/la-cueillette-est-desastreuse-les-champignons-affaiblis-par-la-secheresse-sont-de-plus-en-plus-rares_6810979_3244.html",
+      "published_at": "2026-11-15T05:00:21+00:00"
+    },
     {
       "id": "94c253cdadb83f03",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
-      "resume": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! »",
+      "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
+      "resume": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! ».",
       "url": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
-      "published_at": "2026-11-14T19:18:07+00:00"
+      "published_at": "2026-11-14T19:18:06+00:00"
     },
     {
       "id": "40814ebb30e25585",
@@ -101,15 +128,6 @@
       "published_at": "2026-11-13T17:13:34+00:00"
     },
     {
-      "id": "ec41f568ca9f6b18",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Jean Sivardière, figure historique de la défense des transports publics, est mort",
-      "resume": "Jean Sivardière, figure historique de la défense des transports publics en France, est mort le 7 novembre, a annoncé le 9 novembre la Fédération nationale des associations d'usagers des transports (Fnaut). Il était âgé de 84 ans. Cofondateu",
-      "url": "https://reporterre.net/Jean-Sivardiere-figure-historique-de-la-defense-des-transports-publics-est-mort",
-      "published_at": "2026-11-13T17:10:50+00:00"
-    },
-    {
       "id": "e1b30e6d3d8ef352",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -128,15 +146,6 @@
       "published_at": "2026-11-13T16:48:46+00:00"
     },
     {
-      "id": "8b342cfc733bd88d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Au nom de la souveraineté alimentaire, le gouvernement veut 20 nouveaux poulaillers par mois",
-      "resume": "Le gouvernement a présenté le 12 novembre un plan de relance agricole de 725 millions d'euros. Cet argent vise notamment à soutenir la construction de 2 200 poulaillers. Une nouvelle fuite en avant vers l'élevage intensif, regrettent la Con",
-      "url": "https://reporterre.net/Au-nom-de-la-souverainete-alimentaire-le-gouvernement-veut-20-nouveaux-poulaillers-par-mois-jusqu-en-2036",
-      "published_at": "2026-11-13T16:45:08+00:00"
-    },
-    {
       "id": "c4c5210b377bef82",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -144,6 +153,15 @@
       "resume": "Newsom is the most prominent US politician at Cop31, a process the Trump administration continues to boycott The leader of the world’s fourth biggest economy, California governor Gavin Newsom, has explicitly endorsed a global phase out of t",
       "url": "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
       "published_at": "2026-11-13T16:31:28+00:00"
+    },
+    {
+      "id": "1b8fbfda6f87e1ac",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Google et Engie font équipe pour préparer un grand centre de données",
+      "resume": "Engie et Google ont noué un partenariat sur le volet énergétique d’un projet de centre de données près de Châteauroux (Indre). Ce partenariat fait pour l’instant l’objet d’un simple protocole d’accord. Sa mise en œuvre se fera « sous réserv",
+      "url": "https://www.greenunivers.com/2026/11/google-et-engie-font-equipe-pour-preparer-un-grand-centre-de-donnees-438673/",
+      "published_at": "2026-11-13T16:30:19+00:00"
     },
     {
       "id": "2fcfbc38e159fa0f",
@@ -155,6 +173,24 @@
       "published_at": "2026-11-13T16:25:20+00:00"
     },
     {
+      "id": "12675dd7d26fa0d0",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Fonds chaleur : le gouvernement traque les effets d’aubaine",
+      "resume": "Le gouvernement passe le Fonds chaleur à la moulinette d’une « nouvelle réalité économique ». Sa suspension sera certes « temporaire », a confirmé le gouvernement cette semaine, mais sa réouverture sera sous conditions. Elle tiendra compte ",
+      "url": "https://www.greenunivers.com/2026/11/fonds-chaleur-le-gouvernement-traque-les-effets-daubaine-438636/",
+      "published_at": "2026-11-13T16:04:12+00:00"
+    },
+    {
+      "id": "72419c84cc98d552",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "EDF et RTE préparent une centrale thermique au biodiesel  dans l’Hexagone",
+      "resume": "Dans le Val d’Oise, EDF et RTE veulent installer deux turbines à combustion pour 650 MW au total sur le site L’article EDF et RTE préparent une centrale thermique au biodiesel dans l’Hexagone est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/11/edf-et-rte-preparent-une-centrale-thermique-au-biodiesel-dans-lhexagone-438651/",
+      "published_at": "2026-11-13T15:44:18+00:00"
+    },
+    {
       "id": "b795efc19b157f8d",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -162,6 +198,15 @@
       "resume": "Le Hub des prescripteurs bas carbone, piloté par l'Ifpeb et Carbone 4, identifie trois leviers permettant aux logements collectifs neufs d'atteindre le seuil 2028 de la RE 2020 sans surcoût significatif.",
       "url": "https://www.actu-environnement.com/ae/news/RE2020-seuil-2028-logements-collectifs-surcout-hub-prescripteurs-bas-carbone-ifpeb-carbone4-48797.php4#xtor=RSS-6",
       "published_at": "2026-11-13T15:43:34+00:00"
+    },
+    {
+      "id": "ee0a41081af08697",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le repowering éolien plus cher lors du dernier appel d’offres",
+      "resume": "Comme lors de la 11e session, il y a eu beaucoup de projets de repowering, 518 MW, déposés pour la 12e session de l’appel d’offres éolien terrestre, indique la Commission de régulation de l’énergie (CRE) dans L’article Le repowering éolien ",
+      "url": "https://www.greenunivers.com/2026/11/le-repowering-eolien-plus-cher-lors-du-dernier-appel-doffres-438624/",
+      "published_at": "2026-11-13T15:30:30+00:00"
     },
     {
       "id": "6a44b98adf19b7bf",
@@ -182,13 +227,22 @@
       "published_at": "2026-11-13T15:10:43+00:00"
     },
     {
-      "id": "64c250fed2e52d45",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
-      "resume": "La crise du détroit d’Ormuz pousse les producteurs du Golfe et les importateurs asiatiques à créer de nouvelles capacités de réserve pour mieux surmonter de futurs chocs d’approvisionnement.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html",
-      "published_at": "2026-11-13T15:00:06+00:00"
+      "id": "3f54a5c478b0f28b",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’agenda de la transition énergétique",
+      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
+      "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-283-438660/",
+      "published_at": "2026-11-13T15:10:16+00:00"
+    },
+    {
+      "id": "4926e3ccd1ab541c",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Renouvelables : production, consommation et électrification progressent en 2025",
+      "resume": "Les énergies renouvelables se rapprochent doucement de leurs objectifs. Les dernières statistiques publiques, publiées jeudi 12 novembre, montrent qu’elles comptent en 2025 pour L’article Renouvelables : production, consommation et électrif",
+      "url": "https://www.greenunivers.com/2026/11/renouvelables-production-consommation-et-electrification-progressent-en-2025-438623/",
+      "published_at": "2026-11-13T12:51:50+00:00"
     },
     {
       "id": "b06a7252146fe506",
@@ -335,6 +389,24 @@
       "published_at": "2026-11-12T15:33:42+00:00"
     },
     {
+      "id": "78c9b1e532834f4c",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Data-center, géothermie, incinérateurs… Les communes incitées à mutualiser face aux enjeux énergétiques - Les Echos",
+      "resume": "Data-center, géothermie, incinérateurs… Les communes incitées à mutualiser face aux enjeux énergétiques Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWmZTYkVQX3phMVRLTzNuTVNpNllxS0pSaGZXOFpNSkZDby1mLVh1aVBRTkJqVEJBRVNZNTJXZW9nMFFSU19ac1pSOFduOHRDM0lxY25pVmRWb253VXdCbEs0Z05uTnA0eTc2d3AzZzVvVXhNdHNxNHZhQzNRaFNHN28tZlBvX3dpOW9KdDVWeWg2clBjbEN0RGh4ajJqaWVkVlpoSDlKb244bi1VOUdpbEMxOEkycFlkc3FFSFpweWk3YW1mMU03anBJM3RpMktvX0hRWTZUUERkQVBvclpwMXl0LUJHb1dmVGRNVGJ3NA?oc=5",
+      "published_at": "2026-11-12T15:05:24+00:00"
+    },
+    {
+      "id": "3b5de39d40811abb",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Veolia inaugure une usine de récupération des métaux de la \"black mass\" en Moselle - Investir Les Echos",
+      "resume": "Veolia inaugure une usine de récupération des métaux de la \"black mass\" en Moselle Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaUlTbHJEdmpkcXRRZ2xQQVZQU2JocjJoZnBXak9YWDJQOXAtNWRwTERDb0pEeDVDLUhWdWRFSkltdFE4NElMZzVaM0JncEdEZFFtY1hUVjl4RHI0Yld6T0JvZVh3SEFXM0ExenQ1WklFQkY3clF4dFdwaEFuZWk3RXhBeDk4MmZCb2dxemJjX1JnSVpYOWFpSVpnQURVS1Z2dmY5QVAzMzRYVmxVUGZUbXM1bVJYTVl3UnpQYzE4QUFBM1FIZEZYMVRnNGN2U1R3RXNEb0pYRFE5d2tUc21sNnRaZUhQVmRp?oc=5",
+      "published_at": "2026-11-12T14:37:00+00:00"
+    },
+    {
       "id": "b8263453e788883d",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -398,15 +470,6 @@
       "published_at": "2026-11-10T10:21:37+00:00"
     },
     {
-      "id": "655dcdf25ae4ac0a",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle - Les Echos",
-      "resume": "Twin4Teach : la formation aux métiers industriels à l'ère de la réalité virtuelle Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlBtQzA3cWhHbUoyYnJsSVhjZW9RYzFRaWZuMG1zMVQwMUJlVDM3ZWozb19KRHBySVA3aXdzb05OcDN1YmVGc2VmZnN3bHRsQ3A0NGhEeXhvUGRwNW9VR2lhOEFEblE5LVpKdUdoNWlnNWV6MVdOdGtaTDVuTUtDdkxWWWJyell0NEVTeVlrS016T1VsZ3RDdFBDNWtfWlZ0VWJmWUpZX01HTXdmbUM0N1BRSkNGVkxneFU1YXU1R0lhVC00WFB1OTlxVFdHTjkyak9mX0hVSHgwZnBO?oc=5",
-      "published_at": "2026-11-10T09:30:32+00:00"
-    },
-    {
       "id": "632cb0f01f588787",
       "source": "France Stratégie",
       "categorie": "Climat",
@@ -459,15 +522,6 @@
       "resume": "La COP31 s’ouvre la semaine prochaine, avec une attention renouvelée sur la concrétisation des engagements climatiques en investissements. L’article COP31 – Comment traduire les engagements climatiques en investissements ? est apparu en pre",
       "url": "https://www.i4ce.org/cop31-comment-traduire-les-engagements-climatiques-en-investissements/",
       "published_at": "2026-11-06T09:45:40+00:00"
-    },
-    {
-      "id": "f0eb0e24cd349734",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Veolia avance au pas de charge sur ses cessions et prépare un projet ambitieux en France - Les Echos",
-      "resume": "Veolia avance au pas de charge sur ses cessions et prépare un projet ambitieux en France Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUxiNUtPazVnOThzanN2UUE0aTJUMWxuT2pNS0sxUUhNMm96RVdnUGphWFNyb2RheDZQQjJic0U4Vm9SZndvLW4zTnBXR0JVT3NnNmZEOGNIVUx5aWFTLUhaNExESXYtYWdtWFYtNWtzYkM2dXh2YmxTN3o0Z0hMajJxaHhLdHFzQkJrWjRDb2pwVHpLXzE1Z2JaVnJuN2sxUFNRYXUzQkRoMnZvRllibVlIUklabkhpMEtmVDNPbGxRa0UwaTk5ajJqMTY4Q1M2Mk8xSHNxbldhelBfLTVNY0ozUFFWY2RwanloV0JVMjBBeUU?oc=5",
-      "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
       "id": "36d8a956c4c05b2c",
@@ -666,60 +720,6 @@
       "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
       "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
       "published_at": "2026-09-08T13:11:58+00:00"
-    },
-    {
-      "id": "cf48f14c1a1e7e16",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Un an après notre financement participatif, faisons le point",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/un-an-apres-notre-financement-participatif-faisons-le-point/",
-      "published_at": "2026-08-20T09:46:13+00:00"
-    },
-    {
-      "id": "ab31b0d4d313ca82",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "Retours sur l’Assemblée Générale de la FEP 2026",
-      "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
-      "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
-      "published_at": "2026-07-20T10:36:40+00:00"
-    },
-    {
-      "id": "5966e35906e93c5d",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
-      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il se poursuit à un rythme record et l’Europe est le continent qui se réchauffe le plus vite. Les impacts du changement ",
-      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
-      "published_at": "2026-07-09T05:00:32+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux notes à l’attention du Haut conseil pour le climat (HCC) dans le cadre d’une mission d’expertise visan",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la vie et de la santé (CCNE) le 9 avril 2026. Le HCC partage aujourd’hui sa contribution, transmise au CCNE, dans le cadre de ",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
     }
   ]
 }
