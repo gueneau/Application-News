@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-15T14:53:55.771194+00:00",
+  "generated_at": "2026-11-15T20:04:14.947513+00:00",
   "items": [
+    {
+      "id": "0ceab74590765f2a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Face au péril climatique, une revue se penche sur l’avenir de la forêt",
+      "resume": "Consacrée à la prospective, « Futuribles » présente un dossier extrêmement fouillé sur le devenir des sylves françaises, après un été caniculaire et des incendies spectaculaires.",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/15/face-au-peril-climatique-une-revue-se-penche-sur-l-avenir-de-la-foret_6811030_3232.html",
+      "published_at": "2026-11-15T16:00:11+00:00"
+    },
+    {
+      "id": "50e0e625d977348b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Incendie en Gironde : au Porge, où « personne n’est resté à la rue », des relogements temporaires et des inquiétudes sur la reconstruction",
+      "resume": "Les quelque 250 foyers touchés par les feux de juillet ont pu retrouver un toit, notamment dans les meublés touristiques, d’où ils devront repartir avant l’été. De nombreux propriétaires attendent surtout de savoir dans quelles conditions i",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/15/incendie-en-gironde-au-porge-ou-personne-n-est-reste-a-la-rue-des-relogements-temporaires-et-des-inquietudes-sur-la-reconstruction_6811032_3224.html",
+      "published_at": "2026-11-15T16:00:07+00:00"
+    },
     {
       "id": "1b5a5a6ff267c413",
       "source": "Le Monde Planète",
@@ -8,7 +26,7 @@
       "titre": "Confrontée à un El Niño historique, l’Amazonie brésilienne en état d’urgence environnemental",
       "resume": "L’Etat du Para et cinquante villes de l’Etat de l’Amazonas ont été placés en état d’urgence afin de mobiliser tous les moyens pour combattre les feux de forêt et venir en aide aux quelque 161 000 familles touchées.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/15/confrontee-a-un-el-nino-historique-l-amazonie-bresilienne-en-etat-d-urgence-environnemental_6811024_3244.html",
-      "published_at": "2026-11-15T14:30:41+00:00"
+      "published_at": "2026-11-15T14:30:40+00:00"
     },
     {
       "id": "c694d5f943465bc0",
@@ -27,6 +45,33 @@
       "resume": "Dans une tribune au « Monde », Katharina Pistor, professeure de droit, compare la domination exercée par la « confrérie de la tech » sur les citoyens à l’approche adoptée autrefois par les colons envers les peuples autochtones.",
       "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html",
       "published_at": "2026-11-15T09:00:21+00:00"
+    },
+    {
+      "id": "b5c612d51d2c1fc2",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "‘Risk multiplier’: super El Niño looms over Cop31 as climate pattern fuels global disasters",
+      "resume": "Strongest El Niño in centuries adds urgency to UN climate talks as vulnerable countries face ‘compounding’ crises If the galloping pace of the climate crisis isn’t enough to spur countries to act at UN climate talks under way in Turkey, the",
+      "url": "https://www.theguardian.com/environment/2026/nov/15/el-nino-cop31-turkey-climate",
+      "published_at": "2026-11-15T09:00:08+00:00"
+    },
+    {
+      "id": "c4ba8571d96e1381",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Looking for an ancient tree worth a detour? There’s an app for that",
+      "resume": "Dutch designer sets up an app to help fellow enthusiasts find the great trees of the world While most people spend their holidays sightseeing or lazing by a pool, Hidde Burgmans would rather seek out special trees. While not an expert in th",
+      "url": "https://www.theguardian.com/environment/2026/nov/15/ancient-tree-worth-a-detour-digital-app-",
+      "published_at": "2026-11-15T08:00:07+00:00"
+    },
+    {
+      "id": "2b6ff02ebe3a7290",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Return of the wild oyster: conservationists bring shellfish back from local extinction off Scottish coast",
+      "resume": "Scientists succeed in breeding wild oysters in Dornoch Firth, near Inverness, from where they disappeared more than 100 years ago The baby oysters, with their rough cream-coloured shells and ragged edges, are about the size of a 50 pence pi",
+      "url": "https://www.theguardian.com/environment/2026/nov/15/return-of-the-wild-oyster-conservationists-bring-shellfish-back-from-local-extinction-off-scottish-coast",
+      "published_at": "2026-11-15T07:00:07+00:00"
     },
     {
       "id": "9e98831c10a7d687",
@@ -65,40 +110,22 @@
       "published_at": "2026-11-14T19:18:06+00:00"
     },
     {
-      "id": "40814ebb30e25585",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie et inondations : les départements du Gard, de l’Hérault et des Bouches-du-Rhône placés en vigilance orange à partir de samedi soir",
-      "resume": "L’agence météorologique met en garde contre des « risques de ruissellements » et de possibles « phénomènes tourbillonnaires (type trombe marine) », alors que les trois départements ont déjà été touchés par des inondations il y a quelques se",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-de-l-herault-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3245.html",
-      "published_at": "2026-11-14T15:38:48+00:00"
-    },
-    {
-      "id": "1ecd2bb88904cdc3",
+      "id": "d01ad7b132f9ad20",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
-      "resume": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acqu",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
-      "published_at": "2026-11-14T14:00:46+00:00"
+      "titre": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+      "resume": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is ",
+      "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+      "published_at": "2026-11-14T13:00:44+00:00"
     },
     {
-      "id": "445dde8e695f5176",
+      "id": "124b98a53c46fb52",
       "source": "The Guardian Environment",
       "categorie": "Climat",
-      "titre": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
-      "resume": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter When water last month began gushing through a crack in the ceiling of a Morton Salt mine in Ohio, the company had only on",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
-      "published_at": "2026-11-14T13:00:45+00:00"
-    },
-    {
-      "id": "e362249a118229f5",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
-      "resume": "En Europe, les anguilles ont diminué de quelque 90 % depuis les années 1980, et même de plus de 99 % par rapport aux années 1960.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
-      "published_at": "2026-11-14T11:33:09+00:00"
+      "titre": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
+      "resume": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawling The giant offshore windfarms backed by Andy Burnham this week may face unexpected stumbling blocks after Greenpeace activists unwi",
+      "url": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+      "published_at": "2026-11-14T11:00:43+00:00"
     },
     {
       "id": "fede07e294193f46",
@@ -119,6 +146,15 @@
       "published_at": "2026-11-14T06:05:00+00:00"
     },
     {
+      "id": "4d20765da586d22f",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "‘An environmental and welfare disaster’: British salmon loses its organic status",
+      "resume": "This week the Soil Association withdrew certification from organic salmon after 20 years. What went wrong? The first haul of farmed salmon in Britain was a relatively modest 14 tonnes, produced off the west coast of Scotland near Fort Willi",
+      "url": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
+      "published_at": "2026-11-14T06:00:37+00:00"
+    },
+    {
       "id": "f61ad6aac1d5c593",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -128,15 +164,6 @@
       "published_at": "2026-11-14T06:00:00+00:00"
     },
     {
-      "id": "6917799efb096114",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Send us your questions about climate crisis and politics for the next Stateside guest: Bill McKibben",
-      "resume": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questions Was the climate crisis one of your top political priorities during the midterm elections? We want ",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/climate-environment-questions-bill-mckibben",
-      "published_at": "2026-11-13T20:23:23+00:00"
-    },
-    {
       "id": "3d0a8ee226f68366",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -144,15 +171,6 @@
       "resume": "Une condamnation historique pour un syndicat de distribution d'eau en Corrèze. Selon une information révélée par France Inter, puis par le Populaire du centre, le tribunal de Tulle a condamné le 30 septembre un syndicat à verser 2 000 euros",
       "url": "https://reporterre.net/Un-syndicat-des-eaux-condamne-a-cause-d-un-gaz-cancerogene-dans-l-eau-du-robinet",
       "published_at": "2026-11-13T17:13:34+00:00"
-    },
-    {
-      "id": "c4c5210b377bef82",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "California governor Gavin Newsom endorses global fossil fuel phaseout",
-      "resume": "Newsom is the most prominent US politician at Cop31, a process the Trump administration continues to boycott The leader of the world’s fourth biggest economy, California governor Gavin Newsom, has explicitly endorsed a global phase out of t",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
-      "published_at": "2026-11-13T16:31:28+00:00"
     },
     {
       "id": "1b8fbfda6f87e1ac",
@@ -225,24 +243,6 @@
       "resume": "La COP31 Climat se tient à Antalya, en Turquie, jusqu'au 20 novembre. @UN Climate Change - Kiara Worth / Flickr L’article COP31 : Qui contribue à la crise climatique ? 5 graphiques pour tout comprendre est apparu en premier sur Novethic .",
       "url": "https://www.novethic.fr/environnement/climat/cop31-qui-contribue-a-la-crise-climatique-5-graphiques-pour-tout-comprendre",
       "published_at": "2026-11-13T12:45:18+00:00"
-    },
-    {
-      "id": "d92efbfac4c43802",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "New York is running out of room for its waste even with Statue of Liberty-sized landfill",
-      "resume": "One company is proposing elongating the life of the dump, pungent smell and all, several more decades As a visual representation of how New York is running out of places to put its waste, the largest active landfill in the state is a striki",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
-      "published_at": "2026-11-13T12:30:18+00:00"
-    },
-    {
-      "id": "1f159d4f62e67daf",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
-      "resume": "Water temperatures are climbing the charts, high tides are swallowing the shoreline and vital parts of the food web that feed ocean diversity are disappearing On a picturesque autumn afternoon last week, the beaches of California ’s Montere",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
-      "published_at": "2026-11-13T12:00:19+00:00"
     },
     {
       "id": "87f63db9d0e14e62",
@@ -344,13 +344,13 @@
       "published_at": "2026-11-12T15:33:42+00:00"
     },
     {
-      "id": "78c9b1e532834f4c",
+      "id": "3b5de39d40811abb",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Data-center, géothermie, incinérateurs… Les communes incitées à mutualiser face aux enjeux énergétiques - Les Echos",
-      "resume": "Data-center, géothermie, incinérateurs… Les communes incitées à mutualiser face aux enjeux énergétiques Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWmZTYkVQX3phMVRLTzNuTVNpNllxS0pSaGZXOFpNSkZDby1mLVh1aVBRTkJqVEJBRVNZNTJXZW9nMFFSU19ac1pSOFduOHRDM0lxY25pVmRWb253VXdCbEs0Z05uTnA0eTc2d3AzZzVvVXhNdHNxNHZhQzNRaFNHN28tZlBvX3dpOW9KdDVWeWg2clBjbEN0RGh4ajJqaWVkVlpoSDlKb244bi1VOUdpbEMxOEkycFlkc3FFSFpweWk3YW1mMU03anBJM3RpMktvX0hRWTZUUERkQVBvclpwMXl0LUJHb1dmVGRNVGJ3NA?oc=5",
-      "published_at": "2026-11-12T15:05:24+00:00"
+      "titre": "Veolia inaugure une usine de récupération des métaux de la \"black mass\" en Moselle - Investir Les Echos",
+      "resume": "Veolia inaugure une usine de récupération des métaux de la \"black mass\" en Moselle Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaUlTbHJEdmpkcXRRZ2xQQVZQU2JocjJoZnBXak9YWDJQOXAtNWRwTERDb0pEeDVDLUhWdWRFSkltdFE4NElMZzVaM0JncEdEZFFtY1hUVjl4RHI0Yld6T0JvZVh3SEFXM0ExenQ1WklFQkY3clF4dFdwaEFuZWk3RXhBeDk4MmZCb2dxemJjX1JnSVpYOWFpSVpnQURVS1Z2dmY5QVAzMzRYVmxVUGZUbXM1bVJYTVl3UnpQYzE4QUFBM1FIZEZYMVRnNGN2U1R3RXNEb0pYRFE5d2tUc21sNnRaZUhQVmRp?oc=5",
+      "published_at": "2026-11-12T14:37:00+00:00"
     },
     {
       "id": "6a08637a1e4c5f6c",
