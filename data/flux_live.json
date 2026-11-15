@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-15T07:24:54.820828+00:00",
+  "generated_at": "2026-11-15T14:53:55.771194+00:00",
   "items": [
+    {
+      "id": "1b5a5a6ff267c413",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Confrontée à un El Niño historique, l’Amazonie brésilienne en état d’urgence environnemental",
+      "resume": "L’Etat du Para et cinquante villes de l’Etat de l’Amazonas ont été placés en état d’urgence afin de mobiliser tous les moyens pour combattre les feux de forêt et venir en aide aux quelque 161 000 familles touchées.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/15/confrontee-a-un-el-nino-historique-l-amazonie-bresilienne-en-etat-d-urgence-environnemental_6811024_3244.html",
+      "published_at": "2026-11-15T14:30:41+00:00"
+    },
+    {
+      "id": "c694d5f943465bc0",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESG Today: Week in Review",
+      "resume": "This week in ESG news: Sustainable fund inflows hit highest level since 2024; Appeals court […]",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-283/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-283",
+      "published_at": "2026-11-15T10:51:21+00:00"
+    },
+    {
+      "id": "5ed039d26e49faa1",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Katharina Pistor, professeure de droit : « Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patrons de la tech tels que Musk, Thiel et Zuckerberg »",
+      "resume": "Dans une tribune au « Monde », Katharina Pistor, professeure de droit, compare la domination exercée par la « confrérie de la tech » sur les citoyens à l’approche adoptée autrefois par les colons envers les peuples autochtones.",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html",
+      "published_at": "2026-11-15T09:00:21+00:00"
+    },
     {
       "id": "9e98831c10a7d687",
       "source": "Reporterre",
@@ -14,7 +41,7 @@
       "id": "d56ae646678e6653",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "L'ONF veut ouvrir 20 000 hectares de foret primaire à l'exploitation, tollé en Guyane",
+      "titre": "L'ONF veut ouvrir 20 000 hectares de forêt primaire à l'exploitation, tollé en Guyane",
       "resume": "La décision de l'Office national des forêts d'ouvrir une zone de forêt primaire à l'exploitation provoque un tollé en Guyane. Plus que le modèle, durable, ce sont les potentiels usages illégaux des nouvelles pistes forestières qui inquièten",
       "url": "https://reporterre.net/L-ONF-veut-ouvrir-20-000-hectares-de-foret-primaire-a-l-exploitation-tolle-en-Guyane",
       "published_at": "2026-11-15T06:00:00+00:00"
@@ -26,7 +53,7 @@
       "titre": "« La cueillette est désastreuse » : les champignons, affaiblis par la sécheresse, sont de plus en plus rares",
       "resume": "Dans la forêt domaniale de Hez-Froidmont, dans l’Oise, des mycologues amateurs s’inquiètent d’une raréfaction des champignons. Le déclin affecte ceux dont la partie sous terre est profonde, comme les trompettes-de-la-mort, les chanterelles ",
       "url": "https://www.lemonde.fr/planete/article/2026/11/15/la-cueillette-est-desastreuse-les-champignons-affaiblis-par-la-secheresse-sont-de-plus-en-plus-rares_6810979_3244.html",
-      "published_at": "2026-11-15T05:00:21+00:00"
+      "published_at": "2026-11-15T05:00:15+00:00"
     },
     {
       "id": "94c253cdadb83f03",
@@ -101,15 +128,6 @@
       "published_at": "2026-11-14T06:00:00+00:00"
     },
     {
-      "id": "56fb93f984121735",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A La Réunion, une sécheresse exceptionnelle menace la biodiversité d’une rivière du Sud sauvage",
-      "resume": "Le manque de pluies depuis deux ans dans le massif du volcan, région traditionnellement très pluvieuse, n’a pas permis la recharge en eau de la rivière Langevin, mettant en danger des espèces locales.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/14/a-la-reunion-une-secheresse-exceptionnelle-menace-la-biodiversite-d-une-riviere-du-sud-sauvage_6809623_3244.html",
-      "published_at": "2026-11-14T04:30:18+00:00"
-    },
-    {
       "id": "6917799efb096114",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -126,24 +144,6 @@
       "resume": "Une condamnation historique pour un syndicat de distribution d'eau en Corrèze. Selon une information révélée par France Inter, puis par le Populaire du centre, le tribunal de Tulle a condamné le 30 septembre un syndicat à verser 2 000 euros",
       "url": "https://reporterre.net/Un-syndicat-des-eaux-condamne-a-cause-d-un-gaz-cancerogene-dans-l-eau-du-robinet",
       "published_at": "2026-11-13T17:13:34+00:00"
-    },
-    {
-      "id": "e1b30e6d3d8ef352",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Canal Seine-Nord : le recours contre l'autorisation environnementale est rejeté",
-      "resume": "Par un jugement du 13 novembre 2026, le tribunal administratif d'Amiens a rejeté le recours des associations Protection du territoire Seine-Escaut (PTSE) et Nord Nature Environnement contre l'arrêté interpréfectoral du 9 août 2024 portant a",
-      "url": "https://www.actu-environnement.com/ae/news/canal-seine-nord-recours-autorisation-environnementale-48799.php4#xtor=RSS-6",
-      "published_at": "2026-11-13T16:57:32+00:00"
-    },
-    {
-      "id": "7619918c7abb9a9f",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le Haut-commissariat à la stratégie et au plan veut sortir de l'ère des écogestes",
-      "resume": "Miser sur la bonne volonté individuelle ne suffit pas, juge le Haut-commissariat à la stratégie et au plan. Il propose une grille d'action en quatre leviers pour rendre la sobriété « facile, accessible et désirable ».",
-      "url": "https://www.actu-environnement.com/ae/news/hcsp-rapport-sobriete-leviers-politique-publique-48798.php4#xtor=RSS-6",
-      "published_at": "2026-11-13T16:48:46+00:00"
     },
     {
       "id": "c4c5210b377bef82",
@@ -164,15 +164,6 @@
       "published_at": "2026-11-13T16:30:19+00:00"
     },
     {
-      "id": "2fcfbc38e159fa0f",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Les Côtes-d'Armor se préparent à une situation de rupture",
-      "resume": "Prioriser les usages et rendre supportable une potentielle rupture de distribution d'eau potable dans les Côtes-d'Armor dans un programme d'actions concrètes : c'est la consigne du préfet demandée sous quinze jours aux responsables de la pr",
-      "url": "https://www.actu-environnement.com/ae/news/stress-hydrique-cotes-armor-preparent-rupture-alimentation-eau-potable-bretagne-finistere-crise-48796.php4#xtor=RSS-6",
-      "published_at": "2026-11-13T16:25:20+00:00"
-    },
-    {
       "id": "12675dd7d26fa0d0",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -191,15 +182,6 @@
       "published_at": "2026-11-13T15:44:18+00:00"
     },
     {
-      "id": "b795efc19b157f8d",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Trois leviers pour atteindre le seuil 2028 sans surcoût",
-      "resume": "Le Hub des prescripteurs bas carbone, piloté par l'Ifpeb et Carbone 4, identifie trois leviers permettant aux logements collectifs neufs d'atteindre le seuil 2028 de la RE 2020 sans surcoût significatif.",
-      "url": "https://www.actu-environnement.com/ae/news/RE2020-seuil-2028-logements-collectifs-surcout-hub-prescripteurs-bas-carbone-ifpeb-carbone4-48797.php4#xtor=RSS-6",
-      "published_at": "2026-11-13T15:43:34+00:00"
-    },
-    {
       "id": "ee0a41081af08697",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -207,24 +189,6 @@
       "resume": "Comme lors de la 11e session, il y a eu beaucoup de projets de repowering, 518 MW, déposés pour la 12e session de l’appel d’offres éolien terrestre, indique la Commission de régulation de l’énergie (CRE) dans L’article Le repowering éolien ",
       "url": "https://www.greenunivers.com/2026/11/le-repowering-eolien-plus-cher-lors-du-dernier-appel-doffres-438624/",
       "published_at": "2026-11-13T15:30:30+00:00"
-    },
-    {
-      "id": "6a44b98adf19b7bf",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Éolien : la recherche d'une alternative à l'échelle métropolitaine est satisfaisante",
-      "resume": "Par une décision du 10 novembre 2026, la cour administrative d'appel de Nantes a rejeté la requête de l'association Apeljou et de plusieurs personnes physiques qui demandaient l'annulation de l'autorisation environnementale et de la dérogat",
-      "url": "https://www.actu-environnement.com/ae/news/eolien-derogation-especes-protegees-solution-alternative-metropolitaine-48795.php4#xtor=RSS-6",
-      "published_at": "2026-11-13T15:11:25+00:00"
-    },
-    {
-      "id": "b6a4d8a01e7462ad",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La Cour suprême norvégienne invalide trois licences pétrolières en mer du Nord, un « jugement historique »",
-      "resume": "Si elle n’a pas d’effet immédiat sur la production, la décision de la plus haute instance de justice à Oslo contraint l’Etat à calculer les émissions totales de chacun des projets d’extraction et à en évaluer l’impact sur les températures m",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/13/la-cour-supreme-norvegienne-invalide-trois-licences-petrolieres-en-mer-du-nord-un-jugement-historique_6809339_3244.html",
-      "published_at": "2026-11-13T15:10:43+00:00"
     },
     {
       "id": "3f54a5c478b0f28b",
@@ -279,15 +243,6 @@
       "resume": "Water temperatures are climbing the charts, high tides are swallowing the shoreline and vital parts of the food web that feed ocean diversity are disappearing On a picturesque autumn afternoon last week, the beaches of California ’s Montere",
       "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
       "published_at": "2026-11-13T12:00:19+00:00"
-    },
-    {
-      "id": "6fb878f42b6eb1fe",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Lire notre dossier d'actu \"Batteries : le stockage change d’échelle\"",
-      "resume": "Le parc français de batteries stationnaires a doublé en dix-huit mois pour dépasser 2 GW, et plus de 17 GW de projets attendent leur raccordement. Des « mégabatteries » de plus de 200 MW aux petites installations couplées au solaire, le sto",
-      "url": "https://www.actu-environnement.com/dossier-actu/dossier-axctu-stockage-electricite-batteries-135#xtor=RSS-6",
-      "published_at": "2026-11-13T11:27:53+00:00"
     },
     {
       "id": "87f63db9d0e14e62",
@@ -398,24 +353,6 @@
       "published_at": "2026-11-12T15:05:24+00:00"
     },
     {
-      "id": "3b5de39d40811abb",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Veolia inaugure une usine de récupération des métaux de la \"black mass\" en Moselle - Investir Les Echos",
-      "resume": "Veolia inaugure une usine de récupération des métaux de la \"black mass\" en Moselle Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaUlTbHJEdmpkcXRRZ2xQQVZQU2JocjJoZnBXak9YWDJQOXAtNWRwTERDb0pEeDVDLUhWdWRFSkltdFE4NElMZzVaM0JncEdEZFFtY1hUVjl4RHI0Yld6T0JvZVh3SEFXM0ExenQ1WklFQkY3clF4dFdwaEFuZWk3RXhBeDk4MmZCb2dxemJjX1JnSVpYOWFpSVpnQURVS1Z2dmY5QVAzMzRYVmxVUGZUbXM1bVJYTVl3UnpQYzE4QUFBM1FIZEZYMVRnNGN2U1R3RXNEb0pYRFE5d2tUc21sNnRaZUhQVmRp?oc=5",
-      "published_at": "2026-11-12T14:37:00+00:00"
-    },
-    {
-      "id": "b8263453e788883d",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Nordea AM, EQ Investors Launch New Sustainability-Focused Multi-Asset Funds",
-      "resume": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch […]",
-      "url": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss&utm_medium=rss&utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
-      "published_at": "2026-11-12T13:45:08+00:00"
-    },
-    {
       "id": "6a08637a1e4c5f6c",
       "source": "Novethic",
       "categorie": "Presse",
@@ -450,6 +387,15 @@
       "resume": "Un peu plus ? Beaucoup moins ? Pas de changement ? Les discussions sur l’exercice budgétaire 2028-2034 vont bon train à Bruxelles. Pour s’y retrouver entre la proposition originelle de la Commission de 2025 et celle maintenant discutée par ",
       "url": "https://www.contexte.com/fr/article/pouvoirs/les-oscillations-du-futur-budget-de-lunion-europeenne_268567?source=rss",
       "published_at": "2026-11-12T07:00:00+00:00"
+    },
+    {
+      "id": "950c03428ed03d59",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "La maison mère de Zara s'associe à la Banque mondiale pour réduire l'empreinte carbone du textile - Les Echos",
+      "resume": "La maison mère de Zara s'associe à la Banque mondiale pour réduire l'empreinte carbone du textile Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcXJFR05vcmdTWC1kN1NZM201Z0NZc19kOVhkV01Qb3JmcVJmN1hnQlFRLU8wREZPS2ZmWG1kUlpFODFpdjVJU05Sb0RIUVNJYU9hdGF2bUNNaERMNkEwWDA5bkRrV0s4SlpvX1U5OUFMbEtwWHNOdzhLTTRvRGJmV1k5dndFZG8tV1F3RGR2SzJSdDlpOVVHbUtfTlA1eUQ5NS1WT0Zjb21mbmc4bTVPbldmUGZxMXliNlZrQk9zYTVZTDE3Q0pvWjRXTmE3NTRZLWdMb0VDUlFqcUhSRzZiS2xqYTlVUUhqRlpvOEdGMTNlbzhmN2lhQg?oc=5",
+      "published_at": "2026-11-10T18:42:36+00:00"
     },
     {
       "id": "b543bb17a0681928",
@@ -720,6 +666,60 @@
       "resume": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps Le conseil scientifique des méthodes d’évaluation socioéconomique, placé auprès du Haut-commissariat à la Stratégie et au Plan, organise u",
       "url": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
       "published_at": "2026-09-08T13:11:58+00:00"
+    },
+    {
+      "id": "cf48f14c1a1e7e16",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Un an après notre financement participatif, faisons le point",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/un-an-apres-notre-financement-participatif-faisons-le-point/",
+      "published_at": "2026-08-20T09:46:13+00:00"
+    },
+    {
+      "id": "ab31b0d4d313ca82",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "Retours sur l’Assemblée Générale de la FEP 2026",
+      "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
+      "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
+      "published_at": "2026-07-20T10:36:40+00:00"
+    },
+    {
+      "id": "5966e35906e93c5d",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
+      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il se poursuit à un rythme record et l’Europe est le continent qui se réchauffe le plus vite. Les impacts du changement ",
+      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
+      "published_at": "2026-07-09T05:00:32+00:00"
+    },
+    {
+      "id": "2da2b921127fe578",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
+      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
+      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "cd7d08d9a9e2aec2",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
+      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux notes à l’attention du Haut conseil pour le climat (HCC) dans le cadre d’une mission d’expertise visan",
+      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
+      "published_at": "2026-06-04T10:01:00+00:00"
+    },
+    {
+      "id": "fa7227a2bec78f26",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
+      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la vie et de la santé (CCNE) le 9 avril 2026. Le HCC partage aujourd’hui sa contribution, transmise au CCNE, dans le cadre de ",
+      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
+      "published_at": "2026-04-16T12:28:44+00:00"
     }
   ]
 }
