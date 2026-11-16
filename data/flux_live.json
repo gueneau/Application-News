@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-11-16T00:06:30.358454+00:00",
+  "generated_at": "2026-11-16T06:58:56.731575+00:00",
   "items": [
+    {
+      "id": "901999c2d9565fdd",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Que mon cancer soit comptabilisé comme causé par les pesticides » : le combat d'un agriculteur malade",
+      "resume": "Galères pour constituer un dossier, longue attente... L'agriculteur Denis Roblin a mis des années pour que son cancer de la prostate soit reconnu comme une maladie professionnelle liée aux pesticides. Un parcours largement semé d'embûches. ",
+      "url": "https://reporterre.net/Que-mon-cancer-soit-comptabilise-comme-cause-par-les-pesticides-le-combat-d-un-agriculteur-malade",
+      "published_at": "2026-11-16T06:00:00+00:00"
+    },
+    {
+      "id": "584e99c4efc14d93",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "\"Au-delà de la RSE, il nous faut changer les règles du jeu économique\", Julia Faure",
+      "resume": "Julia Faure plaide pour une meilleure régulation pour les entreprises - Crédit : Mouvement Impact France Dans votre livre*, vous défendez l'idée que le marché accorde une \"prime au vice\" aux entreprises les moins vertueuses, et que les entr",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/prime-au-vice-julia-faure-changer-regles-jeu-economique",
+      "published_at": "2026-11-16T05:45:09+00:00"
+    },
+    {
+      "id": "09d6462db2c2f891",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP31 : quels pays doivent régler la facture de la lutte contre la catastrophe climatique ?",
+      "resume": "La France a fait de l’élargissement du cercle des Etats tenus d’aider financièrement les pays en développement « une priorité » de la COP31, qui se poursuit en Turquie.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-quels-pays-doivent-regler-la-facture-de-la-lutte-contre-la-catastrophe-climatique_6811341_3244.html",
+      "published_at": "2026-11-16T04:30:11+00:00"
+    },
+    {
+      "id": "13c4f23de278951c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le maïs, indispensable au modèle agricole français, menacé par le dérèglement climatique",
+      "resume": "La sécheresse et les canicules ont fait chuter la récolte de maïs grain de 50 %, et celle de maïs pour le fourrage de plus de 30 % cette année. Des résultats qui posent la question de l’avenir de cette culture, sur laquelle repose l’aliment",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/16/le-mais-indispensable-au-modele-agricole-francais-menace-par-le-dereglement-climatique_6811339_3234.html",
+      "published_at": "2026-11-16T04:30:06+00:00"
+    },
+    {
+      "id": "66d2bb6fda236eaa",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones",
+      "resume": "« Le cri de la terre et le cri des pauvres s’élèvent ensemble », a déclaré, dimanche, le souverain pontife, lors d’une nouvelle étape de sa tournée en Amérique latine. Il a notamment dénoncé « l’exploitation » des ressources et l’assassinat",
+      "url": "https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html",
+      "published_at": "2026-11-16T01:23:44+00:00"
+    },
+    {
+      "id": "b1bedb123145b415",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Huge waves pummel California coast, forcing closure of popular piers",
+      "resume": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the closur",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+      "published_at": "2026-11-16T01:00:42+00:00"
+    },
     {
       "id": "0ceab74590765f2a",
       "source": "Le Monde Planète",
@@ -38,15 +92,6 @@
       "published_at": "2026-11-15T10:51:21+00:00"
     },
     {
-      "id": "5ed039d26e49faa1",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Katharina Pistor, professeure de droit : « Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patrons de la tech tels que Musk, Thiel et Zuckerberg »",
-      "resume": "Dans une tribune au « Monde », Katharina Pistor, professeure de droit, compare la domination exercée par la « confrérie de la tech » sur les citoyens à l’approche adoptée autrefois par les colons envers les peuples autochtones.",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html",
-      "published_at": "2026-11-15T09:00:21+00:00"
-    },
-    {
       "id": "9e98831c10a7d687",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -63,24 +108,6 @@
       "resume": "La décision de l'Office national des forêts d'ouvrir une zone de forêt primaire à l'exploitation provoque un tollé en Guyane. Plus que le modèle, durable, ce sont les potentiels usages illégaux des nouvelles pistes forestières qui inquièten",
       "url": "https://reporterre.net/L-ONF-veut-ouvrir-20-000-hectares-de-foret-primaire-a-l-exploitation-tolle-en-Guyane",
       "published_at": "2026-11-15T06:00:00+00:00"
-    },
-    {
-      "id": "cb6917fb563eecdb",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« La cueillette est désastreuse » : les champignons, affaiblis par la sécheresse, sont de plus en plus rares",
-      "resume": "Dans la forêt domaniale de Hez-Froidmont, dans l’Oise, des mycologues amateurs s’inquiètent d’une raréfaction des champignons. Le déclin affecte ceux dont la partie sous terre est profonde, comme les trompettes-de-la-mort, les chanterelles ",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/15/la-cueillette-est-desastreuse-les-champignons-affaiblis-par-la-secheresse-sont-de-plus-en-plus-rares_6810979_3244.html",
-      "published_at": "2026-11-15T05:00:15+00:00"
-    },
-    {
-      "id": "94c253cdadb83f03",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
-      "resume": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! ».",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
-      "published_at": "2026-11-14T19:18:06+00:00"
     },
     {
       "id": "1ecd2bb88904cdc3",
@@ -135,15 +162,6 @@
       "resume": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questions Was the climate crisis one of your top political priorities during the midterm elections? We want ",
       "url": "https://www.theguardian.com/us-news/2026/nov/13/climate-environment-questions-bill-mckibben",
       "published_at": "2026-11-13T20:23:23+00:00"
-    },
-    {
-      "id": "3d0a8ee226f68366",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Un syndicat des eaux condamné à cause d'un gaz cancérogène dans l'eau du robinet",
-      "resume": "Une condamnation historique pour un syndicat de distribution d'eau en Corrèze. Selon une information révélée par France Inter, puis par le Populaire du centre, le tribunal de Tulle a condamné le 30 septembre un syndicat à verser 2 000 euros",
-      "url": "https://reporterre.net/Un-syndicat-des-eaux-condamne-a-cause-d-un-gaz-cancerogene-dans-l-eau-du-robinet",
-      "published_at": "2026-11-13T17:13:34+00:00"
     },
     {
       "id": "c4c5210b377bef82",
@@ -234,15 +252,6 @@
       "resume": "One company is proposing elongating the life of the dump, pungent smell and all, several more decades As a visual representation of how New York is running out of places to put its waste, the largest active landfill in the state is a striki",
       "url": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
       "published_at": "2026-11-13T12:30:18+00:00"
-    },
-    {
-      "id": "1f159d4f62e67daf",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "A super El Niño brings startling changes for marine life on California coast: ‘like nothing we’ve ever seen’",
-      "resume": "Water temperatures are climbing the charts, high tides are swallowing the shoreline and vital parts of the food web that feed ocean diversity are disappearing On a picturesque autumn afternoon last week, the beaches of California ’s Montere",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
-      "published_at": "2026-11-13T12:00:19+00:00"
     },
     {
       "id": "87f63db9d0e14e62",
@@ -369,15 +378,6 @@
       "resume": "La RSE est-elle en recul ? « Nous assistons plutôt à la transformation de son rôle » Les Echos",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTjF6aW1YbmJCeDEtQXVHT0ExRzY2dnJwZFFQUkJ5Qmtwc2ZTOG1xMF9maVdLNHRnZEVkRV8xOWt6V2VKVTFNUXQ0WlVkelJaNGU3ejJMajRkcFdRZUFYU0xjTFhXUFp6NU1fb2VqQnBxRm1QSVFJRHRHdko3N0dtN1VaQ3d2blJWLW41TmZpWXF2dnZSaVBsQjZfVG1jeXprY2dITVk5ckNZWlQ5WTlyYlRFeW8wMWJycmNqNW1weHJnanJDZEJUdFJB?oc=5",
       "published_at": "2026-11-12T12:40:08+00:00"
-    },
-    {
-      "id": "5043e1f427ada837",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "RSE : les PME veulent s'engager, encore faut-il leur en donner les moyens",
-      "resume": "Les dirigeants de PME réclament plus de financements et d'accompagnements pour s'engager sur les enjeux sociaux et environnementaux - Photo de Jeriden Villegas sur Unsplash Les entreprises n'ont pas laissé tomber les engagements sociaux et ",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/rse-pme-besoins-financement-acompagnement-etat",
-      "published_at": "2026-11-12T10:45:10+00:00"
     },
     {
       "id": "e7e157b9fac6c8dc",
