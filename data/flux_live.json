@@ -1,6 +1,294 @@
 {
-  "generated_at": "2026-11-18T08:45:44.991660+00:00",
+  "generated_at": "2026-11-18T17:43:30.698533+00:00",
   "items": [
+    {
+      "id": "35e44b3e6f3db8a4",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’Europe en passe d’accélérer les raccordements aux réseaux électriques",
+      "resume": "Une partie du « paquet réseau » en négociations au niveau européen est sur le point d’aboutir. Les eurodéputés et le Conseil européen se sont accordés sur les procédures d’autorisation et de raccordement des L’article L’Europe en passe d’ac",
+      "url": "https://www.greenunivers.com/2026/11/leurope-en-passe-daccelerer-les-raccordements-aux-reseaux-electriques-439081/",
+      "published_at": "2026-11-18T16:52:00+00:00"
+    },
+    {
+      "id": "005ceb355e0ea832",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "La réserve secondaire fait plonger les revenus d’octobre [Observatoire des batteries]",
+      "resume": "Troisième rendez-vous de l’observatoire mensuel de GreenUnivers sur les revenus des batteries en France, réalisé en collaboration avec Aurora Energy Research et Clean Horizon. Les revenus d’une batterie française de deux heures chutent fort",
+      "url": "https://www.greenunivers.com/2026/11/la-reserve-secondaire-fait-plonger-les-revenus-en-octobre-observatoire-des-batteries-438957/",
+      "published_at": "2026-11-18T16:34:03+00:00"
+    },
+    {
+      "id": "014aaf634d721937",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "PFAS : la Cour des comptes européenne exhorte les Vingt-Sept à « agir vite pour désamorcer cette bombe à retardement »",
+      "resume": "Dans un rapport publié mercredi, l’institution invite l’Union européenne à réviser les teneurs maximales en polluants éternels dans l’eau et les aliments, ainsi que le cadre juridique qu’elle juge « insuffisants » et « inadaptés » pour prot",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/18/pfas-la-cour-des-comptes-europeenne-exhorte-les-vingt-sept-a-agir-vite-pour-desamorcer-cette-bombe-a-retardement_6813164_3244.html",
+      "published_at": "2026-11-18T16:00:17+00:00"
+    },
+    {
+      "id": "88de7fa48e67a507",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le cadre juridique des PFAS est inadapté, selon la Cour des comptes européenne",
+      "resume": "La Cour des comptes européenne a analysé les points d'achoppement du cadre juridique pour protéger des effets des PFAS. Elle appelle à réduire les temps des procédures, améliorer les contrôles et réviser les limites applicables.",
+      "url": "https://www.actu-environnement.com/ae/news/pfas-cour-comptes-europenne-cadre-juridique-eau-aliments-48812.php4#xtor=RSS-6",
+      "published_at": "2026-11-18T16:00:00+00:00"
+    },
+    {
+      "id": "79d764ae4888e68a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Il faut démanteler les navires-usines » : notre débat sur l'océan avec Claire Nouvian, Baptiste Morizot et Guillaume Pitron",
+      "resume": "Alors que l'océan devient un nouvel enjeu stratégique, quelles sont les conséquences de cette course vers le large ? Pour y répondre, Reporterre et la revue Terrestres organisaient, le 5 novembre, un débat à retrouver en vidéo. Pensez à la ",
+      "url": "https://reporterre.net/Il-faut-demanteler-les-navires-usines-notre-debat-sur-l-ocean-avec-Claire-Nouvian",
+      "published_at": "2026-11-18T15:44:26+00:00"
+    },
+    {
+      "id": "a1d966772f26a77a",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Green Bond Issuance Jumps 29% in Q3 2026: Moody’s",
+      "resume": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by […]",
+      "url": "https://www.esgtoday.com/green-bond-issuance-jumps-29-in-q3-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-jumps-29-in-q3-2026-moodys",
+      "published_at": "2026-11-18T15:35:32+00:00"
+    },
+    {
+      "id": "dfe8cb8a698c7f90",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le Conseil d'État valide le caractère non-régularisable du projet éolien du Mont des Quatre-Faux",
+      "resume": "Par un arrêt du 13 novembre 2026, le Conseil d'État a rejeté la requête de la ministre de la Transition écologique et d'une société éolienne demandant l'annulation d'une décision annulant elle-même les arrêtés autorisant l'exploitation d'éo",
+      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-eolien-mont-quatre-faux-regularisation-48818.php4#xtor=RSS-6",
+      "published_at": "2026-11-18T15:30:27+00:00"
+    },
+    {
+      "id": "e642de2ada87b3bc",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Nucléaire : la Cour des comptes alerte sur le coût des EPR2",
+      "resume": "Le financement des six futurs réacteurs nucléaires EPR2 pourrait peser lourdement sur les finances publiques, et c'est la Cour des comptes qui le dit. Dans une note publiée le 16 novembre, les magistrats de la rue Cambon alertent sur la fra",
+      "url": "https://reporterre.net/Nucleaire-la-Cour-des-comptes-alerte-sur-le-cout-des-EPR2",
+      "published_at": "2026-11-18T15:29:37+00:00"
+    },
+    {
+      "id": "b3fd78288fce9352",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Présidentielle 2027 : les Jeunes Agriculteurs publient un « manifeste » détaillant leurs propositions à destination des candidats à l’élection",
+      "resume": "Le syndicat agricole insiste notamment sur la transmission alors que la moitié des agriculteurs recensés en 2020 aura atteint l’âge de la retraite d’ici à 2030. Il propose notamment de consacrer « 10 % du budget de la PAC », la politique ag",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-detaillant-leurs-propositions-a-destination-des-candidats-a-l-election_6813152_823448.html",
+      "published_at": "2026-11-18T15:27:28+00:00"
+    },
+    {
+      "id": "ba92af6e81d24d6c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
+      "resume": "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars. Les organisateurs entendent encadrer ces visites.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
+      "published_at": "2026-11-18T15:05:29+00:00"
+    },
+    {
+      "id": "827b745941a94e38",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le Conseil d'État dénie l'intérêt à agir d'une association environnementale non agréée et non locale",
+      "resume": "Par une décision du 13 novembre 2026, la Haute juridiction administrative a annulé l'arrêt de la cour administrative d'appel de Lyon du 25 juin 2025 qui avait reconnu un intérêt à agir à l'association Biodiversité sous nos pieds dans un con",
+      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-interet-agir-association-environnementale-48817.php4#xtor=RSS-6",
+      "published_at": "2026-11-18T15:05:12+00:00"
+    },
+    {
+      "id": "c963ba476ffaf755",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La Bretagne à sec en novembre, l'eau d'un lac pompée pour renflouer les robinets",
+      "resume": "La sécheresse historique qui frappe depuis l'été menace l'approvisionnement en eau potable de toute la Bretagne. Dans les Côtes-d'Armor, le pompage d'un lac vient de débuter pour alimenter une grande station de potabilisation. Jugon-les-Lac",
+      "url": "https://reporterre.net/La-Bretagne-a-sec-en-novembre-l-eau-d-un-lac-pompee-pour-renflouer-les-robinets",
+      "published_at": "2026-11-18T14:54:23+00:00"
+    },
+    {
+      "id": "86349dd01775323c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Faites payer les pollueurs » : à la COP31, les appels à taxer les énergies fossiles pour financer l’action climatique se multiplient",
+      "resume": "Tandis que les ressources financières font cruellement défaut pour lutter contre le réchauffement et s’y adapter, les entreprises pétrogazières engrangent des profits exceptionnels. La création d’une « COP de la fiscalité » pourrait contrib",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/18/faites-payer-les-pollueurs-a-la-cop31-les-appels-a-taxer-les-energies-fossiles-pour-financer-l-action-climatique-se-multiplient_6813147_3244.html",
+      "published_at": "2026-11-18T14:47:47+00:00"
+    },
+    {
+      "id": "c44a5e54c92da49e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« C'est pas la faute de Total » : quand la France fait l'autruche face aux grands pollueurs",
+      "resume": "Alors que Macron se vante d'avoir fait de la France une « championne du climat », l'État refuse de faire payer les grands pollueurs et de mettre davantage d'argent sur la table pour financer la transition écologique. Antalya (Turquie), envo",
+      "url": "https://reporterre.net/C-est-pas-la-faute-de-Total-la-France-face-a-ses-contradictions-a-la-COP31",
+      "published_at": "2026-11-18T14:45:16+00:00"
+    },
+    {
+      "id": "0c84498329291be3",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Budget : le Sénat fait un premier pas vers la suppression de la révision du « S21 »",
+      "resume": "Le sénateur Jean-François Husson, rapporteur sur les crédits « énergie », vient de déposer un amendement favorable au maintien des tarifs garantis aux installations photovoltaïques couvertes par l’arrêté tarifaire dit « S21 ». Dans L’articl",
+      "url": "https://www.greenunivers.com/2026/11/budget-le-senat-fait-un-premier-pas-vers-la-suppression-de-la-revision-du-s21-439065/",
+      "published_at": "2026-11-18T14:42:20+00:00"
+    },
+    {
+      "id": "6754d573f708ce5a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Chine, les géants du fast-food s’essaient à la diététique abordable",
+      "resume": "Motivées par les campagnes gouvernementales antiobésité largement relayées par les réseaux sociaux, les chaînes de restauration rapide de l’empire du Milieu verdissent leurs menus.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/18/en-chine-les-geants-du-fast-food-s-essaient-a-la-dietetique-abordable_6813144_3234.html",
+      "published_at": "2026-11-18T14:30:03+00:00"
+    },
+    {
+      "id": "a4f25991115413bc",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est - Les Echos",
+      "resume": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjJmMGt2UXRxUE5maEVrV2w1S0dMa3dfU0lEeHdwMnZhaVgwNGxtbUEyYTZOTTQ1NE1WS0txbDRHemxsWk45Vk5rX0otLWRUSFJaY2IxOC1LTTBrd1NOVkxGMVJIOUNna1pmOTREc3Y1TzFkWlFCeVZqeTBwX2psYXpXbmZOUzZrZUdRQU9nTzBGdkxmMENPaEVRWVJhM28wTXhZSk84cnNQczZwOUxEajNvV1ZfV3RHNVpSM3FHNHlpOVNk?oc=5",
+      "published_at": "2026-11-18T14:20:05+00:00"
+    },
+    {
+      "id": "5667a25004b057bb",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Flexicity (Veolia) veut agréger 600 MW de batteries en 2027",
+      "resume": "De 25 personnes en 2022 à 89 collaborateurs aujourd’hui : l’activité dans la flexibilité de Véolia a bien grandi. L’article Flexicity (Veolia) veut agréger 600 MW de batteries en 2027 est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/11/flexicity-veolia-veut-agreger-600-mw-de-batteries-en-2027-438486/",
+      "published_at": "2026-11-18T14:09:55+00:00"
+    },
+    {
+      "id": "b1321ef3fe3d1819",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
+      "resume": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing industry A few years ago, Tony DiLernia, a New York-based charter boat captain, heard rumor",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
+      "published_at": "2026-11-18T14:00:04+00:00"
+    },
+    {
+      "id": "e1b04e710f442e1a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Un amendement du RN réautorise la location de passoires thermiques",
+      "resume": "Il sera bientôt de nouveau possible de louer des passoires thermiques. Dans le cadre d'un projet de loi du gouvernement, visant à répondre à la crise du logement, le Rassemblement national ( RN ) a fait adopter un amendement visant à réauto",
+      "url": "https://reporterre.net/Un-amendement-du-RN-reautorise-la-location-de-passoires-thermiques",
+      "published_at": "2026-11-18T13:21:08+00:00"
+    },
+    {
+      "id": "92e23343ea197cbd",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+      "resume": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legisl",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+      "published_at": "2026-11-18T13:00:04+00:00"
+    },
+    {
+      "id": "87ca53d87a4602f3",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Les \"Inside Deutsche Bank\" viennent percuter le récit du changement porté par la banque allemande",
+      "resume": "Les actions de Deutsche Bank ont ouvert en baisse de 1,9% au lendemain des révélations Inside Deutsche Bank. @Thomas Wolf CCO La Deutsche Bank a-t-elle changé ? La stratégie agressive d'expansion menée depuis le tournant des années 2000 pou",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/les-inside-deutsche-bank-viennent-percuter-le-recit-du-changement-porte-par-la-banque-allemande",
+      "published_at": "2026-11-18T12:45:14+00:00"
+    },
+    {
+      "id": "1dfee6c93290c6b4",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Tesco Asks 400 Key Suppliers to Join Emissions Data Sharing Program",
+      "resume": "UK-based grocery retailer Tesco announced a partnership with climate data platform OpenClimat to launch its […]",
+      "url": "https://www.esgtoday.com/tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program/?utm_source=rss&utm_medium=rss&utm_campaign=tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program",
+      "published_at": "2026-11-18T12:26:54+00:00"
+    },
+    {
+      "id": "1f32f3d31be79dd2",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EQT to Acquire U.S. Battery Storage Developer Flatiron",
+      "resume": "Private equity and venture capital investor EQT Group announced that it has entered into a […]",
+      "url": "https://www.esgtoday.com/eqt-to-acquire-u-s-battery-storage-developer-flatiron/?utm_source=rss&utm_medium=rss&utm_campaign=eqt-to-acquire-u-s-battery-storage-developer-flatiron",
+      "published_at": "2026-11-18T12:15:48+00:00"
+    },
+    {
+      "id": "2fbc417259fe5f5b",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "When Climate Regulation Becomes a Barrier to Climate Action",
+      "resume": "Guest post by: Eyal Harel, CEO, BlueGreen Water Technologies The Paris Agreement was conceived as […]",
+      "url": "https://www.esgtoday.com/when-climate-regulation-becomes-a-barrier-to-climate-action/?utm_source=rss&utm_medium=rss&utm_campaign=when-climate-regulation-becomes-a-barrier-to-climate-action",
+      "published_at": "2026-11-18T12:01:59+00:00"
+    },
+    {
+      "id": "8363746e50da31b3",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "L'Assemblée nationale supprime l'interdiction de louer les passoires thermiques",
+      "resume": "L'Assemblée nationale a adopté, après un vote serré, un amendement du Rassemblement national supprimant l'interdiction progressive de louer les logements passoires thermiques, suscitant notamment la colère des associations et des élus écolo",
+      "url": "https://www.actu-environnement.com/ae/news/suppression-interdiction-location-passoires-thermiques-assemblee-projet-loi-relance-logement-48816.php4#xtor=RSS-6",
+      "published_at": "2026-11-18T11:57:58+00:00"
+    },
+    {
+      "id": "bf29d2667eee4ed1",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "L'absence de régularisation par le préfet ne permet pas au juge de le faire lui-même",
+      "resume": "Il n'appartenait plus au juge, après la mise en oeuvre de l'article L. 181-18 du code de l'environnement et en l'absence de régularisation par l'autorité compétente, de régulariser lui-même l'autorisation au titre de ses pouvoirs de plein c",
+      "url": "https://www.actu-environnement.com/ae/news/regularisation-autorisation-juge-prefet-eolien-48815.php4#xtor=RSS-6",
+      "published_at": "2026-11-18T11:34:45+00:00"
+    },
+    {
+      "id": "7bf495859f7a1b8f",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Réseaux électriques : l'Europe veut faire sauter le verrou des permis - Les Echos",
+      "resume": "Réseaux électriques : l'Europe veut faire sauter le verrou des permis Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWhYNE5QaTFPUXlEdnVYY3F2ZWVnbmxTQWhoM1J1c19QVkZMcmxGSU1lbXVVUXhYUHZ2S3g2Q1pZV2N6aldiajZCM3VteFpWaF9JLVBpMHpXVGxzS3NVY1J4eV9ZOUZSXzFWbjRmaTlQVkMwc19NeE5mNTFHS3d3LV8tdEU0MGc3dmhqbWdqYmNsUkhNV0lVaFptc21DaVgwWnNBVmhfQVF2ZlNLalVDbG1jcUZZZExLb2dkVGRsZ1Y5b25mSTl0dUFvS2hQTU9ucE11d0VR?oc=5",
+      "published_at": "2026-11-18T11:25:51+00:00"
+    },
+    {
+      "id": "e4327e7fba2f22f1",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Zones humides : un point d'avancement sur le plan national",
+      "resume": "« Près de 40 000 hectares de zones humides ont été restaurés depuis le lancement du 4e plan national milieux humides (PNMH4) en 2022 », annonce fièrement le ministère de la Transition écologique. Celui-ci a publié le 18 novembre un point d'",
+      "url": "https://www.actu-environnement.com/ae/news/zones-humides-bilan-plan-national-milieux-humides-48814.php4#xtor=RSS-6",
+      "published_at": "2026-11-18T11:13:39+00:00"
+    },
+    {
+      "id": "f4256b7a71413d8e",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "CAC 40 : les rémunérations des dirigeants s'envolent, jusqu'à 91 fois le salaire moyen",
+      "resume": "Les dirigeants des grands groupes cotés sont payés en moyenne 91 fois plus que leurs salariés, selon Proxinvest. @iStock \"On atteint les plus hauts niveaux historiques\", s’exclame Jehanne Leroy, directrice de la recherche de Proxinvest, la ",
+      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/cac-40-les-remunerations-des-dirigeants-senvolent-jusqua-91-fois-le-salaire-moyen",
+      "published_at": "2026-11-18T11:10:16+00:00"
+    },
+    {
+      "id": "c54246c988454051",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« La sûreté nucléaire n’était pas plus conciliante »",
+      "resume": "La sûreté des réacteurs nucléaires a-t-elle été dégradée par la récente fusion entre l’Autorité de Sûreté Nucléaire et l’Institut de radioprotection et de sûreté nucléaire ? Une question qui a motivé les deux auteurs d’une histoire de cette",
+      "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/11/18/la-surete-nucleaire-n-etait-pas-plus-conciliante_6813111_6565027.html",
+      "published_at": "2026-11-18T10:32:17+00:00"
+    },
+    {
+      "id": "2fbf76ac9714296a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
+      "resume": "Arrêté lors de la manifestation du 7 novembre, le militant écologiste Loïc Schneider a l'interdiction de paraître à Nancy jusqu'à son audience prévue le 11 janvier 2027. Il dénonce des mesures liberticides sur fond de répression policière e",
+      "url": "https://reporterre.net/On-veut-le-mettre-hors-circuit-la-repression-s-acharne-sur-Loic-le-poete-maraicher",
+      "published_at": "2026-11-18T08:49:33+00:00"
+    },
     {
       "id": "66be75e1fda0875e",
       "source": "ESG Today",
@@ -20,40 +308,22 @@
       "published_at": "2026-11-18T08:22:22+00:00"
     },
     {
-      "id": "dab1773a6a6b3a75",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Artificialisation », un vocable byzantin pour désigner la dégradation irrémédiable des sols français",
-      "resume": "Ce phénomène, aux conséquences néfastes, perturbe les écosystèmes, engendre une baisse de la biodiversité et augmente les risques d’inondation. Pourtant, chaque année, en moyenne, plus de 20 000 hectares de terres naturelles, agricoles ou f",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/18/artificialisation-un-vocable-byzantin-pour-designer-la-degradation-irremediable-des-sols-francais_6813090_3232.html",
-      "published_at": "2026-11-18T08:05:43+00:00"
+      "id": "d798a209b6abbb70",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "La reprise de la consommation d’électricité reste faible  [RTE]",
+      "resume": "Le plan d’électrification n’aura pas d’effet immédiat. Bien au contraire : après une hausse de la demande électrique de 1% au premier semestre 2026, par rapport à la même période en 2025, la croissance de la demande ralentit selon RTE. « Le",
+      "url": "https://www.greenunivers.com/2026/11/la-reprise-de-la-consommation-delectricite-reste-faible-rte-438926/",
+      "published_at": "2026-11-18T07:30:00+00:00"
     },
     {
       "id": "8e613906d7118859",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "La consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France - Les Echos",
-      "resume": "La consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France Les Echos",
+      "titre": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France - Les Echos",
+      "resume": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France Les Echos",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdkQtdl83SXU1QlhkTnlSV09FeDhqcnRHdER3SGhsc05wLUNrZFBLd1dmaWhid1NRem1HX3pJOUxxU3A3NV9WV29WenlMTnJ5N2J1eW9qTjZrbWd1dldYV2JsVlRLZWh1MVlJUGxqdldrRUF2ekNKT2phMTlxSDFZdTRCMjhiSmhndkpJMFNDaHVCOFhnMEktVXkyalVtMG8wVy1SczBkWEppWkQ3c2tGY1JQY0RabURHcXRienFPNC1GcmUwemxlUm5NN3V4MVYtQUJxMGh3Vk1NalcwM3hxNExqWndUUmFGQ2F1RTJiV2JxRlZwU1J5MjctOTRiSjlF?oc=5",
       "published_at": "2026-11-18T06:30:37+00:00"
-    },
-    {
-      "id": "808ab066b91c1673",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Fatima Ouassak et Alice Coffin : « On ne veut pas laisser l'écologie à Hugo Clément »",
-      "resume": "Dans « Le Camp du bien », les militantes et autrices Fatima Ouassak et Alice Coffin expliquent comment une « gauche de rupture » peut l'emporter à la présidentielle. À condition de défendre une écologie concrète et sans concession. « Déroul",
-      "url": "https://reporterre.net/Fatima-Ouassak-et-Alice-Coffin-On-ne-veut-pas-laisser-l-ecologie-a-Hugo-Clement",
-      "published_at": "2026-11-18T06:00:00+00:00"
-    },
-    {
-      "id": "8605a09cb907b306",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La crise climatique redessine déjà la carte du tourisme, les régions les plus visitées sont insuffisamment préparées, selon une étude",
-      "resume": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique doit s’adapter et surtout réduire ses émissions de gaz à effet de serre, qui augmentent, souligne le rapport Destination Climate RiskScan,",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
-      "published_at": "2026-11-18T05:55:09+00:00"
     },
     {
       "id": "2dfb7ae074eb9fae",
@@ -63,42 +333,6 @@
       "resume": "Le gouvernement vient de suspendre le fonds chaleur, créé en 2009 et opéré par l'Ademe. @Pexels Wolfgang Weiser. La plus grande usine d'hydrogène vert, produit à partir de trois éoliennes flottantes, vient d’être inaugurée dans l'Aude à Por",
       "url": "https://www.novethic.fr/environnement/transition-energetique/energies-renouvelables-la-politique-du-stop-and-go-plonge-les-professionnels-au-bord-de-la-crise-de-nerfs",
       "published_at": "2026-11-18T05:45:58+00:00"
-    },
-    {
-      "id": "37728c2d54f93d27",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Je m’enroule dans des plaids » : ces ménages qui restreignent leur chauffage pour affronter l’envolée des prix de l’énergie",
-      "resume": "Confrontés à des factures d’électricité de gaz ou de fioul qui enflent, de plus en plus de foyers vivent une « sobriété subie », souffrant de froid dans leur logement.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/18/je-m-enroule-dans-des-plaids-ces-menages-qui-restreignent-leur-chauffage-pour-affronter-l-envolee-des-prix-de-l-energie_6813075_3234.html",
-      "published_at": "2026-11-18T05:30:11+00:00"
-    },
-    {
-      "id": "f0594c317f8c23a6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie et inondations : le Pas-de-Calais et la Somme placés en vigilance orange",
-      "resume": "Plusieurs liaisons ferroviaires sont interrompues dans les Hauts-de-France depuis mardi matin et jusqu’à mercredi midi en raison de vents violents.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/18/pluie-et-inondations-le-pas-de-calais-et-la-somme-places-en-vigilance-orange_6813028_3245.html",
-      "published_at": "2026-11-18T05:24:58+00:00"
-    },
-    {
-      "id": "da1eea3fc0f9861e",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Face à la sécheresse, la résistance prometteuse de prairies innovantes dans le Poitou",
-      "resume": "Alors que partout en France des éleveurs cherchent à acheter du fourrage, manquant à cause d’un été trop sec, une unité de recherche de l’Inrae à Lusignan, dans la Vienne, démontre qu’un modèle agroécologique permet d’augmenter la résilienc",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/18/face-a-la-secheresse-la-resistance-prometteuse-de-prairies-innovantes-dans-le-poitou_6813073_3234.html",
-      "published_at": "2026-11-18T05:00:21+00:00"
-    },
-    {
-      "id": "0f79a7f284fca3b5",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Suicide d'agriculteur en Bretagne : « C'est le capitalisme qui a tué mon mari »",
-      "resume": "Jean-François Bréhaut, éleveur laitier bio, a mis fin à ses jours en octobre. Canicule, sécheresse… Sa famille est en colère contre tout un « système qui s'effondre » : « Combien faudra-t-il encore de morts pour que les choses changent ? » ",
-      "url": "https://reporterre.net/Suicide-d-agriculteur-en-Bretagne-C-est-le-capitalisme-qui-a-tue-mon-mari",
-      "published_at": "2026-11-18T05:00:00+00:00"
     },
     {
       "id": "54bf4638ffefab12",
@@ -119,15 +353,6 @@
       "published_at": "2026-11-18T02:33:21+00:00"
     },
     {
-      "id": "ca15953d1e422fce",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "DPE : l’Assemblée vote un amendement du RN supprimant les interdictions de location liées au diagnostic de performance énergétique",
-      "resume": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en supprimant toutes les interdictions de louer liées au diagnostic de performance énergétique",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
-      "published_at": "2026-11-17T20:46:05+00:00"
-    },
-    {
       "id": "c1a4ddb1fab0a6ac",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -137,58 +362,13 @@
       "published_at": "2026-11-17T19:12:15+00:00"
     },
     {
-      "id": "2e5802110287f7de",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030",
-      "resume": "Amazon announced plans to significantly grow its clean energy portfolio in India, with the company […]",
-      "url": "https://www.esgtoday.com/amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030",
-      "published_at": "2026-11-17T17:33:04+00:00"
-    },
-    {
-      "id": "dfc5e3d22a773845",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "PFAS : le combat du député vert Nicolas Thierry récompensé par un prix international",
-      "resume": "C'est l'une des plus prestigieuses récompenses environnementales. Mardi 17 novembre à Mumbai (Inde), le député de la Gironde Nicolas Thierry ainsi qu'une coalition d'associations (dont Générations Futures), d'élus, de scientifiques et de ci",
-      "url": "https://reporterre.net/PFAS-un-depute-ecologiste-remporte-un-prestigieux-prix-international",
-      "published_at": "2026-11-17T17:07:06+00:00"
-    },
-    {
-      "id": "659a288a6646c013",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Flambée des factures d'énergie : les associations exigent des engagements des candidats à la présidentielle",
-      "resume": "Une vingtaine d'associations coorganisent, ce mercredi 18 novembre 2026, la Journée nationale contre la précarité énergétique. Elles demandent aux candidats à l'élection présidentielle de prendre plusieurs engagements en la matière.",
-      "url": "https://www.actu-environnement.com/ae/news/journee-lutte-precarite-energetique-associations-candidats-presidentielle-engagements-48811.php4#xtor=RSS-6",
-      "published_at": "2026-11-17T17:00:11+00:00"
-    },
-    {
-      "id": "af3a0193b190cca2",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Top 40 des villes européennes polluées : Lyon, Paris et Marseille mal classées",
-      "resume": "Plus de 700 morts par an à Marseille, 800 à Lyon et plus de 4 000 dans l'agglomération parisienne : en France, la pollution de l'air est le premier risque environnemental pour la santé humaine, révèle Clean Cities. Cette coalition de 150 ON",
-      "url": "https://reporterre.net/Top-40-des-villes-europeennes-polluees-Lyon-Paris-et-Marseille-mal-classees",
-      "published_at": "2026-11-17T16:48:56+00:00"
-    },
-    {
-      "id": "3589509e3745a047",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Nucléaire : EDF s'apprête à signer un contrat de 14 milliards d'euros avec Bouygues, Eiffage et Vinci pour les EPR2 - Les Echos",
-      "resume": "Nucléaire : EDF s'apprête à signer un contrat de 14 milliards d'euros avec Bouygues, Eiffage et Vinci pour les EPR2 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeUFhamxaUy1ILVB5d05OVnZvTk9JRUhqNFl0RU9JZlpBMVBkSTFmWDdMZThzYm1ES01OcjFxSUVMeWxTVThKNWtJMzluUDZFRmduT3ljNnNJQmxYcUYzTkVkYXR6dWJDM1djNHZpRHlMVFIxdFQxYXJjZ1paT1c1MGtXbVI1ZU8wUmhpeDNETXp6cFc3Qlk1NWtzZlM1WUhLVEJYdzdadHVoOHBfeVF2WFkzWW45azI1RDdEdkNad2l0ZjU3UDlxQlBJOG5xYzlUMHJ3X2hGaWhEQkpZR3MySGhhTmFsVzNpV2NvWmRkeEZyeFVEUkpuZWJ0dTBiS2RLdXZEeDdlY3RrOVVOV0xZNg?oc=5",
-      "published_at": "2026-11-17T16:47:55+00:00"
-    },
-    {
-      "id": "4edd0cb5e93220c1",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Google Expands Clean Energy Portfolio with First Superhot Geothermal Power Deal",
-      "resume": "Superhot geothermal project developer Quaise announced that it has signed its first power purchase agreement, […]",
-      "url": "https://www.esgtoday.com/google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise",
-      "published_at": "2026-11-17T15:26:08+00:00"
+      "id": "9efd9f1d440278af",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Appel d’offres « super neutre » : le volume publié par la CRE surprend la filière",
+      "resume": "Dans sa délibération publiée hier sur le cahier des charges du futur appel d’offres « super neutre » pour l’année prochaine, la Commission de régulation de l’énergie fait part d’un volume de 500 MW. Soit proche du point bas de la fourchette",
+      "url": "https://www.greenunivers.com/2026/11/appel-doffres-super-neutre-le-volume-publie-par-la-cre-surprend-la-filiere-438983/",
+      "published_at": "2026-11-17T16:43:22+00:00"
     },
     {
       "id": "caf73bf224f4081e",
@@ -198,51 +378,6 @@
       "resume": "Les deux côtés du Rhin main dans la main pour stocker le carbone Les Echos",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOV9naDdiekFPb2tybEppYi1McFpUaWdqLWt5U1dUTWlLV081LTdfeVN4UkM3ZXhhMVVpNGR3ZWRDU1pPYXM5T1IyWXVqaDM5dWNqVWV2dHFHQjVFaDZ1aWluSjJLTWlOYUhiX09Va0trbFdlTU9DUElJRHJPdHEydDZXbllFZElzZmxxZnlmRmNGWUR4RldOS1hxSXR5TmtkN01vckx0SDY3c1dkLXMxQVoxQ0NOT3ZOcmc?oc=5",
       "published_at": "2026-11-17T14:55:58+00:00"
-    },
-    {
-      "id": "0554f163d9ae3066",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Ramassis de gauchistes » : Marine Le Pen veut couper les subventions de la Ligue des droits de l'Homme et d'autres associations",
-      "resume": "Un « ramassis de gauchistes » : voilà comment Marine Le Pen a qualifié la Ligue des droits de l'Homme lors d'un débat sur la pauvreté et la solidarité, dans un entrepôt des Restos du Cœur, diffusé par LCI . « Ils sont d'une violence à l'éga",
-      "url": "https://reporterre.net/Ramassis-de-gauchistes-Marine-Le-Pen-veut-couper-les-subventions-de-la-Ligue-des-droits-de-l-Homme-et-d-autres-associations",
-      "published_at": "2026-11-17T14:37:16+00:00"
-    },
-    {
-      "id": "99474bbe8c6ee3d6",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "121 millions de quotas carbone gratuits pour l'industrie énergivore",
-      "resume": "Les industriels énergivores ont été entendus. Le Conseil et le Parlement européens ont trouvé un accord pour relever les allocations gratuites de quotas carbone sur la période 2026-2030. Sont concernées les activités dont l'allocation est c",
-      "url": "https://www.actu-environnement.com/ae/news/quotas-carbone-gratuits-industrie-ets-48810.php4#xtor=RSS-6",
-      "published_at": "2026-11-17T14:29:42+00:00"
-    },
-    {
-      "id": "1381be549dff8b1e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Aux avant-postes de la mobilisation, les lycéens de Mayotte réclament toujours de l'eau potable",
-      "resume": "Premiers à se mobiliser fin août, les lycéens, professeurs et syndicats se mobilisent toujours contre leurs établissements vétustes et les coupures d'eau. « Mayotte est l'académie la moins bien dotée de toute la France, alors qu'elle compte",
-      "url": "https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la",
-      "published_at": "2026-11-17T14:29:23+00:00"
-    },
-    {
-      "id": "0f189485c2d82476",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Méthanisation : la justice administrative valide une autorisation d'exploitation dans l'Aveyron",
-      "resume": "Par une décision du 5 novembre 2026, la cour administrative d'appel de Toulouse a rejeté la requête dirigée contre les jugements de première instance et contre les arrêtés du préfet de l'Aveyron en date du 18 juillet 2023 et du 16 mai 2025 ",
-      "url": "https://www.actu-environnement.com/ae/news/methanisation-aveyron-autorisation-exploitation-validee-48809.php4#xtor=RSS-6",
-      "published_at": "2026-11-17T14:22:12+00:00"
-    },
-    {
-      "id": "56a8d5eb1801377d",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "UL Solutions to Acquire Supply Chain Sustainability Data Platform Worldly for $350 Million",
-      "resume": "Applied safety science company UL Solutions announced on Tuesday an agreement to acquire supply chain sustainability […]",
-      "url": "https://www.esgtoday.com/ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million/?utm_source=rss&utm_medium=rss&utm_campaign=ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million",
-      "published_at": "2026-11-17T14:05:01+00:00"
     },
     {
       "id": "bfb935f9c9574abf",
@@ -272,33 +407,6 @@
       "published_at": "2026-11-17T13:00:48+00:00"
     },
     {
-      "id": "c7255127f9826024",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials",
-      "resume": "Automotive manufacturer Audi announced the establishment of Audi Circular Solutions GmbH, a new division focused […]",
-      "url": "https://www.esgtoday.com/audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials/?utm_source=rss&utm_medium=rss&utm_campaign=audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials",
-      "published_at": "2026-11-17T12:43:09+00:00"
-    },
-    {
-      "id": "30912ef78a957440",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Fuligule milouin : le Conseil d'État rejette la demande de suspension de sa chasse",
-      "resume": "Par une ordonnance du 13 novembre 2026, le juge des référés du Conseil d'État a rejeté la demande de suspension de l'arrêté ministériel du 31 août 2026 qui a autorisé le prélèvement de 5 000 spécimens de fuligules milouins durant la saison ",
-      "url": "https://www.actu-environnement.com/ae/news/fuligule-milouin-chasse-conseil-etat-48808.php4#xtor=RSS-6",
-      "published_at": "2026-11-17T12:22:47+00:00"
-    },
-    {
-      "id": "3855d8790c0967e0",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Chargé(e) de mission et de la communication pour le Conseil d’orientation des retraites",
-      "resume": "Chargé(e) de mission et de la communication pour le Conseil d’orientation des retraites Le Conseil d'orientation des retraites recrute un(e) chargé(e) de mission et de la communication à compter du 1er février 2027. sylvie.paupardin mar 17/",
-      "url": "https://www.strategie-plan.gouv.fr/offres-demploi/chargee-de-mission-et-de-la-communication-pour-le-conseil-dorientation-des-retraites",
-      "published_at": "2026-11-17T11:58:33+00:00"
-    },
-    {
       "id": "9ca196e6e55f2a80",
       "source": "Novethic",
       "categorie": "Presse",
@@ -311,19 +419,10 @@
       "id": "40865df859398de2",
       "source": "The Shift Project",
       "categorie": "Climat",
-      "titre": "Décarboner le transport de marchandises : Réussir face aux incertitudes",
+      "titre": "Décarboner le transport de marchandises : réussir face aux incertitudes",
       "resume": "",
       "url": "https://theshiftproject.org/publications/decarboner-le-fret-reussir-face-aux-incertitudes/",
       "published_at": "2026-11-17T10:06:46+00:00"
-    },
-    {
-      "id": "0b6b240f19211219",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Éolien terrestre : les gains de compétitivité des parcs renouvelés freinés par les contraintes réglementaires",
-      "resume": "Dans une délibération publiée le 13 novembre, la Commission de régulation de l'énergie (CRE) revient sur l'instruction de la douzième période de l'appel d'offres sur l'éolien terrestre. Comme pour la période précédente, cette session a été ",
-      "url": "https://www.actu-environnement.com/ae/news/eolien-terrestre-repowering-contraintes-cre-48807.php4#xtor=RSS-6",
-      "published_at": "2026-11-17T10:06:45+00:00"
     },
     {
       "id": "fa9cea41368cd6a4",
@@ -353,33 +452,6 @@
       "published_at": "2026-11-17T05:45:40+00:00"
     },
     {
-      "id": "f286dd5ec3c2a51c",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Band of baby sea turtles swims into ocean after historic California nesting",
-      "resume": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
-      "published_at": "2026-11-16T23:19:11+00:00"
-    },
-    {
-      "id": "602f9434a11ce6e4",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Antibiorésistance (1/2) : la médecine humaine doit emboiter le pas aux progrès de la santé animale",
-      "resume": "Les acteurs de la santé humaine et animale ont présenté de concert le bilan de la surveillance de l'antibiorésistance en France. Les indicateurs sont globalement au vert en santé animale mais la consommation est toujours élevée en médecine ",
-      "url": "https://www.actu-environnement.com/ae/news/antibioresistance-bilan-sante-animale-humaine-48801.php4#xtor=RSS-6",
-      "published_at": "2026-11-16T23:01:00+00:00"
-    },
-    {
-      "id": "5985f09e76aba749",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Massive wave knocks down onlooker in California – video",
-      "resume": "A large wave knocked down at least one onlooker on a beach in northern California on 14 November as heavy tides battered the west coast over the weekend. Waves reached up to 50ft along the coast as swells supercharged by El Niño slammed int",
-      "url": "https://www.theguardian.com/us-news/video/2026/nov/16/massive-wave-knocks-down-onlooker-in-california-video",
-      "published_at": "2026-11-16T18:52:31+00:00"
-    },
-    {
       "id": "a3abe682d79e9ed3",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -398,33 +470,6 @@
       "published_at": "2026-11-16T14:57:01+00:00"
     },
     {
-      "id": "1b5455d4790a3fb7",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Nvidia : La Silicon Valley veut réinstaller Jensen Huang malgré la menace judiciaire",
-      "resume": "La Silicon Valley veut rétablir Jensen Huang à la tête de Nvidia. @Nvidia La Silicon Valley n'a pas renoncé à Jensen Huang. Trois jours après la démission du cofondateur de Nvidia, le 12 novembre, une pétition réclamant son retour à la tête",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/nvidia-la-silicon-valley-veut-reinstaller-jensen-huang-malgre-la-menace-judiciaire",
-      "published_at": "2026-11-16T13:02:38+00:00"
-    },
-    {
-      "id": "5169c266254a6469",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Matériaux critiques : les banques françaises veulent lever les freins du recyclage",
-      "resume": "L'Union européenne ambitionne de couvrir un quart de ses besoins en métaux critiques grâce au recyclage d'ici 2030. @Tobi&Chris, Pexels Les filières existent, mais elles ne passent toujours pas à l’échelle. C’est le constat dressé par la Co",
-      "url": "https://www.novethic.fr/finance-durable/reglementation/materiaux-critiques-les-banques-francaises-veulent-lever-les-freins-du-recyclage",
-      "published_at": "2026-11-16T11:23:39+00:00"
-    },
-    {
-      "id": "ea7f93babac9503d",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Focus Finances publiques | À politiques inchangées, comment évolueraient les dépenses et les recettes des administrations publiques ?",
-      "resume": "Focus Finances publiques | À politiques inchangées, comment évolueraient les dépenses et les recettes des administrations publiques ? La situation des finances publiques françaises occupe une place grandissante dans le débat économique et p",
-      "url": "https://www.strategie-plan.gouv.fr/focus-finances-publiques-politiques-inchangees-comment-evolueraient-les-depenses-et-les-recettes",
-      "published_at": "2026-11-16T09:13:22+00:00"
-    },
-    {
       "id": "d68fc1c9aec85177",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -441,15 +486,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/former-ia-sans-renoncer-a-la-decarbonation/",
       "published_at": "2026-11-13T09:44:56+00:00"
-    },
-    {
-      "id": "ef2126b2ac8aeb96",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Véhicules électriques : l'ambitieuse voie ouverte par Veolia dans le recyclage des batteries - Les Echos",
-      "resume": "Véhicules électriques : l'ambitieuse voie ouverte par Veolia dans le recyclage des batteries Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ0tlN0owZDg2bmJJd2pPYVAyWWcweWZWYnFVRXg2WmRtc2V6Y2E1MS1VNG1Fa2NTMlY3VjlERzFLdUhPbk9uVWlNa1JkZGZLTXFHNk5QOXVZVlRtQU1HUjRmNmdOY2Y5eF9oYlFKS3lHZFVoRFZRRFJNd3BwN0hTUWdTbmhiUXhtZ3pZczF3QnpvazNBX19GRHVidTk5UGZaOWxvZEQtUmR1NVJIendnbVhxNG5NaTBEeGI1bm4zYUVXLTlwenlubERkZXpqWHlHdHhBUkxCREEtNFV5LTBuQ0NGaGFDRm00cnZWSGlHbTFGVzRX?oc=5",
-      "published_at": "2026-11-12T18:28:43+00:00"
     },
     {
       "id": "76b4a3a9d9763fd6",
@@ -477,15 +513,6 @@
       "resume": "Selon trois diplomates, le bloc serait parvenu à un consensus pour soutenir l'engagement phare du sommet.",
       "url": "https://www.politico.eu/article/cop31-lue-soutiendra-lobjectif-delectrification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-10T10:21:37+00:00"
-    },
-    {
-      "id": "632cb0f01f588787",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Remise du Prix Jean Monnet pour la Jeunesse du Haut-commissariat à la Stratégie et au Plan",
-      "resume": "Remise du Prix Jean Monnet pour la Jeunesse du Haut-commissariat à la Stratégie et au Plan Clément Beaune, Haut-commissaire à la Stratégie et au Plan et Garance Pineau ancienne conseillère Europe du Président de la République et ancienne Di",
-      "url": "https://www.strategie-plan.gouv.fr/actualites/remise-du-prix-jean-monnet-pour-la-jeunesse-du-haut-commissariat-la-strategie-et-au-plan",
-      "published_at": "2026-11-10T09:00:21+00:00"
     },
     {
       "id": "e62bfc0b25d56e87",
@@ -632,15 +659,6 @@
       "published_at": "2026-10-14T07:27:21+00:00"
     },
     {
-      "id": "677c3834c04eaf26",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
-      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
-      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
-      "published_at": "2026-10-07T13:03:27+00:00"
-    },
-    {
       "id": "e08f4587b21f7778",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -650,15 +668,6 @@
       "published_at": "2026-10-06T10:23:17+00:00"
     },
     {
-      "id": "c7c5fd524d735a2a",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
-      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
-      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
-      "published_at": "2026-09-30T09:38:27+00:00"
-    },
-    {
       "id": "ffe69a13e487f674",
       "source": "Haut Conseil pour le Climat",
       "categorie": "Climat",
@@ -666,15 +675,6 @@
       "resume": "Le Haut conseil pour le climat a été saisi par le Premier ministre pour rendre un avis sur la place des faits scientifiques relatifs au changement climatique et de la parole des scientifiques dans le débat public et dans les médias. Cet avi",
       "url": "https://www.hautconseilclimat.fr/actualites/saisine-du-haut-conseil-pour-le-climat-sur-la-place-des-faits-et-de-la-parole-scientifique-dans-le-debat-public/",
       "published_at": "2026-09-22T14:23:17+00:00"
-    },
-    {
-      "id": "807bedcb7a719896",
-      "source": "France Stratégie",
-      "categorie": "Climat",
-      "titre": "« France 2035, France 2050 » - Découvrez le projet",
-      "resume": "« France 2035, France 2050 » - Découvrez le projet Comment vivrons-nous en France demain ? Dans la lignée historique des travaux du Plan depuis Jean Monnet, le Haut-commissariat à la Stratégie et au Plan a lancé un grand exercice de prospec",
-      "url": "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet",
-      "published_at": "2026-09-10T10:16:39+00:00"
     },
     {
       "id": "ab31b0d4d313ca82",
