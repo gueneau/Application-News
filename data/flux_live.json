@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-18T17:43:30.698533+00:00",
+  "generated_at": "2026-11-18T23:45:41.206530+00:00",
   "items": [
+    {
+      "id": "0cc02c60bb583262",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Mayotte frappée par une panne d’électricité généralisée à la suite d’un épisode de fortes pluies",
+      "resume": "L’opérateur Electricité de Mayotte assure que 98 % des foyers sont réalimentés, et que ses équipes « poursuivent les manœuvres de rétablissement ».",
+      "url": "https://www.lemonde.fr/outre-mer/article/2026/11/19/mayotte-frappee-par-une-panne-d-electricite-generalisee-a-la-suite-d-un-episode-de-fortes-pluies_6813212_1840826.html",
+      "published_at": "2026-11-18T23:19:28+00:00"
+    },
+    {
+      "id": "7f6b3b0906aa9737",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A Montpellier, des doctorants font reculer l’université sur une convention signée avec TotalEnergies",
+      "resume": "Signé en juin, après un premier vote, le partenariat entre le géant pétrolier et l’université était contesté par un collectif de jeunes chercheurs et étudiants. Mercredi 18 novembre, lors d’un second vote du conseil de la faculté des scienc",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/18/a-montpellier-des-doctorants-font-reculer-l-universite-sur-une-convention-signee-avec-totalenergies_6813190_3244.html",
+      "published_at": "2026-11-18T18:30:04+00:00"
+    },
+    {
+      "id": "ca39be387cb3f9b0",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Federrec pointe des revenus en recul en 2025, et trois filières en crise",
+      "resume": "En 2025, les recycleurs ont collecté plus de déchets, mais leur chiffre d'affaires a reculé de 2 %. Textiles, bâtiment et plastiques concentrent les difficultés, alors que l'Europe restreint les exportations.",
+      "url": "https://www.actu-environnement.com/ae/news/federrec-bilan-recyclage-2025-filieres-crise-48819.php4#xtor=RSS-6",
+      "published_at": "2026-11-18T18:02:34+00:00"
+    },
     {
       "id": "35e44b3e6f3db8a4",
       "source": "GreenUnivers",
@@ -137,15 +164,6 @@
       "published_at": "2026-11-18T14:42:20+00:00"
     },
     {
-      "id": "6754d573f708ce5a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Chine, les géants du fast-food s’essaient à la diététique abordable",
-      "resume": "Motivées par les campagnes gouvernementales antiobésité largement relayées par les réseaux sociaux, les chaînes de restauration rapide de l’empire du Milieu verdissent leurs menus.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/18/en-chine-les-geants-du-fast-food-s-essaient-a-la-dietetique-abordable_6813144_3234.html",
-      "published_at": "2026-11-18T14:30:03+00:00"
-    },
-    {
       "id": "a4f25991115413bc",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -254,15 +272,6 @@
       "published_at": "2026-11-18T11:25:51+00:00"
     },
     {
-      "id": "e4327e7fba2f22f1",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Zones humides : un point d'avancement sur le plan national",
-      "resume": "« Près de 40 000 hectares de zones humides ont été restaurés depuis le lancement du 4e plan national milieux humides (PNMH4) en 2022 », annonce fièrement le ministère de la Transition écologique. Celui-ci a publié le 18 novembre un point d'",
-      "url": "https://www.actu-environnement.com/ae/news/zones-humides-bilan-plan-national-milieux-humides-48814.php4#xtor=RSS-6",
-      "published_at": "2026-11-18T11:13:39+00:00"
-    },
-    {
       "id": "f4256b7a71413d8e",
       "source": "Novethic",
       "categorie": "Presse",
@@ -270,15 +279,6 @@
       "resume": "Les dirigeants des grands groupes cotés sont payés en moyenne 91 fois plus que leurs salariés, selon Proxinvest. @iStock \"On atteint les plus hauts niveaux historiques\", s’exclame Jehanne Leroy, directrice de la recherche de Proxinvest, la ",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/cac-40-les-remunerations-des-dirigeants-senvolent-jusqua-91-fois-le-salaire-moyen",
       "published_at": "2026-11-18T11:10:16+00:00"
-    },
-    {
-      "id": "c54246c988454051",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« La sûreté nucléaire n’était pas plus conciliante »",
-      "resume": "La sûreté des réacteurs nucléaires a-t-elle été dégradée par la récente fusion entre l’Autorité de Sûreté Nucléaire et l’Institut de radioprotection et de sûreté nucléaire ? Une question qui a motivé les deux auteurs d’une histoire de cette",
-      "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/11/18/la-surete-nucleaire-n-etait-pas-plus-conciliante_6813111_6565027.html",
-      "published_at": "2026-11-18T10:32:17+00:00"
     },
     {
       "id": "2fbf76ac9714296a",
