@@ -1,23 +1,212 @@
 {
-  "generated_at": "2026-11-19T14:35:54.744364+00:00",
+  "generated_at": "2026-11-19T22:31:58.498608+00:00",
   "items": [
+    {
+      "id": "1fe93ec878c25adb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le Brésil reconnaît le territoire ancestral du chef indigène Raoni",
+      "resume": "Le président brésilien a rendu visite au chef indigène Raoni Metuktire, 94 ans, avant d’assister à une cérémonie pour attribuer de façon permanente son territoire, Kapot Nhinore, aux peuples qui y vivent.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/19/le-bresil-reconnait-le-territoire-ancestral-du-chef-indigene-raoni_6813384_3210.html",
+      "published_at": "2026-11-19T22:12:27+00:00"
+    },
+    {
+      "id": "2de3627fe9316801",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La Guadeloupe placée en « état d’alerte sécheresse » en fin de saison des pluies",
+      "resume": "Le département français a connu un trimestre de juillet, août et septembre parmi les plus secs et chauds depuis 1991, selon Météo-France. La préfecture appelle l’ensemble des citoyens au « civisme » en réduisant leur consommation d’eau.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html",
+      "published_at": "2026-11-19T21:32:31+00:00"
+    },
+    {
+      "id": "58983ef80b17bfd9",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La « rumeur d’Abbeville » : l’histoire d’une fake news d’il y a vingt-cinq ans, avant les réseaux sociaux",
+      "resume": "Au printemps 2001, alors que des centaines de maisons sont submergées dans la vallée de la Somme, une rumeur accuse l’Etat d’avoir détourné les eaux de la Seine pour protéger Paris. Démentie par les experts, cette théorie du complot n’a jam",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/19/la-rumeur-d-abbeville-il-y-a-vingt-cinq-ans-l-histoire-d-une-fake-news-avant-les-reseaux-sociaux_6813372_3224.html",
+      "published_at": "2026-11-19T19:00:04+00:00"
+    },
+    {
+      "id": "b7ece2d2a237ebd6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Un homme soupçonné d’être à l’origine de 20 incendies cet été en Côte-d’Or est écroué",
+      "resume": "Il sera jugé en janvier et restera en détention provisoire jusque-là.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/19/un-homme-soupconne-de-20-incendies-cet-ete-en-cote-d-or-ecroue_6813370_3224.html",
+      "published_at": "2026-11-19T18:59:07+00:00"
+    },
+    {
+      "id": "a02ba8cce433cdbb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "589 millions d’enfants dans le monde vivent dans une zone de guerre, un chiffre « record », selon l’ONG Save the Children",
+      "resume": "La part d’enfants vivant dans des zones de conflit a plus que doublé, passant de 10 % au milieu des années 1990 à 23,4 % en 2025, soit près d’un quart, selon ce rapport.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/19/pres-d-un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-selon-l-ong-save-the-children_6813367_3210.html",
+      "published_at": "2026-11-19T18:29:43+00:00"
+    },
+    {
+      "id": "31c3cfeaad0ff5f7",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Méthane : l’UE reporte l’entrée en vigueur de son règlement pionnier au nom de la sécurité énergétique",
+      "resume": "Le texte faisait, depuis des mois, l’objet d’un tir croisé de Washington et du secteur pétrogazier.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/19/l-union-europeenne-reporte-l-entree-en-vigueur-de-son-reglement-pionnier-sur-le-methane-au-nom-de-la-securite-energetique_6813359_3234.html",
+      "published_at": "2026-11-19T17:32:25+00:00"
+    },
+    {
+      "id": "d519dfb5b274de54",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Lancer de cendres : la Commission européenne « condamne fermement » l'action des malades du cancer",
+      "resume": "La Commission européenne a réagi par un communiqué à l'action de militants de Cancer Colère, dont sa cofondatrice Fleur Breteau, qui ont jeté des cendres de bois sur Olivér Várhelyi, commissaire à la santé, jeudi 19 novembre à Bruxelles. El",
+      "url": "https://reporterre.net/Lancer-de-cendres-la-Commission-europeenne-condamne-fermement-l-action-des-malades-du-cancer",
+      "published_at": "2026-11-19T17:18:48+00:00"
+    },
+    {
+      "id": "7ed4e771e921194d",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+      "resume": "Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed Plans by the US army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "published_at": "2026-11-19T17:18:08+00:00"
+    },
+    {
+      "id": "01d4ab3eeeb16cbf",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’électrification progresse dans l’UE mais lentement [IEA]",
+      "resume": "Le taux d’électrification de l’Union européenne atteint 24 % en 2025, soit L’article L’électrification progresse dans l’UE mais lentement [IEA] est apparu en premier sur GreenUnivers .",
+      "url": "https://www.greenunivers.com/2026/11/lelectrification-progresse-dans-lue-mais-lentement-iea-439250/",
+      "published_at": "2026-11-19T17:00:10+00:00"
+    },
+    {
+      "id": "984d4ec3bb058d8d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "L'agence atomique internationale veut confier un poste stratégique à un responsable russe impliqué dans la prise de Zaporijia",
+      "resume": "Le directeur général de l'Agence internationale de l'énergie atomique ( AIEA ), Rafael Grossi, a proposé, lundi 16 novembre, de nommer Alexeï Ferapontov au poste de directeur général adjoint chargé de l'énergie nucléaire. Problème, ce haut ",
+      "url": "https://reporterre.net/L-agence-atomique-internationale-veut-confier-un-poste-strategique-a-un-responsable-russe",
+      "published_at": "2026-11-19T16:41:29+00:00"
+    },
+    {
+      "id": "57fe0afaaf0d7a58",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Mirova fait appel à Pantheon pour son quasi fonds de continuation",
+      "resume": "Comme annoncé par GreenUnivers, Mirova s’organise financièrement pour respecter les engagements de ses fonds maison successifs dédiés aux énergies renouvelables – la gamme Energy Transition Infrastructure – à l’égard des investisseurs histo",
+      "url": "https://www.greenunivers.com/2026/11/mirova-fait-appel-a-pantheon-pour-son-quasi-fonds-de-continuation-439214/",
+      "published_at": "2026-11-19T16:38:25+00:00"
+    },
+    {
+      "id": "1b5c52e31544fbfd",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Ce que le Conseil d'État préconise pour améliorer le droit des espèces protégées",
+      "resume": "Dans une étude sur les sanctions des atteintes à l'environnement commandée par le Gouvernement, le Palais-Royal formule des recommandations pour sécuriser les dérogations « espèces protégées » et développer une approche préventive.",
+      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-especes-protegees-derogations-sanctions-48824.php4#xtor=RSS-6",
+      "published_at": "2026-11-19T16:37:40+00:00"
+    },
+    {
+      "id": "4e4cbebd6ea45ef0",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Hydroélectricité : EY et Afry choisis pour calculer les indemnités prévues par la loi",
+      "resume": "Le groupement formé par les cabinets Ernst & Young Advisory (EY) et le cabinet de conseil Afry a été choisi par la Direction générale de l’énergie et du climat (DGEC) pour calculer L’article Hydroélectricité : EY et Afry choisis pour calcul",
+      "url": "https://www.greenunivers.com/2026/11/hydroelectricite-ey-et-afry-choisis-pour-calculer-les-indemnites-prevues-par-la-loi-439186/",
+      "published_at": "2026-11-19T16:33:54+00:00"
+    },
+    {
+      "id": "cef1c6d969d6289f",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’arrêté « échelonnement » bientôt remplacé",
+      "resume": "Les arrêts et redémarrages des centrales d’énergies renouvelables vont changer de cadre. Le 3 décembre, le Conseil supérieur de l’énergie (CSE) va en effet se prononcer sur L’article L’arrêté « échelonnement » bientôt remplacé est apparu en",
+      "url": "https://www.greenunivers.com/2026/11/larrete-echelonnement-bientot-remplace-439200/",
+      "published_at": "2026-11-19T16:28:10+00:00"
+    },
+    {
+      "id": "2ab1471405cf8482",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Arme nucléaire : aucune limitation prévue par Donald Trump, Vladimir Poutine et Xi Jinping",
+      "resume": "Donald Trump, Vladimir Poutine et Xi Jinping se sont réunis le 19 novembre à Shenzhen, en Chine, en marge du sommet de la Coopération économique pour l'Asie-Pacifique (Apec) pour discuter de la réduction de leurs arsenaux nucléaires. Les tr",
+      "url": "https://reporterre.net/Arme-nucleaire-aucune-limitation-prevue-par-Donald-Trump-Vladimir-Poutine-et-Xi-Jinping",
+      "published_at": "2026-11-19T16:19:17+00:00"
+    },
+    {
+      "id": "2162d21b4c363e46",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
+      "resume": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari […]",
+      "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
+      "published_at": "2026-11-19T15:43:23+00:00"
+    },
+    {
+      "id": "5e3b3185e25b2733",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "La crise actuelle façonnera durablement le paysage énergétique mondial, prévient l'AIE",
+      "resume": "La crise énergétique accélère les politiques de transition énergétique. Mais l'accent est mis davantage sur la sécurité énergétique, en laissant de côté les enjeux climatiques, souligne l'AIE. Pourtant, les choix actuels auront des répercus",
+      "url": "https://www.actu-environnement.com/ae/news/crise-energetique-aie-weo-transition-48822.php4#xtor=RSS-6",
+      "published_at": "2026-11-19T15:40:26+00:00"
+    },
+    {
+      "id": "9ddd3ae3e8719151",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le tribunal judiciaire de Tulle condamne un syndicat des eaux en raison de la contamination de l'eau potable",
+      "resume": "Le 30 septembre 2026, le tribunal judiciaire de Tulle a condamné le Syndicat des eaux des Deux Vallées (Corrèze) à indemniser à hauteur de 2&#8239;000 euros une habitante ayant consommé de l'eau contaminée au chlorure de vinyle monomère (CV",
+      "url": "https://www.actu-environnement.com/ae/news/condamnation-syndicat-eaux-cvm-contamination-48823.php4#xtor=RSS-6",
+      "published_at": "2026-11-19T15:29:15+00:00"
+    },
+    {
+      "id": "f3cfbee487042836",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Affaire Andreas Malm : comment le Royaume-Uni harcèle les militants écologistes",
+      "resume": "Le ministère de l'Intérieur du Royaume-Uni a confirmé avoir refusé l'entrée sur son territoire à l'intellectuel Andreas Malm en raison de ses positions sur le climat et Gaza. Le symptôme d'une dérive plus large Outre-Manche. Le 30 octobre d",
+      "url": "https://reporterre.net/L-interdiction-de-l-ecologiste-Andreas-Malm-symbole-de-la-repression-des-militants-au",
+      "published_at": "2026-11-19T15:00:00+00:00"
+    },
+    {
+      "id": "00c87170bfd718a8",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Les obligations des importateurs d'hydrocarbures repoussées de deux ans",
+      "resume": "Le Parlement européen et le Conseil se sont accordés sur un report de deux ans des obligations du règlement méthane visant les importateurs de pétrole, de gaz et de charbon. Un compromis dénoncé comme un « recul majeur » par le Réseau Actio",
+      "url": "https://www.actu-environnement.com/ae/news/reglement-methane-importateurs-hydrocarbures-report-48821.php4#xtor=RSS-6",
+      "published_at": "2026-11-19T14:37:11+00:00"
+    },
+    {
+      "id": "351ce6b4b0b840aa",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
+      "resume": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 […]",
+      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
+      "published_at": "2026-11-19T14:37:09+00:00"
+    },
+    {
+      "id": "4c1f78a573e90664",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "« HoloSolis bénéficie d’une seconde chance » [Henri Poupart-Lafarge]",
+      "resume": "Né en 2023, le projet d’usine photovoltaïque intégrée de HoloSolis en Moselle a pris du retard et reste incertain. Face aux concurrents chinois, il a besoin d’un fort soutien de la réglementation européenne et française. Or le Net zero indu",
+      "url": "https://www.greenunivers.com/2026/11/holosolis-beneficie-dune-seconde-chance-henri-poupart-lafarge-439076/",
+      "published_at": "2026-11-19T14:18:10+00:00"
+    },
     {
       "id": "46c61154f1737233",
       "source": "The Guardian Environment",
       "categorie": "Climat",
       "titre": "Trump takes 500 actions to weaken cancer protections, new report says",
-      "resume": "Natural Resources Defense Council shows how federal rules changes will spike up public’s exposure to carcinogens Amid a rise in early onset cancer , the Trump administration has taken more than 500 actions to systematically dismantle protec",
+      "resume": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens Amid a rise in early onset cancer , the Trump administration has taken more than 500 actions to systematically dismantle protec",
       "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
       "published_at": "2026-11-19T14:15:15+00:00"
-    },
-    {
-      "id": "2ff30abf6cc48540",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "PFAS : nouvelle étape franchie pour la restriction universelle des « polluants éternels » à l’échelle européenne",
-      "resume": "Les PFAS, ces molécules omniprésentes dans les objets du quotidien (emballages, cosmétiques, ustensiles de cuisine) s’accumulent à travers l’environnement et dans le corps humain, avec des effets délétères sur la santé.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/19/pfas-l-agence-europeenne-des-produits-chimiques-favorable-a-des-restrictions-des-polluants-eternels-dans-l-union-europeenne_6813311_3244.html",
-      "published_at": "2026-11-19T13:44:48+00:00"
     },
     {
       "id": "61dea4da3824b6f8",
@@ -38,11 +227,20 @@
       "published_at": "2026-11-19T13:16:10+00:00"
     },
     {
+      "id": "a8f546bd42e959ec",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "O-I Glass veut fermer sa verrerie de Vayres, l'une des plus modernes du groupe - Les Echos",
+      "resume": "O-I Glass veut fermer sa verrerie de Vayres, l'une des plus modernes du groupe Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjItbUlKU2dnTFNBMzRuWlViNEVjbkZ5OHNEQ3d0UGtySkYxMVNYOGZpc3NJOTRsTDlWVnZMLVpZV1RYYVVRSm52WlVzRkloc0R4RjBnNzZybzc3V1pCRVMwX1NDZEt1WnFXUS00X2daRkg2enJWbDd0ODlnRWI1RXBxQ2Y0UUR1Tk45RUV4WVVaOWZlMnk5dGR6R3FOcEVReW1uemNONVBtQVlZRTZ2U1ZzaWtwelN5M1lxejJPZkVIY090ZURocE91dEhxRDBzTkxTQndn?oc=5",
+      "published_at": "2026-11-19T13:07:50+00:00"
+    },
+    {
       "id": "4fe909148cebf014",
       "source": "ESG Today",
       "categorie": "Réglementation",
-      "titre": "EU Lawmakers, States Agree to 2-Year Delay to Methane Reporting Rules",
-      "resume": "Lawmakers in the European Parliament and EU Member States announced that reached a provisional agreement to […]",
+      "titre": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
+      "resume": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone […]",
       "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
       "published_at": "2026-11-19T13:02:36+00:00"
     },
@@ -113,19 +311,10 @@
       "id": "5c895f125ab0d846",
       "source": "ESG Today",
       "categorie": "Réglementation",
-      "titre": "TNFD Urges ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "titre": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
       "resume": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability […]",
       "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
       "published_at": "2026-11-19T10:45:51+00:00"
-    },
-    {
-      "id": "37b3069247b38e2a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Fleur Breteau et des malades du cancer jettent « les cendres de nos morts » sur le commissaire européen à la santé",
-      "resume": "Jeudi 19 novembre, des victimes du cancer, dont Fleur Breteau, ont déversé des cendres sur Olivér Várhelyi, commissaire européen à la santé, en plein sommet dédié au cancer à Bruxelles. Elles ciblent l'Omnibus X, un texte qui supprimerait l",
-      "url": "https://reporterre.net/Fleur-Breteau-et-des-malades-du-cancer-jettent-les-cendres-de-nos-morts-sur-le-commissaire-europeen-a-la-sante",
-      "published_at": "2026-11-19T10:40:17+00:00"
     },
     {
       "id": "df5a5a60b611992a",
@@ -135,24 +324,6 @@
       "resume": "Air Liquide, TotalEnergies, Engie et Veolia Environnement gardent le cap de la croissance et offrent de la visibilité Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQUIwVEsxN0NxcnlLS2trMk5zWVJkQjllOUZTVTMtUjI3Y294TkNSQVB0ZUUzcmdpQ3hhWURRYks1RUdLbW11YWpYRnBrWWhHTGlJN2duY0E1ODNJaldBeEFJZFJyeGphN1k3TFdpdklnT0w2OU5pOU4tWmJ4aGUzVElsdm9UZ1FQaXFlckVOR25EbkI0Z09wb1A0ejljYmp1Z1FWdHNxeHI4TFNmUUZTNllYRXQ2c0hkYjZ6cVdFaWFocklZcEROcHV6NjV6bVR1aUVRd1ZmZWFtTTFWWmc0NVdlMk12REhFTFdPckdSaVlUODlCYU5LOVdZUEZYNlBtVlowVXRWckhjVU92a2FkamZHVzNrYmc?oc=5",
       "published_at": "2026-11-19T10:30:25+00:00"
-    },
-    {
-      "id": "6886f6fbbaa0d17c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Grippe aviaire : la France relève le risque à son niveau le plus élevé",
-      "resume": "Trois foyers de grippe aviaire ont été confirmés depuis fin octobre dans des basses-cours en Seine-Maritime et dans le Sud-Ouest. Les autorités craignent une propagation aux élevages.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/19/grippe-aviaire-la-france-releve-le-risque-a-son-niveau-le-plus-eleve_6813274_3244.html",
-      "published_at": "2026-11-19T10:25:03+00:00"
-    },
-    {
-      "id": "018d95320503741b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Loi contre le méthane : accord au sein de l’Union européenne pour un report de deux ans de son application",
-      "resume": "La Commission européenne et les Etats européens s’étaient prononcés pour un report d’un an. Mais le Parlement européen préconisait un délai de trois ans, finalement ramené à deux, au terme d’une longue négociation nocturne.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/19/loi-contre-le-methane-accord-au-sein-de-l-union-europeenne-pour-un-report-de-deux-ans-de-son-application_6813272_3244.html",
-      "published_at": "2026-11-19T10:18:57+00:00"
     },
     {
       "id": "e1e3db2c84808e10",
@@ -182,15 +353,6 @@
       "published_at": "2026-11-19T09:30:00+00:00"
     },
     {
-      "id": "561c95c1830dee2c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Avec le jeu GTA 6, une (grosse) occasion manquée de parler d'écologie",
-      "resume": "Après treize ans d'attente, le jeu vidéo GTA 6 est sorti le 19 novembre et est déjà un phénomène mondial. Dans une satire des États-Unis trumpistes, il rate la possibilité d'alerter sur le chaos climatique et social de notre société. Le trè",
-      "url": "https://reporterre.net/GTA-6-un-jeu-video-sans-conscience-ecolo",
-      "published_at": "2026-11-19T08:39:19+00:00"
-    },
-    {
       "id": "6e43ee5b790f8247",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -198,15 +360,6 @@
       "resume": "Procédures trop lentes, données lacunaires, contrôles insuffisants, autorégulation des entreprises… La Cour des comptes européenne estime que le cadre réglementaire européen « n’est pas adapté à la problématique des PFAS ». L’UE doit « s’y ",
       "url": "https://www.contexte.com/fr/article/environnement/larsenal-legislatif-de-lue-est-depasse-par-lampleur-de-la-pollution-par-les-pfas_285423?source=rss",
       "published_at": "2026-11-19T07:00:00+00:00"
-    },
-    {
-      "id": "fee2e5d58787be04",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie-inondation : dans le Pas-de-Calais frappé par les inondations, le plan Orsec pour organiser les secours a été déclenché",
-      "resume": "Deux écoles ont été évacuées jeudi matin dans le Pas-de-Calais, où les inondations touchent une vingtaine de communes. Les pluies doivent se poursuivre jusqu’à vendredi midi. Les départements de la Somme, de la Seine-Maritime et des Landes ",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/19/pluie-inondation-la-somme-le-pas-de-calais-la-seine-maritime-et-les-landes-places-en-vigilance-orange_6813246_3244.html",
-      "published_at": "2026-11-19T06:56:50+00:00"
     },
     {
       "id": "57902a6bb28e0df3",
@@ -218,33 +371,6 @@
       "published_at": "2026-11-19T06:50:09+00:00"
     },
     {
-      "id": "9e075daf3813b55a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Perturbateurs endocriniens : une « menace globale et croissante », selon les Nations unies et l’Organisation mondiale de la santé",
-      "resume": "Le coût des dégâts sanitaires provoqués par les substances chimiques de cette catégorie est d’au moins 1 100 milliards de dollars par an à l’échelle mondiale, estiment les experts des deux organisations internationales.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/19/perturbateurs-endocriniens-une-menace-globale-et-croissante-selon-les-nations-unies-et-l-organisation-mondiale-de-la-sante_6813243_3244.html",
-      "published_at": "2026-11-19T06:30:01+00:00"
-    },
-    {
-      "id": "764f575f969011c3",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Pourquoi ils ne me laissent pas travailler ? » Dans les Alpes, la préfecture fait la guerre aux travailleurs étrangers",
-      "resume": "Dans les Hautes-Alpes, une répression inédite s'abat sur les travailleurs en demande de régularisation et sur leurs employeurs. Les personnes sans-papiers sont plongées dans un enfer administratif, et les petites entreprises trinquent. Gap ",
-      "url": "https://reporterre.net/Sadi-charpentier-ecolo-prive-de-travail-a-cause-de-la-repression-des-sans-papiers",
-      "published_at": "2026-11-19T06:00:00+00:00"
-    },
-    {
-      "id": "e6cf1ba94d4e0222",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du greenwashing de la banque allemande",
-      "resume": "Après l’accord de Paris en 2015, la banque a multiplié les annonces pour réduire son empreinte sur le climat. La fuite de données « Inside Deutsche Bank » montre que le groupe a contourné ou ignoré ses propres promesses à plusieurs reprises",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
-      "published_at": "2026-11-19T05:58:05+00:00"
-    },
-    {
       "id": "d8464b5f56445217",
       "source": "Novethic",
       "categorie": "Presse",
@@ -254,24 +380,6 @@
       "published_at": "2026-11-19T05:45:08+00:00"
     },
     {
-      "id": "3a48ce5967819cf9",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« On est des cocktails de produits chimiques » : des salariés de l'industrie hautement contaminés aux PFAS",
-      "resume": "Dans cette enquête exclusive, Reporterre et France 3 révèlent que les salariés d'Arkema, Daikin et Salindres sont surexposés aux polluants éternels. Le résultat d'une étude inédite menée auprès de 126 travailleurs par des scientifiques indé",
-      "url": "https://reporterre.net/J-ai-beaucoup-de-regrets-j-aurais-du-changer-d-emploi-les-PFAS-omnipresents-dans-le-sang",
-      "published_at": "2026-11-19T05:00:00+00:00"
-    },
-    {
-      "id": "ca39be387cb3f9b0",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Federrec pointe des revenus en recul en 2025, et trois filières en crise",
-      "resume": "En 2025, les recycleurs ont collecté plus de déchets, mais leur chiffre d'affaires a reculé de 2 %. Textiles, bâtiment et plastiques concentrent les difficultés, alors que l'Europe restreint les exportations.",
-      "url": "https://www.actu-environnement.com/ae/news/federrec-bilan-recyclage-2025-filieres-crise-48819.php4#xtor=RSS-6",
-      "published_at": "2026-11-18T18:02:34+00:00"
-    },
-    {
       "id": "35e44b3e6f3db8a4",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -279,78 +387,6 @@
       "resume": "Une partie du « paquet réseau » en négociations au niveau européen est sur le point d’aboutir. Les eurodéputés et le Conseil européen se sont accordés sur les procédures d’autorisation et de raccordement des L’article L’Europe en passe d’ac",
       "url": "https://www.greenunivers.com/2026/11/leurope-en-passe-daccelerer-les-raccordements-aux-reseaux-electriques-439081/",
       "published_at": "2026-11-18T16:52:00+00:00"
-    },
-    {
-      "id": "005ceb355e0ea832",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "La réserve secondaire fait plonger les revenus d’octobre [Observatoire des batteries]",
-      "resume": "Troisième rendez-vous de l’observatoire mensuel de GreenUnivers sur les revenus des batteries en France, réalisé en collaboration avec Aurora Energy Research et Clean Horizon. Les revenus d’une batterie française de deux heures chutent fort",
-      "url": "https://www.greenunivers.com/2026/11/la-reserve-secondaire-fait-plonger-les-revenus-en-octobre-observatoire-des-batteries-438957/",
-      "published_at": "2026-11-18T16:34:03+00:00"
-    },
-    {
-      "id": "88de7fa48e67a507",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le cadre juridique des PFAS est inadapté, selon la Cour des comptes européenne",
-      "resume": "La Cour des comptes européenne a analysé les points d'achoppement du cadre juridique pour protéger des effets des PFAS. Elle appelle à réduire les temps des procédures, améliorer les contrôles et réviser les limites applicables.",
-      "url": "https://www.actu-environnement.com/ae/news/pfas-cour-comptes-europenne-cadre-juridique-eau-aliments-48812.php4#xtor=RSS-6",
-      "published_at": "2026-11-18T16:00:00+00:00"
-    },
-    {
-      "id": "a1d966772f26a77a",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Green Bond Issuance Jumps 29% in Q3 2026: Moody’s",
-      "resume": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by […]",
-      "url": "https://www.esgtoday.com/green-bond-issuance-jumps-29-in-q3-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-jumps-29-in-q3-2026-moodys",
-      "published_at": "2026-11-18T15:35:32+00:00"
-    },
-    {
-      "id": "dfe8cb8a698c7f90",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le Conseil d'État valide le caractère non-régularisable du projet éolien du Mont des Quatre-Faux",
-      "resume": "Par un arrêt du 13 novembre 2026, le Conseil d'État a rejeté la requête de la ministre de la Transition écologique et d'une société éolienne demandant l'annulation d'une décision annulant elle-même les arrêtés autorisant l'exploitation d'éo",
-      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-eolien-mont-quatre-faux-regularisation-48818.php4#xtor=RSS-6",
-      "published_at": "2026-11-18T15:30:27+00:00"
-    },
-    {
-      "id": "827b745941a94e38",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le Conseil d'État dénie l'intérêt à agir d'une association environnementale non agréée et non locale",
-      "resume": "Par une décision du 13 novembre 2026, la Haute juridiction administrative a annulé l'arrêt de la cour administrative d'appel de Lyon du 25 juin 2025 qui avait reconnu un intérêt à agir à l'association Biodiversité sous nos pieds dans un con",
-      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-interet-agir-association-environnementale-48817.php4#xtor=RSS-6",
-      "published_at": "2026-11-18T15:05:12+00:00"
-    },
-    {
-      "id": "0c84498329291be3",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Budget : le Sénat fait un premier pas vers la suppression de la révision du « S21 »",
-      "resume": "Le sénateur Jean-François Husson, rapporteur sur les crédits « énergie », vient de déposer un amendement favorable au maintien des tarifs garantis aux installations photovoltaïques couvertes par l’arrêté tarifaire dit « S21 ». Dans L’articl",
-      "url": "https://www.greenunivers.com/2026/11/budget-le-senat-fait-un-premier-pas-vers-la-suppression-de-la-revision-du-s21-439065/",
-      "published_at": "2026-11-18T14:42:20+00:00"
-    },
-    {
-      "id": "a4f25991115413bc",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est - Les Echos",
-      "resume": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjJmMGt2UXRxUE5maEVrV2w1S0dMa3dfU0lEeHdwMnZhaVgwNGxtbUEyYTZOTTQ1NE1WS0txbDRHemxsWk45Vk5rX0otLWRUSFJaY2IxOC1LTTBrd1NOVkxGMVJIOUNna1pmOTREc3Y1TzFkWlFCeVZqeTBwX2psYXpXbmZOUzZrZUdRQU9nTzBGdkxmMENPaEVRWVJhM28wTXhZSk84cnNQczZwOUxEajNvV1ZfV3RHNVpSM3FHNHlpOVNk?oc=5",
-      "published_at": "2026-11-18T14:20:05+00:00"
-    },
-    {
-      "id": "5667a25004b057bb",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Flexicity (Veolia) veut agréger 600 MW de batteries en 2027",
-      "resume": "De 25 personnes en 2022 à 89 collaborateurs aujourd’hui : l’activité dans la flexibilité de Véolia a bien grandi. L’article Flexicity (Veolia) veut agréger 600 MW de batteries en 2027 est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/11/flexicity-veolia-veut-agreger-600-mw-de-batteries-en-2027-438486/",
-      "published_at": "2026-11-18T14:09:55+00:00"
     },
     {
       "id": "b1321ef3fe3d1819",
@@ -380,15 +416,6 @@
       "published_at": "2026-11-18T12:45:14+00:00"
     },
     {
-      "id": "1dfee6c93290c6b4",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Tesco Asks 400 Key Suppliers to Join Emissions Data Sharing Program",
-      "resume": "UK-based grocery retailer Tesco announced a partnership with climate data platform OpenClimat to launch its […]",
-      "url": "https://www.esgtoday.com/tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program/?utm_source=rss&utm_medium=rss&utm_campaign=tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program",
-      "published_at": "2026-11-18T12:26:54+00:00"
-    },
-    {
       "id": "7bf495859f7a1b8f",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -407,15 +434,6 @@
       "published_at": "2026-11-18T11:10:16+00:00"
     },
     {
-      "id": "d798a209b6abbb70",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "La reprise de la consommation d’électricité reste faible  [RTE]",
-      "resume": "Le plan d’électrification n’aura pas d’effet immédiat. Bien au contraire : après une hausse de la demande électrique de 1% au premier semestre 2026, par rapport à la même période en 2025, la croissance de la demande ralentit selon RTE. « Le",
-      "url": "https://www.greenunivers.com/2026/11/la-reprise-de-la-consommation-delectricite-reste-faible-rte-438926/",
-      "published_at": "2026-11-18T07:30:00+00:00"
-    },
-    {
       "id": "8e613906d7118859",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -432,24 +450,6 @@
       "resume": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the U",
       "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
       "published_at": "2026-11-18T04:25:29+00:00"
-    },
-    {
-      "id": "79227400c1884daf",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
-      "resume": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days A pair of waterspouts were recorded recently in the San Francisco Bay area, much to the delight and shock of several observers,",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
-      "published_at": "2026-11-18T02:33:21+00:00"
-    },
-    {
-      "id": "9efd9f1d440278af",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Appel d’offres « super neutre » : le volume publié par la CRE surprend la filière",
-      "resume": "Dans sa délibération publiée hier sur le cahier des charges du futur appel d’offres « super neutre » pour l’année prochaine, la Commission de régulation de l’énergie fait part d’un volume de 500 MW. Soit proche du point bas de la fourchette",
-      "url": "https://www.greenunivers.com/2026/11/appel-doffres-super-neutre-le-volume-publie-par-la-cre-surprend-la-filiere-438983/",
-      "published_at": "2026-11-17T16:43:22+00:00"
     },
     {
       "id": "caf73bf224f4081e",
