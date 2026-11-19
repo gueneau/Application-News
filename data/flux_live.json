@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-18T23:45:41.206530+00:00",
+  "generated_at": "2026-11-19T05:23:23.484599+00:00",
   "items": [
+    {
+      "id": "9c6c5146a3d860d8",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La crise du détroit d’Ormuz favorise « une étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
+      "resume": "L’Agence internationale de l’énergie publie, jeudi 19 novembre, son rapport annuel. Son directeur exécutif souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le déploiement des renouvelables, du nucléaire e",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
+      "published_at": "2026-11-19T05:00:41+00:00"
+    },
+    {
+      "id": "3a48ce5967819cf9",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« J'ai beaucoup de regrets, j'aurais dû changer d'emploi » : les PFAS omniprésents dans le sang des salariés de l'industrie chimique",
+      "resume": "Dans cette enquête exclusive, Reporterre et France 3 révèlent que les salariés d'Arkema, Daikin et Salindres sont surexposés aux polluants éternels. Le résultat d'une étude inédite menée auprès de 126 travailleurs par des scientifiques indé",
+      "url": "https://reporterre.net/J-ai-beaucoup-de-regrets-j-aurais-du-changer-d-emploi-les-PFAS-omnipresents-dans-le-sang",
+      "published_at": "2026-11-19T05:00:00+00:00"
+    },
+    {
+      "id": "01bad2f2b21d58bc",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
+      "resume": "Les incendies continuent de ravager l'Indonésie. Les émissions de carbone liées aux feux dans l'archipel ont atteint près de 200 millions de tonnes (Mt C) depuis le début de l'année, selon les estimations du service européen Copernicus, pub",
+      "url": "https://reporterre.net/SOUS-EMBARGO-JEUDI-19-NOVEMBRE-4-H-CET-EN-BREF-Indonesie-les-fumees-des-incendies-ont-tue",
+      "published_at": "2026-11-19T03:00:00+00:00"
+    },
+    {
+      "id": "b6c885c29209e284",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Guyane, l’orpaillage illégal atteint un record dans le parc amazonien",
+      "resume": "La hausse des cours de l’or et l’inaction du Suriname voisin dopent l’exploitation dans ce parc national où 239 sites aurifères illégaux ont été dénombrés au mois d’août.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/en-guyane-l-orpaillage-illegal-atteint-un-niveau-jamais-vu-dans-le-parc-amazonien_6813217_3244.html",
+      "published_at": "2026-11-19T02:35:19+00:00"
+    },
     {
       "id": "0cc02c60bb583262",
       "source": "Le Monde Planète",
@@ -8,7 +44,7 @@
       "titre": "Mayotte frappée par une panne d’électricité généralisée à la suite d’un épisode de fortes pluies",
       "resume": "L’opérateur Electricité de Mayotte assure que 98 % des foyers sont réalimentés, et que ses équipes « poursuivent les manœuvres de rétablissement ».",
       "url": "https://www.lemonde.fr/outre-mer/article/2026/11/19/mayotte-frappee-par-une-panne-d-electricite-generalisee-a-la-suite-d-un-episode-de-fortes-pluies_6813212_1840826.html",
-      "published_at": "2026-11-18T23:19:28+00:00"
+      "published_at": "2026-11-18T23:19:26+00:00"
     },
     {
       "id": "7f6b3b0906aa9737",
@@ -110,15 +146,6 @@
       "published_at": "2026-11-18T15:27:28+00:00"
     },
     {
-      "id": "ba92af6e81d24d6c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
-      "resume": "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars. Les organisateurs entendent encadrer ces visites.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
-      "published_at": "2026-11-18T15:05:29+00:00"
-    },
-    {
       "id": "827b745941a94e38",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -135,15 +162,6 @@
       "resume": "La sécheresse historique qui frappe depuis l'été menace l'approvisionnement en eau potable de toute la Bretagne. Dans les Côtes-d'Armor, le pompage d'un lac vient de débuter pour alimenter une grande station de potabilisation. Jugon-les-Lac",
       "url": "https://reporterre.net/La-Bretagne-a-sec-en-novembre-l-eau-d-un-lac-pompee-pour-renflouer-les-robinets",
       "published_at": "2026-11-18T14:54:23+00:00"
-    },
-    {
-      "id": "86349dd01775323c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Faites payer les pollueurs » : à la COP31, les appels à taxer les énergies fossiles pour financer l’action climatique se multiplient",
-      "resume": "Tandis que les ressources financières font cruellement défaut pour lutter contre le réchauffement et s’y adapter, les entreprises pétrogazières engrangent des profits exceptionnels. La création d’une « COP de la fiscalité » pourrait contrib",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/18/faites-payer-les-pollueurs-a-la-cop31-les-appels-a-taxer-les-energies-fossiles-pour-financer-l-action-climatique-se-multiplient_6813147_3244.html",
-      "published_at": "2026-11-18T14:47:47+00:00"
     },
     {
       "id": "c44a5e54c92da49e",
@@ -189,15 +207,6 @@
       "resume": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing industry A few years ago, Tony DiLernia, a New York-based charter boat captain, heard rumor",
       "url": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
       "published_at": "2026-11-18T14:00:04+00:00"
-    },
-    {
-      "id": "e1b04e710f442e1a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Un amendement du RN réautorise la location de passoires thermiques",
-      "resume": "Il sera bientôt de nouveau possible de louer des passoires thermiques. Dans le cadre d'un projet de loi du gouvernement, visant à répondre à la crise du logement, le Rassemblement national ( RN ) a fait adopter un amendement visant à réauto",
-      "url": "https://reporterre.net/Un-amendement-du-RN-reautorise-la-location-de-passoires-thermiques",
-      "published_at": "2026-11-18T13:21:08+00:00"
     },
     {
       "id": "92e23343ea197cbd",
@@ -281,15 +290,6 @@
       "published_at": "2026-11-18T11:10:16+00:00"
     },
     {
-      "id": "2fbf76ac9714296a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
-      "resume": "Arrêté lors de la manifestation du 7 novembre, le militant écologiste Loïc Schneider a l'interdiction de paraître à Nancy jusqu'à son audience prévue le 11 janvier 2027. Il dénonce des mesures liberticides sur fond de répression policière e",
-      "url": "https://reporterre.net/On-veut-le-mettre-hors-circuit-la-repression-s-acharne-sur-Loic-le-poete-maraicher",
-      "published_at": "2026-11-18T08:49:33+00:00"
-    },
-    {
       "id": "66be75e1fda0875e",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -360,6 +360,15 @@
       "resume": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 law The fossil-fuel industry is violating Colorado law by not disclosing which chemicals it uses in drilling, a new analysis by the Fra",
       "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
       "published_at": "2026-11-17T19:12:15+00:00"
+    },
+    {
+      "id": "3589509e3745a047",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Nucléaire : EDF s'apprête à signer un contrat de 14 milliards d'euros avec Bouygues, Eiffage et Vinci pour les EPR2 - Les Echos",
+      "resume": "Nucléaire : EDF s'apprête à signer un contrat de 14 milliards d'euros avec Bouygues, Eiffage et Vinci pour les EPR2 Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeUFhamxaUy1ILVB5d05OVnZvTk9JRUhqNFl0RU9JZlpBMVBkSTFmWDdMZThzYm1ES01OcjFxSUVMeWxTVThKNWtJMzluUDZFRmduT3ljNnNJQmxYcUYzTkVkYXR6dWJDM1djNHZpRHlMVFIxdFQxYXJjZ1paT1c1MGtXbVI1ZU8wUmhpeDNETXp6cFc3Qlk1NWtzZlM1WUhLVEJYdzdadHVoOHBfeVF2WFkzWW45azI1RDdEdkNad2l0ZjU3UDlxQlBJOG5xYzlUMHJ3X2hGaWhEQkpZR3MySGhhTmFsVzNpV2NvWmRkeEZyeFVEUkpuZWJ0dTBiS2RLdXZEeDdlY3RrOVVOV0xZNg?oc=5",
+      "published_at": "2026-11-17T16:47:55+00:00"
     },
     {
       "id": "9efd9f1d440278af",
@@ -486,15 +495,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/former-ia-sans-renoncer-a-la-decarbonation/",
       "published_at": "2026-11-13T09:44:56+00:00"
-    },
-    {
-      "id": "76b4a3a9d9763fd6",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "La RSE est-elle en recul ? « Nous assistons plutôt à la transformation de son rôle » - Les Echos",
-      "resume": "La RSE est-elle en recul ? « Nous assistons plutôt à la transformation de son rôle » Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTjF6aW1YbmJCeDEtQXVHT0ExRzY2dnJwZFFQUkJ5Qmtwc2ZTOG1xMF9maVdLNHRnZEVkRV8xOWt6V2VKVTFNUXQ0WlVkelJaNGU3ejJMajRkcFdRZUFYU0xjTFhXUFp6NU1fb2VqQnBxRm1QSVFJRHRHdko3N0dtN1VaQ3d2blJWLW41TmZpWXF2dnZSaVBsQjZfVG1jeXprY2dITVk5ckNZWlQ5WTlyYlRFeW8wMWJycmNqNW1weHJnanJDZEJUdFJB?oc=5",
-      "published_at": "2026-11-12T12:40:08+00:00"
     },
     {
       "id": "e7e157b9fac6c8dc",
