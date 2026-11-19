@@ -1,59 +1,266 @@
 {
-  "generated_at": "2026-11-19T05:23:23.484599+00:00",
+  "generated_at": "2026-11-19T14:35:54.744364+00:00",
   "items": [
     {
-      "id": "9c6c5146a3d860d8",
+      "id": "46c61154f1737233",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "Trump takes 500 actions to weaken cancer protections, new report says",
+      "resume": "Natural Resources Defense Council shows how federal rules changes will spike up public’s exposure to carcinogens Amid a rise in early onset cancer , the Trump administration has taken more than 500 actions to systematically dismantle protec",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+      "published_at": "2026-11-19T14:15:15+00:00"
+    },
+    {
+      "id": "2ff30abf6cc48540",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "La crise du détroit d’Ormuz favorise « une étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
-      "resume": "L’Agence internationale de l’énergie publie, jeudi 19 novembre, son rapport annuel. Son directeur exécutif souligne, dans un entretien au « Monde », comment la guerre au Moyen-Orient accélère le déploiement des renouvelables, du nucléaire e",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
-      "published_at": "2026-11-19T05:00:41+00:00"
+      "titre": "PFAS : nouvelle étape franchie pour la restriction universelle des « polluants éternels » à l’échelle européenne",
+      "resume": "Les PFAS, ces molécules omniprésentes dans les objets du quotidien (emballages, cosmétiques, ustensiles de cuisine) s’accumulent à travers l’environnement et dans le corps humain, avec des effets délétères sur la santé.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/pfas-l-agence-europeenne-des-produits-chimiques-favorable-a-des-restrictions-des-polluants-eternels-dans-l-union-europeenne_6813311_3244.html",
+      "published_at": "2026-11-19T13:44:48+00:00"
+    },
+    {
+      "id": "61dea4da3824b6f8",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Vélo : la droite supprime une grande piste cyclable à Lyon",
+      "resume": "Pas de doute, la Métropole de Lyon est bien passée à droite. Elle a annoncé le 16 novembre le rétablissement de la circulation à double sens sur une partie de l'avenue Rockefeller, à Lyon, alors qu'une large piste cyclable avait été aménagé",
+      "url": "https://reporterre.net/Velo-la-droite-supprime-une-grande-piste-cyclable-a-Lyon",
+      "published_at": "2026-11-19T13:25:33+00:00"
+    },
+    {
+      "id": "6df79cc0b67f0818",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "La cour administrative d'appel de Toulouse suspend une autorisation de prélèvement d'eau dans une rivière",
+      "resume": "Par une ordonnance du 16 novembre 2026, la cour administrative d'appel de Toulouse a suspendu l'autorisation environnementale portant sur le prélèvement d'eau dans le Touyre, une rivière de l'Ariège, pour l'alimentation du lac de retenue de",
+      "url": "https://www.actu-environnement.com/ae/news/suspension-prelevement-eau-touyre-montbel-48820.php4#xtor=RSS-6",
+      "published_at": "2026-11-19T13:16:10+00:00"
+    },
+    {
+      "id": "4fe909148cebf014",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EU Lawmakers, States Agree to 2-Year Delay to Methane Reporting Rules",
+      "resume": "Lawmakers in the European Parliament and EU Member States announced that reached a provisional agreement to […]",
+      "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
+      "published_at": "2026-11-19T13:02:36+00:00"
+    },
+    {
+      "id": "cd475c910df7af39",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "COP31 : les banques centrales radicalisent leur discours face au risque climatique",
+      "resume": "Les autorités bancaires alertent sur les risques macroéconomiques liés à la dépendance aux énergies fossiles et à la crise climatique - Photo de Greg Webber sur Unsplash L'alerte est lancée, et ce sont cette fois les banques centrales et le",
+      "url": "https://www.novethic.fr/environnement/climat/cop31-risque-macroeconomique-banques-centrales-inflation",
+      "published_at": "2026-11-19T12:45:58+00:00"
+    },
+    {
+      "id": "809112ebb6dc290f",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Chargé(e) d’études bâtiment, aménagement et action climatique territoriale",
+      "resume": "Emploi réservé aux fonctionnaires et lauréats d’un concours territorial Catégorie : A/A+ Vos missions en quelques mots Le/la chargé(e) d’études bâtiment et aménagement et action climatique territoriale est placé(e) sous l’autorité du direct",
+      "url": "https://www.hautconseilclimat.fr/actualites/chargee-detudes-batiment-amenagement-et-action-climatique-territoriale/",
+      "published_at": "2026-11-19T12:40:33+00:00"
+    },
+    {
+      "id": "8a22571cca3f2de2",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "‘It’s a biohazard’: Native communities in US south-west try to recover after flooding intensified by El Niño",
+      "resume": "Residents and local groups band together after severe flooding submerged a New Mexico town in toxic water On the night of 23 October, Jimmie Goodman was trying to get some rest when his sister, who was recovering from back surgery and havin",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/el-nino-flooding-native-communities",
+      "published_at": "2026-11-19T12:30:47+00:00"
+    },
+    {
+      "id": "3ad384baf628b285",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
+      "resume": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des […]",
+      "url": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss&utm_medium=rss&utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
+      "published_at": "2026-11-19T12:21:36+00:00"
+    },
+    {
+      "id": "b857a96c72111fb0",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Pantheon Invests $600 Million in Mirova Energy Transition Portfolio",
+      "resume": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers, and London-based private markets investor Pantheon […]",
+      "url": "https://www.esgtoday.com/pantheon-invests-600-million-in-mirova-energy-transition-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=pantheon-invests-600-million-in-mirova-energy-transition-portfolio",
+      "published_at": "2026-11-19T12:00:46+00:00"
+    },
+    {
+      "id": "dffca8f8c7ae4c86",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Anthropic signe une introduction en Bourse historique malgré des risques ESG élevés",
+      "resume": "Juste avant son introduction en Bourse, Anthropic a relevé le prix de son action. @Igor Omilaev-Unsplash Anthropic aura réussi son pari. L’entreprise américaine qui développe le modèle d’intelligence artificielle Claude a levé une somme rec",
+      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/anthropic-signe-une-introduction-en-bourse-historique-malgre-des-risques-esg-eleves",
+      "published_at": "2026-11-19T11:00:25+00:00"
+    },
+    {
+      "id": "b4b7cc9cd132edc8",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Encore un défilé de jets privés et de milliardaires à la COP31",
+      "resume": "152 jets privés ont atterri à l'aéroport d'Antalya depuis le 7 novembre, avant-veille de l'ouverture de la COP31 en Turquie, d'après une analyse d'Oxfam révélée le 19 novembre. Si tous les passagers de ces vols ne participent pas nécessaire",
+      "url": "https://reporterre.net/COP31-encore-un-defile-de-jets-prives-et-de-milliardaires",
+      "published_at": "2026-11-19T10:57:09+00:00"
+    },
+    {
+      "id": "5c895f125ab0d846",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "TNFD Urges ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "resume": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability […]",
+      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "published_at": "2026-11-19T10:45:51+00:00"
+    },
+    {
+      "id": "37b3069247b38e2a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Fleur Breteau et des malades du cancer jettent « les cendres de nos morts » sur le commissaire européen à la santé",
+      "resume": "Jeudi 19 novembre, des victimes du cancer, dont Fleur Breteau, ont déversé des cendres sur Olivér Várhelyi, commissaire européen à la santé, en plein sommet dédié au cancer à Bruxelles. Elles ciblent l'Omnibus X, un texte qui supprimerait l",
+      "url": "https://reporterre.net/Fleur-Breteau-et-des-malades-du-cancer-jettent-les-cendres-de-nos-morts-sur-le-commissaire-europeen-a-la-sante",
+      "published_at": "2026-11-19T10:40:17+00:00"
+    },
+    {
+      "id": "df5a5a60b611992a",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Air Liquide, TotalEnergies, Engie et Veolia Environnement gardent le cap de la croissance et offrent de la visibilité - Investir Les Echos",
+      "resume": "Air Liquide, TotalEnergies, Engie et Veolia Environnement gardent le cap de la croissance et offrent de la visibilité Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQUIwVEsxN0NxcnlLS2trMk5zWVJkQjllOUZTVTMtUjI3Y294TkNSQVB0ZUUzcmdpQ3hhWURRYks1RUdLbW11YWpYRnBrWWhHTGlJN2duY0E1ODNJaldBeEFJZFJyeGphN1k3TFdpdklnT0w2OU5pOU4tWmJ4aGUzVElsdm9UZ1FQaXFlckVOR25EbkI0Z09wb1A0ejljYmp1Z1FWdHNxeHI4TFNmUUZTNllYRXQ2c0hkYjZ6cVdFaWFocklZcEROcHV6NjV6bVR1aUVRd1ZmZWFtTTFWWmc0NVdlMk12REhFTFdPckdSaVlUODlCYU5LOVdZUEZYNlBtVlowVXRWckhjVU92a2FkamZHVzNrYmc?oc=5",
+      "published_at": "2026-11-19T10:30:25+00:00"
+    },
+    {
+      "id": "6886f6fbbaa0d17c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Grippe aviaire : la France relève le risque à son niveau le plus élevé",
+      "resume": "Trois foyers de grippe aviaire ont été confirmés depuis fin octobre dans des basses-cours en Seine-Maritime et dans le Sud-Ouest. Les autorités craignent une propagation aux élevages.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/grippe-aviaire-la-france-releve-le-risque-a-son-niveau-le-plus-eleve_6813274_3244.html",
+      "published_at": "2026-11-19T10:25:03+00:00"
+    },
+    {
+      "id": "018d95320503741b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Loi contre le méthane : accord au sein de l’Union européenne pour un report de deux ans de son application",
+      "resume": "La Commission européenne et les Etats européens s’étaient prononcés pour un report d’un an. Mais le Parlement européen préconisait un délai de trois ans, finalement ramené à deux, au terme d’une longue négociation nocturne.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/loi-contre-le-methane-accord-au-sein-de-l-union-europeenne-pour-un-report-de-deux-ans-de-son-application_6813272_3244.html",
+      "published_at": "2026-11-19T10:18:57+00:00"
+    },
+    {
+      "id": "e1e3db2c84808e10",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Le règlement méthane de l'UE finalement reporté de deux ans, à 2029",
+      "resume": "Environ un tiers des émissions de méthane du secteur des énergies fossiles pourrait être évité selon l'AIE. @Pixabay Le lobbying pétro-gazier vient de gagner une année de sursis supplémentaire sur l'application du règlement sur le méthane q",
+      "url": "https://www.novethic.fr/environnement/transition-energetique/le-reglement-methane-de-lue-finalement-reporte-de-deux-ans-a-2029",
+      "published_at": "2026-11-19T09:59:38+00:00"
+    },
+    {
+      "id": "cdcd855e7a593ece",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Le Haut conseil pour le climat présente la version grand public de son rapport annuel 2026",
+      "resume": "À travers ce document accessible et pédagogique, le Haut conseil pour le climat met en lumière l’urgence de renforcer l’action climatique pour protéger les personnes, les écosystèmes et l’économie. Alors que la période de mai à octobre 2026",
+      "url": "https://www.hautconseilclimat.fr/actualites/le-haut-conseil-pour-le-climat-presente-la-version-grand-public-de-son-rapport-annuel-2026/",
+      "published_at": "2026-11-19T09:37:07+00:00"
+    },
+    {
+      "id": "d8a07ba19ffa68a1",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Urbanisme et environnement : retour sur l'année 2025-2026",
+      "resume": "Simplification des procédures, sécurisation des projets et exigences environnementales : retour sur les principales évolutions législatives, réglementaires et jurisprudentielles de l'année en droit de l'urbanisme et de l'environnement.",
+      "url": "https://www.actu-environnement.com/ae/news/urbanisme-environnement-bilan-legislatif-jurisprudentiel-2025-2026-48800.php4#xtor=RSS-6",
+      "published_at": "2026-11-19T09:30:00+00:00"
+    },
+    {
+      "id": "561c95c1830dee2c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Avec le jeu GTA 6, une (grosse) occasion manquée de parler d'écologie",
+      "resume": "Après treize ans d'attente, le jeu vidéo GTA 6 est sorti le 19 novembre et est déjà un phénomène mondial. Dans une satire des États-Unis trumpistes, il rate la possibilité d'alerter sur le chaos climatique et social de notre société. Le trè",
+      "url": "https://reporterre.net/GTA-6-un-jeu-video-sans-conscience-ecolo",
+      "published_at": "2026-11-19T08:39:19+00:00"
+    },
+    {
+      "id": "6e43ee5b790f8247",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "L’arsenal législatif de l’UE est dépassé par l’ampleur de la pollution par les PFAS",
+      "resume": "Procédures trop lentes, données lacunaires, contrôles insuffisants, autorégulation des entreprises… La Cour des comptes européenne estime que le cadre réglementaire européen « n’est pas adapté à la problématique des PFAS ». L’UE doit « s’y ",
+      "url": "https://www.contexte.com/fr/article/environnement/larsenal-legislatif-de-lue-est-depasse-par-lampleur-de-la-pollution-par-les-pfas_285423?source=rss",
+      "published_at": "2026-11-19T07:00:00+00:00"
+    },
+    {
+      "id": "fee2e5d58787be04",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie-inondation : dans le Pas-de-Calais frappé par les inondations, le plan Orsec pour organiser les secours a été déclenché",
+      "resume": "Deux écoles ont été évacuées jeudi matin dans le Pas-de-Calais, où les inondations touchent une vingtaine de communes. Les pluies doivent se poursuivre jusqu’à vendredi midi. Les départements de la Somme, de la Seine-Maritime et des Landes ",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/pluie-inondation-la-somme-le-pas-de-calais-la-seine-maritime-et-les-landes-places-en-vigilance-orange_6813246_3244.html",
+      "published_at": "2026-11-19T06:56:50+00:00"
+    },
+    {
+      "id": "57902a6bb28e0df3",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
+      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
+      "published_at": "2026-11-19T06:50:09+00:00"
+    },
+    {
+      "id": "9e075daf3813b55a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Perturbateurs endocriniens : une « menace globale et croissante », selon les Nations unies et l’Organisation mondiale de la santé",
+      "resume": "Le coût des dégâts sanitaires provoqués par les substances chimiques de cette catégorie est d’au moins 1 100 milliards de dollars par an à l’échelle mondiale, estiment les experts des deux organisations internationales.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/perturbateurs-endocriniens-une-menace-globale-et-croissante-selon-les-nations-unies-et-l-organisation-mondiale-de-la-sante_6813243_3244.html",
+      "published_at": "2026-11-19T06:30:01+00:00"
+    },
+    {
+      "id": "764f575f969011c3",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Pourquoi ils ne me laissent pas travailler ? » Dans les Alpes, la préfecture fait la guerre aux travailleurs étrangers",
+      "resume": "Dans les Hautes-Alpes, une répression inédite s'abat sur les travailleurs en demande de régularisation et sur leurs employeurs. Les personnes sans-papiers sont plongées dans un enfer administratif, et les petites entreprises trinquent. Gap ",
+      "url": "https://reporterre.net/Sadi-charpentier-ecolo-prive-de-travail-a-cause-de-la-repression-des-sans-papiers",
+      "published_at": "2026-11-19T06:00:00+00:00"
+    },
+    {
+      "id": "e6cf1ba94d4e0222",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du greenwashing de la banque allemande",
+      "resume": "Après l’accord de Paris en 2015, la banque a multiplié les annonces pour réduire son empreinte sur le climat. La fuite de données « Inside Deutsche Bank » montre que le groupe a contourné ou ignoré ses propres promesses à plusieurs reprises",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
+      "published_at": "2026-11-19T05:58:05+00:00"
+    },
+    {
+      "id": "d8464b5f56445217",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Conditionner les aides publiques aux entreprises à leur durabilité, l'idée s'impose dans le débat",
+      "resume": "Le débat sur la conditionnalité des aides publiques aux entreprises se renforce - Photo de Romain Dancre sur Unsplash Et si les aides publiques, subventions et crédits d'impôts aux entreprises étaient accordés préférentiellement à celles qu",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/conditionner-aides-publiques-entreprise-debat-renforce",
+      "published_at": "2026-11-19T05:45:08+00:00"
     },
     {
       "id": "3a48ce5967819cf9",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« J'ai beaucoup de regrets, j'aurais dû changer d'emploi » : les PFAS omniprésents dans le sang des salariés de l'industrie chimique",
+      "titre": "« On est des cocktails de produits chimiques » : des salariés de l'industrie hautement contaminés aux PFAS",
       "resume": "Dans cette enquête exclusive, Reporterre et France 3 révèlent que les salariés d'Arkema, Daikin et Salindres sont surexposés aux polluants éternels. Le résultat d'une étude inédite menée auprès de 126 travailleurs par des scientifiques indé",
       "url": "https://reporterre.net/J-ai-beaucoup-de-regrets-j-aurais-du-changer-d-emploi-les-PFAS-omnipresents-dans-le-sang",
       "published_at": "2026-11-19T05:00:00+00:00"
-    },
-    {
-      "id": "01bad2f2b21d58bc",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
-      "resume": "Les incendies continuent de ravager l'Indonésie. Les émissions de carbone liées aux feux dans l'archipel ont atteint près de 200 millions de tonnes (Mt C) depuis le début de l'année, selon les estimations du service européen Copernicus, pub",
-      "url": "https://reporterre.net/SOUS-EMBARGO-JEUDI-19-NOVEMBRE-4-H-CET-EN-BREF-Indonesie-les-fumees-des-incendies-ont-tue",
-      "published_at": "2026-11-19T03:00:00+00:00"
-    },
-    {
-      "id": "b6c885c29209e284",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Guyane, l’orpaillage illégal atteint un record dans le parc amazonien",
-      "resume": "La hausse des cours de l’or et l’inaction du Suriname voisin dopent l’exploitation dans ce parc national où 239 sites aurifères illégaux ont été dénombrés au mois d’août.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/19/en-guyane-l-orpaillage-illegal-atteint-un-niveau-jamais-vu-dans-le-parc-amazonien_6813217_3244.html",
-      "published_at": "2026-11-19T02:35:19+00:00"
-    },
-    {
-      "id": "0cc02c60bb583262",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Mayotte frappée par une panne d’électricité généralisée à la suite d’un épisode de fortes pluies",
-      "resume": "L’opérateur Electricité de Mayotte assure que 98 % des foyers sont réalimentés, et que ses équipes « poursuivent les manœuvres de rétablissement ».",
-      "url": "https://www.lemonde.fr/outre-mer/article/2026/11/19/mayotte-frappee-par-une-panne-d-electricite-generalisee-a-la-suite-d-un-episode-de-fortes-pluies_6813212_1840826.html",
-      "published_at": "2026-11-18T23:19:26+00:00"
-    },
-    {
-      "id": "7f6b3b0906aa9737",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A Montpellier, des doctorants font reculer l’université sur une convention signée avec TotalEnergies",
-      "resume": "Signé en juin, après un premier vote, le partenariat entre le géant pétrolier et l’université était contesté par un collectif de jeunes chercheurs et étudiants. Mercredi 18 novembre, lors d’un second vote du conseil de la faculté des scienc",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/18/a-montpellier-des-doctorants-font-reculer-l-universite-sur-une-convention-signee-avec-totalenergies_6813190_3244.html",
-      "published_at": "2026-11-18T18:30:04+00:00"
     },
     {
       "id": "ca39be387cb3f9b0",
@@ -83,15 +290,6 @@
       "published_at": "2026-11-18T16:34:03+00:00"
     },
     {
-      "id": "014aaf634d721937",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "PFAS : la Cour des comptes européenne exhorte les Vingt-Sept à « agir vite pour désamorcer cette bombe à retardement »",
-      "resume": "Dans un rapport publié mercredi, l’institution invite l’Union européenne à réviser les teneurs maximales en polluants éternels dans l’eau et les aliments, ainsi que le cadre juridique qu’elle juge « insuffisants » et « inadaptés » pour prot",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/18/pfas-la-cour-des-comptes-europeenne-exhorte-les-vingt-sept-a-agir-vite-pour-desamorcer-cette-bombe-a-retardement_6813164_3244.html",
-      "published_at": "2026-11-18T16:00:17+00:00"
-    },
-    {
       "id": "88de7fa48e67a507",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -99,15 +297,6 @@
       "resume": "La Cour des comptes européenne a analysé les points d'achoppement du cadre juridique pour protéger des effets des PFAS. Elle appelle à réduire les temps des procédures, améliorer les contrôles et réviser les limites applicables.",
       "url": "https://www.actu-environnement.com/ae/news/pfas-cour-comptes-europenne-cadre-juridique-eau-aliments-48812.php4#xtor=RSS-6",
       "published_at": "2026-11-18T16:00:00+00:00"
-    },
-    {
-      "id": "79d764ae4888e68a",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Il faut démanteler les navires-usines » : notre débat sur l'océan avec Claire Nouvian, Baptiste Morizot et Guillaume Pitron",
-      "resume": "Alors que l'océan devient un nouvel enjeu stratégique, quelles sont les conséquences de cette course vers le large ? Pour y répondre, Reporterre et la revue Terrestres organisaient, le 5 novembre, un débat à retrouver en vidéo. Pensez à la ",
-      "url": "https://reporterre.net/Il-faut-demanteler-les-navires-usines-notre-debat-sur-l-ocean-avec-Claire-Nouvian",
-      "published_at": "2026-11-18T15:44:26+00:00"
     },
     {
       "id": "a1d966772f26a77a",
@@ -128,24 +317,6 @@
       "published_at": "2026-11-18T15:30:27+00:00"
     },
     {
-      "id": "e642de2ada87b3bc",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Nucléaire : la Cour des comptes alerte sur le coût des EPR2",
-      "resume": "Le financement des six futurs réacteurs nucléaires EPR2 pourrait peser lourdement sur les finances publiques, et c'est la Cour des comptes qui le dit. Dans une note publiée le 16 novembre, les magistrats de la rue Cambon alertent sur la fra",
-      "url": "https://reporterre.net/Nucleaire-la-Cour-des-comptes-alerte-sur-le-cout-des-EPR2",
-      "published_at": "2026-11-18T15:29:37+00:00"
-    },
-    {
-      "id": "b3fd78288fce9352",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Présidentielle 2027 : les Jeunes Agriculteurs publient un « manifeste » détaillant leurs propositions à destination des candidats à l’élection",
-      "resume": "Le syndicat agricole insiste notamment sur la transmission alors que la moitié des agriculteurs recensés en 2020 aura atteint l’âge de la retraite d’ici à 2030. Il propose notamment de consacrer « 10 % du budget de la PAC », la politique ag",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-detaillant-leurs-propositions-a-destination-des-candidats-a-l-election_6813152_823448.html",
-      "published_at": "2026-11-18T15:27:28+00:00"
-    },
-    {
       "id": "827b745941a94e38",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -153,24 +324,6 @@
       "resume": "Par une décision du 13 novembre 2026, la Haute juridiction administrative a annulé l'arrêt de la cour administrative d'appel de Lyon du 25 juin 2025 qui avait reconnu un intérêt à agir à l'association Biodiversité sous nos pieds dans un con",
       "url": "https://www.actu-environnement.com/ae/news/conseil-etat-interet-agir-association-environnementale-48817.php4#xtor=RSS-6",
       "published_at": "2026-11-18T15:05:12+00:00"
-    },
-    {
-      "id": "c963ba476ffaf755",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "La Bretagne à sec en novembre, l'eau d'un lac pompée pour renflouer les robinets",
-      "resume": "La sécheresse historique qui frappe depuis l'été menace l'approvisionnement en eau potable de toute la Bretagne. Dans les Côtes-d'Armor, le pompage d'un lac vient de débuter pour alimenter une grande station de potabilisation. Jugon-les-Lac",
-      "url": "https://reporterre.net/La-Bretagne-a-sec-en-novembre-l-eau-d-un-lac-pompee-pour-renflouer-les-robinets",
-      "published_at": "2026-11-18T14:54:23+00:00"
-    },
-    {
-      "id": "c44a5e54c92da49e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« C'est pas la faute de Total » : quand la France fait l'autruche face aux grands pollueurs",
-      "resume": "Alors que Macron se vante d'avoir fait de la France une « championne du climat », l'État refuse de faire payer les grands pollueurs et de mettre davantage d'argent sur la table pour financer la transition écologique. Antalya (Turquie), envo",
-      "url": "https://reporterre.net/C-est-pas-la-faute-de-Total-la-France-face-a-ses-contradictions-a-la-COP31",
-      "published_at": "2026-11-18T14:45:16+00:00"
     },
     {
       "id": "0c84498329291be3",
@@ -236,42 +389,6 @@
       "published_at": "2026-11-18T12:26:54+00:00"
     },
     {
-      "id": "1f32f3d31be79dd2",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EQT to Acquire U.S. Battery Storage Developer Flatiron",
-      "resume": "Private equity and venture capital investor EQT Group announced that it has entered into a […]",
-      "url": "https://www.esgtoday.com/eqt-to-acquire-u-s-battery-storage-developer-flatiron/?utm_source=rss&utm_medium=rss&utm_campaign=eqt-to-acquire-u-s-battery-storage-developer-flatiron",
-      "published_at": "2026-11-18T12:15:48+00:00"
-    },
-    {
-      "id": "2fbc417259fe5f5b",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "When Climate Regulation Becomes a Barrier to Climate Action",
-      "resume": "Guest post by: Eyal Harel, CEO, BlueGreen Water Technologies The Paris Agreement was conceived as […]",
-      "url": "https://www.esgtoday.com/when-climate-regulation-becomes-a-barrier-to-climate-action/?utm_source=rss&utm_medium=rss&utm_campaign=when-climate-regulation-becomes-a-barrier-to-climate-action",
-      "published_at": "2026-11-18T12:01:59+00:00"
-    },
-    {
-      "id": "8363746e50da31b3",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "L'Assemblée nationale supprime l'interdiction de louer les passoires thermiques",
-      "resume": "L'Assemblée nationale a adopté, après un vote serré, un amendement du Rassemblement national supprimant l'interdiction progressive de louer les logements passoires thermiques, suscitant notamment la colère des associations et des élus écolo",
-      "url": "https://www.actu-environnement.com/ae/news/suppression-interdiction-location-passoires-thermiques-assemblee-projet-loi-relance-logement-48816.php4#xtor=RSS-6",
-      "published_at": "2026-11-18T11:57:58+00:00"
-    },
-    {
-      "id": "bf29d2667eee4ed1",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "L'absence de régularisation par le préfet ne permet pas au juge de le faire lui-même",
-      "resume": "Il n'appartenait plus au juge, après la mise en oeuvre de l'article L. 181-18 du code de l'environnement et en l'absence de régularisation par l'autorité compétente, de régulariser lui-même l'autorisation au titre de ses pouvoirs de plein c",
-      "url": "https://www.actu-environnement.com/ae/news/regularisation-autorisation-juge-prefet-eolien-48815.php4#xtor=RSS-6",
-      "published_at": "2026-11-18T11:34:45+00:00"
-    },
-    {
       "id": "7bf495859f7a1b8f",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -288,24 +405,6 @@
       "resume": "Les dirigeants des grands groupes cotés sont payés en moyenne 91 fois plus que leurs salariés, selon Proxinvest. @iStock \"On atteint les plus hauts niveaux historiques\", s’exclame Jehanne Leroy, directrice de la recherche de Proxinvest, la ",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/cac-40-les-remunerations-des-dirigeants-senvolent-jusqua-91-fois-le-salaire-moyen",
       "published_at": "2026-11-18T11:10:16+00:00"
-    },
-    {
-      "id": "66be75e1fda0875e",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Macquarie, Revera Team Up to Build Battery Storage Portfolio in UK",
-      "resume": "Carlyle-backed energy infrastructure company Revera Energy announced the launch of a strategic joint venture with […]",
-      "url": "https://www.esgtoday.com/macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy/?utm_source=rss&utm_medium=rss&utm_campaign=macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy",
-      "published_at": "2026-11-18T08:25:58+00:00"
-    },
-    {
-      "id": "ee4ac2ae789a4745",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EU Greenlights $10 Billion Dutch Offshore Wind Energy Scheme",
-      "resume": "The European Commission announced today that it has approved a €9.5 billion (USD$10.4 billion) state […]",
-      "url": "https://www.esgtoday.com/eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme",
-      "published_at": "2026-11-18T08:22:22+00:00"
     },
     {
       "id": "d798a209b6abbb70",
@@ -326,15 +425,6 @@
       "published_at": "2026-11-18T06:30:37+00:00"
     },
     {
-      "id": "2dfb7ae074eb9fae",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Energies renouvelables : la politique du \"stop and go\" plonge les professionnels au bord de la crise de nerfs",
-      "resume": "Le gouvernement vient de suspendre le fonds chaleur, créé en 2009 et opéré par l'Ademe. @Pexels Wolfgang Weiser. La plus grande usine d'hydrogène vert, produit à partir de trois éoliennes flottantes, vient d’être inaugurée dans l'Aude à Por",
-      "url": "https://www.novethic.fr/environnement/transition-energetique/energies-renouvelables-la-politique-du-stop-and-go-plonge-les-professionnels-au-bord-de-la-crise-de-nerfs",
-      "published_at": "2026-11-18T05:45:58+00:00"
-    },
-    {
       "id": "54bf4638ffefab12",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -351,24 +441,6 @@
       "resume": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days A pair of waterspouts were recorded recently in the San Francisco Bay area, much to the delight and shock of several observers,",
       "url": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
       "published_at": "2026-11-18T02:33:21+00:00"
-    },
-    {
-      "id": "c1a4ddb1fab0a6ac",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
-      "resume": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 law The fossil-fuel industry is violating Colorado law by not disclosing which chemicals it uses in drilling, a new analysis by the Fra",
-      "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
-      "published_at": "2026-11-17T19:12:15+00:00"
-    },
-    {
-      "id": "3589509e3745a047",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Nucléaire : EDF s'apprête à signer un contrat de 14 milliards d'euros avec Bouygues, Eiffage et Vinci pour les EPR2 - Les Echos",
-      "resume": "Nucléaire : EDF s'apprête à signer un contrat de 14 milliards d'euros avec Bouygues, Eiffage et Vinci pour les EPR2 Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeUFhamxaUy1ILVB5d05OVnZvTk9JRUhqNFl0RU9JZlpBMVBkSTFmWDdMZThzYm1ES01OcjFxSUVMeWxTVThKNWtJMzluUDZFRmduT3ljNnNJQmxYcUYzTkVkYXR6dWJDM1djNHZpRHlMVFIxdFQxYXJjZ1paT1c1MGtXbVI1ZU8wUmhpeDNETXp6cFc3Qlk1NWtzZlM1WUhLVEJYdzdadHVoOHBfeVF2WFkzWW45azI1RDdEdkNad2l0ZjU3UDlxQlBJOG5xYzlUMHJ3X2hGaWhEQkpZR3MySGhhTmFsVzNpV2NvWmRkeEZyeFVEUkpuZWJ0dTBiS2RLdXZEeDdlY3RrOVVOV0xZNg?oc=5",
-      "published_at": "2026-11-17T16:47:55+00:00"
     },
     {
       "id": "9efd9f1d440278af",
@@ -389,40 +461,13 @@
       "published_at": "2026-11-17T14:55:58+00:00"
     },
     {
-      "id": "bfb935f9c9574abf",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "ExxonMobil attaque l’UE pour échapper à ses obligations sur le CO2",
-      "resume": "La loi sur l'industrie zéro émission nette (NZIA) oblige les principaux producteurs de pétrole et de gaz de l'UE à déployer une capacité d'injection de CO₂ de 50 millions de tonnes par an d' ici 2030. @Drax Power ExxonMobil poursuit sa bata",
-      "url": "https://www.novethic.fr/environnement/transition-energetique/exxonmobil-attaque-lue-pour-echapper-a-ses-obligations-sur-le-co2",
-      "published_at": "2026-11-17T13:12:30+00:00"
-    },
-    {
-      "id": "e840138543310da8",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Thomas Derichebourg : « La nouvelle génération arrive avec un état d'esprit neuf, plus en phase avec l'air du temps - Les Echos",
-      "resume": "Thomas Derichebourg : « La nouvelle génération arrive avec un état d'esprit neuf, plus en phase avec l'air du temps Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQTg5aEtKRkt5RTJmQUdtV0VobTlFYThCMmhINHZ6cm9wOGxPMTU5M3g4Qlk3MGgxUUFhbS1NSm5Lb2JoenI5VjVQOFZwcURuaXZ1UlJEenVsSXo2SWpQOW5YM0ZzM1JjZU5WWTF6VHE3cHU0VFd1SmhQWURZbFk5Y2U2LVJvaTlOMS0xYVQ0ZGVXaHA5QmNlNU83T05WQlh0a0trbDZRZG9mYnFmeVRnaUNxREt5c3BHUlE0QU9SWXNwWjR2THVEVUx3MVRQVjNTN0tKZUhSRGRCNHZPYW41bkVYSC1oRlFzR2Y4bWtwNE80WTNOMUJmRXFzMDE?oc=5",
-      "published_at": "2026-11-17T13:00:59+00:00"
-    },
-    {
-      "id": "06a287f9f3e27576",
-      "source": "The Guardian Environment",
+      "id": "3855d8790c0967e0",
+      "source": "France Stratégie",
       "categorie": "Climat",
-      "titre": "These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives",
-      "resume": "Landfill owner’s data show lithium above groundwater standards near the drinking water source for millions Down winding roads and past quiet homesteads, all that can be heard in the otherwise bucolic air of rural Clermont county, Ohio , is ",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
-      "published_at": "2026-11-17T13:00:48+00:00"
-    },
-    {
-      "id": "9ca196e6e55f2a80",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Face au risque climatique, la Maif crée sa propre filiale de réassurance",
-      "resume": "Avec Maif réassurance, la mutuelle veut mieux piloter les risques climatiques. @Sameer Al Doumy/AFP La Maif veut devenir son propre assureur. La société d’assurance mutualiste a décidé de créer sa propre filiale de réassurance afin de sécur",
-      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/face-au-risque-climatique-la-maif-cree-sa-propre-filiale-de-reassurance",
-      "published_at": "2026-11-17T11:14:26+00:00"
+      "titre": "Chargé(e) de mission et de la communication pour le Conseil d’orientation des retraites",
+      "resume": "Chargé(e) de mission et de la communication pour le Conseil d’orientation des retraites Le Conseil d'orientation des retraites recrute un(e) chargé(e) de mission et de la communication à compter du 1er février 2027. sylvie.paupardin mar 17/",
+      "url": "https://www.strategie-plan.gouv.fr/offres-demploi/chargee-de-mission-et-de-la-communication-pour-le-conseil-dorientation-des-retraites",
+      "published_at": "2026-11-17T11:58:33+00:00"
     },
     {
       "id": "40865df859398de2",
@@ -452,15 +497,6 @@
       "published_at": "2026-11-17T07:00:00+00:00"
     },
     {
-      "id": "5805932c88c9d355",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Obsolescence programmée : Apple devant la justice pour entrave à la réparation, une première",
-      "resume": "Apple, poursuivi en justice pour entraves à la réparabilité - Photo de Amanz sur Unsplash C'est une décision historique pour le droit à la réparation : le parquet de Paris a décidé de poursuivre le géant américain Apple devant le tribunal c",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/apple-proces-obsolescence-programmee-entrave-reparabilite",
-      "published_at": "2026-11-17T05:45:40+00:00"
-    },
-    {
       "id": "a3abe682d79e9ed3",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -477,6 +513,15 @@
       "resume": "Une version préliminaire de l'accord du sommet sur le climat a été publiée lundi.",
       "url": "https://www.politico.eu/article/un-brouillon-de-la-cop31-preconise-une-sortie-immediate-des-energies-fossiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-16T14:57:01+00:00"
+    },
+    {
+      "id": "ea7f93babac9503d",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Focus Finances publiques | À politiques inchangées, comment évolueraient les dépenses et les recettes des administrations publiques ?",
+      "resume": "Focus Finances publiques | À politiques inchangées, comment évolueraient les dépenses et les recettes des administrations publiques ? La situation des finances publiques françaises occupe une place grandissante dans le débat économique et p",
+      "url": "https://www.strategie-plan.gouv.fr/focus-finances-publiques-politiques-inchangees-comment-evolueraient-les-depenses-et-les-recettes",
+      "published_at": "2026-11-16T09:13:22+00:00"
     },
     {
       "id": "d68fc1c9aec85177",
@@ -513,6 +558,15 @@
       "resume": "Selon trois diplomates, le bloc serait parvenu à un consensus pour soutenir l'engagement phare du sommet.",
       "url": "https://www.politico.eu/article/cop31-lue-soutiendra-lobjectif-delectrification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-10T10:21:37+00:00"
+    },
+    {
+      "id": "632cb0f01f588787",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Remise du Prix Jean Monnet pour la Jeunesse du Haut-commissariat à la Stratégie et au Plan",
+      "resume": "Remise du Prix Jean Monnet pour la Jeunesse du Haut-commissariat à la Stratégie et au Plan Clément Beaune, Haut-commissaire à la Stratégie et au Plan et Garance Pineau ancienne conseillère Europe du Président de la République et ancienne Di",
+      "url": "https://www.strategie-plan.gouv.fr/actualites/remise-du-prix-jean-monnet-pour-la-jeunesse-du-haut-commissariat-la-strategie-et-au-plan",
+      "published_at": "2026-11-10T09:00:21+00:00"
     },
     {
       "id": "e62bfc0b25d56e87",
@@ -576,15 +630,6 @@
       "resume": "Après l'été caniculaire de 2026, le Premier ministre a commandé à un Plan d'accélération de l'adaptation de la France au changement climatique, remis fin septembre. Et depuis ? Silence radio. L’article Adaptation au changement climatique : ",
       "url": "https://www.i4ce.org/adaptation-changement-climatique-silence-matignon/",
       "published_at": "2026-10-29T16:52:20+00:00"
-    },
-    {
-      "id": "b834fe38d4c88839",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Comment la Commission entend adapter l’Europe à un réchauffement de 3 °C d’ici à 2100",
-      "resume": "La toute première loi européenne sur l’adaptation au changement climatique a été présentée le 27 octobre à Bruxelles. L’exécutif espère impulser un « changement systémique » à tous les niveaux d’action et de prise de décision pour « mieux p",
-      "url": "https://www.contexte.com/fr/article/environnement/comment-la-commission-entend-adapter-leurope-a-un-rechauffement-de-3-c-dici-a-2100_282976?source=rss",
-      "published_at": "2026-10-28T07:00:00+00:00"
     },
     {
       "id": "93decf4d397bd214",
@@ -659,6 +704,15 @@
       "published_at": "2026-10-14T07:27:21+00:00"
     },
     {
+      "id": "677c3834c04eaf26",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
+      "resume": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 » Le Haut-commissariat à la Stratégie et au Plan organise une conférence pour découvrir en avant-première les conclusions du chapitre « Modes et lieux",
+      "url": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
+      "published_at": "2026-10-07T13:03:27+00:00"
+    },
+    {
       "id": "e08f4587b21f7778",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -666,60 +720,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
       "published_at": "2026-10-06T10:23:17+00:00"
-    },
-    {
-      "id": "ffe69a13e487f674",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Saisine du Haut conseil pour le climat sur la place des faits et de la parole scientifique dans le débat public",
-      "resume": "Le Haut conseil pour le climat a été saisi par le Premier ministre pour rendre un avis sur la place des faits scientifiques relatifs au changement climatique et de la parole des scientifiques dans le débat public et dans les médias. Cet avi",
-      "url": "https://www.hautconseilclimat.fr/actualites/saisine-du-haut-conseil-pour-le-climat-sur-la-place-des-faits-et-de-la-parole-scientifique-dans-le-debat-public/",
-      "published_at": "2026-09-22T14:23:17+00:00"
-    },
-    {
-      "id": "ab31b0d4d313ca82",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "Retours sur l’Assemblée Générale de la FEP 2026",
-      "resume": "Le 4 juin dernier, l’Assemblée Générale de la FEP était organisée par le SPENRA à Lyon. Près de 200 chefs d’entreprises et représentants ont participé à cet évènement convivial et riche d’informations. Vincent Fischer, Président du SPENRA e",
-      "url": "https://www.federation-proprete.com/retours-ag-de-la-fep-2026/",
-      "published_at": "2026-07-20T10:36:40+00:00"
-    },
-    {
-      "id": "5966e35906e93c5d",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Dangers climatiques : la France face à ses responsabilités – 8ème rapport annuel du HCC",
-      "resume": "Des chocs d’une ampleur inédite En 2025, le niveau de réchauffement planétaire dû aux activités humaines atteint 1,4°C. Il se poursuit à un rythme record et l’Europe est le continent qui se réchauffe le plus vite. Les impacts du changement ",
-      "url": "https://www.hautconseilclimat.fr/actualites/dangers-climatiques-la-france-face-a-ses-responsabilites-8eme-rapport-annuel-du-hcc/",
-      "published_at": "2026-07-09T05:00:32+00:00"
-    },
-    {
-      "id": "2da2b921127fe578",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Nomination de Benjamin Konnert en tant que Directeur Adjoint du Haut conseil pour le climat",
-      "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
-      "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "cd7d08d9a9e2aec2",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Publication de deux notes rédigées par Marta Torre Schaub à l’attention du Haut conseil pour le climat",
-      "resume": "Marta Torre Schaub, juriste, spécialiste de l’environnement et du changement climatique et directrice de recherche au CNRS, a rédigé deux notes à l’attention du Haut conseil pour le climat (HCC) dans le cadre d’une mission d’expertise visan",
-      "url": "https://www.hautconseilclimat.fr/actualites/publication-de-deux-notes-redigees-par-marta-torre-schaub-a-lattention-du-haut-conseil-pour-le-climat/",
-      "published_at": "2026-06-04T10:01:00+00:00"
-    },
-    {
-      "id": "fa7227a2bec78f26",
-      "source": "Haut Conseil pour le Climat",
-      "categorie": "Climat",
-      "titre": "Contribution du Haut conseil pour le climat dans le cadre de l’organisation des États généraux de la bioéthique 2026",
-      "resume": "Le Haut conseil pour le climat a été auditionné par le comité Consultatif National d’Ethique pour les sciences de la vie et de la santé (CCNE) le 9 avril 2026. Le HCC partage aujourd’hui sa contribution, transmise au CCNE, dans le cadre de ",
-      "url": "https://www.hautconseilclimat.fr/actualites/contribution-du-haut-conseil-pour-le-climat-dans-le-cadre-de-lorganisation-des-etats-generaux-de-la-bioethique-2026/",
-      "published_at": "2026-04-16T12:28:44+00:00"
     }
   ]
 }
