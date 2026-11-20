@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-11-20T03:49:23.355279+00:00",
+  "generated_at": "2026-11-20T12:23:26.074117+00:00",
   "items": [
+    {
+      "id": "6eae2f0d62da544d",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Cargo échoué sur le littoral des Landes : le remorquage du bateau, pour éviter qu’il ne chavire, s’annonce compliqué en raison de la météo",
+      "resume": "« La coque touche le fond. Le but des opérations maintenant est de réfléchir à un déséchouement de ce bateau, c’est-à-dire à le tirer vers le large (…) afin d’éviter qu’il ne bascule », a expliqué le porte-parole de la préfecture maritime d",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/20/cargo-echoue-sur-le-littoral-des-landes-le-remorquage-du-bateau-pour-eviter-qu-il-ne-chavire-s-annonce-complique-en-raison-de-la-meteo_6813591_3225.html",
+      "published_at": "2026-11-20T12:14:07+00:00"
+    },
+    {
+      "id": "f23e9698f515c70a",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Verre, chimie, métallurgie : l'industrie se bat pour ne pas payer deux fois la taxe carbone - Les Echos",
+      "resume": "Verre, chimie, métallurgie : l'industrie se bat pour ne pas payer deux fois la taxe carbone Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZklEZ20tNTJuaEtRZkdRdnRBbnFNYWxoQUdBOW9fcEF2bjR4VEIybjUya09nT0V6Y1NPd1E2YW9YcUZsVEg5Q3RLRXh0dTgta1dsWm5IdmlfMENxVDZLb294c21MQnpncGd2TWFXMWM3b0Y1ZlpuU1pUcUNnUVMyUVJIY1ZhclY3LW9uZVlwNzdTNnpVOWZjWkhlaTV3eVlRQjdPanBfQi1LS3JuNXhRSUtFX21yWDY0NEdzWWhJZ24tSEwtak82TThPQThGTnRzUnJUdHZjZE04YWhyWFhLVVdoNGFwbzg2WXc?oc=5",
+      "published_at": "2026-11-20T11:31:02+00:00"
+    },
+    {
+      "id": "f0d24fde4ac17a7d",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "SFDR 2.0 : l'accord en trilogue ouvre la porte aux énergies fossiles dans les fonds de transition",
+      "resume": "La révision de la réglementation européenne SFDR inclut les énergies fossiles dans sa catégorie \"transition\". Crédit : Commission européenne Après plusieurs mois de négociations, les institutions européennes sont parvenues à un accord sur l",
+      "url": "https://www.novethic.fr/finance-durable/reglementation/sfdr-accord-trilogue-sans-exclusion-energies-fossiles",
+      "published_at": "2026-11-20T11:21:54+00:00"
+    },
+    {
+      "id": "d57538bb3ef3913f",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria]",
+      "resume": "Si la file d’attente pour raccorder des puissantes batteries directement au réseau de RTE (HTB) donne le vertige, avec L’article L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria] est apparu en premier sur ",
+      "url": "https://www.greenunivers.com/2026/11/lavenir-du-stockage-francais-se-jouera-sur-le-reseau-de-distribution-solmeria-439286/",
+      "published_at": "2026-11-20T11:02:27+00:00"
+    },
+    {
+      "id": "2c38e4c453ee6b06",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie-inondation : dans le Pas-de-Calais, toujours placé en vigilance orange, des routes et des maisons inondées",
+      "resume": "Il est tombé jusqu’à plus de 100 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoit la fin des pluies significatives en début d’après-midi, vendredi.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-toujours-place-en-vigilance-orange-des-routes-et-maisons-sous-les-eaux_6813624_3244.html",
+      "published_at": "2026-11-20T10:42:59+00:00"
+    },
+    {
+      "id": "ef0b2ecc6b2a0a2a",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Territoires d’électrification : comment s’organise la région  Auvergne-Rhône-Alpes",
+      "resume": "Dernière ligne droite pour les 109 territoires d’électrification retenus par le gouvernement : ils sont censés livrer leurs feuilles de route d’ici au 1er décembre. Une réception est d’ores et déjà organisée le 25 novembre à l’hôtel de Roqu",
+      "url": "https://www.greenunivers.com/2026/11/territoires-delectrification-comment-sorganise-la-region-auvergne-rhone-alpes-439158/",
+      "published_at": "2026-11-20T10:31:52+00:00"
+    },
+    {
+      "id": "132651b35d08f875",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "SFDR 2.0: EU Strikes Deal on New Sustainable Fund Rules",
+      "resume": "Lawmakers in the European Parliament and EU Member States announced that they have reached a […]",
+      "url": "https://www.esgtoday.com/sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories/?utm_source=rss&utm_medium=rss&utm_campaign=sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories",
+      "published_at": "2026-11-20T10:13:22+00:00"
+    },
+    {
+      "id": "36bb7136175d56fb",
+      "source": "I4CE",
+      "categorie": "Climat",
+      "titre": "Climat et collectivités : comment accélérer quand l’État lève le pied ?",
+      "resume": "Le message adressé au monde local est clair : « débrouillez-vous ». Il faut en tirer les conséquences. L’article Climat et collectivités : comment accélérer quand l’État lève le pied ? est apparu en premier sur I4CE .",
+      "url": "https://www.i4ce.org/climat-collectivits-comment-accelerer-etat/",
+      "published_at": "2026-11-20T09:45:35+00:00"
+    },
+    {
+      "id": "eae66097a60a6f03",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’agenda de la transition énergétique",
+      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
+      "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-284-439277/",
+      "published_at": "2026-11-20T09:02:08+00:00"
+    },
+    {
+      "id": "16f71e08f5b0cdf9",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les COP climat, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »",
+      "resume": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des COP. Pour elles, ces sommets sont l’occasion de faire entendre leurs voix et d’engranger des soutiens pour leurs actions.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/les-cop-climat-rendez-vous-incontournable-des-militantes-de-la-societe-civile-il-faut-etre-la-ou-les-decisions-se-prennent-etre-vues-et-entendues_6813607_3244.html",
+      "published_at": "2026-11-20T09:00:10+00:00"
+    },
+    {
+      "id": "f9fced002e792d61",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Marine Tondelier « prête » à rallier Jean-Luc Mélenchon : de nombreux soutiens et quelques démissions",
+      "resume": "Marine Tondelier a annoncé être prête à soutenir Jean-Luc Mélenchon en 2027. Les adhérents des Écologistes devront voter début décembre entre sa propre candidature, un soutien à Raphaël Glucksmann ou un ralliement aux insoumis. Le brouillar",
+      "url": "https://reporterre.net/Marine-Tondelier-prete-a-rallier-Jean-Luc-Melenchon-de-nombreux-soutiens-et-quelques",
+      "published_at": "2026-11-20T08:39:45+00:00"
+    },
+    {
+      "id": "8539524c6fa433f6",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Cette présidentielle, pour nous, c'est une question de vie ou de mort » : le rappeur Médine appelle à voter LFI",
+      "resume": "Dans son dernier spectacle, le rappeur met en scène des enfants pris dans la tourmente de la guerre et de la colonisation. À quelques mois de la présidentielle, il raconte son inquiétude face à l'extrême droite et son rapport à l'écologie e",
+      "url": "https://reporterre.net/Le-rappeur-Medine-appelle-a-voter-LFI-Cette-presidentielle-pour-nous-c-est-une-question",
+      "published_at": "2026-11-20T08:34:01+00:00"
+    },
+    {
+      "id": "27cde23a1f0a6349",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Loopi exporte son calculateur d'itinéraires touristiques bas carbone - Les Echos",
+      "resume": "Loopi exporte son calculateur d'itinéraires touristiques bas carbone Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDltSDZqU2VKZkxBMWFlcHdqVjdsUndMMnBxeWNwNUtLYXFlSHU1NkZ6QlZVLTlDMEhqX0JKS05ZYWxoTGJjZ2twVElyMktnSVduSldGZmQzOFRLelFJMV9abnRNcVRHYUFTTWxIZ2VjeDA3YXhkLW9Jb1VuNGdqb3FnS1BaWFZHT0FnWi1KOEFSNVl5c2Vlbk1UTjhybXd1NlVvdV8xb1d3Q3QxZlQ0NXhPM2VMUkI2RGpuQWt5N2k?oc=5",
+      "published_at": "2026-11-20T08:30:11+00:00"
+    },
+    {
+      "id": "4f30527545899307",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Commercial Bank International Adds Carbon Footprint of Client Spending to Bank Statements",
+      "resume": "UAE-based bank Commercial Bank International (CBI) announced the launch of its new Carbon Footprint Report, […]",
+      "url": "https://www.esgtoday.com/commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements/?utm_source=rss&utm_medium=rss&utm_campaign=commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements",
+      "published_at": "2026-11-20T08:21:07+00:00"
+    },
+    {
+      "id": "75a031d74d1f1b26",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les documents de la semaine",
+      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
+      "url": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
+      "published_at": "2026-11-20T08:00:00+00:00"
+    },
+    {
+      "id": "4480a2f607be3002",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pesticides : des parents d’élèves somment l’Etat d’élargir le périmètre de non-traitement autour des écoles",
+      "resume": "Alors qu’au moins 1,7 million d’écoliers français sont concernés par une pression pesticide forte autour de leur établissement, deux fédérations de parents d’élèves ont envoyé, jeudi 19 novembre, une demande préalable à l’Etat afin d’obteni",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/pesticides-des-parents-d-eleves-somment-l-etat-d-elargir-le-perimetre-de-non-traitement-autour-des-ecoles_6813595_4355770.html",
+      "published_at": "2026-11-20T06:11:58+00:00"
+    },
+    {
+      "id": "105984c1ecf358cb",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Au Bangladesh, les ouvriers du textile se révoltent contre des salaires de misère",
+      "resume": "La police bangladaise a fait usage de gaz lacrymogènes et de grenades assourdissantes le 17 novembre lors d'affrontements avec des milliers d'ouvriers du textile qui manifestaient après le report d'une réunion importante de la commission de",
+      "url": "https://www.novethic.fr/economie-et-social/droits-humains/au-bangladesh-les-ouvriers-du-textile-se-revoltent-contre-des-salaires-de-misere",
+      "published_at": "2026-11-20T05:45:22+00:00"
+    },
+    {
+      "id": "2545d393ec3a9d80",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les pompes à chaleur sont-elles bonnes pour le climat ?",
+      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/les-pompes-a-chaleur-sont-elles-bonnes-pour-le-climat_6813592_3244.html",
+      "published_at": "2026-11-20T05:30:02+00:00"
+    },
+    {
+      "id": "704439bc5e266caf",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Bruno Retailleau, Édouard Philippe... À droite, la traque aux économies dégomme l'écologie",
+      "resume": "Réduire à tout prix les dépenses : l'objectif est dans tous les programmes des candidats de droite à la présidentielle. Mais la nécessaire adaptation au chaos climatique ne disparaîtra pas à coups de réformes ou de suppressions de postes. C",
+      "url": "https://reporterre.net/Bruno-Retailleau-Edouard-Philippe-A-droite-la-traque-aux-economies-degomme-l-ecologie",
+      "published_at": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "f9728668d3712998",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Au Brésil, une ethnie autochtone non contactée réapparaît et suscite l’inquiétude pour sa survie",
+      "resume": "Des Awa-Guaja sont brièvement sortis de leur isolement, lundi 16 novembre, pour la première fois depuis au moins cinquante ans. Les chercheurs craignent qu’ils soient victimes de la sécheresse ou des exactions de groupes criminels.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html",
+      "published_at": "2026-11-20T04:15:05+00:00"
+    },
     {
       "id": "7ed4e771e921194d",
       "source": "The Guardian Environment",
@@ -9,60 +189,6 @@
       "resume": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the",
       "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
       "published_at": "2026-11-20T02:30:10+00:00"
-    },
-    {
-      "id": "0d8d7449a33c6f86",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Des villes côtières de Californie bouleversées par la montée des eaux et la disparition des plages",
-      "resume": "Maisons abîmées, inondations, glissements de terrain, routes coupées… En cette année marquée par un « El Niño » particulièrement puissant, les dégâts se multiplient dans les stations balnéaires du sud de l’Etat, mettant en péril des écosyst",
-      "url": "https://www.lemonde.fr/international/article/2026/11/20/des-villes-cotieres-de-californie-bouleversees-par-la-montee-des-eaux-et-la-disparition-des-plages_6813514_3210.html",
-      "published_at": "2026-11-20T02:15:05+00:00"
-    },
-    {
-      "id": "1fe93ec878c25adb",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le Brésil reconnaît le territoire ancestral du chef indigène Raoni",
-      "resume": "Le président brésilien a rendu visite au chef indigène Raoni Metuktire, 94 ans, avant d’assister à une cérémonie pour attribuer de façon permanente son territoire, Kapot Nhinore, aux peuples qui y vivent.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/19/le-bresil-reconnait-le-territoire-ancestral-du-chef-indigene-raoni_6813384_3210.html",
-      "published_at": "2026-11-19T22:12:26+00:00"
-    },
-    {
-      "id": "2de3627fe9316801",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La Guadeloupe placée en « état d’alerte sécheresse » en fin de saison des pluies",
-      "resume": "Le département français a connu un trimestre de juillet, août et septembre parmi les plus secs et chauds depuis 1991, selon Météo-France. La préfecture appelle l’ensemble des citoyens au « civisme » en réduisant leur consommation d’eau.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html",
-      "published_at": "2026-11-19T21:32:31+00:00"
-    },
-    {
-      "id": "58983ef80b17bfd9",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La « rumeur d’Abbeville » : l’histoire d’une fake news d’il y a vingt-cinq ans, avant les réseaux sociaux",
-      "resume": "Au printemps 2001, alors que des centaines de maisons sont submergées dans la vallée de la Somme, une rumeur accuse l’Etat d’avoir détourné les eaux de la Seine pour protéger Paris. Démentie par les experts, cette théorie du complot n’a jam",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/19/la-rumeur-d-abbeville-il-y-a-vingt-cinq-ans-l-histoire-d-une-fake-news-avant-les-reseaux-sociaux_6813372_3224.html",
-      "published_at": "2026-11-19T19:00:04+00:00"
-    },
-    {
-      "id": "b7ece2d2a237ebd6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Un homme soupçonné d’être à l’origine de 20 incendies cet été en Côte-d’Or est écroué",
-      "resume": "Il sera jugé en janvier et restera en détention provisoire jusque-là.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/19/un-homme-soupconne-de-20-incendies-cet-ete-en-cote-d-or-ecroue_6813370_3224.html",
-      "published_at": "2026-11-19T18:59:07+00:00"
-    },
-    {
-      "id": "a02ba8cce433cdbb",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "589 millions d’enfants dans le monde vivent dans une zone de guerre, un chiffre « record », selon l’ONG Save the Children",
-      "resume": "La part d’enfants vivant dans des zones de conflit a plus que doublé, passant de 10 % au milieu des années 1990 à 23,4 % en 2025, soit près d’un quart, selon ce rapport.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/19/pres-d-un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-selon-l-ong-save-the-children_6813367_3210.html",
-      "published_at": "2026-11-19T18:29:43+00:00"
     },
     {
       "id": "d519dfb5b274de54",
@@ -110,24 +236,6 @@
       "published_at": "2026-11-19T16:37:40+00:00"
     },
     {
-      "id": "4e4cbebd6ea45ef0",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Hydroélectricité : EY et Afry choisis pour calculer les indemnités prévues par la loi",
-      "resume": "Le groupement formé par les cabinets Ernst & Young Advisory (EY) et le cabinet de conseil Afry a été choisi par la Direction générale de l’énergie et du climat (DGEC) pour calculer L’article Hydroélectricité : EY et Afry choisis pour calcul",
-      "url": "https://www.greenunivers.com/2026/11/hydroelectricite-ey-et-afry-choisis-pour-calculer-les-indemnites-prevues-par-la-loi-439186/",
-      "published_at": "2026-11-19T16:33:54+00:00"
-    },
-    {
-      "id": "cef1c6d969d6289f",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’arrêté « échelonnement » bientôt remplacé",
-      "resume": "Les arrêts et redémarrages des centrales d’énergies renouvelables vont changer de cadre. Le 3 décembre, le Conseil supérieur de l’énergie (CSE) va en effet se prononcer sur L’article L’arrêté « échelonnement » bientôt remplacé est apparu en",
-      "url": "https://www.greenunivers.com/2026/11/larrete-echelonnement-bientot-remplace-439200/",
-      "published_at": "2026-11-19T16:28:10+00:00"
-    },
-    {
       "id": "2ab1471405cf8482",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -164,15 +272,6 @@
       "published_at": "2026-11-19T15:29:15+00:00"
     },
     {
-      "id": "f3cfbee487042836",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Affaire Andreas Malm : comment le Royaume-Uni harcèle les militants écologistes",
-      "resume": "Le ministère de l'Intérieur du Royaume-Uni a confirmé avoir refusé l'entrée sur son territoire à l'intellectuel Andreas Malm en raison de ses positions sur le climat et Gaza. Le symptôme d'une dérive plus large Outre-Manche. Le 30 octobre d",
-      "url": "https://reporterre.net/L-interdiction-de-l-ecologiste-Andreas-Malm-symbole-de-la-repression-des-militants-au",
-      "published_at": "2026-11-19T15:00:00+00:00"
-    },
-    {
       "id": "00c87170bfd718a8",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -191,15 +290,6 @@
       "published_at": "2026-11-19T14:37:09+00:00"
     },
     {
-      "id": "4c1f78a573e90664",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "« HoloSolis bénéficie d’une seconde chance » [Henri Poupart-Lafarge]",
-      "resume": "Né en 2023, le projet d’usine photovoltaïque intégrée de HoloSolis en Moselle a pris du retard et reste incertain. Face aux concurrents chinois, il a besoin d’un fort soutien de la réglementation européenne et française. Or le Net zero indu",
-      "url": "https://www.greenunivers.com/2026/11/holosolis-beneficie-dune-seconde-chance-henri-poupart-lafarge-439076/",
-      "published_at": "2026-11-19T14:18:10+00:00"
-    },
-    {
       "id": "46c61154f1737233",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -207,15 +297,6 @@
       "resume": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens Amid a rise in early onset cancer , the Trump administration has taken more than 500 actions to systematically dismantle protec",
       "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
       "published_at": "2026-11-19T14:15:15+00:00"
-    },
-    {
-      "id": "61dea4da3824b6f8",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Vélo : la droite supprime une grande piste cyclable à Lyon",
-      "resume": "Pas de doute, la Métropole de Lyon est bien passée à droite. Elle a annoncé le 16 novembre le rétablissement de la circulation à double sens sur une partie de l'avenue Rockefeller, à Lyon, alors qu'une large piste cyclable avait été aménagé",
-      "url": "https://reporterre.net/Velo-la-droite-supprime-une-grande-piste-cyclable-a-Lyon",
-      "published_at": "2026-11-19T13:25:33+00:00"
     },
     {
       "id": "6df79cc0b67f0818",
@@ -281,15 +362,6 @@
       "published_at": "2026-11-19T12:21:36+00:00"
     },
     {
-      "id": "b857a96c72111fb0",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Pantheon Invests $600 Million in Mirova Energy Transition Portfolio",
-      "resume": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers, and London-based private markets investor Pantheon […]",
-      "url": "https://www.esgtoday.com/pantheon-invests-600-million-in-mirova-energy-transition-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=pantheon-invests-600-million-in-mirova-energy-transition-portfolio",
-      "published_at": "2026-11-19T12:00:46+00:00"
-    },
-    {
       "id": "dffca8f8c7ae4c86",
       "source": "Novethic",
       "categorie": "Presse",
@@ -297,24 +369,6 @@
       "resume": "Juste avant son introduction en Bourse, Anthropic a relevé le prix de son action. @Igor Omilaev-Unsplash Anthropic aura réussi son pari. L’entreprise américaine qui développe le modèle d’intelligence artificielle Claude a levé une somme rec",
       "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/anthropic-signe-une-introduction-en-bourse-historique-malgre-des-risques-esg-eleves",
       "published_at": "2026-11-19T11:00:25+00:00"
-    },
-    {
-      "id": "b4b7cc9cd132edc8",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Encore un défilé de jets privés et de milliardaires à la COP31",
-      "resume": "152 jets privés ont atterri à l'aéroport d'Antalya depuis le 7 novembre, avant-veille de l'ouverture de la COP31 en Turquie, d'après une analyse d'Oxfam révélée le 19 novembre. Si tous les passagers de ces vols ne participent pas nécessaire",
-      "url": "https://reporterre.net/COP31-encore-un-defile-de-jets-prives-et-de-milliardaires",
-      "published_at": "2026-11-19T10:57:09+00:00"
-    },
-    {
-      "id": "5c895f125ab0d846",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
-      "resume": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability […]",
-      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
-      "published_at": "2026-11-19T10:45:51+00:00"
     },
     {
       "id": "df5a5a60b611992a",
@@ -362,15 +416,6 @@
       "published_at": "2026-11-19T07:00:00+00:00"
     },
     {
-      "id": "57902a6bb28e0df3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
-      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
-      "published_at": "2026-11-19T06:50:09+00:00"
-    },
-    {
       "id": "d8464b5f56445217",
       "source": "Novethic",
       "categorie": "Presse",
@@ -378,15 +423,6 @@
       "resume": "Le débat sur la conditionnalité des aides publiques aux entreprises se renforce - Photo de Romain Dancre sur Unsplash Et si les aides publiques, subventions et crédits d'impôts aux entreprises étaient accordés préférentiellement à celles qu",
       "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/conditionner-aides-publiques-entreprise-debat-renforce",
       "published_at": "2026-11-19T05:45:08+00:00"
-    },
-    {
-      "id": "35e44b3e6f3db8a4",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’Europe en passe d’accélérer les raccordements aux réseaux électriques",
-      "resume": "Une partie du « paquet réseau » en négociations au niveau européen est sur le point d’aboutir. Les eurodéputés et le Conseil européen se sont accordés sur les procédures d’autorisation et de raccordement des L’article L’Europe en passe d’ac",
-      "url": "https://www.greenunivers.com/2026/11/leurope-en-passe-daccelerer-les-raccordements-aux-reseaux-electriques-439081/",
-      "published_at": "2026-11-18T16:52:00+00:00"
     },
     {
       "id": "b1321ef3fe3d1819",
@@ -405,33 +441,6 @@
       "resume": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legisl",
       "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
       "published_at": "2026-11-18T13:00:04+00:00"
-    },
-    {
-      "id": "87ca53d87a4602f3",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Les \"Inside Deutsche Bank\" viennent percuter le récit du changement porté par la banque allemande",
-      "resume": "Les actions de Deutsche Bank ont ouvert en baisse de 1,9% au lendemain des révélations Inside Deutsche Bank. @Thomas Wolf CCO La Deutsche Bank a-t-elle changé ? La stratégie agressive d'expansion menée depuis le tournant des années 2000 pou",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/les-inside-deutsche-bank-viennent-percuter-le-recit-du-changement-porte-par-la-banque-allemande",
-      "published_at": "2026-11-18T12:45:14+00:00"
-    },
-    {
-      "id": "7bf495859f7a1b8f",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Réseaux électriques : l'Europe veut faire sauter le verrou des permis - Les Echos",
-      "resume": "Réseaux électriques : l'Europe veut faire sauter le verrou des permis Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWhYNE5QaTFPUXlEdnVYY3F2ZWVnbmxTQWhoM1J1c19QVkZMcmxGSU1lbXVVUXhYUHZ2S3g2Q1pZV2N6aldiajZCM3VteFpWaF9JLVBpMHpXVGxzS3NVY1J4eV9ZOUZSXzFWbjRmaTlQVkMwc19NeE5mNTFHS3d3LV8tdEU0MGc3dmhqbWdqYmNsUkhNV0lVaFptc21DaVgwWnNBVmhfQVF2ZlNLalVDbG1jcUZZZExLb2dkVGRsZ1Y5b25mSTl0dUFvS2hQTU9ucE11d0VR?oc=5",
-      "published_at": "2026-11-18T11:25:51+00:00"
-    },
-    {
-      "id": "f4256b7a71413d8e",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "CAC 40 : les rémunérations des dirigeants s'envolent, jusqu'à 91 fois le salaire moyen",
-      "resume": "Les dirigeants des grands groupes cotés sont payés en moyenne 91 fois plus que leurs salariés, selon Proxinvest. @iStock \"On atteint les plus hauts niveaux historiques\", s’exclame Jehanne Leroy, directrice de la recherche de Proxinvest, la ",
-      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/cac-40-les-remunerations-des-dirigeants-senvolent-jusqua-91-fois-le-salaire-moyen",
-      "published_at": "2026-11-18T11:10:16+00:00"
     },
     {
       "id": "8e613906d7118859",
@@ -675,15 +684,6 @@
       "resume": "Au moins 5 milliards d’euros, probablement plus : c’est le montant de la contribution au redressement des finances publiques demandée aux collectivités à l’ouverture des discussions sur le budget 2027. L’article Été caniculaire, hiver budgé",
       "url": "https://www.i4ce.org/ete-caniculaire-hiver-budgetaire-collectivites-choix-climat/",
       "published_at": "2026-10-16T08:44:34+00:00"
-    },
-    {
-      "id": "65611bcca3b8eee5",
-      "source": "I4CE",
-      "categorie": "Climat",
-      "titre": "Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investissement ?",
-      "resume": "Comment prioriser les financements publics ? Et comment financer l’action climatique locale sans mobiliser plus de financements publics ? L’article Les collectivités face à l’urgence climatique : vers une nouvelle approche du mur d’investis",
-      "url": "https://www.i4ce.org/collectivites-urgence-climatique-nouvelle-approche-mur-investissement/",
-      "published_at": "2026-10-15T15:43:50+00:00"
     },
     {
       "id": "02e43c701415f414",
