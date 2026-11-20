@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-19T22:31:58.498608+00:00",
+  "generated_at": "2026-11-20T03:49:23.355279+00:00",
   "items": [
+    {
+      "id": "7ed4e771e921194d",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "resume": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "published_at": "2026-11-20T02:30:10+00:00"
+    },
+    {
+      "id": "0d8d7449a33c6f86",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Des villes côtières de Californie bouleversées par la montée des eaux et la disparition des plages",
+      "resume": "Maisons abîmées, inondations, glissements de terrain, routes coupées… En cette année marquée par un « El Niño » particulièrement puissant, les dégâts se multiplient dans les stations balnéaires du sud de l’Etat, mettant en péril des écosyst",
+      "url": "https://www.lemonde.fr/international/article/2026/11/20/des-villes-cotieres-de-californie-bouleversees-par-la-montee-des-eaux-et-la-disparition-des-plages_6813514_3210.html",
+      "published_at": "2026-11-20T02:15:05+00:00"
+    },
     {
       "id": "1fe93ec878c25adb",
       "source": "Le Monde Planète",
@@ -8,7 +26,7 @@
       "titre": "Le Brésil reconnaît le territoire ancestral du chef indigène Raoni",
       "resume": "Le président brésilien a rendu visite au chef indigène Raoni Metuktire, 94 ans, avant d’assister à une cérémonie pour attribuer de façon permanente son territoire, Kapot Nhinore, aux peuples qui y vivent.",
       "url": "https://www.lemonde.fr/international/article/2026/11/19/le-bresil-reconnait-le-territoire-ancestral-du-chef-indigene-raoni_6813384_3210.html",
-      "published_at": "2026-11-19T22:12:27+00:00"
+      "published_at": "2026-11-19T22:12:26+00:00"
     },
     {
       "id": "2de3627fe9316801",
@@ -47,15 +65,6 @@
       "published_at": "2026-11-19T18:29:43+00:00"
     },
     {
-      "id": "31c3cfeaad0ff5f7",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Méthane : l’UE reporte l’entrée en vigueur de son règlement pionnier au nom de la sécurité énergétique",
-      "resume": "Le texte faisait, depuis des mois, l’objet d’un tir croisé de Washington et du secteur pétrogazier.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/19/l-union-europeenne-reporte-l-entree-en-vigueur-de-son-reglement-pionnier-sur-le-methane-au-nom-de-la-securite-energetique_6813359_3234.html",
-      "published_at": "2026-11-19T17:32:25+00:00"
-    },
-    {
       "id": "d519dfb5b274de54",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -63,15 +72,6 @@
       "resume": "La Commission européenne a réagi par un communiqué à l'action de militants de Cancer Colère, dont sa cofondatrice Fleur Breteau, qui ont jeté des cendres de bois sur Olivér Várhelyi, commissaire à la santé, jeudi 19 novembre à Bruxelles. El",
       "url": "https://reporterre.net/Lancer-de-cendres-la-Commission-europeenne-condamne-fermement-l-action-des-malades-du-cancer",
       "published_at": "2026-11-19T17:18:48+00:00"
-    },
-    {
-      "id": "7ed4e771e921194d",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
-      "resume": "Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed Plans by the US army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-      "published_at": "2026-11-19T17:18:08+00:00"
     },
     {
       "id": "01d4ab3eeeb16cbf",
