@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-11-20T12:23:26.074117+00:00",
+  "generated_at": "2026-11-20T20:37:22.216205+00:00",
   "items": [
+    {
+      "id": "ea6f8b65ef8642a6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pluie-inondation : dans le Pas-de-Calais, les pluies importantes diminuent après des inondations de maisons et de routes",
+      "resume": "Il est tombé jusqu’à plus de 150 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoyait la fin des pluies importantes pour le cours de l’après-midi de vendredi.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-les-pluies-significatives-diminuent-apres-des-inondations-de-maisons-et-de-routes_6813624_3245.html",
+      "published_at": "2026-11-20T19:50:23+00:00"
+    },
+    {
+      "id": "cd2bf2c64d6d64f8",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "What to know about the US permitting bill, from datacenters to Trump’s arch",
+      "resume": "Environmental groups are aghast, but supporters say bill might be only chance to speed up clean energy projects The US Senate has passed a bill to fast-track energy and datacenter projects by removing environmental and legal guardrails. The",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
+      "published_at": "2026-11-20T18:26:08+00:00"
+    },
+    {
+      "id": "a97d3fd56a731466",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Antibiorésistance (2/2) : comment renforcer les liens des acteurs One Health",
+      "resume": "Le concept Une santé constitue un levier essentiel dans la lutte contre la résistance des micro-organismes. Mais le chemin est long pour construire des passerelles entre la médecine humaine, animale et l'environnement. Zoom sur des pistes à",
+      "url": "https://www.actu-environnement.com/ae/news/antimicrobiens-antibioresistance-one-health-une-sante-sante-humaine-animale-environnement-48830.php4#xtor=RSS-6",
+      "published_at": "2026-11-20T17:33:19+00:00"
+    },
+    {
+      "id": "7de20b8500befe68",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Le report de la REP au 1er janvier 2027 est acté, le cahier des charges ajusté",
+      "resume": "C'est officiel. L'arrêté du 3 novembre 2026, publié au Journal officiel du 18 novembre, reporte du 1er juillet 2026 au 1er janvier 2027 le démarrage de la filière de responsabilité élargie des producteurs d'emballages professionnels (REP Ep",
+      "url": "https://www.actu-environnement.com/ae/news/rep-epro-report-janvier-2027-cahier-charges-48829.php4#xtor=RSS-6",
+      "published_at": "2026-11-20T16:35:51+00:00"
+    },
+    {
+      "id": "18e3943f239cc780",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP31 : dans la dernière ligne droite des négociations, les énergies fossiles et les financements au centre du jeu",
+      "resume": "Les pourparlers de la 31ᵉ conférence mondiale sur le climat, à Antalya, en Turquie, étaient censés s’achever vendredi 20 novembre. Ils jouaient les prolongations faute d’accord sur des sujets-clés, comme les énergies fossiles et les finance",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/cop31-dans-la-derniere-ligne-droite-des-negociations-les-energies-fossiles-et-les-financements-au-centre-du-jeu_6813663_3244.html",
+      "published_at": "2026-11-20T16:28:48+00:00"
+    },
+    {
+      "id": "93d470eef1caa4f9",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "À la COP31, les États sont très loin d'obtenir un accord",
+      "resume": "Antalya (Turquie), envoyé spécial La COP31 est terminée, les prolongations commencent. Officiellement, la 31 e conférence des Nations unies sur le changement climatique, accueillie cette année par Antalya (Turquie), devait se clôturer le 20",
+      "url": "https://reporterre.net/A-la-COP31-les-Etats-sont-tres-loin-d-obtenir-un-accord",
+      "published_at": "2026-11-20T16:10:44+00:00"
+    },
+    {
+      "id": "7ccfa7a45d91138d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Crise de l'agriculture : les deux mandats d'Emmanuel Macron n'auront rien résolu",
+      "resume": "Les crises s'enchaînent de plus en plus vite dans une agriculture française qui va de plus en plus mal. Les deux mandats d'Emmanuel Macron, qui auront vu des sommes énormes dépensées pour plus de productivité, n'auront rien résolu des cause",
+      "url": "https://reporterre.net/Crise-de-l-agriculture-les-deux-mandats-d-Emmanuel-Macron-n-auront-rien-resolu",
+      "published_at": "2026-11-20T16:10:07+00:00"
+    },
+    {
+      "id": "7ed4e771e921194d",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "resume": "Controlled detonation could lead to plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa after an outpouring of public co",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "published_at": "2026-11-20T15:39:48+00:00"
+    },
+    {
+      "id": "da0f27a86b31c27a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Quand une mesure de bridage remet en cause la nécessité d'une dérogation « espèces protégées »",
+      "resume": "Par une décision du 17 novembre 2026, le Conseil d'État a annulé une décision de la cour administrative d'appel de Toulouse qui avait enjoint au préfet de mettre en demeure la société Energie du Haut-Dourdou de déposer un dossier de demande",
+      "url": "https://www.actu-environnement.com/ae/news/bridage-eoliennes-derogation-especes-protegees-conseil-etat-48827.php4#xtor=RSS-6",
+      "published_at": "2026-11-20T15:39:00+00:00"
+    },
+    {
+      "id": "1085f9ca60b0453e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les tortues marines, victimes collatérales de l'explosion d'un propulseur SpaceX",
+      "resume": "Dans sa course vers l'espace, le milliardaire Elon Musk mine l'océan. Le 13 novembre, lors d'un vol d'essai, le propulseur de la fusée Starship de son entreprise astronautique, SpaceX, a explosé au-dessus du golfe du Mexique, avant d'y coul",
+      "url": "https://reporterre.net/Les-tortues-marines-victimes-collaterales-de-l-explosion-d-un-propulseur-SpaceX",
+      "published_at": "2026-11-20T15:36:41+00:00"
+    },
+    {
+      "id": "a2f082009651df1f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "L'Union européenne s'accorde pour refondre le règlement SFDR",
+      "resume": "Le Conseil et le Parlement européen ont conclu le 19 novembre un accord provisoire sur la révision du règlement SFDR (pour Sustainable Finance Disclosure Regulation). Applicable depuis mars 2021, le SFDR oblige les acteurs financiers à indi",
+      "url": "https://www.actu-environnement.com/ae/news/revision-reglement-sfdr-accord-ue-esg-48828.php4#xtor=RSS-6",
+      "published_at": "2026-11-20T15:17:20+00:00"
+    },
+    {
+      "id": "651972f2ba98289c",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+      "resume": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups The Senate approved bipartisan legislation on Thursday aimed at speeding up permitting reviews to build power plants, transmission lines a",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+      "published_at": "2026-11-20T15:09:09+00:00"
+    },
+    {
+      "id": "b53233487d5d7b9c",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Plusieurs dispositions du guide annulées à la demande des exploitants de carrières",
+      "resume": "Par une décision du 17 novembre 2026, le Conseil d'État a annulé certaines dispositions de l'instruction technique du 11 février 2025 qui fournit aux services déconcentrés de l'État un guide sur le dispositif de compensation collective agri",
+      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-annulation-compensation-agricole-carrieres-48826.php4#xtor=RSS-6",
+      "published_at": "2026-11-20T14:51:02+00:00"
+    },
+    {
+      "id": "2f05c2c4a447b511",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Une militante des droits humains exclue de la COP31 après un simple échange avec Monique Barbut",
+      "resume": "Mariam Touré, militante des droits humains, a été exclue de la COP31 en Turquie par la France, après avoir interrogé la ministre de la Transition écologique sur le fonds dédié aux pays vulnérables. « Elle a juste fait son travail », dénonce",
+      "url": "https://reporterre.net/Mariam-Toure-militante-des-droits-humains-exclue-de-la-COP31-apres-un-echange-avec",
+      "published_at": "2026-11-20T14:50:28+00:00"
+    },
+    {
+      "id": "11948148d2709985",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Malgré un appel d’offres à succès, le repowering éolien peine à concrétiser ses promesses",
+      "resume": "Evolution naturelle du secteur ou voie de secours pour remplacer le développement greenfield devenu trop conflictuel ? Identifié comme source L’article Malgré un appel d’offres à succès, le repowering éolien peine à concrétiser ses promesse",
+      "url": "https://www.greenunivers.com/2026/11/malgre-un-appel-doffres-a-succes-le-repowering-eolien-peine-a-concretiser-ses-promesses-438228/",
+      "published_at": "2026-11-20T14:47:32+00:00"
+    },
+    {
+      "id": "7942f46f9e97a505",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Fleur Breteau et des malades du cancer libérés après 25 heures de privation de liberté pour avoir jeté des cendres",
+      "resume": "Fleur Breteau et ses camarades de Cancer Colère ont été libérés après 25 heures de privation de liberté suite à leur lancer de cendres sur le commissaire européen à la santé. Ils promettent de continuer à lutter contre l'Omnibus X, « loi Du",
+      "url": "https://reporterre.net/Jet-de-cendres-Fleur-Breteau-liberee-apres-25-heures-de-privation-de-liberte",
+      "published_at": "2026-11-20T14:45:12+00:00"
+    },
+    {
+      "id": "4cdbac1bb6c51df6",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "L'ex-patron de Haribo et du lobby de l'agroalimentaire nommé à la tête du programme de l'État sur l'alimentation",
+      "resume": "Jean-Philippe André, patron de Haribo jusqu'en décembre 2025, a été nommé par la ministre de l'Agriculture coprésident du comité de suivi de la Stratégie nationale pour l'alimentation, la nutrition et le climat. Créée par la loi Climat et R",
+      "url": "https://reporterre.net/L-ex-patron-de-Haribo-et-du-lobby-de-l-agroalimentaire-nomme-a-la-tete-du-programme-de-l-Etat-sur-l-alimentation",
+      "published_at": "2026-11-20T14:05:18+00:00"
+    },
+    {
+      "id": "3b0d363b04b845a5",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+      "resume": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, ",
+      "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+      "published_at": "2026-11-20T14:00:31+00:00"
+    },
+    {
+      "id": "54e85bde215f1dc2",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "\"La solitude est devenue l’un des moteurs du capitalisme numérique\", Paul Klotz",
+      "resume": "Confidences, 17 octobre 2026. Edouard Caupeil pour Libération. Que recouvre la notion de \"capitalisme de la solitude\" ? Paul Klotz : Mes recherches portent sur la transformation du vécu quotidien des individus et de leurs expériences corpor",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/la-solitude-est-devenue-lun-des-moteurs-du-capitalisme-numerique-paul-klotz",
+      "published_at": "2026-11-20T13:42:00+00:00"
+    },
+    {
+      "id": "f80d63b297d98251",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A la COP31, une militante des droits humains exclue de la délégation française après avoir interpellé la ministre Monique Barbut",
+      "resume": "Mariam Touré a interrogé la ministre de la transition écologique sur les financements en faveur de l’adaptation au réchauffement climatique dans un couloir du centre de conférences à Antalya, au cours d’un échange filmé. Le cabinet ministér",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/20/a-la-cop31-une-militante-des-droits-humains-exclue-de-la-delegation-francaise-apres-avoir-interpelle-la-ministre-monique-barbut_6813643_3244.html",
+      "published_at": "2026-11-20T13:31:55+00:00"
+    },
+    {
+      "id": "8dad14e608dda508",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Comment progresser vers une gestion plus écologique de l'eau ? Exemple entre Bièvre et Rhône",
+      "resume": "Au-delà de la gestion courante de leurs infrastructures (production et distribution d'eau potable, traitement des eaux usées), les services d'eau mènent des actions en faveur de la transition écologique. Exemple en Isère avec Eaux d'Entre B",
+      "url": "https://www.actu-environnement.com/ae/news/actions-de-collectivite-entre-bievre-et-rhone-pour-une-gestion-plus-ecologique-eau-48825.php4#xtor=RSS-6",
+      "published_at": "2026-11-20T13:29:40+00:00"
+    },
+    {
+      "id": "f8190be45eaff392",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Environmental Defense Fund Appoints Beatriz Da Cunha as Head of Sustainable Finance",
+      "resume": "Climate change-focused environmental non-profit Environmental Defense Fund (EDF) has appointed Beatriz Da Cunha as its […]",
+      "url": "https://www.esgtoday.com/environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance/?utm_source=rss&utm_medium=rss&utm_campaign=environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance",
+      "published_at": "2026-11-20T13:10:59+00:00"
+    },
     {
       "id": "6eae2f0d62da544d",
       "source": "Le Monde Planète",
@@ -33,18 +231,9 @@
       "source": "GreenUnivers",
       "categorie": "Climat",
       "titre": "L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria]",
-      "resume": "Si la file d’attente pour raccorder des puissantes batteries directement au réseau de RTE (HTB) donne le vertige, avec L’article L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria] est apparu en premier sur ",
+      "resume": "*Article modifié le 20/11 Si la file d’attente pour raccorder des puissantes batteries directement au réseau de RTE (HTB) donne le vertige, avec L’article L’avenir du stockage français « se jouera sur le réseau de distribution » [Solmeria] ",
       "url": "https://www.greenunivers.com/2026/11/lavenir-du-stockage-francais-se-jouera-sur-le-reseau-de-distribution-solmeria-439286/",
       "published_at": "2026-11-20T11:02:27+00:00"
-    },
-    {
-      "id": "2c38e4c453ee6b06",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie-inondation : dans le Pas-de-Calais, toujours placé en vigilance orange, des routes et des maisons inondées",
-      "resume": "Il est tombé jusqu’à plus de 100 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoit la fin des pluies significatives en début d’après-midi, vendredi.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-toujours-place-en-vigilance-orange-des-routes-et-maisons-sous-les-eaux_6813624_3244.html",
-      "published_at": "2026-11-20T10:42:59+00:00"
     },
     {
       "id": "ef0b2ecc6b2a0a2a",
@@ -86,28 +275,10 @@
       "id": "16f71e08f5b0cdf9",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Les COP climat, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »",
-      "resume": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des COP. Pour elles, ces sommets sont l’occasion de faire entendre leurs voix et d’engranger des soutiens pour leurs actions.",
+      "titre": "Les COP, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »",
+      "resume": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des conférences mondiales sur le climat. Pour elles, ces sommets sont l’occasion d’engranger des soutiens pour leurs actions.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/20/les-cop-climat-rendez-vous-incontournable-des-militantes-de-la-societe-civile-il-faut-etre-la-ou-les-decisions-se-prennent-etre-vues-et-entendues_6813607_3244.html",
-      "published_at": "2026-11-20T09:00:10+00:00"
-    },
-    {
-      "id": "f9fced002e792d61",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Marine Tondelier « prête » à rallier Jean-Luc Mélenchon : de nombreux soutiens et quelques démissions",
-      "resume": "Marine Tondelier a annoncé être prête à soutenir Jean-Luc Mélenchon en 2027. Les adhérents des Écologistes devront voter début décembre entre sa propre candidature, un soutien à Raphaël Glucksmann ou un ralliement aux insoumis. Le brouillar",
-      "url": "https://reporterre.net/Marine-Tondelier-prete-a-rallier-Jean-Luc-Melenchon-de-nombreux-soutiens-et-quelques",
-      "published_at": "2026-11-20T08:39:45+00:00"
-    },
-    {
-      "id": "8539524c6fa433f6",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Cette présidentielle, pour nous, c'est une question de vie ou de mort » : le rappeur Médine appelle à voter LFI",
-      "resume": "Dans son dernier spectacle, le rappeur met en scène des enfants pris dans la tourmente de la guerre et de la colonisation. À quelques mois de la présidentielle, il raconte son inquiétude face à l'extrême droite et son rapport à l'écologie e",
-      "url": "https://reporterre.net/Le-rappeur-Medine-appelle-a-voter-LFI-Cette-presidentielle-pour-nous-c-est-une-question",
-      "published_at": "2026-11-20T08:34:01+00:00"
+      "published_at": "2026-11-20T09:00:06+00:00"
     },
     {
       "id": "27cde23a1f0a6349",
@@ -143,7 +314,7 @@
       "titre": "Pesticides : des parents d’élèves somment l’Etat d’élargir le périmètre de non-traitement autour des écoles",
       "resume": "Alors qu’au moins 1,7 million d’écoliers français sont concernés par une pression pesticide forte autour de leur établissement, deux fédérations de parents d’élèves ont envoyé, jeudi 19 novembre, une demande préalable à l’Etat afin d’obteni",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/pesticides-des-parents-d-eleves-somment-l-etat-d-elargir-le-perimetre-de-non-traitement-autour-des-ecoles_6813595_4355770.html",
-      "published_at": "2026-11-20T06:11:58+00:00"
+      "published_at": "2026-11-20T06:11:55+00:00"
     },
     {
       "id": "105984c1ecf358cb",
@@ -155,51 +326,6 @@
       "published_at": "2026-11-20T05:45:22+00:00"
     },
     {
-      "id": "2545d393ec3a9d80",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les pompes à chaleur sont-elles bonnes pour le climat ?",
-      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/20/les-pompes-a-chaleur-sont-elles-bonnes-pour-le-climat_6813592_3244.html",
-      "published_at": "2026-11-20T05:30:02+00:00"
-    },
-    {
-      "id": "704439bc5e266caf",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Bruno Retailleau, Édouard Philippe... À droite, la traque aux économies dégomme l'écologie",
-      "resume": "Réduire à tout prix les dépenses : l'objectif est dans tous les programmes des candidats de droite à la présidentielle. Mais la nécessaire adaptation au chaos climatique ne disparaîtra pas à coups de réformes ou de suppressions de postes. C",
-      "url": "https://reporterre.net/Bruno-Retailleau-Edouard-Philippe-A-droite-la-traque-aux-economies-degomme-l-ecologie",
-      "published_at": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "f9728668d3712998",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Au Brésil, une ethnie autochtone non contactée réapparaît et suscite l’inquiétude pour sa survie",
-      "resume": "Des Awa-Guaja sont brièvement sortis de leur isolement, lundi 16 novembre, pour la première fois depuis au moins cinquante ans. Les chercheurs craignent qu’ils soient victimes de la sécheresse ou des exactions de groupes criminels.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html",
-      "published_at": "2026-11-20T04:15:05+00:00"
-    },
-    {
-      "id": "7ed4e771e921194d",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "US army postpones plan to detonate bomb-making chemical amid outcry",
-      "resume": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-      "published_at": "2026-11-20T02:30:10+00:00"
-    },
-    {
-      "id": "d519dfb5b274de54",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Lancer de cendres : la Commission européenne « condamne fermement » l'action des malades du cancer",
-      "resume": "La Commission européenne a réagi par un communiqué à l'action de militants de Cancer Colère, dont sa cofondatrice Fleur Breteau, qui ont jeté des cendres de bois sur Olivér Várhelyi, commissaire à la santé, jeudi 19 novembre à Bruxelles. El",
-      "url": "https://reporterre.net/Lancer-de-cendres-la-Commission-europeenne-condamne-fermement-l-action-des-malades-du-cancer",
-      "published_at": "2026-11-19T17:18:48+00:00"
-    },
-    {
       "id": "01d4ab3eeeb16cbf",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -209,42 +335,6 @@
       "published_at": "2026-11-19T17:00:10+00:00"
     },
     {
-      "id": "984d4ec3bb058d8d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "L'agence atomique internationale veut confier un poste stratégique à un responsable russe impliqué dans la prise de Zaporijia",
-      "resume": "Le directeur général de l'Agence internationale de l'énergie atomique ( AIEA ), Rafael Grossi, a proposé, lundi 16 novembre, de nommer Alexeï Ferapontov au poste de directeur général adjoint chargé de l'énergie nucléaire. Problème, ce haut ",
-      "url": "https://reporterre.net/L-agence-atomique-internationale-veut-confier-un-poste-strategique-a-un-responsable-russe",
-      "published_at": "2026-11-19T16:41:29+00:00"
-    },
-    {
-      "id": "57fe0afaaf0d7a58",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Mirova fait appel à Pantheon pour son quasi fonds de continuation",
-      "resume": "Comme annoncé par GreenUnivers, Mirova s’organise financièrement pour respecter les engagements de ses fonds maison successifs dédiés aux énergies renouvelables – la gamme Energy Transition Infrastructure – à l’égard des investisseurs histo",
-      "url": "https://www.greenunivers.com/2026/11/mirova-fait-appel-a-pantheon-pour-son-quasi-fonds-de-continuation-439214/",
-      "published_at": "2026-11-19T16:38:25+00:00"
-    },
-    {
-      "id": "1b5c52e31544fbfd",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Ce que le Conseil d'État préconise pour améliorer le droit des espèces protégées",
-      "resume": "Dans une étude sur les sanctions des atteintes à l'environnement commandée par le Gouvernement, le Palais-Royal formule des recommandations pour sécuriser les dérogations « espèces protégées » et développer une approche préventive.",
-      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-especes-protegees-derogations-sanctions-48824.php4#xtor=RSS-6",
-      "published_at": "2026-11-19T16:37:40+00:00"
-    },
-    {
-      "id": "2ab1471405cf8482",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Arme nucléaire : aucune limitation prévue par Donald Trump, Vladimir Poutine et Xi Jinping",
-      "resume": "Donald Trump, Vladimir Poutine et Xi Jinping se sont réunis le 19 novembre à Shenzhen, en Chine, en marge du sommet de la Coopération économique pour l'Asie-Pacifique (Apec) pour discuter de la réduction de leurs arsenaux nucléaires. Les tr",
-      "url": "https://reporterre.net/Arme-nucleaire-aucune-limitation-prevue-par-Donald-Trump-Vladimir-Poutine-et-Xi-Jinping",
-      "published_at": "2026-11-19T16:19:17+00:00"
-    },
-    {
       "id": "2162d21b4c363e46",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -252,33 +342,6 @@
       "resume": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari […]",
       "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
       "published_at": "2026-11-19T15:43:23+00:00"
-    },
-    {
-      "id": "5e3b3185e25b2733",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La crise actuelle façonnera durablement le paysage énergétique mondial, prévient l'AIE",
-      "resume": "La crise énergétique accélère les politiques de transition énergétique. Mais l'accent est mis davantage sur la sécurité énergétique, en laissant de côté les enjeux climatiques, souligne l'AIE. Pourtant, les choix actuels auront des répercus",
-      "url": "https://www.actu-environnement.com/ae/news/crise-energetique-aie-weo-transition-48822.php4#xtor=RSS-6",
-      "published_at": "2026-11-19T15:40:26+00:00"
-    },
-    {
-      "id": "9ddd3ae3e8719151",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le tribunal judiciaire de Tulle condamne un syndicat des eaux en raison de la contamination de l'eau potable",
-      "resume": "Le 30 septembre 2026, le tribunal judiciaire de Tulle a condamné le Syndicat des eaux des Deux Vallées (Corrèze) à indemniser à hauteur de 2&#8239;000 euros une habitante ayant consommé de l'eau contaminée au chlorure de vinyle monomère (CV",
-      "url": "https://www.actu-environnement.com/ae/news/condamnation-syndicat-eaux-cvm-contamination-48823.php4#xtor=RSS-6",
-      "published_at": "2026-11-19T15:29:15+00:00"
-    },
-    {
-      "id": "00c87170bfd718a8",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Les obligations des importateurs d'hydrocarbures repoussées de deux ans",
-      "resume": "Le Parlement européen et le Conseil se sont accordés sur un report de deux ans des obligations du règlement méthane visant les importateurs de pétrole, de gaz et de charbon. Un compromis dénoncé comme un « recul majeur » par le Réseau Actio",
-      "url": "https://www.actu-environnement.com/ae/news/reglement-methane-importateurs-hydrocarbures-report-48821.php4#xtor=RSS-6",
-      "published_at": "2026-11-19T14:37:11+00:00"
     },
     {
       "id": "351ce6b4b0b840aa",
@@ -297,15 +360,6 @@
       "resume": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens Amid a rise in early onset cancer , the Trump administration has taken more than 500 actions to systematically dismantle protec",
       "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
       "published_at": "2026-11-19T14:15:15+00:00"
-    },
-    {
-      "id": "6df79cc0b67f0818",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La cour administrative d'appel de Toulouse suspend une autorisation de prélèvement d'eau dans une rivière",
-      "resume": "Par une ordonnance du 16 novembre 2026, la cour administrative d'appel de Toulouse a suspendu l'autorisation environnementale portant sur le prélèvement d'eau dans le Touyre, une rivière de l'Ariège, pour l'alimentation du lac de retenue de",
-      "url": "https://www.actu-environnement.com/ae/news/suspension-prelevement-eau-touyre-montbel-48820.php4#xtor=RSS-6",
-      "published_at": "2026-11-19T13:16:10+00:00"
     },
     {
       "id": "a8f546bd42e959ec",
@@ -353,15 +407,6 @@
       "published_at": "2026-11-19T12:30:47+00:00"
     },
     {
-      "id": "3ad384baf628b285",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
-      "resume": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des […]",
-      "url": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss&utm_medium=rss&utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
-      "published_at": "2026-11-19T12:21:36+00:00"
-    },
-    {
       "id": "dffca8f8c7ae4c86",
       "source": "Novethic",
       "categorie": "Presse",
@@ -398,15 +443,6 @@
       "published_at": "2026-11-19T09:37:07+00:00"
     },
     {
-      "id": "d8a07ba19ffa68a1",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Urbanisme et environnement : retour sur l'année 2025-2026",
-      "resume": "Simplification des procédures, sécurisation des projets et exigences environnementales : retour sur les principales évolutions législatives, réglementaires et jurisprudentielles de l'année en droit de l'urbanisme et de l'environnement.",
-      "url": "https://www.actu-environnement.com/ae/news/urbanisme-environnement-bilan-legislatif-jurisprudentiel-2025-2026-48800.php4#xtor=RSS-6",
-      "published_at": "2026-11-19T09:30:00+00:00"
-    },
-    {
       "id": "6e43ee5b790f8247",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -416,33 +452,6 @@
       "published_at": "2026-11-19T07:00:00+00:00"
     },
     {
-      "id": "d8464b5f56445217",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Conditionner les aides publiques aux entreprises à leur durabilité, l'idée s'impose dans le débat",
-      "resume": "Le débat sur la conditionnalité des aides publiques aux entreprises se renforce - Photo de Romain Dancre sur Unsplash Et si les aides publiques, subventions et crédits d'impôts aux entreprises étaient accordés préférentiellement à celles qu",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/conditionner-aides-publiques-entreprise-debat-renforce",
-      "published_at": "2026-11-19T05:45:08+00:00"
-    },
-    {
-      "id": "b1321ef3fe3d1819",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
-      "resume": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing industry A few years ago, Tony DiLernia, a New York-based charter boat captain, heard rumor",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
-      "published_at": "2026-11-18T14:00:04+00:00"
-    },
-    {
-      "id": "92e23343ea197cbd",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
-      "resume": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legisl",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
-      "published_at": "2026-11-18T13:00:04+00:00"
-    },
-    {
       "id": "8e613906d7118859",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -450,15 +459,6 @@
       "resume": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France Les Echos",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdkQtdl83SXU1QlhkTnlSV09FeDhqcnRHdER3SGhsc05wLUNrZFBLd1dmaWhid1NRem1HX3pJOUxxU3A3NV9WV29WenlMTnJ5N2J1eW9qTjZrbWd1dldYV2JsVlRLZWh1MVlJUGxqdldrRUF2ekNKT2phMTlxSDFZdTRCMjhiSmhndkpJMFNDaHVCOFhnMEktVXkyalVtMG8wVy1SczBkWEppWkQ3c2tGY1JQY0RabURHcXRienFPNC1GcmUwemxlUm5NN3V4MVYtQUJxMGh3Vk1NalcwM3hxNExqWndUUmFGQ2F1RTJiV2JxRlZwU1J5MjctOTRiSjlF?oc=5",
       "published_at": "2026-11-18T06:30:37+00:00"
-    },
-    {
-      "id": "54bf4638ffefab12",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
-      "resume": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the U",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
-      "published_at": "2026-11-18T04:25:29+00:00"
     },
     {
       "id": "caf73bf224f4081e",
@@ -662,7 +662,7 @@
       "id": "0fb573d9e8be1bd9",
       "source": "The Shift Project",
       "categorie": "Climat",
-      "titre": "Manger en 2050 : le nouveau rapport du Shift sur l’alimentation",
+      "titre": "Manger en 2050 le nouveau rapport du Shift sur l’alimentation",
       "resume": "",
       "url": "https://theshiftproject.org/publications/manger-en-2050-rapport-intermediaire/",
       "published_at": "2026-10-22T05:00:26+00:00"
