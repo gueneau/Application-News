@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-11-20T20:37:22.216205+00:00",
+  "generated_at": "2026-11-21T01:54:45.303845+00:00",
   "items": [
+    {
+      "id": "a0bfd9bb4c96399d",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
+      "resume": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient initialement avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
+      "published_at": "2026-11-21T01:35:32+00:00"
+    },
+    {
+      "id": "9db69aa0f7566a30",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
+      "resume": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
+      "published_at": "2026-11-20T23:25:01+00:00"
+    },
     {
       "id": "ea6f8b65ef8642a6",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Pluie-inondation : dans le Pas-de-Calais, les pluies importantes diminuent après des inondations de maisons et de routes",
+      "titre": "Pluie-inondation : dans le Pas-de-Calais, les pluies importantes diminuent après des inondations de maisons et de routes",
       "resume": "Il est tombé jusqu’à plus de 150 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoyait la fin des pluies importantes pour le cours de l’après-midi de vendredi.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-les-pluies-significatives-diminuent-apres-des-inondations-de-maisons-et-de-routes_6813624_3245.html",
       "published_at": "2026-11-20T19:50:23+00:00"
@@ -272,15 +290,6 @@
       "published_at": "2026-11-20T09:02:08+00:00"
     },
     {
-      "id": "16f71e08f5b0cdf9",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les COP, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »",
-      "resume": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des conférences mondiales sur le climat. Pour elles, ces sommets sont l’occasion d’engranger des soutiens pour leurs actions.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/20/les-cop-climat-rendez-vous-incontournable-des-militantes-de-la-societe-civile-il-faut-etre-la-ou-les-decisions-se-prennent-etre-vues-et-entendues_6813607_3244.html",
-      "published_at": "2026-11-20T09:00:06+00:00"
-    },
-    {
       "id": "27cde23a1f0a6349",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -306,15 +315,6 @@
       "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
       "url": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
       "published_at": "2026-11-20T08:00:00+00:00"
-    },
-    {
-      "id": "4480a2f607be3002",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pesticides : des parents d’élèves somment l’Etat d’élargir le périmètre de non-traitement autour des écoles",
-      "resume": "Alors qu’au moins 1,7 million d’écoliers français sont concernés par une pression pesticide forte autour de leur établissement, deux fédérations de parents d’élèves ont envoyé, jeudi 19 novembre, une demande préalable à l’Etat afin d’obteni",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/pesticides-des-parents-d-eleves-somment-l-etat-d-elargir-le-perimetre-de-non-traitement-autour-des-ecoles_6813595_4355770.html",
-      "published_at": "2026-11-20T06:11:55+00:00"
     },
     {
       "id": "105984c1ecf358cb",
@@ -452,6 +452,15 @@
       "published_at": "2026-11-19T07:00:00+00:00"
     },
     {
+      "id": "57902a6bb28e0df3",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
+      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
+      "published_at": "2026-11-19T06:50:09+00:00"
+    },
+    {
       "id": "8e613906d7118859",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -459,15 +468,6 @@
       "resume": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France Les Echos",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdkQtdl83SXU1QlhkTnlSV09FeDhqcnRHdER3SGhsc05wLUNrZFBLd1dmaWhid1NRem1HX3pJOUxxU3A3NV9WV29WenlMTnJ5N2J1eW9qTjZrbWd1dldYV2JsVlRLZWh1MVlJUGxqdldrRUF2ekNKT2phMTlxSDFZdTRCMjhiSmhndkpJMFNDaHVCOFhnMEktVXkyalVtMG8wVy1SczBkWEppWkQ3c2tGY1JQY0RabURHcXRienFPNC1GcmUwemxlUm5NN3V4MVYtQUJxMGh3Vk1NalcwM3hxNExqWndUUmFGQ2F1RTJiV2JxRlZwU1J5MjctOTRiSjlF?oc=5",
       "published_at": "2026-11-18T06:30:37+00:00"
-    },
-    {
-      "id": "caf73bf224f4081e",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Les deux côtés du Rhin main dans la main pour stocker le carbone - Les Echos",
-      "resume": "Les deux côtés du Rhin main dans la main pour stocker le carbone Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOV9naDdiekFPb2tybEppYi1McFpUaWdqLWt5U1dUTWlLV081LTdfeVN4UkM3ZXhhMVVpNGR3ZWRDU1pPYXM5T1IyWXVqaDM5dWNqVWV2dHFHQjVFaDZ1aWluSjJLTWlOYUhiX09Va0trbFdlTU9DUElJRHJPdHEydDZXbllFZElzZmxxZnlmRmNGWUR4RldOS1hxSXR5TmtkN01vckx0SDY3c1dkLXMxQVoxQ0NOT3ZOcmc?oc=5",
-      "published_at": "2026-11-17T14:55:58+00:00"
     },
     {
       "id": "3855d8790c0967e0",
