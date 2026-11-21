@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-21T09:02:00.828995+00:00",
+  "generated_at": "2026-11-21T16:53:15.361854+00:00",
   "items": [
+    {
+      "id": "be2d673e4abfce3d",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le remorquage du cargo « Miro-G », échoué au large des Landes, pourrait durer plusieurs jours",
+      "resume": "Selon la préfecture maritime, le déséchouement « nécessite la réunion de nombreux prérequis techniques », qui ne permettent pas de « garantir à ce stade le succès de cette opération ».",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/21/le-remorquage-du-cargo-miro-g-echoue-au-large-des-landes-pourrait-durer-plusieurs-jours_6814014_3244.html",
+      "published_at": "2026-11-21T12:57:06+00:00"
+    },
     {
       "id": "83ab2f85419f9e95",
       "source": "Reporterre",
@@ -14,10 +23,10 @@
       "id": "987a33c9474fdcf7",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Inondations dans le Pas-de-Calais : la Canche reste en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
-      "resume": "Du côté de la Normandie, Vigicrues a prévenu samedi que la Vire, qui traverse le Calvados et la Manche, atteindrait « les seuils de premiers débordements » dans la matinée, et l’a placée en vigilance jaune.",
+      "titre": "Inondations dans le Pas-de-Calais : deux cours d’eau en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
+      "resume": "En Normandie, Vigicrues a prévenu que le niveau maximum de la Vire, placée en vigilance jaune, « est en passe d’être atteint ce [samedi] matin » dans le secteur de Saint-Lô et qu’il est « susceptible de générer des débordements localisés ».",
       "url": "https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html",
-      "published_at": "2026-11-21T07:01:55+00:00"
+      "published_at": "2026-11-21T07:01:53+00:00"
     },
     {
       "id": "ad1088d6912d8db1",
@@ -35,7 +44,7 @@
       "titre": "En Catalogne, l’éventuel retour des phoques moines sur la Costa Brava inquiète déjà les pêcheurs",
       "resume": "Une étude va être lancée en 2027 pour réinstaller une colonie de mammifères marins sur le littoral catalan où le dernier représentant de l’espèce est mort en 1973. Les pêcheurs craignent de voir leurs prises diminuer en raison de la prédati",
       "url": "https://www.lemonde.fr/planete/article/2026/11/21/en-catalogne-l-eventuel-retour-des-phoques-moines-sur-la-costa-brava-inquiete-deja-les-pecheurs_6813951_3244.html",
-      "published_at": "2026-11-21T06:30:06+00:00"
+      "published_at": "2026-11-21T06:30:01+00:00"
     },
     {
       "id": "e1ec160e2cb1de6f",
@@ -44,13 +53,13 @@
       "titre": "A Agen, les irréductibles opposants à la ligne à grande vitesse Bordeaux-Toulouse : « On a un pays qui est superbe et ils vont venir le massacrer. Qu’est-ce qu’on va laisser à nos enfants ? »",
       "resume": "Dans le Lot-et-Garonne, les déboisements préalables au chantier de la ligne à grande vitesse Bordeaux-Toulouse sont sur le point de commencer. Autour d’Agen, les opposants à ce projet, lancé en 2009, balaient les arguments d’attractivité éc",
       "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/21/a-agen-les-irreductibles-opposants-a-la-ligne-a-grande-vitesse-bordeaux-toulouse-on-a-un-pays-qui-est-superbe-et-ils-vont-venir-le-massacrer-qu-est-ce-qu-on-va-laisser-a-nos-enfants_6813947_4500055.html",
-      "published_at": "2026-11-21T06:00:11+00:00"
+      "published_at": "2026-11-21T06:00:05+00:00"
     },
     {
       "id": "a6ccce69a6f540c0",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« On voit une tortue, un dauphin… Et tout est mort » : les filets dérivants, fléau pour la vie en Méditerranée",
+      "titre": "Massacre en Méditerranée : le fléau des filets dérivants",
       "resume": "Des milliers d'animaux marins meurent dans les filets dérivants utilisés en Méditerranée. L'équipage d'Alexis Rosenfeld documente en mer d'Alboran cette pratique largement illégale. Mer d'Alboran (Méditerranée), reportage Toc toc toc. Quelq",
       "url": "https://reporterre.net/On-voit-une-tortue-un-dauphin-Et-tout-est-mort-les-filets-derivants-fleau-pour-la-vie-en",
       "published_at": "2026-11-21T05:00:00+00:00"
@@ -72,15 +81,6 @@
       "resume": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
       "published_at": "2026-11-20T23:25:01+00:00"
-    },
-    {
-      "id": "ea6f8b65ef8642a6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pluie-inondation : dans le Pas-de-Calais, les pluies importantes diminuent après des inondations de maisons et de routes",
-      "resume": "Il est tombé jusqu’à plus de 150 millimètres dans le sud-ouest du Pas-de-Calais en soixante-douze heures, selon Météo-France, qui prévoyait la fin des pluies importantes pour le cours de l’après-midi de vendredi.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-les-pluies-significatives-diminuent-apres-des-inondations-de-maisons-et-de-routes_6813624_3245.html",
-      "published_at": "2026-11-20T19:50:23+00:00"
     },
     {
       "id": "cd2bf2c64d6d64f8",
@@ -452,13 +452,13 @@
       "published_at": "2026-11-19T07:00:00+00:00"
     },
     {
-      "id": "a4f25991115413bc",
+      "id": "57902a6bb28e0df3",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est - Les Echos",
-      "resume": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjJmMGt2UXRxUE5maEVrV2w1S0dMa3dfU0lEeHdwMnZhaVgwNGxtbUEyYTZOTTQ1NE1WS0txbDRHemxsWk45Vk5rX0otLWRUSFJaY2IxOC1LTTBrd1NOVkxGMVJIOUNna1pmOTREc3Y1TzFkWlFCeVZqeTBwX2psYXpXbmZOUzZrZUdRQU9nTzBGdkxmMENPaEVRWVJhM28wTXhZSk84cnNQczZwOUxEajNvV1ZfV3RHNVpSM3FHNHlpOVNk?oc=5",
-      "published_at": "2026-11-18T14:20:05+00:00"
+      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
+      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
+      "published_at": "2026-11-19T06:50:09+00:00"
     },
     {
       "id": "8e613906d7118859",
