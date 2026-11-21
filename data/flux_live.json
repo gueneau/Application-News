@@ -1,12 +1,66 @@
 {
-  "generated_at": "2026-11-21T01:54:45.303845+00:00",
+  "generated_at": "2026-11-21T09:02:00.828995+00:00",
   "items": [
+    {
+      "id": "83ab2f85419f9e95",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Même si elle interdit la chasse, l'extrême droite ne sera jamais l'alliée du vivant »",
+      "resume": "Chasse interdite, foie gras banni... Le maire de Fréjus David Rachline additionne les mesures animalistes. Un vernis progressiste qui ne saurait cacher l'hypocrisie réactionnaire de l'extrême droite sur le vivant, rappelle notre chroniqueus",
+      "url": "https://reporterre.net/Meme-si-elle-interdit-la-chasse-l-extreme-droite-ne-sera-jamais-l-alliee-du-vivant",
+      "published_at": "2026-11-21T08:42:44+00:00"
+    },
+    {
+      "id": "987a33c9474fdcf7",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Inondations dans le Pas-de-Calais : la Canche reste en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
+      "resume": "Du côté de la Normandie, Vigicrues a prévenu samedi que la Vire, qui traverse le Calvados et la Manche, atteindrait « les seuils de premiers débordements » dans la matinée, et l’a placée en vigilance jaune.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html",
+      "published_at": "2026-11-21T07:01:55+00:00"
+    },
+    {
+      "id": "ad1088d6912d8db1",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Ludivine Bantigny : « Un grand élan populaire peut renverser la fascisation du monde »",
+      "resume": "Le capitalisme marchandise tout et dévaste la planète. Face aux résistances, il s'appuie sur l'extrême droite. Mais devant cette menace, la gauche peut gagner : c'est ce qu'enseigne l'histoire du Front populaire, analyse l'historienne Ludiv",
+      "url": "https://reporterre.net/Ludivine-Bantigny-Un-grand-elan-populaire-peut-renverser-la-fascisation-du-monde",
+      "published_at": "2026-11-21T07:00:00+00:00"
+    },
+    {
+      "id": "08e46b9bc38b663c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Catalogne, l’éventuel retour des phoques moines sur la Costa Brava inquiète déjà les pêcheurs",
+      "resume": "Une étude va être lancée en 2027 pour réinstaller une colonie de mammifères marins sur le littoral catalan où le dernier représentant de l’espèce est mort en 1973. Les pêcheurs craignent de voir leurs prises diminuer en raison de la prédati",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/21/en-catalogne-l-eventuel-retour-des-phoques-moines-sur-la-costa-brava-inquiete-deja-les-pecheurs_6813951_3244.html",
+      "published_at": "2026-11-21T06:30:06+00:00"
+    },
+    {
+      "id": "e1ec160e2cb1de6f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A Agen, les irréductibles opposants à la ligne à grande vitesse Bordeaux-Toulouse : « On a un pays qui est superbe et ils vont venir le massacrer. Qu’est-ce qu’on va laisser à nos enfants ? »",
+      "resume": "Dans le Lot-et-Garonne, les déboisements préalables au chantier de la ligne à grande vitesse Bordeaux-Toulouse sont sur le point de commencer. Autour d’Agen, les opposants à ce projet, lancé en 2009, balaient les arguments d’attractivité éc",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/21/a-agen-les-irreductibles-opposants-a-la-ligne-a-grande-vitesse-bordeaux-toulouse-on-a-un-pays-qui-est-superbe-et-ils-vont-venir-le-massacrer-qu-est-ce-qu-on-va-laisser-a-nos-enfants_6813947_4500055.html",
+      "published_at": "2026-11-21T06:00:11+00:00"
+    },
+    {
+      "id": "a6ccce69a6f540c0",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« On voit une tortue, un dauphin… Et tout est mort » : les filets dérivants, fléau pour la vie en Méditerranée",
+      "resume": "Des milliers d'animaux marins meurent dans les filets dérivants utilisés en Méditerranée. L'équipage d'Alexis Rosenfeld documente en mer d'Alboran cette pratique largement illégale. Mer d'Alboran (Méditerranée), reportage Toc toc toc. Quelq",
+      "url": "https://reporterre.net/On-voit-une-tortue-un-dauphin-Et-tout-est-mort-les-filets-derivants-fleau-pour-la-vie-en",
+      "published_at": "2026-11-21T05:00:00+00:00"
+    },
     {
       "id": "a0bfd9bb4c96399d",
       "source": "Le Monde Planète",
       "categorie": "Presse",
       "titre": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
-      "resume": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient initialement avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
+      "resume": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
       "published_at": "2026-11-21T01:35:32+00:00"
     },
@@ -54,15 +108,6 @@
       "resume": "C'est officiel. L'arrêté du 3 novembre 2026, publié au Journal officiel du 18 novembre, reporte du 1er juillet 2026 au 1er janvier 2027 le démarrage de la filière de responsabilité élargie des producteurs d'emballages professionnels (REP Ep",
       "url": "https://www.actu-environnement.com/ae/news/rep-epro-report-janvier-2027-cahier-charges-48829.php4#xtor=RSS-6",
       "published_at": "2026-11-20T16:35:51+00:00"
-    },
-    {
-      "id": "18e3943f239cc780",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "COP31 : dans la dernière ligne droite des négociations, les énergies fossiles et les financements au centre du jeu",
-      "resume": "Les pourparlers de la 31ᵉ conférence mondiale sur le climat, à Antalya, en Turquie, étaient censés s’achever vendredi 20 novembre. Ils jouaient les prolongations faute d’accord sur des sujets-clés, comme les énergies fossiles et les finance",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/20/cop31-dans-la-derniere-ligne-droite-des-negociations-les-energies-fossiles-et-les-financements-au-centre-du-jeu_6813663_3244.html",
-      "published_at": "2026-11-20T16:28:48+00:00"
     },
     {
       "id": "93d470eef1caa4f9",
@@ -137,15 +182,6 @@
       "published_at": "2026-11-20T14:51:02+00:00"
     },
     {
-      "id": "2f05c2c4a447b511",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Une militante des droits humains exclue de la COP31 après un simple échange avec Monique Barbut",
-      "resume": "Mariam Touré, militante des droits humains, a été exclue de la COP31 en Turquie par la France, après avoir interrogé la ministre de la Transition écologique sur le fonds dédié aux pays vulnérables. « Elle a juste fait son travail », dénonce",
-      "url": "https://reporterre.net/Mariam-Toure-militante-des-droits-humains-exclue-de-la-COP31-apres-un-echange-avec",
-      "published_at": "2026-11-20T14:50:28+00:00"
-    },
-    {
       "id": "11948148d2709985",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -153,24 +189,6 @@
       "resume": "Evolution naturelle du secteur ou voie de secours pour remplacer le développement greenfield devenu trop conflictuel ? Identifié comme source L’article Malgré un appel d’offres à succès, le repowering éolien peine à concrétiser ses promesse",
       "url": "https://www.greenunivers.com/2026/11/malgre-un-appel-doffres-a-succes-le-repowering-eolien-peine-a-concretiser-ses-promesses-438228/",
       "published_at": "2026-11-20T14:47:32+00:00"
-    },
-    {
-      "id": "7942f46f9e97a505",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Fleur Breteau et des malades du cancer libérés après 25 heures de privation de liberté pour avoir jeté des cendres",
-      "resume": "Fleur Breteau et ses camarades de Cancer Colère ont été libérés après 25 heures de privation de liberté suite à leur lancer de cendres sur le commissaire européen à la santé. Ils promettent de continuer à lutter contre l'Omnibus X, « loi Du",
-      "url": "https://reporterre.net/Jet-de-cendres-Fleur-Breteau-liberee-apres-25-heures-de-privation-de-liberte",
-      "published_at": "2026-11-20T14:45:12+00:00"
-    },
-    {
-      "id": "4cdbac1bb6c51df6",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "L'ex-patron de Haribo et du lobby de l'agroalimentaire nommé à la tête du programme de l'État sur l'alimentation",
-      "resume": "Jean-Philippe André, patron de Haribo jusqu'en décembre 2025, a été nommé par la ministre de l'Agriculture coprésident du comité de suivi de la Stratégie nationale pour l'alimentation, la nutrition et le climat. Créée par la loi Climat et R",
-      "url": "https://reporterre.net/L-ex-patron-de-Haribo-et-du-lobby-de-l-agroalimentaire-nomme-a-la-tete-du-programme-de-l-Etat-sur-l-alimentation",
-      "published_at": "2026-11-20T14:05:18+00:00"
     },
     {
       "id": "3b0d363b04b845a5",
@@ -191,15 +209,6 @@
       "published_at": "2026-11-20T13:42:00+00:00"
     },
     {
-      "id": "f80d63b297d98251",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A la COP31, une militante des droits humains exclue de la délégation française après avoir interpellé la ministre Monique Barbut",
-      "resume": "Mariam Touré a interrogé la ministre de la transition écologique sur les financements en faveur de l’adaptation au réchauffement climatique dans un couloir du centre de conférences à Antalya, au cours d’un échange filmé. Le cabinet ministér",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/20/a-la-cop31-une-militante-des-droits-humains-exclue-de-la-delegation-francaise-apres-avoir-interpelle-la-ministre-monique-barbut_6813643_3244.html",
-      "published_at": "2026-11-20T13:31:55+00:00"
-    },
-    {
       "id": "8dad14e608dda508",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -216,15 +225,6 @@
       "resume": "Climate change-focused environmental non-profit Environmental Defense Fund (EDF) has appointed Beatriz Da Cunha as its […]",
       "url": "https://www.esgtoday.com/environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance/?utm_source=rss&utm_medium=rss&utm_campaign=environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance",
       "published_at": "2026-11-20T13:10:59+00:00"
-    },
-    {
-      "id": "6eae2f0d62da544d",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Cargo échoué sur le littoral des Landes : le remorquage du bateau, pour éviter qu’il ne chavire, s’annonce compliqué en raison de la météo",
-      "resume": "« La coque touche le fond. Le but des opérations maintenant est de réfléchir à un déséchouement de ce bateau, c’est-à-dire à le tirer vers le large (…) afin d’éviter qu’il ne bascule », a expliqué le porte-parole de la préfecture maritime d",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/20/cargo-echoue-sur-le-littoral-des-landes-le-remorquage-du-bateau-pour-eviter-qu-il-ne-chavire-s-annonce-complique-en-raison-de-la-meteo_6813591_3225.html",
-      "published_at": "2026-11-20T12:14:07+00:00"
     },
     {
       "id": "f23e9698f515c70a",
@@ -452,13 +452,13 @@
       "published_at": "2026-11-19T07:00:00+00:00"
     },
     {
-      "id": "57902a6bb28e0df3",
+      "id": "a4f25991115413bc",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
-      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
-      "published_at": "2026-11-19T06:50:09+00:00"
+      "titre": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est - Les Echos",
+      "resume": "Les tenants de l'énergie citoyenne ont le vent en poupe dans le Grand Est Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjJmMGt2UXRxUE5maEVrV2w1S0dMa3dfU0lEeHdwMnZhaVgwNGxtbUEyYTZOTTQ1NE1WS0txbDRHemxsWk45Vk5rX0otLWRUSFJaY2IxOC1LTTBrd1NOVkxGMVJIOUNna1pmOTREc3Y1TzFkWlFCeVZqeTBwX2psYXpXbmZOUzZrZUdRQU9nTzBGdkxmMENPaEVRWVJhM28wTXhZSk84cnNQczZwOUxEajNvV1ZfV3RHNVpSM3FHNHlpOVNk?oc=5",
+      "published_at": "2026-11-18T14:20:05+00:00"
     },
     {
       "id": "8e613906d7118859",
