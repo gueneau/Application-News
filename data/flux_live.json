@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-22T01:56:17.223906+00:00",
+  "generated_at": "2026-11-22T09:16:10.692128+00:00",
   "items": [
+    {
+      "id": "3397df5e2d127082",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Climat : la COP31 au bord de l’impasse ; le dernier texte proposé « nous ramène en arrière », dénonce la France",
+      "resume": "Face à des négociations qui s’enlisent à Antalya, la COP31 est divisée sur la captation du carbone et l’absence d’engagements clairs sur les énergies fossiles, laissant planer l’incertitude d’un accord jusqu’au bout.",
+      "url": "https://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html",
+      "published_at": "2026-11-22T08:48:06+00:00"
+    },
+    {
+      "id": "e38f2c3693b5f1eb",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "ESG Today: Week in Review",
+      "resume": "This week in ESG news: Sustainable bond issuance on track to rebound to multi-year high […]",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-284/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-284",
+      "published_at": "2026-11-22T08:12:50+00:00"
+    },
+    {
+      "id": "ce1b0aa1fadc9107",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« J'aimerais que le temps des plantes grignote le temps du travail »",
+      "resume": "« Je me sens prise entre deux feux, deux temporalités inconciliables », écrit notre journaliste dans cette chronique. D'un côté le potager, qui n'attend pas, et de l'autre, le travail. Et si notre emploi du temps se calquait plutôt sur celu",
+      "url": "https://reporterre.net/J-aimerais-que-le-temps-des-plantes-grignote-le-temps-du-travail",
+      "published_at": "2026-11-22T07:00:00+00:00"
+    },
+    {
+      "id": "aeedda81a9b121ff",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Le loup a redynamisé le métier » : ces bergers croient à la coexistence avec le prédateur",
+      "resume": "Le retour du loup dans les alpages a bouleversé le métier des éleveurs et bergers. Malgré le stress et les adaptations qu'entraîne sa présence, certains sont favorables à une coexistence avec le prédateur. Alpes-de-Haute-Provence, Hautes-Al",
+      "url": "https://reporterre.net/Le-loup-a-redynamise-le-metier-ces-bergers-croient-a-la-coexistence-avec-le-predateur",
+      "published_at": "2026-11-22T07:00:00+00:00"
+    },
+    {
+      "id": "c1e137a5e105483c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "L’Ain et le Jura placés en vigilance orange pluies-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais",
+      "resume": "Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche dans le Pas-de-Calais.",
+      "url": "https://www.lemonde.fr/climat/article/2026/11/22/l-ain-et-le-jura-places-en-en-vigilance-orange-pluies-inondations-dimanche-soir-la-canche-a-des-niveaux-toujours-eleves-dans-le-pas-de-calais_6814193_1652612.html",
+      "published_at": "2026-11-22T06:33:44+00:00"
+    },
+    {
+      "id": "f544c23afe517d3a",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A Saint-Maur-des-Fossés, le chêne quadricentenaire résiste au promoteur immobilier",
+      "resume": "Des habitants de la commune val-de-marnaise se mobilisent pour contrecarrer un projet immobilier menaçant le plus vieux chêne pédonculé d’Ile-de-France, un arbre chéri de nombreux riverains et qui fait l’objet d’une pétition ayant obtenu 85",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/22/a-saint-maur-des-fosses-le-chene-quadricentenaire-resiste-au-promoteur-immobilier_6814180_3244.html",
+      "published_at": "2026-11-22T05:05:07+00:00"
+    },
+    {
+      "id": "b2893ed695978c16",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
+      "resume": "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou famille de substances les mieux connues, le fardeau des dégâts sanitaires se monte à 1 000",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
+      "published_at": "2026-11-22T04:50:09+00:00"
+    },
     {
       "id": "be2d673e4abfce3d",
       "source": "Le Monde Planète",
@@ -38,24 +101,6 @@
       "published_at": "2026-11-21T07:00:00+00:00"
     },
     {
-      "id": "08e46b9bc38b663c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Catalogne, l’éventuel retour des phoques moines sur la Costa Brava inquiète déjà les pêcheurs",
-      "resume": "Une étude va être lancée en 2027 pour réinstaller une colonie de mammifères marins sur le littoral catalan où le dernier représentant de l’espèce est mort en 1973. Les pêcheurs craignent de voir leurs prises diminuer en raison de la prédati",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/21/en-catalogne-l-eventuel-retour-des-phoques-moines-sur-la-costa-brava-inquiete-deja-les-pecheurs_6813951_3244.html",
-      "published_at": "2026-11-21T06:30:01+00:00"
-    },
-    {
-      "id": "e1ec160e2cb1de6f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A Agen, les irréductibles opposants à la ligne à grande vitesse Bordeaux-Toulouse : « On a un pays qui est superbe et ils vont venir le massacrer. Qu’est-ce qu’on va laisser à nos enfants ? »",
-      "resume": "Dans le Lot-et-Garonne, les déboisements préalables au chantier de la ligne à grande vitesse Bordeaux-Toulouse sont sur le point de commencer. Autour d’Agen, les opposants à ce projet, lancé en 2009, balaient les arguments d’attractivité éc",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/21/a-agen-les-irreductibles-opposants-a-la-ligne-a-grande-vitesse-bordeaux-toulouse-on-a-un-pays-qui-est-superbe-et-ils-vont-venir-le-massacrer-qu-est-ce-qu-on-va-laisser-a-nos-enfants_6813947_4500055.html",
-      "published_at": "2026-11-21T06:00:05+00:00"
-    },
-    {
       "id": "a6ccce69a6f540c0",
       "source": "Reporterre",
       "categorie": "Presse",
@@ -63,24 +108,6 @@
       "resume": "Des milliers d'animaux marins meurent dans les filets dérivants utilisés en Méditerranée. L'équipage d'Alexis Rosenfeld documente en mer d'Alboran cette pratique largement illégale. Mer d'Alboran (Méditerranée), reportage Toc toc toc. Quelq",
       "url": "https://reporterre.net/On-voit-une-tortue-un-dauphin-Et-tout-est-mort-les-filets-derivants-fleau-pour-la-vie-en",
       "published_at": "2026-11-21T05:00:00+00:00"
-    },
-    {
-      "id": "a0bfd9bb4c96399d",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
-      "resume": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
-      "published_at": "2026-11-21T01:35:32+00:00"
-    },
-    {
-      "id": "9db69aa0f7566a30",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
-      "resume": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
-      "published_at": "2026-11-20T23:25:01+00:00"
     },
     {
       "id": "cd2bf2c64d6d64f8",
@@ -119,15 +146,6 @@
       "published_at": "2026-11-20T16:10:44+00:00"
     },
     {
-      "id": "7ccfa7a45d91138d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Crise de l'agriculture : les deux mandats d'Emmanuel Macron n'auront rien résolu",
-      "resume": "Les crises s'enchaînent de plus en plus vite dans une agriculture française qui va de plus en plus mal. Les deux mandats d'Emmanuel Macron, qui auront vu des sommes énormes dépensées pour plus de productivité, n'auront rien résolu des cause",
-      "url": "https://reporterre.net/Crise-de-l-agriculture-les-deux-mandats-d-Emmanuel-Macron-n-auront-rien-resolu",
-      "published_at": "2026-11-20T16:10:07+00:00"
-    },
-    {
       "id": "7ed4e771e921194d",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -144,15 +162,6 @@
       "resume": "Par une décision du 17 novembre 2026, le Conseil d'État a annulé une décision de la cour administrative d'appel de Toulouse qui avait enjoint au préfet de mettre en demeure la société Energie du Haut-Dourdou de déposer un dossier de demande",
       "url": "https://www.actu-environnement.com/ae/news/bridage-eoliennes-derogation-especes-protegees-conseil-etat-48827.php4#xtor=RSS-6",
       "published_at": "2026-11-20T15:39:00+00:00"
-    },
-    {
-      "id": "1085f9ca60b0453e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les tortues marines, victimes collatérales de l'explosion d'un propulseur SpaceX",
-      "resume": "Dans sa course vers l'espace, le milliardaire Elon Musk mine l'océan. Le 13 novembre, lors d'un vol d'essai, le propulseur de la fusée Starship de son entreprise astronautique, SpaceX, a explosé au-dessus du golfe du Mexique, avant d'y coul",
-      "url": "https://reporterre.net/Les-tortues-marines-victimes-collaterales-de-l-explosion-d-un-propulseur-SpaceX",
-      "published_at": "2026-11-20T15:36:41+00:00"
     },
     {
       "id": "a2f082009651df1f",
@@ -371,15 +380,6 @@
       "published_at": "2026-11-19T13:07:50+00:00"
     },
     {
-      "id": "4fe909148cebf014",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
-      "resume": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone […]",
-      "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
-      "published_at": "2026-11-19T13:02:36+00:00"
-    },
-    {
       "id": "cd475c910df7af39",
       "source": "Novethic",
       "categorie": "Presse",
@@ -452,15 +452,6 @@
       "published_at": "2026-11-19T07:00:00+00:00"
     },
     {
-      "id": "57902a6bb28e0df3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
-      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
-      "published_at": "2026-11-19T06:50:09+00:00"
-    },
-    {
       "id": "8e613906d7118859",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -468,6 +459,15 @@
       "resume": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France Les Echos",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdkQtdl83SXU1QlhkTnlSV09FeDhqcnRHdER3SGhsc05wLUNrZFBLd1dmaWhid1NRem1HX3pJOUxxU3A3NV9WV29WenlMTnJ5N2J1eW9qTjZrbWd1dldYV2JsVlRLZWh1MVlJUGxqdldrRUF2ekNKT2phMTlxSDFZdTRCMjhiSmhndkpJMFNDaHVCOFhnMEktVXkyalVtMG8wVy1SczBkWEppWkQ3c2tGY1JQY0RabURHcXRienFPNC1GcmUwemxlUm5NN3V4MVYtQUJxMGh3Vk1NalcwM3hxNExqWndUUmFGQ2F1RTJiV2JxRlZwU1J5MjctOTRiSjlF?oc=5",
       "published_at": "2026-11-18T06:30:37+00:00"
+    },
+    {
+      "id": "caf73bf224f4081e",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Les deux côtés du Rhin main dans la main pour stocker le carbone - Les Echos",
+      "resume": "Les deux côtés du Rhin main dans la main pour stocker le carbone Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOV9naDdiekFPb2tybEppYi1McFpUaWdqLWt5U1dUTWlLV081LTdfeVN4UkM3ZXhhMVVpNGR3ZWRDU1pPYXM5T1IyWXVqaDM5dWNqVWV2dHFHQjVFaDZ1aWluSjJLTWlOYUhiX09Va0trbFdlTU9DUElJRHJPdHEydDZXbllFZElzZmxxZnlmRmNGWUR4RldOS1hxSXR5TmtkN01vckx0SDY3c1dkLXMxQVoxQ0NOT3ZOcmc?oc=5",
+      "published_at": "2026-11-17T14:55:58+00:00"
     },
     {
       "id": "3855d8790c0967e0",
