@@ -1,14 +1,59 @@
 {
-  "generated_at": "2026-11-22T09:16:10.692128+00:00",
+  "generated_at": "2026-11-22T17:16:31.979287+00:00",
   "items": [
     {
-      "id": "3397df5e2d127082",
+      "id": "b574fbc0ce050fa0",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Climat : la COP31 au bord de l’impasse ; le dernier texte proposé « nous ramène en arrière », dénonce la France",
-      "resume": "Face à des négociations qui s’enlisent à Antalya, la COP31 est divisée sur la captation du carbone et l’absence d’engagements clairs sur les énergies fossiles, laissant planer l’incertitude d’un accord jusqu’au bout.",
-      "url": "https://www.lemonde.fr/climat/article/2026/11/22/climat-la-cop31-au-bord-de-l-impasse-le-dernier-texte-propose-nous-ramene-en-arriere-denonce-la-france_6814199_1652612.html",
-      "published_at": "2026-11-22T08:48:06+00:00"
+      "titre": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
+      "resume": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellem",
+      "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html",
+      "published_at": "2026-11-22T17:11:51+00:00"
+    },
+    {
+      "id": "5d77bbb099d88c0d",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "\"Le plus gros échec de l'histoire des COP\" : à Antalya, les énergies fossiles font dérailler les négociations climatiques",
+      "resume": "Manifestation de Greenpeace en marge de la COP31. Caner Özkan / Greenpeace Antalya, dimanche 22 novembre. Il aura fallu près de 48 heures supplémentaires pour que le constat tombe : la COP31 n'aura pas son accord politique final. Lors de la",
+      "url": "https://www.novethic.fr/environnement/climat/le-plus-gros-echec-de-lhistoire-des-cop-a-antalya-les-energies-fossiles-font-derailler-les-negociations-climatiques",
+      "published_at": "2026-11-22T15:55:48+00:00"
+    },
+    {
+      "id": "7db378e4e5943c1a",
+      "source": "Politico Energy EU",
+      "categorie": "Réglementation",
+      "titre": "COP31 : l’accord capote sur fond de désaccord sur les énergies fossiles",
+      "resume": "Les négociations n’ont pas réussi à aboutir sur un accord malgré les avertissements concernant un réchauffement climatique galopant.",
+      "url": "https://www.politico.eu/article/cop31-laccord-capote-sur-fond-de-desaccord-sur-les-energies-fossiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "published_at": "2026-11-22T13:54:46+00:00"
+    },
+    {
+      "id": "4a7b7821f9f54f58",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La « pire de toutes les COP » se termine sans accord et avec un retard historique",
+      "resume": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par les pays climatiquement vulnérables. Un fiasco historique pour la diplomatie planétaire. Antalya (Turquie), env",
+      "url": "https://reporterre.net/La-pire-de-toutes-les-COP-touche-a-sa-fin-sans-accord-et-avec-un-retard-historique",
+      "published_at": "2026-11-22T13:51:00+00:00"
+    },
+    {
+      "id": "591541208a395d16",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "L'Union européenne et ses alliés refusent d'adopter le texte de la COP - Les Echos",
+      "resume": "L'Union européenne et ses alliés refusent d'adopter le texte de la COP Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWpOUGtHTGMxb2I4UncyQVBLTmt4UjdjN0pWNEZlU21uc2dHc3JxYmxvR3hQQ2tlT2tIUnJxZDJEejJFemx3QTJuNEpiM3lfUVE2bjI3X2R1MmtERVRvNFd4QXZWNVlKck9TNVpNNkx2U2tKMUhyVDg3ZS0xNUJvb0tCNHhkRm12bXhNQlJxemg1aWtrUnFrZkZPUE1ZOGJ0VU03M0RJalhDd2NuVGZMbzBtaDRYOEpqNGo4WmtkUDFMLXBiRlRn?oc=5",
+      "published_at": "2026-11-22T12:00:31+00:00"
+    },
+    {
+      "id": "15b416e1cd2f6f42",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La COP31 se dirige vers un fiasco historique",
+      "resume": "La COP31 n'est pas terminée qu'elle est déjà officiellement la plus longue de l'histoire. Quinze jours de négociations et plus de quarante-quatre heures de prolongations pour… rien ? À Antalya, la COP31 avance à grands pas vers des scénario",
+      "url": "https://reporterre.net/La-COP31-se-dirige-vers-un-fiasco-historique",
+      "published_at": "2026-11-22T11:48:50+00:00"
     },
     {
       "id": "e38f2c3693b5f1eb",
@@ -41,8 +86,8 @@
       "id": "c1e137a5e105483c",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "L’Ain et le Jura placés en vigilance orange pluies-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais",
-      "resume": "Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche dans le Pas-de-Calais.",
+      "titre": "L’Ain et le Jura placés en vigilance orange pluie-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais",
+      "resume": "Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche, dans le Pas-de-Calais.",
       "url": "https://www.lemonde.fr/climat/article/2026/11/22/l-ain-et-le-jura-places-en-en-vigilance-orange-pluies-inondations-dimanche-soir-la-canche-a-des-niveaux-toujours-eleves-dans-le-pas-de-calais_6814193_1652612.html",
       "published_at": "2026-11-22T06:33:44+00:00"
     },
@@ -62,7 +107,16 @@
       "titre": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
       "resume": "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou famille de substances les mieux connues, le fardeau des dégâts sanitaires se monte à 1 000",
       "url": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
-      "published_at": "2026-11-22T04:50:09+00:00"
+      "published_at": "2026-11-22T04:50:06+00:00"
+    },
+    {
+      "id": "f2a4bcc440f7d763",
+      "source": "The Guardian Environment",
+      "categorie": "Climat",
+      "titre": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+      "resume": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+      "published_at": "2026-11-21T14:38:58+00:00"
     },
     {
       "id": "be2d673e4abfce3d",
@@ -95,19 +149,10 @@
       "id": "ad1088d6912d8db1",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Ludivine Bantigny : « Un grand élan populaire peut renverser la fascisation du monde »",
+      "titre": "« Un grand élan populaire peut renverser la fascisation du monde »",
       "resume": "Le capitalisme marchandise tout et dévaste la planète. Face aux résistances, il s'appuie sur l'extrême droite. Mais devant cette menace, la gauche peut gagner : c'est ce qu'enseigne l'histoire du Front populaire, analyse l'historienne Ludiv",
       "url": "https://reporterre.net/Ludivine-Bantigny-Un-grand-elan-populaire-peut-renverser-la-fascisation-du-monde",
       "published_at": "2026-11-21T07:00:00+00:00"
-    },
-    {
-      "id": "a6ccce69a6f540c0",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Massacre en Méditerranée : le fléau des filets dérivants",
-      "resume": "Des milliers d'animaux marins meurent dans les filets dérivants utilisés en Méditerranée. L'équipage d'Alexis Rosenfeld documente en mer d'Alboran cette pratique largement illégale. Mer d'Alboran (Méditerranée), reportage Toc toc toc. Quelq",
-      "url": "https://reporterre.net/On-voit-une-tortue-un-dauphin-Et-tout-est-mort-les-filets-derivants-fleau-pour-la-vie-en",
-      "published_at": "2026-11-21T05:00:00+00:00"
     },
     {
       "id": "cd2bf2c64d6d64f8",
@@ -135,15 +180,6 @@
       "resume": "C'est officiel. L'arrêté du 3 novembre 2026, publié au Journal officiel du 18 novembre, reporte du 1er juillet 2026 au 1er janvier 2027 le démarrage de la filière de responsabilité élargie des producteurs d'emballages professionnels (REP Ep",
       "url": "https://www.actu-environnement.com/ae/news/rep-epro-report-janvier-2027-cahier-charges-48829.php4#xtor=RSS-6",
       "published_at": "2026-11-20T16:35:51+00:00"
-    },
-    {
-      "id": "93d470eef1caa4f9",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "À la COP31, les États sont très loin d'obtenir un accord",
-      "resume": "Antalya (Turquie), envoyé spécial La COP31 est terminée, les prolongations commencent. Officiellement, la 31 e conférence des Nations unies sur le changement climatique, accueillie cette année par Antalya (Turquie), devait se clôturer le 20",
-      "url": "https://reporterre.net/A-la-COP31-les-Etats-sont-tres-loin-d-obtenir-un-accord",
-      "published_at": "2026-11-20T16:10:44+00:00"
     },
     {
       "id": "7ed4e771e921194d",
@@ -398,15 +434,6 @@
       "published_at": "2026-11-19T12:40:33+00:00"
     },
     {
-      "id": "8a22571cca3f2de2",
-      "source": "The Guardian Environment",
-      "categorie": "Climat",
-      "titre": "‘It’s a biohazard’: Native communities in US south-west try to recover after flooding intensified by El Niño",
-      "resume": "Residents and local groups band together after severe flooding submerged a New Mexico town in toxic water On the night of 23 October, Jimmie Goodman was trying to get some rest when his sister, who was recovering from back surgery and havin",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/el-nino-flooding-native-communities",
-      "published_at": "2026-11-19T12:30:47+00:00"
-    },
-    {
       "id": "dffca8f8c7ae4c86",
       "source": "Novethic",
       "categorie": "Presse",
@@ -423,15 +450,6 @@
       "resume": "Air Liquide, TotalEnergies, Engie et Veolia Environnement gardent le cap de la croissance et offrent de la visibilité Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQUIwVEsxN0NxcnlLS2trMk5zWVJkQjllOUZTVTMtUjI3Y294TkNSQVB0ZUUzcmdpQ3hhWURRYks1RUdLbW11YWpYRnBrWWhHTGlJN2duY0E1ODNJaldBeEFJZFJyeGphN1k3TFdpdklnT0w2OU5pOU4tWmJ4aGUzVElsdm9UZ1FQaXFlckVOR25EbkI0Z09wb1A0ejljYmp1Z1FWdHNxeHI4TFNmUUZTNllYRXQ2c0hkYjZ6cVdFaWFocklZcEROcHV6NjV6bVR1aUVRd1ZmZWFtTTFWWmc0NVdlMk12REhFTFdPckdSaVlUODlCYU5LOVdZUEZYNlBtVlowVXRWckhjVU92a2FkamZHVzNrYmc?oc=5",
       "published_at": "2026-11-19T10:30:25+00:00"
-    },
-    {
-      "id": "e1e3db2c84808e10",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Le règlement méthane de l'UE finalement reporté de deux ans, à 2029",
-      "resume": "Environ un tiers des émissions de méthane du secteur des énergies fossiles pourrait être évité selon l'AIE. @Pixabay Le lobbying pétro-gazier vient de gagner une année de sursis supplémentaire sur l'application du règlement sur le méthane q",
-      "url": "https://www.novethic.fr/environnement/transition-energetique/le-reglement-methane-de-lue-finalement-reporte-de-deux-ans-a-2029",
-      "published_at": "2026-11-19T09:59:38+00:00"
     },
     {
       "id": "cdcd855e7a593ece",
@@ -459,15 +477,6 @@
       "resume": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France Les Echos",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdkQtdl83SXU1QlhkTnlSV09FeDhqcnRHdER3SGhsc05wLUNrZFBLd1dmaWhid1NRem1HX3pJOUxxU3A3NV9WV29WenlMTnJ5N2J1eW9qTjZrbWd1dldYV2JsVlRLZWh1MVlJUGxqdldrRUF2ekNKT2phMTlxSDFZdTRCMjhiSmhndkpJMFNDaHVCOFhnMEktVXkyalVtMG8wVy1SczBkWEppWkQ3c2tGY1JQY0RabURHcXRienFPNC1GcmUwemxlUm5NN3V4MVYtQUJxMGh3Vk1NalcwM3hxNExqWndUUmFGQ2F1RTJiV2JxRlZwU1J5MjctOTRiSjlF?oc=5",
       "published_at": "2026-11-18T06:30:37+00:00"
-    },
-    {
-      "id": "caf73bf224f4081e",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Les deux côtés du Rhin main dans la main pour stocker le carbone - Les Echos",
-      "resume": "Les deux côtés du Rhin main dans la main pour stocker le carbone Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOV9naDdiekFPb2tybEppYi1McFpUaWdqLWt5U1dUTWlLV081LTdfeVN4UkM3ZXhhMVVpNGR3ZWRDU1pPYXM5T1IyWXVqaDM5dWNqVWV2dHFHQjVFaDZ1aWluSjJLTWlOYUhiX09Va0trbFdlTU9DUElJRHJPdHEydDZXbllFZElzZmxxZnlmRmNGWUR4RldOS1hxSXR5TmtkN01vckx0SDY3c1dkLXMxQVoxQ0NOT3ZOcmc?oc=5",
-      "published_at": "2026-11-17T14:55:58+00:00"
     },
     {
       "id": "3855d8790c0967e0",
@@ -585,15 +594,6 @@
       "resume": "Dans son dernier rapport d’étape, la Commission européenne tire la sonnette d’alarme face au ralentissement de la baisse des émissions de gaz à effet de serre. Alors que les transports, le bâtiment et l’agriculture sont à la traîne, les déb",
       "url": "https://www.contexte.com/fr/article/energie/reduction-des-emissions-lue-face-au-risque-dune-sortie-de-route_284327?source=rss",
       "published_at": "2026-11-10T07:00:00+00:00"
-    },
-    {
-      "id": "0cc274c9dc9fd50e",
-      "source": "Politico Energy EU",
-      "categorie": "Réglementation",
-      "titre": "Pourquoi la COP31 pourrait être la dernière chance pour l’UE de peser sur les négociations climatiques",
-      "resume": "La perspective d’une vague populiste lors des élections dans les douze prochains mois risque de compromettre les efforts diplomatiques européens.",
-      "url": "https://www.politico.eu/article/pourquoi-la-cop31-pourrait-etre-la-derniere-chance-pour-lue-de-peser-sur-les-negociations-climatiques/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "published_at": "2026-11-09T18:43:50+00:00"
     },
     {
       "id": "29a3eaad834b762f",
