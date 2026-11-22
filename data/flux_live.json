@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-22T17:16:31.979287+00:00",
+  "generated_at": "2026-11-22T22:39:26.023557+00:00",
   "items": [
+    {
+      "id": "143743a8e1e93aec",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "A la COP31, la communauté internationale s’est fracturée sur la sortie des énergies fossiles et le financement de l’adaptation",
+      "resume": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dans le texte et l’absence d’engagement à financer l’adaptation des pays du Sud au réchauffem",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
+      "published_at": "2026-11-22T19:08:00+00:00"
+    },
+    {
+      "id": "7788a0ef100ab9e6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
+      "resume": "Des pointes jusqu’à 170 km/h seront possibles dans la péninsule du Cap-Corse, lundi, alors que des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, dimanche. Dans le Pas-de-Calais, la vigilance orange est mainte",
+      "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
+      "published_at": "2026-11-22T18:09:17+00:00"
+    },
     {
       "id": "b574fbc0ce050fa0",
       "source": "Le Monde Planète",
@@ -8,7 +26,7 @@
       "titre": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
       "resume": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellem",
       "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html",
-      "published_at": "2026-11-22T17:11:51+00:00"
+      "published_at": "2026-11-22T17:11:49+00:00"
     },
     {
       "id": "5d77bbb099d88c0d",
@@ -36,15 +54,6 @@
       "resume": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par les pays climatiquement vulnérables. Un fiasco historique pour la diplomatie planétaire. Antalya (Turquie), env",
       "url": "https://reporterre.net/La-pire-de-toutes-les-COP-touche-a-sa-fin-sans-accord-et-avec-un-retard-historique",
       "published_at": "2026-11-22T13:51:00+00:00"
-    },
-    {
-      "id": "591541208a395d16",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "L'Union européenne et ses alliés refusent d'adopter le texte de la COP - Les Echos",
-      "resume": "L'Union européenne et ses alliés refusent d'adopter le texte de la COP Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWpOUGtHTGMxb2I4UncyQVBLTmt4UjdjN0pWNEZlU21uc2dHc3JxYmxvR3hQQ2tlT2tIUnJxZDJEejJFemx3QTJuNEpiM3lfUVE2bjI3X2R1MmtERVRvNFd4QXZWNVlKck9TNVpNNkx2U2tKMUhyVDg3ZS0xNUJvb0tCNHhkRm12bXhNQlJxemg1aWtrUnFrZkZPUE1ZOGJ0VU03M0RJalhDd2NuVGZMbzBtaDRYOEpqNGo4WmtkUDFMLXBiRlRn?oc=5",
-      "published_at": "2026-11-22T12:00:31+00:00"
     },
     {
       "id": "15b416e1cd2f6f42",
@@ -81,15 +90,6 @@
       "resume": "Le retour du loup dans les alpages a bouleversé le métier des éleveurs et bergers. Malgré le stress et les adaptations qu'entraîne sa présence, certains sont favorables à une coexistence avec le prédateur. Alpes-de-Haute-Provence, Hautes-Al",
       "url": "https://reporterre.net/Le-loup-a-redynamise-le-metier-ces-bergers-croient-a-la-coexistence-avec-le-predateur",
       "published_at": "2026-11-22T07:00:00+00:00"
-    },
-    {
-      "id": "c1e137a5e105483c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’Ain et le Jura placés en vigilance orange pluie-inondations dimanche soir ; la Canche à des niveaux toujours élevés dans le Pas-de-Calais",
-      "resume": "Des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, tandis que la vigilance orange est maintenue pour la Canche, dans le Pas-de-Calais.",
-      "url": "https://www.lemonde.fr/climat/article/2026/11/22/l-ain-et-le-jura-places-en-en-vigilance-orange-pluies-inondations-dimanche-soir-la-canche-a-des-niveaux-toujours-eleves-dans-le-pas-de-calais_6814193_1652612.html",
-      "published_at": "2026-11-22T06:33:44+00:00"
     },
     {
       "id": "f544c23afe517d3a",
@@ -135,15 +135,6 @@
       "resume": "Chasse interdite, foie gras banni... Le maire de Fréjus David Rachline additionne les mesures animalistes. Un vernis progressiste qui ne saurait cacher l'hypocrisie réactionnaire de l'extrême droite sur le vivant, rappelle notre chroniqueus",
       "url": "https://reporterre.net/Meme-si-elle-interdit-la-chasse-l-extreme-droite-ne-sera-jamais-l-alliee-du-vivant",
       "published_at": "2026-11-21T08:42:44+00:00"
-    },
-    {
-      "id": "987a33c9474fdcf7",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Inondations dans le Pas-de-Calais : deux cours d’eau en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
-      "resume": "En Normandie, Vigicrues a prévenu que le niveau maximum de la Vire, placée en vigilance jaune, « est en passe d’être atteint ce [samedi] matin » dans le secteur de Saint-Lô et qu’il est « susceptible de générer des débordements localisés ».",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html",
-      "published_at": "2026-11-21T07:01:53+00:00"
     },
     {
       "id": "ad1088d6912d8db1",
@@ -468,6 +459,15 @@
       "resume": "Procédures trop lentes, données lacunaires, contrôles insuffisants, autorégulation des entreprises… La Cour des comptes européenne estime que le cadre réglementaire européen « n’est pas adapté à la problématique des PFAS ». L’UE doit « s’y ",
       "url": "https://www.contexte.com/fr/article/environnement/larsenal-legislatif-de-lue-est-depasse-par-lampleur-de-la-pollution-par-les-pfas_285423?source=rss",
       "published_at": "2026-11-19T07:00:00+00:00"
+    },
+    {
+      "id": "57902a6bb28e0df3",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
+      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
+      "published_at": "2026-11-19T06:50:09+00:00"
     },
     {
       "id": "8e613906d7118859",
