@@ -1,14 +1,203 @@
 {
-  "generated_at": "2026-11-23T03:25:19.213819+00:00",
+  "generated_at": "2026-11-23T13:24:51.212588+00:00",
   "items": [
+    {
+      "id": "8cbdde1489dabdcd",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "\"Pour changer l'économie, ne faisons pas de faux procès à la RSE\", Martin Richer",
+      "resume": "Le faux procès de la RSE : pour changer les règles du jeu économique, ne nous trompons pas de cible, Martin Richer Dans un entretien accordé à Novethic (16 novembre), mais aussi dans plusieurs interviews à Carenews (9 novembre) et Challenge",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/tribune-martin-richer-proces-rse-reglementation",
+      "published_at": "2026-11-23T12:45:46+00:00"
+    },
+    {
+      "id": "76892c1da21474ad",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Prairies permanentes sensibles : le Conseil d'État annule la disposition réglementaire qui les désigne",
+      "resume": "Par une décision du 17 novembre 2026, le Conseil d'État a annulé l'article 7 de l'arrêté de la ministre de l'Agriculture du 12 mai 2025 relatif aux règles de bonnes conditions agricoles et environnementales (BCAE), à la demande du syndicat ",
+      "url": "https://www.actu-environnement.com/ae/news/prairies-permanentes-sensibles-annulation-bcae-48831.php4#xtor=RSS-6",
+      "published_at": "2026-11-23T12:01:45+00:00"
+    },
+    {
+      "id": "c20f1a59947bf8ed",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’accalmie des prix de l’énergie aura été de courte durée [Marchés]",
+      "resume": "Les indicateurs de prix de l’électricité, gaz et carbone étaient à la baisse une bonne partie de la semaine dernière mais sont remontés à l’approche du weekend et cela pourrait continuer : les jours à venir s’annoncent froids. Les prévision",
+      "url": "https://www.greenunivers.com/2026/11/laccalmie-des-prix-de-lenergie-aura-ete-de-courte-duree-marches-439371/",
+      "published_at": "2026-11-23T11:49:48+00:00"
+    },
+    {
+      "id": "e54b9f5c868ddb06",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Inondations au Népal : l’Inde offre à son voisin et allié un « plan de coopération » et une aide à la reconstruction de 1,6 milliard de dollars",
+      "resume": "Selon le dernier bilan côté népalais, ce « tsunami des montagnes », dont l’ampleur a été attribuée au réchauffement climatique, a fait au moins 1 400 morts, plus de 5 000 disparus et d’importants dégâts.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/23/inondations-au-nepal-l-inde-offre-a-son-voisin-et-allie-un-plan-de-cooperation-et-une-aide-a-la-reconstruction-de-1-6-milliard-de-dollars_6814377_3210.html",
+      "published_at": "2026-11-23T11:41:50+00:00"
+    },
+    {
+      "id": "dc31dd09270c7c1f",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La justice suspend les travaux du centre de rétention administrative de Nantes",
+      "resume": "Une première victoire pour les opposants au futur centre de rétention administrative de Nantes ( CRA ). Le 20 novembre, le tribunal administratif a suspendu le permis de construire et l'autorisation environnementale de l'établissement, expl",
+      "url": "https://reporterre.net/La-justice-suspend-les-travaux-du-centre-de-retention-administrative-de-Nantes",
+      "published_at": "2026-11-23T11:17:44+00:00"
+    },
+    {
+      "id": "b153bc782278b0dd",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Malakoff Humanis : le patron évincé, la crise de gouvernance reste entière",
+      "resume": "Thomas Saunier, directeur général de Malakoff Humanis, a été démis de ses fonctions le 20 novembre 2026. Magali Cohen / Hans Lucas via AFP La crise aura finalement eu raison de Thomas Saunier. Après dix ans à la tête de Malakoff Humanis, le",
+      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/malakoff-humanis-le-patron-evince-la-crise-de-gouvernance-reste-entiere",
+      "published_at": "2026-11-23T11:05:29+00:00"
+    },
+    {
+      "id": "65dd907d74131c7d",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Enel Acquires U.S. Solar Portfolio from energyRe",
+      "resume": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the […]",
+      "url": "https://www.esgtoday.com/enel-acquires-u-s-solar-portfolio-from-energyre/?utm_source=rss&utm_medium=rss&utm_campaign=enel-acquires-u-s-solar-portfolio-from-energyre",
+      "published_at": "2026-11-23T10:50:11+00:00"
+    },
+    {
+      "id": "000d3bc06672ca2d",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "COP31 : les limites du consensus à tout prix",
+      "resume": "Le sommet sur le climat s’est achevé, dimanche, en Turquie, sans accord général. Si cet échec n’est pas forcément synonyme de recul, dans la mesure où il traduit le refus d’un accord au rabais, il montre néanmoins les fragilités de la diplo",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/23/cop31-les-limites-du-consensus-a-tout-prix_6814375_3232.html",
+      "published_at": "2026-11-23T10:30:12+00:00"
+    },
+    {
+      "id": "7d270107e627d8b0",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Ardian Raises Over $250 Million for Nature Based Solutions Fund",
+      "resume": "Private markets investor Ardian announced that it has raised €230 million (USD$252 million) for its “Averrhoa […]",
+      "url": "https://www.esgtoday.com/ardian-raises-over-250-million-for-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=ardian-raises-over-250-million-for-nature-based-solutions-fund",
+      "published_at": "2026-11-23T10:06:23+00:00"
+    },
+    {
+      "id": "5d93d72274d07bdb",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Est-ce que la corde est française ? » : après ses propos sur le suicide d'un agriculteur, le porte-parole du RN persona non grata dans l'Eure",
+      "resume": "Une cinquantaine de militants antifascistes et d'agriculteurs ont manifesté le 20 novembre contre la venue de Julien Odoul dans l'Eure. Le porte-parole du RN avait demandé, après le suicide d'un agriculteur et déclenchant les rires, si « la",
+      "url": "https://reporterre.net/Est-ce-que-la-corde-est-francaise-apres-ses-propos-sur-le-suicide-d-un-agriculteur-le",
+      "published_at": "2026-11-23T08:20:12+00:00"
+    },
+    {
+      "id": "ce1ba784964f0be2",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Interparfums, Hermès International, Engie, Soitec, Renault, Forvia, Sartorius Stedim Biotech, Veolia Environnement, Valeo, Ubisoft, OPmobility mais aussi Sandoz Group et Infineon ailleurs en Europe : toutes les recommandations des analystes - Investir Les Echos",
+      "resume": "Interparfums, Hermès International, Engie, Soitec, Renault, Forvia, Sartorius Stedim Biotech, Veolia Environnement, Valeo, Ubisoft, OPmobility mais aussi Sandoz Group et Infineon ailleurs en Europe : toutes les recommandations des analystes",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNQVJNYndQUW82ajNzdW1nRk5MZVIzRXF3NUtRVnNJM1lBR2RvMUNIaVoxeDBKZE5iWUMwd1lKQmJCYXRiSkVWb1d0ZXB3R2tOY19DTnUtSDJmYkd6aGxlR3VBZVEzdGFVZ1dtR3BhaWFNemlqRmhqeDNfcnIwc0Vna05WdjRfbG5jQU5YSzBCbVVPOVk2UF8tRnNic2YteGxzRkpKSHZnSG5jMjJWX0tTcXNXbXJKNmlLRUJaalNfd2ZNVFMyX19tcFJXS1UyMWdKTUZtdXJ1ODVmSVJuRi1hQkhhMzJEUlNkdUQtNWhINjRtRU1CQm5HZWRNZDRtcVF1MUVtUFo5azMwUzl5R0V1OEFvaEtQWWhhTWxnMTJwLXgtV0MxVlhueUtZaU5CV1lYbEw5amJTUE5PQS1BTW43c1B3VDU5ald1RmNHS29jU1RxMWthWlc5amdDa05rVGVQUTJfY3Q2YkN1TXJNYnc?oc=5",
+      "published_at": "2026-11-23T08:04:56+00:00"
+    },
+    {
+      "id": "7391c6aa6027daf2",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Sites et sols pollués : découvrez les lauréats du concours photo 2026 de l'UPDS",
+      "resume": "",
+      "url": "https://www.actu-environnement.com/ae/pdt/upds-sites-sols-pollues-concours-photo-laureats-1513.php4#xtor=RSS-6",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "c15bd7999172ee9f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Incendie en centre de tri. La DREAL contrôle 1 245 sites ICPE en une semaine : 109 mises en demeure*",
+      "resume": "",
+      "url": "https://www.actu-environnement.com/ae/pdt/kooi-solution-red-detection-incendie-centre-tri-dechets-detection-precoce-intervention-faux-positifs-1512.php4#xtor=RSS-6",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "f0e37bc3040bfbd4",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Consigne de bouteilles et canettes : les maires invités à reprendre la main",
+      "resume": "La consigne des bouteilles plastiques et canettes revient dans le débat, poussée par l’Europe. Reloop, association de plaidoyer en économie circulaire et experte de la consigne, appelle à rouvrir le dialogue en associant les maires dès le d",
+      "url": "https://www.actu-environnement.com/ae/pdt/reloop-consignes-bouteilles-plastique-canettes-maires-economie-circulaire-territoire-1503.php4#xtor=RSS-6",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "a85797ca023eb15d",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Énergies du Grand Paris prend les commandes du premier réseau de chaleur de France",
+      "resume": "À la veille de son centenaire, le plus grand réseau de chaleur urbain de France change d’exploitant. La mission d'Énergies du Grand Paris ? Répondre aux enjeux de transition énergétique et transformer cette infrastructure essentielle au ter",
+      "url": "https://www.actu-environnement.com/ae/pdt/energies-grand-paris-premier-reseau-chaleur-france-csr-enr-transition-circulaire-1502.php4#xtor=RSS-6",
+      "published_at": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "2d1be4911f6571cd",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La paysanne bio aux 288 000 abonnés sur Instagram qui copine avec l'extrême droite",
+      "resume": "À La Table de Gaya, ferme-restaurant tenue par Kyria Gay Marietti, « tout le monde est le bienvenu »... surtout l'extrême droite. Le parcours de l'influenceuse paysanne aux milliers d'abonnés est révélateur des frontières poreuses entre déf",
+      "url": "https://reporterre.net/La-paysanne-bio-aux-288-000-abonnes-sur-Instagram-qui-copine-avec-l-extreme-droite",
+      "published_at": "2026-11-23T07:59:54+00:00"
+    },
+    {
+      "id": "f3745a68b7981f73",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EU, UK Agree to Link Carbon Markets from 2028",
+      "resume": "The European Commission and UK government announced an agreement to link their Emissions Trading Systems […]",
+      "url": "https://www.esgtoday.com/eu-uk-agree-to-link-carbon-markets-from-2028/?utm_source=rss&utm_medium=rss&utm_campaign=eu-uk-agree-to-link-carbon-markets-from-2028",
+      "published_at": "2026-11-23T07:48:09+00:00"
+    },
+    {
+      "id": "bc477465e6285170",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dans le Pas-de-Calais, la Canche amorce sa décrue, mais le risque de débordements perdure, selon Vigicrues",
+      "resume": "La décrue a déjà commencé depuis samedi dans la zone amont du cours d’eau. Dans certaines localités, la « vigilance reste de mise » d’après la préfecture, qui a par ailleurs annoncé que parmi les 800 personnes évacuées depuis jeudi, « la pl",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/23/dans-le-pas-de-calais-la-canche-amorce-sa-decrue-mais-le-risque-de-debordements-perdure-selon-vigicrues_6814357_3244.html",
+      "published_at": "2026-11-23T06:55:55+00:00"
+    },
+    {
+      "id": "4f61d3d9dfdbcc05",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "La Corse placée en vigilance orange pour des vents violents lundi matin ; la Canche toujours en vigilance orange aux crues, dans le Pas-de-Calais",
+      "resume": "Au cours de la nuit, Météo-France a relevé des rafales comprises généralement entre 130 et 170 km/h sur le cap Corse, et atteignant jusqu’à 191 km/h au cap Sagro, au nord de Bastia.",
+      "url": "https://www.lemonde.fr/climat/article/2026/11/23/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-lundi-matin-la-canche-toujours-en-vigilance-orange-aux-crues-dans-le-pas-de-calais_6814193_1652613.html",
+      "published_at": "2026-11-23T05:52:54+00:00"
+    },
+    {
+      "id": "fba36472b11e1e60",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
+      "resume": "Au lendemain des élections de mi-mandat, une nouvelle génération de leaders politiques remet au goût du jour les idées de Bernie Sanders, bousculant ainsi l'establishment du Parti démocrate. San Antonio (États-Unis), correspondance En 2016,",
+      "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
+      "published_at": "2026-11-23T05:00:00+00:00"
+    },
+    {
+      "id": "6721c6fd9f71ace9",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« L’échec de la COP31 envoie un signal positif : le monde prend les risques et la science au sérieux », estime le scientifique suédois Johan Rockström",
+      "resume": "Alors que le sommet sur le climat s’est conclu, dimanche, sans accord final, et que la planète va dépasser le seuil de 1,5 °C de réchauffement, le chercheur rappelle, dans un entretien au « Monde », que la priorité numéro un est de réduire ",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/23/l-echec-de-la-cop31-envoie-un-signal-positif-le-monde-prend-les-risques-et-la-science-au-serieux_6814309_3244.html",
+      "published_at": "2026-11-23T04:15:10+00:00"
+    },
     {
       "id": "e1ad907b04e7bdb9",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Voiture : sept millions de personnes en France prises en étau entre nécessité et coût, pointe une étude",
+      "titre": "Voiture : 7 millions de personnes en France prises en étau entre nécessité et coût, pointe une étude",
       "resume": "Alors que les dépenses de carburant restent élevées, la voiture représente 13 % du budget des ménages disposant de 1 000 à 2 000 euros par mois, contre 3,5 % pour ceux dont les revenus dépassent 5 000 euros, selon une étude publiée lundi pa",
       "url": "https://www.lemonde.fr/economie/article/2026/11/23/voiture-sept-millions-de-personnes-en-france-prises-en-etau-entre-necessite-et-cout-pointe-une-etude_6814273_3234.html",
-      "published_at": "2026-11-23T03:10:39+00:00"
+      "published_at": "2026-11-23T03:10:36+00:00"
     },
     {
       "id": "1fb84cb645885d2a",
@@ -18,33 +207,6 @@
       "resume": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 […]",
       "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
       "published_at": "2026-11-22T23:09:39+00:00"
-    },
-    {
-      "id": "143743a8e1e93aec",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A la COP31, la communauté internationale s’est fracturée sur la sortie des énergies fossiles et le financement de l’adaptation",
-      "resume": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dans le texte et l’absence d’engagement à financer l’adaptation des pays du Sud au réchauffem",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
-      "published_at": "2026-11-22T19:08:00+00:00"
-    },
-    {
-      "id": "7788a0ef100ab9e6",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
-      "resume": "Des pointes jusqu’à 170 km/h seront possibles dans la péninsule du Cap-Corse, lundi, alors que des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, dimanche. Dans le Pas-de-Calais, la vigilance orange est mainte",
-      "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
-      "published_at": "2026-11-22T18:09:17+00:00"
-    },
-    {
-      "id": "b574fbc0ce050fa0",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
-      "resume": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellem",
-      "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html",
-      "published_at": "2026-11-22T17:11:49+00:00"
     },
     {
       "id": "5d77bbb099d88c0d",
@@ -101,42 +263,6 @@
       "published_at": "2026-11-22T08:12:50+00:00"
     },
     {
-      "id": "ce1b0aa1fadc9107",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« J'aimerais que le temps des plantes grignote le temps du travail »",
-      "resume": "« Je me sens prise entre deux feux, deux temporalités inconciliables », écrit notre journaliste dans cette chronique. D'un côté le potager, qui n'attend pas, et de l'autre, le travail. Et si notre emploi du temps se calquait plutôt sur celu",
-      "url": "https://reporterre.net/J-aimerais-que-le-temps-des-plantes-grignote-le-temps-du-travail",
-      "published_at": "2026-11-22T07:00:00+00:00"
-    },
-    {
-      "id": "aeedda81a9b121ff",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Le loup a redynamisé le métier » : ces bergers croient à la coexistence avec le prédateur",
-      "resume": "Le retour du loup dans les alpages a bouleversé le métier des éleveurs et bergers. Malgré le stress et les adaptations qu'entraîne sa présence, certains sont favorables à une coexistence avec le prédateur. Alpes-de-Haute-Provence, Hautes-Al",
-      "url": "https://reporterre.net/Le-loup-a-redynamise-le-metier-ces-bergers-croient-a-la-coexistence-avec-le-predateur",
-      "published_at": "2026-11-22T07:00:00+00:00"
-    },
-    {
-      "id": "f544c23afe517d3a",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "A Saint-Maur-des-Fossés, le chêne quadricentenaire résiste au promoteur immobilier",
-      "resume": "Des habitants de la commune val-de-marnaise se mobilisent pour contrecarrer un projet immobilier menaçant le plus vieux chêne pédonculé d’Ile-de-France, un arbre chéri de nombreux riverains et qui fait l’objet d’une pétition ayant obtenu 85",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/22/a-saint-maur-des-fosses-le-chene-quadricentenaire-resiste-au-promoteur-immobilier_6814180_3244.html",
-      "published_at": "2026-11-22T05:05:07+00:00"
-    },
-    {
-      "id": "b2893ed695978c16",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
-      "resume": "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou famille de substances les mieux connues, le fardeau des dégâts sanitaires se monte à 1 000",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
-      "published_at": "2026-11-22T04:50:06+00:00"
-    },
-    {
       "id": "f2a4bcc440f7d763",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -144,24 +270,6 @@
       "resume": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
       "published_at": "2026-11-21T14:38:58+00:00"
-    },
-    {
-      "id": "83ab2f85419f9e95",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Même si elle interdit la chasse, l'extrême droite ne sera jamais l'alliée du vivant »",
-      "resume": "Chasse interdite, foie gras banni... Le maire de Fréjus David Rachline additionne les mesures animalistes. Un vernis progressiste qui ne saurait cacher l'hypocrisie réactionnaire de l'extrême droite sur le vivant, rappelle notre chroniqueus",
-      "url": "https://reporterre.net/Meme-si-elle-interdit-la-chasse-l-extreme-droite-ne-sera-jamais-l-alliee-du-vivant",
-      "published_at": "2026-11-21T08:42:44+00:00"
-    },
-    {
-      "id": "ad1088d6912d8db1",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Un grand élan populaire peut renverser la fascisation du monde »",
-      "resume": "Le capitalisme marchandise tout et dévaste la planète. Face aux résistances, il s'appuie sur l'extrême droite. Mais devant cette menace, la gauche peut gagner : c'est ce qu'enseigne l'histoire du Front populaire, analyse l'historienne Ludiv",
-      "url": "https://reporterre.net/Ludivine-Bantigny-Un-grand-elan-populaire-peut-renverser-la-fascisation-du-monde",
-      "published_at": "2026-11-21T07:00:00+00:00"
     },
     {
       "id": "cd2bf2c64d6d64f8",
@@ -173,24 +281,6 @@
       "published_at": "2026-11-20T18:26:08+00:00"
     },
     {
-      "id": "a97d3fd56a731466",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Antibiorésistance (2/2) : comment renforcer les liens des acteurs One Health",
-      "resume": "Le concept Une santé constitue un levier essentiel dans la lutte contre la résistance des micro-organismes. Mais le chemin est long pour construire des passerelles entre la médecine humaine, animale et l'environnement. Zoom sur des pistes à",
-      "url": "https://www.actu-environnement.com/ae/news/antimicrobiens-antibioresistance-one-health-une-sante-sante-humaine-animale-environnement-48830.php4#xtor=RSS-6",
-      "published_at": "2026-11-20T17:33:19+00:00"
-    },
-    {
-      "id": "7de20b8500befe68",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le report de la REP au 1er janvier 2027 est acté, le cahier des charges ajusté",
-      "resume": "C'est officiel. L'arrêté du 3 novembre 2026, publié au Journal officiel du 18 novembre, reporte du 1er juillet 2026 au 1er janvier 2027 le démarrage de la filière de responsabilité élargie des producteurs d'emballages professionnels (REP Ep",
-      "url": "https://www.actu-environnement.com/ae/news/rep-epro-report-janvier-2027-cahier-charges-48829.php4#xtor=RSS-6",
-      "published_at": "2026-11-20T16:35:51+00:00"
-    },
-    {
       "id": "7ed4e771e921194d",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -200,24 +290,6 @@
       "published_at": "2026-11-20T15:39:48+00:00"
     },
     {
-      "id": "da0f27a86b31c27a",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Quand une mesure de bridage remet en cause la nécessité d'une dérogation « espèces protégées »",
-      "resume": "Par une décision du 17 novembre 2026, le Conseil d'État a annulé une décision de la cour administrative d'appel de Toulouse qui avait enjoint au préfet de mettre en demeure la société Energie du Haut-Dourdou de déposer un dossier de demande",
-      "url": "https://www.actu-environnement.com/ae/news/bridage-eoliennes-derogation-especes-protegees-conseil-etat-48827.php4#xtor=RSS-6",
-      "published_at": "2026-11-20T15:39:00+00:00"
-    },
-    {
-      "id": "a2f082009651df1f",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "L'Union européenne s'accorde pour refondre le règlement SFDR",
-      "resume": "Le Conseil et le Parlement européen ont conclu le 19 novembre un accord provisoire sur la révision du règlement SFDR (pour Sustainable Finance Disclosure Regulation). Applicable depuis mars 2021, le SFDR oblige les acteurs financiers à indi",
-      "url": "https://www.actu-environnement.com/ae/news/revision-reglement-sfdr-accord-ue-esg-48828.php4#xtor=RSS-6",
-      "published_at": "2026-11-20T15:17:20+00:00"
-    },
-    {
       "id": "651972f2ba98289c",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -225,15 +297,6 @@
       "resume": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups The Senate approved bipartisan legislation on Thursday aimed at speeding up permitting reviews to build power plants, transmission lines a",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
       "published_at": "2026-11-20T15:09:09+00:00"
-    },
-    {
-      "id": "b53233487d5d7b9c",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Plusieurs dispositions du guide annulées à la demande des exploitants de carrières",
-      "resume": "Par une décision du 17 novembre 2026, le Conseil d'État a annulé certaines dispositions de l'instruction technique du 11 février 2025 qui fournit aux services déconcentrés de l'État un guide sur le dispositif de compensation collective agri",
-      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-annulation-compensation-agricole-carrieres-48826.php4#xtor=RSS-6",
-      "published_at": "2026-11-20T14:51:02+00:00"
     },
     {
       "id": "11948148d2709985",
@@ -263,15 +326,6 @@
       "published_at": "2026-11-20T13:42:00+00:00"
     },
     {
-      "id": "8dad14e608dda508",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Comment progresser vers une gestion plus écologique de l'eau ? Exemple entre Bièvre et Rhône",
-      "resume": "Au-delà de la gestion courante de leurs infrastructures (production et distribution d'eau potable, traitement des eaux usées), les services d'eau mènent des actions en faveur de la transition écologique. Exemple en Isère avec Eaux d'Entre B",
-      "url": "https://www.actu-environnement.com/ae/news/actions-de-collectivite-entre-bievre-et-rhone-pour-une-gestion-plus-ecologique-eau-48825.php4#xtor=RSS-6",
-      "published_at": "2026-11-20T13:29:40+00:00"
-    },
-    {
       "id": "f8190be45eaff392",
       "source": "ESG Today",
       "categorie": "Réglementation",
@@ -279,15 +333,6 @@
       "resume": "Climate change-focused environmental non-profit Environmental Defense Fund (EDF) has appointed Beatriz Da Cunha as its […]",
       "url": "https://www.esgtoday.com/environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance/?utm_source=rss&utm_medium=rss&utm_campaign=environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance",
       "published_at": "2026-11-20T13:10:59+00:00"
-    },
-    {
-      "id": "f23e9698f515c70a",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Verre, chimie, métallurgie : l'industrie se bat pour ne pas payer deux fois la taxe carbone - Les Echos",
-      "resume": "Verre, chimie, métallurgie : l'industrie se bat pour ne pas payer deux fois la taxe carbone Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZklEZ20tNTJuaEtRZkdRdnRBbnFNYWxoQUdBOW9fcEF2bjR4VEIybjUya09nT0V6Y1NPd1E2YW9YcUZsVEg5Q3RLRXh0dTgta1dsWm5IdmlfMENxVDZLb294c21MQnpncGd2TWFXMWM3b0Y1ZlpuU1pUcUNnUVMyUVJIY1ZhclY3LW9uZVlwNzdTNnpVOWZjWkhlaTV3eVlRQjdPanBfQi1LS3JuNXhRSUtFX21yWDY0NEdzWWhJZ24tSEwtak82TThPQThGTnRzUnJUdHZjZE04YWhyWFhLVVdoNGFwbzg2WXc?oc=5",
-      "published_at": "2026-11-20T11:31:02+00:00"
     },
     {
       "id": "f0d24fde4ac17a7d",
@@ -317,15 +362,6 @@
       "published_at": "2026-11-20T10:31:52+00:00"
     },
     {
-      "id": "132651b35d08f875",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "SFDR 2.0: EU Strikes Deal on New Sustainable Fund Rules",
-      "resume": "Lawmakers in the European Parliament and EU Member States announced that they have reached a […]",
-      "url": "https://www.esgtoday.com/sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories/?utm_source=rss&utm_medium=rss&utm_campaign=sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories",
-      "published_at": "2026-11-20T10:13:22+00:00"
-    },
-    {
       "id": "36bb7136175d56fb",
       "source": "I4CE",
       "categorie": "Climat",
@@ -353,15 +389,6 @@
       "published_at": "2026-11-20T08:30:11+00:00"
     },
     {
-      "id": "4f30527545899307",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Commercial Bank International Adds Carbon Footprint of Client Spending to Bank Statements",
-      "resume": "UAE-based bank Commercial Bank International (CBI) announced the launch of its new Carbon Footprint Report, […]",
-      "url": "https://www.esgtoday.com/commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements/?utm_source=rss&utm_medium=rss&utm_campaign=commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements",
-      "published_at": "2026-11-20T08:21:07+00:00"
-    },
-    {
       "id": "75a031d74d1f1b26",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -378,24 +405,6 @@
       "resume": "La police bangladaise a fait usage de gaz lacrymogènes et de grenades assourdissantes le 17 novembre lors d'affrontements avec des milliers d'ouvriers du textile qui manifestaient après le report d'une réunion importante de la commission de",
       "url": "https://www.novethic.fr/economie-et-social/droits-humains/au-bangladesh-les-ouvriers-du-textile-se-revoltent-contre-des-salaires-de-misere",
       "published_at": "2026-11-20T05:45:22+00:00"
-    },
-    {
-      "id": "01d4ab3eeeb16cbf",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’électrification progresse dans l’UE mais lentement [IEA]",
-      "resume": "Le taux d’électrification de l’Union européenne atteint 24 % en 2025, soit L’article L’électrification progresse dans l’UE mais lentement [IEA] est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/11/lelectrification-progresse-dans-lue-mais-lentement-iea-439250/",
-      "published_at": "2026-11-19T17:00:10+00:00"
-    },
-    {
-      "id": "2162d21b4c363e46",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
-      "resume": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari […]",
-      "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
-      "published_at": "2026-11-19T15:43:23+00:00"
     },
     {
       "id": "46c61154f1737233",
@@ -416,15 +425,6 @@
       "published_at": "2026-11-19T13:07:50+00:00"
     },
     {
-      "id": "cd475c910df7af39",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "COP31 : les banques centrales radicalisent leur discours face au risque climatique",
-      "resume": "Les autorités bancaires alertent sur les risques macroéconomiques liés à la dépendance aux énergies fossiles et à la crise climatique - Photo de Greg Webber sur Unsplash L'alerte est lancée, et ce sont cette fois les banques centrales et le",
-      "url": "https://www.novethic.fr/environnement/climat/cop31-risque-macroeconomique-banques-centrales-inflation",
-      "published_at": "2026-11-19T12:45:58+00:00"
-    },
-    {
       "id": "809112ebb6dc290f",
       "source": "Haut Conseil pour le Climat",
       "categorie": "Climat",
@@ -432,15 +432,6 @@
       "resume": "Emploi réservé aux fonctionnaires et lauréats d’un concours territorial Catégorie : A/A+ Vos missions en quelques mots Le/la chargé(e) d’études bâtiment et aménagement et action climatique territoriale est placé(e) sous l’autorité du direct",
       "url": "https://www.hautconseilclimat.fr/actualites/chargee-detudes-batiment-amenagement-et-action-climatique-territoriale/",
       "published_at": "2026-11-19T12:40:33+00:00"
-    },
-    {
-      "id": "dffca8f8c7ae4c86",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Anthropic signe une introduction en Bourse historique malgré des risques ESG élevés",
-      "resume": "Juste avant son introduction en Bourse, Anthropic a relevé le prix de son action. @Igor Omilaev-Unsplash Anthropic aura réussi son pari. L’entreprise américaine qui développe le modèle d’intelligence artificielle Claude a levé une somme rec",
-      "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/anthropic-signe-une-introduction-en-bourse-historique-malgre-des-risques-esg-eleves",
-      "published_at": "2026-11-19T11:00:25+00:00"
     },
     {
       "id": "df5a5a60b611992a",
@@ -468,15 +459,6 @@
       "resume": "Procédures trop lentes, données lacunaires, contrôles insuffisants, autorégulation des entreprises… La Cour des comptes européenne estime que le cadre réglementaire européen « n’est pas adapté à la problématique des PFAS ». L’UE doit « s’y ",
       "url": "https://www.contexte.com/fr/article/environnement/larsenal-legislatif-de-lue-est-depasse-par-lampleur-de-la-pollution-par-les-pfas_285423?source=rss",
       "published_at": "2026-11-19T07:00:00+00:00"
-    },
-    {
-      "id": "57902a6bb28e0df3",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts - Les Echos",
-      "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
-      "published_at": "2026-11-19T06:50:09+00:00"
     },
     {
       "id": "3855d8790c0967e0",
@@ -720,6 +702,24 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/grande-consultation-automobile-lancement/",
       "published_at": "2026-10-06T10:23:17+00:00"
+    },
+    {
+      "id": "c7c5fd524d735a2a",
+      "source": "France Stratégie",
+      "categorie": "Climat",
+      "titre": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
+      "resume": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir Canicules à répétition, sécheresse exceptionnelle, records d’hectares brûlés, orages violents… : l’été 2026 aura particulièrement ",
+      "url": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
+      "published_at": "2026-09-30T09:38:27+00:00"
+    },
+    {
+      "id": "ffe69a13e487f674",
+      "source": "Haut Conseil pour le Climat",
+      "categorie": "Climat",
+      "titre": "Saisine du Haut conseil pour le climat sur la place des faits et de la parole scientifique dans le débat public",
+      "resume": "Le Haut conseil pour le climat a été saisi par le Premier ministre pour rendre un avis sur la place des faits scientifiques relatifs au changement climatique et de la parole des scientifiques dans le débat public et dans les médias. Cet avi",
+      "url": "https://www.hautconseilclimat.fr/actualites/saisine-du-haut-conseil-pour-le-climat-sur-la-place-des-faits-et-de-la-parole-scientifique-dans-le-debat-public/",
+      "published_at": "2026-09-22T14:23:17+00:00"
     }
   ]
 }
