@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-22T22:39:26.023557+00:00",
+  "generated_at": "2026-11-23T03:25:19.213819+00:00",
   "items": [
+    {
+      "id": "e1ad907b04e7bdb9",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Voiture : sept millions de personnes en France prises en étau entre nécessité et coût, pointe une étude",
+      "resume": "Alors que les dépenses de carburant restent élevées, la voiture représente 13 % du budget des ménages disposant de 1 000 à 2 000 euros par mois, contre 3,5 % pour ceux dont les revenus dépassent 5 000 euros, selon une étude publiée lundi pa",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/23/voiture-sept-millions-de-personnes-en-france-prises-en-etau-entre-necessite-et-cout-pointe-une-etude_6814273_3234.html",
+      "published_at": "2026-11-23T03:10:39+00:00"
+    },
+    {
+      "id": "1fb84cb645885d2a",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
+      "resume": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 […]",
+      "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
+      "published_at": "2026-11-22T23:09:39+00:00"
+    },
     {
       "id": "143743a8e1e93aec",
       "source": "Le Monde Planète",
@@ -54,6 +72,15 @@
       "resume": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par les pays climatiquement vulnérables. Un fiasco historique pour la diplomatie planétaire. Antalya (Turquie), env",
       "url": "https://reporterre.net/La-pire-de-toutes-les-COP-touche-a-sa-fin-sans-accord-et-avec-un-retard-historique",
       "published_at": "2026-11-22T13:51:00+00:00"
+    },
+    {
+      "id": "591541208a395d16",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "L'Union européenne et ses alliés refusent d'adopter le texte de la COP - Les Echos",
+      "resume": "L'Union européenne et ses alliés refusent d'adopter le texte de la COP Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWpOUGtHTGMxb2I4UncyQVBLTmt4UjdjN0pWNEZlU21uc2dHc3JxYmxvR3hQQ2tlT2tIUnJxZDJEejJFemx3QTJuNEpiM3lfUVE2bjI3X2R1MmtERVRvNFd4QXZWNVlKck9TNVpNNkx2U2tKMUhyVDg3ZS0xNUJvb0tCNHhkRm12bXhNQlJxemg1aWtrUnFrZkZPUE1ZOGJ0VU03M0RJalhDd2NuVGZMbzBtaDRYOEpqNGo4WmtkUDFMLXBiRlRn?oc=5",
+      "published_at": "2026-11-22T12:00:31+00:00"
     },
     {
       "id": "15b416e1cd2f6f42",
@@ -117,15 +144,6 @@
       "resume": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
       "published_at": "2026-11-21T14:38:58+00:00"
-    },
-    {
-      "id": "be2d673e4abfce3d",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le remorquage du cargo « Miro-G », échoué au large des Landes, pourrait durer plusieurs jours",
-      "resume": "Selon la préfecture maritime, le déséchouement « nécessite la réunion de nombreux prérequis techniques », qui ne permettent pas de « garantir à ce stade le succès de cette opération ».",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/21/le-remorquage-du-cargo-miro-g-echoue-au-large-des-landes-pourrait-durer-plusieurs-jours_6814014_3244.html",
-      "published_at": "2026-11-21T12:57:06+00:00"
     },
     {
       "id": "83ab2f85419f9e95",
@@ -380,15 +398,6 @@
       "published_at": "2026-11-19T15:43:23+00:00"
     },
     {
-      "id": "351ce6b4b0b840aa",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
-      "resume": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 […]",
-      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
-      "published_at": "2026-11-19T14:37:09+00:00"
-    },
-    {
       "id": "46c61154f1737233",
       "source": "The Guardian Environment",
       "categorie": "Climat",
@@ -468,15 +477,6 @@
       "resume": "Du concept à l'industrialisation, déployer l'IA à l'échelle sans exploser ses coûts Les Echos",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpkcVd5QzhvTDU5UTlOd1JKWWJpZDExSWlneE0wdjZPemctSzVpcTROMDZ0dlZjQ2lHNzNfZERTbU5VbEtMRjFmMDJHX3ZOdVo1UTd2SHhZc0doMkZkdmt4TzUxYnlXN2UzSHNxMjFyRGpzUEFhUWFJcFRNaFp1a2RybHd3dTdiT2VJeFVGYjRIa3JvX3dwTWgycVVJNC1ES1IwM0NlSUNyVVBNMDNBdkZuN1ZpcHJzODZlRmdaZzAwMnZR?oc=5",
       "published_at": "2026-11-19T06:50:09+00:00"
-    },
-    {
-      "id": "8e613906d7118859",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France - Les Echos",
-      "resume": "Pourquoi la consommation d'électricité ne décolle toujours pas, malgré les ambitions climatiques de la France Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdkQtdl83SXU1QlhkTnlSV09FeDhqcnRHdER3SGhsc05wLUNrZFBLd1dmaWhid1NRem1HX3pJOUxxU3A3NV9WV29WenlMTnJ5N2J1eW9qTjZrbWd1dldYV2JsVlRLZWh1MVlJUGxqdldrRUF2ekNKT2phMTlxSDFZdTRCMjhiSmhndkpJMFNDaHVCOFhnMEktVXkyalVtMG8wVy1SczBkWEppWkQ3c2tGY1JQY0RabURHcXRienFPNC1GcmUwemxlUm5NN3V4MVYtQUJxMGh3Vk1NalcwM3hxNExqWndUUmFGQ2F1RTJiV2JxRlZwU1J5MjctOTRiSjlF?oc=5",
-      "published_at": "2026-11-18T06:30:37+00:00"
     },
     {
       "id": "3855d8790c0967e0",
