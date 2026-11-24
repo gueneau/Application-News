@@ -1,23 +1,167 @@
 {
-  "generated_at": "2026-11-24T01:05:52.311813+00:00",
+  "generated_at": "2026-11-24T11:17:52.632242+00:00",
   "items": [
     {
-      "id": "bde77014a407f56e",
-      "source": "Le Monde Planète",
+      "id": "e109a80b66d18c61",
+      "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "La France va créer des stocks stratégiques de terres rares et de métaux prioritaires pour réduire sa dépendance à la Chine d’ici à 2027",
-      "resume": "La Caisse des dépôts, qui pilotera le projet, va consulter les industriels des secteurs stratégiques utilisant ces matières premières.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html",
-      "published_at": "2026-11-23T20:43:40+00:00"
+      "titre": "Yannick Jadot et des écologistes pro-Glucksmann fondent leur parti politique",
+      "resume": "Le sénateur Yannick Jadot, ainsi que quatre autres membres du parti Les Écologistes, ont annoncé le 23 novembre quitter ce mouvement et lancer un nouveau parti politique, baptisé Écologistes et Démocrates. Ce parti a vocation à être « un gr",
+      "url": "https://reporterre.net/Yannick-Jadot-et-des-ecologistes-pro-Glucksmann-fondent-leur-parti-politique",
+      "published_at": "2026-11-24T11:16:42+00:00"
     },
     {
-      "id": "8ccf8107fdb40683",
+      "id": "b08ac428bfadeb80",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "BASF Sells Battery Recycling Business to Cylib",
+      "resume": "Sustainable battery recycling technology company cylib announced an agreement to acquire chemicals giant BASF’s Battery […]",
+      "url": "https://www.esgtoday.com/basf-sells-battery-recycling-business-to-cylib/?utm_source=rss&utm_medium=rss&utm_campaign=basf-sells-battery-recycling-business-to-cylib",
+      "published_at": "2026-11-24T11:14:48+00:00"
+    },
+    {
+      "id": "4126daec29362e0e",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Glyphosate : la cancérogénicité de l’herbicide de Bayer reconnue par une institution scientifique majeure aux Etats-Unis",
-      "resume": "L’Institut de recherche fédéral sur la santé environnementale a publié, vendredi, une large réévaluation de la cancérogénicité du glyphosate. Un document sans conséquence à ce stade sur les contraintes réglementaires encadrant l’herbicide o",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/23/glyphosate-la-cancerogenicite-de-l-herbicide-de-bayer-reconnue-par-une-institution-scientifique-majeure-aux-etats-unis_6814434_3244.html",
-      "published_at": "2026-11-23T17:31:35+00:00"
+      "titre": "Canicules : en Angleterre, les vagues de chaleur ont fait plus de 5 200 morts durant l’été 2026",
+      "resume": "L’agence de sécurité sanitaire britannique ne publie pas à ce stade d’éléments sur l’âge, la répartition géographique et les causes précises de ces morts, comptabilisés entre mai et septembre.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/24/canicules-en-angleterre-les-vagues-de-chaleur-ont-fait-plus-de-5-200-morts-durant-l-ete-2026_6814748_3244.html",
+      "published_at": "2026-11-24T10:55:48+00:00"
+    },
+    {
+      "id": "27887fa2beb8530d",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Présidentielle : ce que sept candidats promettent au secteur du bâtiment",
+      "resume": "Logement, construction, rénovation énergétique, normes...Sept candidats à la présidentielle ont présenté leurs propositions pour soutenir la filière du bâtiment, lors du Sommet de la construction organisé par la FFB, sur fond de crise du se",
+      "url": "https://www.actu-environnement.com/ae/news/candidats-presidentielle-propositions-batiment-sommet-construction-ffb-48838.php4#xtor=RSS-6",
+      "published_at": "2026-11-24T09:21:27+00:00"
+    },
+    {
+      "id": "7c3c5b6be6284833",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Planet Savers Raises Over $10 Million to Scale Direct Air Capture Carbon Removal Tech in Japan",
+      "resume": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6 […]",
+      "url": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
+      "published_at": "2026-11-24T09:19:40+00:00"
+    },
+    {
+      "id": "9b07a34929c4ef4f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Photovoltaïque : en Moselle, le projet de méga-usine Holosolis cherche à ressusciter l’industrie française des panneaux solaires",
+      "resume": "Alors que la Chine domine le secteur photovoltaïque mondial, le consortium Holosolis ambitionne de produire 10 millions de panneaux solaires par an d’ici à 2029. Mais le projet reste suspendu à des financements supplémentaires et à l’évolut",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/24/photovoltaique-en-moselle-le-projet-de-mega-usine-holosolis-cherche-a-ressusciter-l-industrie-francaise-des-panneaux-solaires_6814729_3234.html",
+      "published_at": "2026-11-24T09:00:07+00:00"
+    },
+    {
+      "id": "c33690112bdea4bb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
+      "resume": "La dernière proposition budgétaire européenne pour la période 2028-2034 sera discutée jeudi et vendredi lors d’un sommet à Bruxelles. Cette proposition « est très décevante », a réagi samedi la présidence française, où l’on estime que « le ",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
+      "published_at": "2026-11-24T08:52:32+00:00"
+    },
+    {
+      "id": "0462027d4a67d331",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les 10 grands moments de lutte contre les pesticides",
+      "resume": "Premiers cris d'alarme en 1946, grève d'ouvriers agricoles, alerte de 5 000 scientifiques, procès contre Dow Chemical et Monsanto... Retour sur une lutte au long cours contre les pesticides. Le 24 novembre, des centaines de manifestants son",
+      "url": "https://reporterre.net/Pesticides-80-ans-de-lutte-tenace-en-10-moments-forts",
+      "published_at": "2026-11-24T08:44:02+00:00"
+    },
+    {
+      "id": "0f0b37df5b2505f4",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "Snam Issues $1.25 Billion Sustainability-Linked Bonds Tied to Value Chain Decarbonization Goals",
+      "resume": "Italian energy infrastructure and services provider Snam announced that is has raised $1.25 billion a […]",
+      "url": "https://www.esgtoday.com/snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals/?utm_source=rss&utm_medium=rss&utm_campaign=snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals",
+      "published_at": "2026-11-24T08:03:55+00:00"
+    },
+    {
+      "id": "1b0080f5c6e6a603",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Objectifs, modèle, leadership : quelles leçons tirer de la COP31 ?",
+      "resume": "En l’absence de mention des énergies fossiles et du fait d’une faible ambition climatique, l’UE a refusé de soutenir la déclaration finale de la COP31. Cette conclusion, imputable aussi à une double présidence pas suffisamment efficace, ill",
+      "url": "https://www.contexte.com/fr/article/energie/objectifs-modele-leadership-quelles-lecons-tirer-de-la-cop31_286169?source=rss",
+      "published_at": "2026-11-24T07:00:00+00:00"
+    },
+    {
+      "id": "1842a01c90f454ef",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Nvidia : le retour express de Jensen Huang consacre la toute-puissance du patron-fondateur",
+      "resume": "Le patron déchu de Nvidia revient à son poste après 10 jours de drame. Brendan Smialowski / AFP C'est un retournement de situation aussi rapide que spectaculaire. Le 23 novembre, le conseil d'administration de Nvidia a annoncé la réintégrat",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/nvidia-le-retour-express-de-jensen-huang-consacre-la-toute-puissance-du-patron-fondateur",
+      "published_at": "2026-11-24T05:45:16+00:00"
+    },
+    {
+      "id": "5b931d1d25f92e8c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Plutôt que des drones, ils s'allient aux oiseaux pour replanter les forêts brûlées",
+      "resume": "En Gironde, où la monoculture de pins est décimée par les incendies, des associations expérimentent le semis avec le geai des chênes. Objectif : faire de cet oiseau un allié pour semer des forêts plus vertes et résilientes. Des pins maritim",
+      "url": "https://reporterre.net/Il-trie-mieux-les-glands-que-nous-ils-s-allient-a-un-oiseau-pour-replanter-les-forets-brulees",
+      "published_at": "2026-11-24T05:30:00+00:00"
+    },
+    {
+      "id": "e91bafc41660c854",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Au Pays basque, le crépuscule de la chasse traditionnelle aux alouettes des champs, une espèce en déclin",
+      "resume": "Interdite pendant quatre ans, la chasse aux alouettes avec des pantes, des filets déployés au sol, a été réautorisée pour l’automne 2026. Les chasseurs font valoir que leurs prises sont marginales par rapport aux pertes causées par l’agricu",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/24/au-pays-basque-le-crepuscule-de-la-chasse-traditionnelle-aux-alouettes-des-champs-une-espece-en-declin_6814710_3244.html",
+      "published_at": "2026-11-24T05:00:56+00:00"
+    },
+    {
+      "id": "06fd42d9678a98fc",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "« C'est inquiétant » : les banques financent encore trop les énergies fossiles par rapport aux renouvelables - Les Echos",
+      "resume": "« C'est inquiétant » : les banques financent encore trop les énergies fossiles par rapport aux renouvelables Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMG5iWWJHQl9LNW5sNVM4ODhBbGNfVDB1WVpveHNxTlI0Ym5xU2ZvRFhKck1ya0tReEFWTVliU2xCMk9KSWRuTDB1X01sZTc4bFNmSmtadzF5MmJOaFNwVmN4cmpOQi1ZSlEycWhnQ1V0SmdrVXpHRW83RHFJSW9yelJlR04teG9VMmt2R01yQnhvcjNLOVduUXBYUGZvQWVXMmVFWG5mVDYxN1pRWEtSUmhRcTJySnEwNkhuamhfUFZDdFM3UUFkWmk1a3FWR0lQNmVwQzBodXdIVUxLb1pQUFg0ZHRHdk55Z3pHQ01neWZoQXo5VEhGa1FYQQ?oc=5",
+      "published_at": "2026-11-24T05:00:08+00:00"
+    },
+    {
+      "id": "6e4709048ab138b7",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Deux allers-retours en avion par an, « mercato des postes »... Les pistes pour des transports moins polluants",
+      "resume": "Une révolution en quatre propositions. Dans un rapport de 40 pages publié le 24 novembre, le Forum Vies mobiles soumet plusieurs pistes pour le déploiement d'une mobilité plus écologique, en déconstruisant un système axé sur les modes de tr",
+      "url": "https://reporterre.net/Deux-allers-retours-en-avion-par-an-mercato-des-postes-Les-pistes-pour-des-transports-moins-polluants",
+      "published_at": "2026-11-24T05:00:00+00:00"
+    },
+    {
+      "id": "9d2956d619c4b25d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« La mer du Nord telle qu'on l'a connue a disparu » : le changement climatique bouleverse le milieu marin",
+      "resume": "Avec le réchauffement de la mer du Nord, la nourriture des poissons se raréfie, et l'aire de répartition des animaux change. Les scientifiques belges et français étudiant le phénomène sont catégoriques : cette mer ne sera plus jamais comme ",
+      "url": "https://reporterre.net/Harengs-en-fuite-explosion-de-sardines-le-rechauffement-de-la-mer-du-Nord-bouleverse-l",
+      "published_at": "2026-11-24T05:00:00+00:00"
+    },
+    {
+      "id": "5a706cbd34dde1c4",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
+      "resume": "L’atonie de l’activité économique française et la remontée du chômage freinent la répercussion de l’envolée des cours du pétrole et du gaz à l’ensemble de l’économie. Mais la donne pourrait changer.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
+      "published_at": "2026-11-24T04:00:12+00:00"
+    },
+    {
+      "id": "8965ff712f87a11c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Comment on lutte contre l’isolement avec un service de navettes citoyennes",
+      "resume": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Dans la Creuse, des bénévoles assurent le transport d’habitants entre plusieurs villages après la ferm",
+      "url": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/24/comment-on-lutte-contre-l-isolement-avec-un-service-de-navettes-citoyennes_6814605_6125299.html",
+      "published_at": "2026-11-24T04:00:09+00:00"
     },
     {
       "id": "d64d90d0b05d9e63",
@@ -56,24 +200,6 @@
       "published_at": "2026-11-23T16:33:49+00:00"
     },
     {
-      "id": "9943cbdeda192fb8",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Pesticides : « Omnibus X menace la santé des citoyens sans résoudre le problème bureaucratique qu’il dénonce »",
-      "resume": "L’examen du paquet législatif, qui entend simplifier les réglementations liées à l’usage des produits phytosanitaires en Europe, doit être suspendu dans l’attente d’une « évaluation indépendante et contradictoire », appelle, dans une tribun",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/23/pesticides-omnibus-x-menace-la-sante-des-citoyens-sans-resoudre-le-probleme-bureaucratique-qu-il-denonce_6814419_3232.html",
-      "published_at": "2026-11-23T16:30:04+00:00"
-    },
-    {
-      "id": "8700d5cd41ea1f07",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les trois raisons de l’échec de la COP31, qui s’achève sans accord après deux semaines de négociations",
-      "resume": "La COP31 s’est terminée sur le rejet par l’Union européenne et d’autres pays d’un projet de décision finale omettant les énergies fossiles.",
-      "url": "https://www.lemonde.fr/planete/video/2026/11/23/les-trois-raisons-de-l-echec-de-la-cop31-qui-s-acheve-sans-accord-apres-deux-semaines-de-negociations_6814416_3244.html",
-      "published_at": "2026-11-23T16:23:30+00:00"
-    },
-    {
       "id": "eb28bb724973ea38",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -90,24 +216,6 @@
       "resume": "Succédant au 1er janvier 2027 au guichet ouvert pour les méthaniseurs, le nouvel appel d’offres est lancé. Il est réservé aux centrales de moins de 19,5 GWh et prévoit, comme GreenUnivers l’avait anticipé, deux L’article Top départ pour le ",
       "url": "https://www.greenunivers.com/2026/11/top-depart-pour-le-nouvel-appel-doffres-biomethane-439413/",
       "published_at": "2026-11-23T16:20:27+00:00"
-    },
-    {
-      "id": "6dac9b9bd6717491",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Une des tactiques les plus destructrices jamais vues » : comment les pays pétroliers ont sapé la COP31",
-      "resume": "Le fiasco historique de la COP31 , qui s'est tenue en Turquie, s'explique par les tactiques des pays pétroliers, mais aussi par les incohérences de l'Australie et le silence de la Chine, selon le philosophe australien Clive Hamilton. Capter",
-      "url": "https://reporterre.net/C-est-l-une-des-tactiques-les-plus-destructrices-que-nous-ayons-vues-comment-les-pays",
-      "published_at": "2026-11-23T16:11:08+00:00"
-    },
-    {
-      "id": "9673bfb84b010932",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« On nous a empoisonnés » : dans l’industrie de la chimie, des travailleurs surexposés aux PFAS",
-      "resume": "Les premiers résultats d’une étude inédite en France visant à mesurer l’imprégnation de salariés ou retraités des sites d’Arkema et de Daikin Chemical France, dans le Rhône, et de Solvay, dans le Gard, ont été publiés lundi.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/23/on-nous-a-empoisonnes-dans-l-industrie-de-la-chimie-des-travailleurs-surexposes-aux-pfas_6814409_3244.html",
-      "published_at": "2026-11-23T16:00:08+00:00"
     },
     {
       "id": "356b92a132ca7a60",
@@ -128,15 +236,6 @@
       "published_at": "2026-11-23T15:34:28+00:00"
     },
     {
-      "id": "0d67ea5bf4119920",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« J'ai deux passions : la forêt et la révolution » : un carnaval révolté pour lutter contre les coupes rases",
-      "resume": "Pour défendre le massif forestier contre les coupes de l'Office national des forêts, deux cents personnes ont participé à un carnaval « révolté » dans l'Aisne. En rappelant, en prime, la tradition carnavalesque des luttes. Saint-Gobain (Ais",
-      "url": "https://reporterre.net/Nous-sommes-la-foret-qui-se-defend-un-carnaval-revolte-pour-lutter-contre-les-coupes",
-      "published_at": "2026-11-23T15:16:53+00:00"
-    },
-    {
       "id": "76c363fd4501c956",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -155,42 +254,6 @@
       "published_at": "2026-11-23T15:02:22+00:00"
     },
     {
-      "id": "ec923ed3b596c845",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Un chêne de 500 ans provisoirement sauvé de l'abattage grâce à une mobilisation",
-      "resume": "Le géant est encore debout. Grâce à la mobilisation d'un collectif de citoyens, l'abattage du majestueux chêne du village de Roville-aux-Chênes, dans les Vosges, a été suspendu provisoirement par la mairie. Âgé de près de 500 ans, haut d'un",
-      "url": "https://reporterre.net/Un-chene-de-500-ans-provisoirement-sauve-de-l-abattage-grace-a-une-mobilisation",
-      "published_at": "2026-11-23T14:51:09+00:00"
-    },
-    {
-      "id": "a1377ddd6da2c1a1",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La justice administrative précise le calcul du seuil de soumission à évaluation environnementale",
-      "resume": "Par une décision du 19 novembre 2026, la cour administrative d'appel de Toulouse a précisé les critères à prendre en compte pour déterminer si une installation agrivoltaïque devait faire ou non l'objet d'une étude d'impact. Dans cette affai",
-      "url": "https://www.actu-environnement.com/ae/news/agrivoltaique-emprise-sol-seuil-evaluation-environnementale-48833.php4#xtor=RSS-6",
-      "published_at": "2026-11-23T14:30:10+00:00"
-    },
-    {
-      "id": "c8d5825979d955be",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Leur chimie, nos chimios » : des militants s'introduisent dans une usine de Syngenta à la recherche de pesticides interdits",
-      "resume": "Une trentaine de Faucheurs et Faucheuses volontaires d' OGM se sont introduits le 23 novembre dans une usine de Syngenta, dans l'Eure, pour une « inspection citoyenne », afin de vérifier si des pesticides sont interdits ou devraient l'être.",
-      "url": "https://reporterre.net/Leur-chimie-nos-chimios-des-militants-s-introduisent-dans-une-usine-de-Syngenta-a-la",
-      "published_at": "2026-11-23T14:29:19+00:00"
-    },
-    {
-      "id": "f2209e5df388031c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Sécheresse : 48 départements encore touchés",
-      "resume": "Alors que le Pas-de-Calais subit des inondations, de nombreux autres départements, eux, guettent encore la fin de la sécheresse qui sévit depuis cet été caniculaire. Selon le site gouvernemental Vigie eau, 35 départements sont encore en « c",
-      "url": "https://reporterre.net/Secheresse-48-departements-encore-touches",
-      "published_at": "2026-11-23T14:13:46+00:00"
-    },
-    {
       "id": "8cbdde1489dabdcd",
       "source": "Novethic",
       "categorie": "Presse",
@@ -207,15 +270,6 @@
       "resume": "Les indicateurs de prix de l’électricité, gaz et carbone étaient à la baisse une bonne partie de la semaine dernière mais sont remontés à l’approche du weekend et cela pourrait continuer : les jours à venir s’annoncent froids. Les prévision",
       "url": "https://www.greenunivers.com/2026/11/laccalmie-des-prix-de-lenergie-aura-ete-de-courte-duree-marches-439371/",
       "published_at": "2026-11-23T11:49:48+00:00"
-    },
-    {
-      "id": "e54b9f5c868ddb06",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Inondations au Népal : l’Inde offre à son voisin et allié un « plan de coopération » et une aide à la reconstruction de 1,6 milliard de dollars",
-      "resume": "Selon le dernier bilan côté népalais, ce « tsunami des montagnes », dont l’ampleur a été attribuée au réchauffement climatique, a fait au moins 1 400 morts, plus de 5 000 disparus et d’importants dégâts.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/23/inondations-au-nepal-l-inde-offre-a-son-voisin-et-allie-un-plan-de-cooperation-et-une-aide-a-la-reconstruction-de-1-6-milliard-de-dollars_6814377_3210.html",
-      "published_at": "2026-11-23T11:41:50+00:00"
     },
     {
       "id": "b153bc782278b0dd",
@@ -263,15 +317,6 @@
       "published_at": "2026-11-23T07:48:09+00:00"
     },
     {
-      "id": "1fb84cb645885d2a",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
-      "resume": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 […]",
-      "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
-      "published_at": "2026-11-22T23:09:39+00:00"
-    },
-    {
       "id": "5d77bbb099d88c0d",
       "source": "Novethic",
       "categorie": "Presse",
@@ -288,15 +333,6 @@
       "resume": "Les négociations n’ont pas réussi à aboutir sur un accord malgré les avertissements concernant un réchauffement climatique galopant.",
       "url": "https://www.politico.eu/article/cop31-laccord-capote-sur-fond-de-desaccord-sur-les-energies-fossiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-22T13:54:46+00:00"
-    },
-    {
-      "id": "e38f2c3693b5f1eb",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "ESG Today: Week in Review",
-      "resume": "This week in ESG news: Sustainable bond issuance on track to rebound to multi-year high […]",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-284/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-284",
-      "published_at": "2026-11-22T08:12:50+00:00"
     },
     {
       "id": "11948148d2709985",
@@ -317,15 +353,6 @@
       "published_at": "2026-11-20T13:42:00+00:00"
     },
     {
-      "id": "f8190be45eaff392",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "Environmental Defense Fund Appoints Beatriz Da Cunha as Head of Sustainable Finance",
-      "resume": "Climate change-focused environmental non-profit Environmental Defense Fund (EDF) has appointed Beatriz Da Cunha as its […]",
-      "url": "https://www.esgtoday.com/environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance/?utm_source=rss&utm_medium=rss&utm_campaign=environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance",
-      "published_at": "2026-11-20T13:10:59+00:00"
-    },
-    {
       "id": "f23e9698f515c70a",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -333,15 +360,6 @@
       "resume": "Verre, chimie, métallurgie : l'industrie se bat pour ne pas payer deux fois la taxe carbone Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZklEZ20tNTJuaEtRZkdRdnRBbnFNYWxoQUdBOW9fcEF2bjR4VEIybjUya09nT0V6Y1NPd1E2YW9YcUZsVEg5Q3RLRXh0dTgta1dsWm5IdmlfMENxVDZLb294c21MQnpncGd2TWFXMWM3b0Y1ZlpuU1pUcUNnUVMyUVJIY1ZhclY3LW9uZVlwNzdTNnpVOWZjWkhlaTV3eVlRQjdPanBfQi1LS3JuNXhRSUtFX21yWDY0NEdzWWhJZ24tSEwtak82TThPQThGTnRzUnJUdHZjZE04YWhyWFhLVVdoNGFwbzg2WXc?oc=5",
       "published_at": "2026-11-20T11:31:02+00:00"
-    },
-    {
-      "id": "f0d24fde4ac17a7d",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "SFDR 2.0 : l'accord en trilogue ouvre la porte aux énergies fossiles dans les fonds de transition",
-      "resume": "La révision de la réglementation européenne SFDR inclut les énergies fossiles dans sa catégorie \"transition\". Crédit : Commission européenne Après plusieurs mois de négociations, les institutions européennes sont parvenues à un accord sur l",
-      "url": "https://www.novethic.fr/finance-durable/reglementation/sfdr-accord-trilogue-sans-exclusion-energies-fossiles",
-      "published_at": "2026-11-20T11:21:54+00:00"
     },
     {
       "id": "d57538bb3ef3913f",
@@ -560,15 +578,6 @@
       "published_at": "2026-11-03T09:33:58+00:00"
     },
     {
-      "id": "d8705309351c83d5",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Biodiversité : à la COP17 d’Erevan, le multilatéralisme sauve les meubles au prix d’une ambition rabotée",
-      "resume": "Au terme de deux semaines de discussions ardues, les négociateurs des quelque 200 pays de la communauté internationale se sont accordés sur un compromis a minima, sans parvenir à dépasser leurs divergences, notamment sur les financements. N",
-      "url": "https://www.contexte.com/fr/article/environnement/biodiversite-a-la-cop17-derevan-le-multilateralisme-sauve-les-meubles-au-prix-dune-ambition-rabotee_282860?source=rss",
-      "published_at": "2026-11-02T04:00:00+00:00"
-    },
-    {
       "id": "e50725920c0598ef",
       "source": "I4CE",
       "categorie": "Climat",
@@ -711,15 +720,6 @@
       "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
       "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
       "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "6bbee6a77e90f346",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "La FEP dévoile les 26 propositions de son Livre Bleu 2026",
-      "resume": "La Fédération des entreprises de propreté (FEP) publie une nouvelle édition de son Livre Bleu, qui rassemble cette année 26 propositions destinées à répondre aux enjeux économiques et sociaux du secteur. Fruit du travail collectif des chamb",
-      "url": "https://www.federation-proprete.com/la-fep-devoile-les-26-propositions-de-son-livre-bleu-2026/",
-      "published_at": "2026-03-17T13:58:52+00:00"
     }
   ]
 }
