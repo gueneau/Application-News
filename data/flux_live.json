@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-24T21:25:14.587246+00:00",
+  "generated_at": "2026-11-25T04:24:37.405537+00:00",
   "items": [
+    {
+      "id": "6d266a912a9838a1",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dans l’Iowa, des évacuations avant la destruction de matériel explosif vieillissant malgré le risque d’exposition au plomb",
+      "resume": "Plus de quatre tonnes de matériel explosif vieillissant et instable doivent être détruites mercredi dans une usine de munitions de l’armée américaine. Les risques sanitaires pour les habitants des zones environnantes suscitent un tollé.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/25/dans-l-iowa-des-evacuations-avant-la-destruction-de-materiel-explosif-vieillissant-malgre-le-risque-d-exposition-au-plomb_6814933_3244.html",
+      "published_at": "2026-11-25T01:20:11+00:00"
+    },
     {
       "id": "5f1008c40f59b67b",
       "source": "Le Monde Planète",
@@ -35,7 +44,7 @@
       "titre": "Nîmes renonce à artificialiser 36 hectares de terres agricoles situées en zone inondable",
       "resume": "Porté par l’ancienne municipalité de droite, le nouveau quartier nîmois du Mas Lombard devait être érigé sur des terres agricoles situées en zone inondable. Le nouveau conseil municipal vient d’entériner l’abandon du projet, au grand soulag",
       "url": "https://www.lemonde.fr/planete/article/2026/11/24/nimes-renonce-a-artificialiser-36-hectares-de-terres-agricoles-situees-en-zone-inondable_6814818_3244.html",
-      "published_at": "2026-11-24T16:30:13+00:00"
+      "published_at": "2026-11-24T16:30:06+00:00"
     },
     {
       "id": "fdafe072347e80b2",
@@ -261,15 +270,6 @@
       "resume": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6 […]",
       "url": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
       "published_at": "2026-11-24T09:19:40+00:00"
-    },
-    {
-      "id": "9b07a34929c4ef4f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Moselle, le projet de méga-usine Holosolis cherche à ressusciter l’industrie française des panneaux solaires",
-      "resume": "Alors que la Chine domine le secteur photovoltaïque mondial, le consortium Holosolis ambitionne de produire 10 millions de panneaux solaires par an d’ici à 2029. Mais le projet reste suspendu à des financements supplémentaires et à l’évolut",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/24/photovoltaique-en-moselle-le-projet-de-mega-usine-holosolis-cherche-a-ressusciter-l-industrie-francaise-des-panneaux-solaires_6814729_3234.html",
-      "published_at": "2026-11-24T09:00:00+00:00"
     },
     {
       "id": "0462027d4a67d331",
