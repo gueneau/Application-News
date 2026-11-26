@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-25T23:25:57.327046+00:00",
+  "generated_at": "2026-11-26T05:16:11.989024+00:00",
   "items": [
+    {
+      "id": "2092e40299fe6da6",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Des laits infantiles vendus en France sont contaminés par des PFAS interdits et cancérogènes",
+      "resume": "Pour la première fois, des analyses sur des laits infantiles vendus en France révèlent la présence de polluants éternels et à des niveaux qui exposent les nourrissons à des dépassements de la dose hebdomadaire tolérable fixée par les autori",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/des-laits-infantiles-vendus-en-france-sont-contamines-par-des-pfas-interdits-et-cancerogenes_6815474_3244.html",
+      "published_at": "2026-11-26T05:00:25+00:00"
+    },
+    {
+      "id": "138439b515a3127a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Pourquoi la chasse au renard est pire qu'inutile",
+      "resume": "Le risque de maladie, toujours mobilisé comme argument pour justifier de tuer les renards, s'affaiblit d'étude en étude. Les scientifiques montrent que cette chasse serait inefficace, et pourrait même aggraver la situation sanitaire. Le ren",
+      "url": "https://reporterre.net/Pourquoi-la-chasse-au-renard-est-pire-qu-inutile",
+      "published_at": "2026-11-26T05:00:00+00:00"
+    },
+    {
+      "id": "b8c74b500f1621ab",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les syndicats d’agriculteurs montent au créneau avant des discussions clés sur la nouvelle politique agricole commune",
+      "resume": "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 septembre, à Bruxelles. Des représentants syndicaux manifesteront à cette occasion dans la capitale belge.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
+      "published_at": "2026-11-26T04:00:25+00:00"
+    },
+    {
+      "id": "73a1edc1c72b98b1",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées",
+      "resume": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les maisons proches de l’océan. L’amplitude de ces marées est accentuée par le réchauffement ",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/des-grandes-marees-historiques-inondent-le-littoral-californien-san-francisco-evite-les-devastations-redoutees_6815334_3244.html",
+      "published_at": "2026-11-26T02:11:54+00:00"
+    },
     {
       "id": "a042ce88ccc85f5d",
       "source": "Politico Energy EU",
@@ -56,15 +92,6 @@
       "published_at": "2026-11-25T17:00:10+00:00"
     },
     {
-      "id": "e2c41081a851a1e1",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Budget de l’UE : la France ne veut « pas un euro » de moins pour la PAC, prévient Emmanuel Macron",
-      "resume": "« L’enveloppe actuelle de la France, c’est 66,25 milliards » d’euros « de crédits européens », « nous, on veut nos 66,25 milliards de crédits européens, les plus lisibles et les plus fléchés possibles », dans le budget pluriannuel pour 2028",
-      "url": "https://www.lemonde.fr/international/article/2026/11/25/budget-de-l-ue-la-france-ne-veut-pas-un-euro-de-moins-pour-la-pac-previent-emmanuel-macron_6815145_3210.html",
-      "published_at": "2026-11-25T16:56:34+00:00"
-    },
-    {
       "id": "8dc480fb14f55135",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -72,15 +99,6 @@
       "resume": "Dans sa récente étude sur les sanctions pénales des atteintes à l'environnement, le Palais Royal pointe un foisonnement de sanctions en matière de déchets, pas toutes proportionnées aux enjeux. Il préconise de rationaliser les incrimination",
       "url": "https://www.actu-environnement.com/ae/news/conseil-etat-sanctions-penales-dechets-48847.php4#xtor=RSS-6",
       "published_at": "2026-11-25T16:52:39+00:00"
-    },
-    {
-      "id": "6e9a2a911899afcc",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "L’armée américaine fait exploser des tonnes de matériel militaire vieillissant et toxique ; des habitants appelés à évacuer face aux risques de pollution",
-      "resume": "Donald Trump avait tenté de repousser l’explosion en raison du tollé suscité, mais elle a bien eu lieu, malgré les risques d’exposition au plomb.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/25/l-armee-americaine-fait-exploser-des-tonnes-de-materiel-militaire-vieillissant-et-toxique_6815143_3210.html",
-      "published_at": "2026-11-25T16:37:30+00:00"
     },
     {
       "id": "4efd52c9097475cf",
@@ -144,15 +162,6 @@
       "resume": "Un amendement porté par l'extrême-droite et soutenu par les eurodéputés de droite vise à rouvrir les directives Habitats et Oiseaux de l'UE. @CC0 Retournement de veste au Parlement européen autour de l’omnibus VIII relatif aux procédures d'",
       "url": "https://www.novethic.fr/environnement/biodiversite/omnibus-viii-environnement-les-deputes-europeens-ouvrent-la-boite-de-pandore",
       "published_at": "2026-11-25T15:29:34+00:00"
-    },
-    {
-      "id": "c365b2c6a7bbb891",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Fleur Breteau, héraut de la bataille contre Omnibus X, le texte qui assouplit la régulation des pesticides en Europe",
-      "resume": "« Elle ou il s’est fait remarquer. » Coup de projecteur sur une femme ou un homme qui a marqué l’actualité. Cette semaine, la militante française contre les pesticides qui a lancé, le 19 novembre, à Bruxelles, des cendres sur le visage du c",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/25/fleur-breteau-heraut-de-la-bataille-contre-omnibus-x-le-texte-qui-assouplit-la-regulation-des-pesticides-en-europe_6815120_4500055.html",
-      "published_at": "2026-11-25T15:00:24+00:00"
     },
     {
       "id": "55e0b7d0cdd449e6",
@@ -306,15 +315,6 @@
       "resume": "CMA CGM, le troisième armateur mondial, a annoncé que \"dans les circonstances actuelles\", il ne parviendrait pas à atteindre les objectifs qu'il s'est fixés d'ici 2050. @Wolfgang Weiser/Pexels \"Nous devons être lucides, dans les circonstanc",
       "url": "https://www.novethic.fr/environnement/climat/cma-cgm-abandonne-ses-objectifs-climatiques-le-blocage-du-detroit-dormuz-fait-sa-premiere-victime-collaterale",
       "published_at": "2026-11-25T05:45:17+00:00"
-    },
-    {
-      "id": "50d9c89a672c728e",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Ils achètent le silence » : pour faire accepter ses data centers, un constructeur sort le chéquier",
-      "resume": "Le maire de Bouc-Bel-Air, dans les Bouches-du-Rhône, a accordé à contrecœur un permis de construire à Digital Realty pour un centre de données XXL . Un an plus tard, l'entreprise inonde la ville de cash, officiellement « sans contrepartie »",
-      "url": "https://reporterre.net/Ils-achetent-le-silence-pour-faire-accepter-ses-data-centers-un-constructeur-sort-le",
-      "published_at": "2026-11-25T05:30:00+00:00"
     },
     {
       "id": "00212bb84b4cbab2",
