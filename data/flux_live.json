@@ -1,41 +1,221 @@
 {
-  "generated_at": "2026-11-26T05:16:11.989024+00:00",
+  "generated_at": "2026-11-26T15:32:35.087452+00:00",
   "items": [
     {
-      "id": "2092e40299fe6da6",
-      "source": "Le Monde Planète",
+      "id": "bd7be125bcdc12a6",
+      "source": "Actu-Environnement",
       "categorie": "Presse",
-      "titre": "Des laits infantiles vendus en France sont contaminés par des PFAS interdits et cancérogènes",
-      "resume": "Pour la première fois, des analyses sur des laits infantiles vendus en France révèlent la présence de polluants éternels et à des niveaux qui exposent les nourrissons à des dépassements de la dose hebdomadaire tolérable fixée par les autori",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/26/des-laits-infantiles-vendus-en-france-sont-contamines-par-des-pfas-interdits-et-cancerogenes_6815474_3244.html",
-      "published_at": "2026-11-26T05:00:25+00:00"
+      "titre": "Photovoltaïque : le Gouvernement remet sur la table la révision des contrats historiques",
+      "resume": "En plus de la révision possible des contrats S21 inscrite dans le projet de loi de finances, le Gouvernement a déposé un amendement visant à mettre fin aux contrats plus anciens (S6/S10). Près de 225 000 contrats sont concernés selon la fil",
+      "url": "https://www.actu-environnement.com/ae/news/photovoltaique-contrats-historiques-resiliation-plf2027-48855.php4#xtor=RSS-6",
+      "published_at": "2026-11-26T15:27:23+00:00"
     },
     {
-      "id": "138439b515a3127a",
+      "id": "c7e3ce325fea98c0",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Un nouveau programme de CEE aide les ménages à sortir du gaz",
+      "resume": "Un projet d'arrêté prévoit de créer le programme « Maison électrique » dans le cadre des certificats d'économies d'énergie (CEE). Le ministère de la Transition écologique met en consultation publique ce texte jusqu‘au 16 décembre 2026. Dans",
+      "url": "https://www.actu-environnement.com/ae/news/projet-arrete-cee-programme-maison-electrique-sortie-gaz-48854.php4#xtor=RSS-6",
+      "published_at": "2026-11-26T15:22:59+00:00"
+    },
+    {
+      "id": "9938c530b63a8996",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "BCE : Pablo Hernández de Cos poursuivra-t-il le virage climatique entamé par Christine Lagarde ?",
+      "resume": "Pablo Hernandez de Cos, nouveau président de la BCE - Photo par Indranil Aditya, Nurphoto via AFP On sait désormais qui succédera à Christine Lagarde à la tête de la Banque centrale européenne (BCE). Après quelques semaines de tractations, ",
+      "url": "https://www.novethic.fr/finance-durable/finance-verte/pablo-hernandez-de-cos-president-bce-durabilite-climat",
+      "published_at": "2026-11-26T14:58:20+00:00"
+    },
+    {
+      "id": "4e1d10ef94b02cf6",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Les 31 propositions des experts envers les candidats à la présidentielle",
+      "resume": "Le Cercle français de l'eau a rassemblé des acteurs du cycle de l'eau pour réfléchir à amélioration du financement de la politique de l'eau. Il en est ressorti 31 propositions à destination des candidats à la présidentielle.",
+      "url": "https://www.actu-environnement.com/ae/news/financement-grand-petit-cycle-eau-propositions-acteurs-eau-cercle-francais-eau-presidentielle-48851.php4#xtor=RSS-6",
+      "published_at": "2026-11-26T14:04:00+00:00"
+    },
+    {
+      "id": "68b2d557095c656c",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Recyclage de black mass : l'usine mosellane de Veolia au coeur d'une boucle européenne battery-to-battery",
+      "resume": "Veolia a inauguré une usine qui récupère les métaux stratégiques dans la black mass issue du broyage de batteries de véhicules électriques en fin de vie. Et contribue ainsi à édifier une filière européenne souveraine, capable d'opérer en bo",
+      "url": "https://www.actu-environnement.com/ae/news/veolia-inaugure-usine-de-recuperation-des-metaux-strategiques-dans-black-mass-48852.php4#xtor=RSS-6",
+      "published_at": "2026-11-26T14:03:27+00:00"
+    },
+    {
+      "id": "77a3e5ad4f1e79e4",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Fumées toxiques : « Les mégafeux de l’été sont éteints, les cancers, eux, ne s’éteignent pas l’hiver »",
+      "resume": "Les incendies mettent professionnels et volontaires en présence de substances cancérogènes, dans l’air comme dans leurs équipements. Face à cette situation, les autorités continuent de faire preuve d’apathie, dénonce un collectif de sapeurs",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/26/fumees-toxiques-les-megafeux-de-l-ete-sont-eteints-les-cancers-eux-ne-s-eteignent-pas-l-hiver_6815541_3232.html",
+      "published_at": "2026-11-26T14:00:11+00:00"
+    },
+    {
+      "id": "92cdd439584a12cf",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Pourquoi la chasse au renard est pire qu'inutile",
-      "resume": "Le risque de maladie, toujours mobilisé comme argument pour justifier de tuer les renards, s'affaiblit d'étude en étude. Les scientifiques montrent que cette chasse serait inefficace, et pourrait même aggraver la situation sanitaire. Le ren",
-      "url": "https://reporterre.net/Pourquoi-la-chasse-au-renard-est-pire-qu-inutile",
-      "published_at": "2026-11-26T05:00:00+00:00"
+      "titre": "Victimes des essais nucléaires : le gouvernement fait volte-face sur leur indemnisation",
+      "resume": "Le gouvernement fait marche arrière sur l'indemnisation des victimes des explosions nucléaires françaises. Mercredi 25 novembre, en commission à l'Assemblée nationale, la ministre des Armées, Catherine Vautrin, a annoncé que l'exécutif ne s",
+      "url": "https://reporterre.net/Victimes-des-essais-nucleaires-le-gouvernement-fait-volte-face-sur-leur-indemnisation",
+      "published_at": "2026-11-26T13:23:34+00:00"
     },
     {
-      "id": "b8c74b500f1621ab",
-      "source": "Le Monde Planète",
+      "id": "bfb44fa9f16ff595",
+      "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Les syndicats d’agriculteurs montent au créneau avant des discussions clés sur la nouvelle politique agricole commune",
-      "resume": "Le budget de la future politique agricole commune dépendra des négociations qui entrent dans une phase cruciale, jeudi 26 septembre, à Bruxelles. Des représentants syndicaux manifesteront à cette occasion dans la capitale belge.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/26/les-syndicats-d-agriculteurs-montent-au-creneau-avant-des-discussions-cles-sur-la-nouvelle-politique-agricole-commune_6815465_3234.html",
-      "published_at": "2026-11-26T04:00:25+00:00"
+      "titre": "Derrière la réautorisation des passoires thermiques, un député RN qui fait fortune dans l'immobilier",
+      "resume": "Le projet de loi « de relance et de décentralisation » du logement initié par le ministre de la Ville Vincent Jeanbrun a été adopté à l'Assemblée nationale le 24 novembre. Parmi les mesures entérinées par ce texte revenant sur l'un des pili",
+      "url": "https://reporterre.net/Derriere-la-reautorisation-des-passoires-thermiques-un-depute-RN-qui-fait-fortune-dans-l",
+      "published_at": "2026-11-26T13:21:35+00:00"
     },
     {
-      "id": "73a1edc1c72b98b1",
+      "id": "0df9737109e4abba",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Nvidia, Donald Trump et ses 15 millions de dollars : les dessous d’un possible conflit d’intérêts",
+      "resume": "Des soupçons pèsent sur Donald Trump qui possède des actions chez Nvidia alors qu'il a lui-même poussé à la réintégration de Jensen Huang favorisant une envolée du titre en Bourse. Jim Watson, AFP. Entre 1,3 et 15 millions de dollars. C’est",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/nvidia-donald-trump-et-ses-15-millions-de-dollars-les-dessous-dun-possible-conflit-dinterets",
+      "published_at": "2026-11-26T12:45:52+00:00"
+    },
+    {
+      "id": "8665f4725b47a907",
       "source": "Le Monde Planète",
       "categorie": "Presse",
-      "titre": "Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées",
-      "resume": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les maisons proches de l’océan. L’amplitude de ces marées est accentuée par le réchauffement ",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/26/des-grandes-marees-historiques-inondent-le-littoral-californien-san-francisco-evite-les-devastations-redoutees_6815334_3244.html",
-      "published_at": "2026-11-26T02:11:54+00:00"
+      "titre": "En Grèce, le « mini-Dubaï » de la Méditerranée, zone immobilière de luxe, fortement contaminé aux PFAS",
+      "resume": "Le site de l’ancien aéroport d’Athènes, en cours de transformation en quartier résidentiel haut de gamme, est fortement contaminé aux polluants éternels, sans que cette information figure dans les documents du promoteur Lamda, selon une enq",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/26/en-grece-le-mini-dubai-de-la-mediterranee-zone-immobiliere-de-luxe-fortement-contamine-aux-pfas_6815528_4355770.html",
+      "published_at": "2026-11-26T12:00:07+00:00"
+    },
+    {
+      "id": "9386404c5ca4e81c",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Trigano tient bien la route malgré un environnement moins porteur - Investir Les Echos",
+      "resume": "Trigano tient bien la route malgré un environnement moins porteur Investir Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXMxclhpVE9SRUQ5QmVmUVBYRi11YXU5Q0QxVW9TdEh1WXp4UUdkVWUxYzBQRGl1TXBMdUd1TU02SnlDWFROQVN6MHVOSmJTY2hnN0haLXFkeVZmUjc5SmllYmZyMklUZDR5Y3hEUDNaa0ZCUV9zM0tFQ1lPLVBLMk9TUGo1NHhKRUl0X0hGanEzZHhmY3BPd2xSNVVtTXplNmd1eWFVaEI5STVCRFB3b2FqSVJocF93MlFxdkFkMjNXWXR6ODJhTTVtb2p2QXVJNnFBWQ?oc=5",
+      "published_at": "2026-11-26T11:15:33+00:00"
+    },
+    {
+      "id": "2325994ce8f217a8",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "PFAS : poissons, lait infantile et crustacés sont particulièrement contaminés",
+      "resume": "Des laits infantiles contaminés par une substance cancérogène, et sous les radars des règlementations. Jeudi 26 novembre, Générations futures a publié les résultats d'une enquête visant à répondre à deux questions : à quel point sommes-nous",
+      "url": "https://reporterre.net/PFAS-poissons-lait-infantile-et-crustaces-sont-particulierement-contamines",
+      "published_at": "2026-11-26T10:54:43+00:00"
+    },
+    {
+      "id": "0ed9b347e111cff5",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Le Népal s’apprête à déclarer mortes les plus de 5 000 personnes disparues dans les inondations de l’Himalaya",
+      "resume": "Au mois d’octobre, la législation népalaise avait été modifiée pour réduire de douze ans à environ six semaines le délai d’attente pour déclarer des disparus officiellement morts.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/le-nepal-s-apprete-a-declarer-mortes-les-plus-de-5-000-personnes-disparues-dans-les-inondations-de-l-himalaya_6815520_3244.html",
+      "published_at": "2026-11-26T10:42:01+00:00"
+    },
+    {
+      "id": "05c3d3aed8fe55f2",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Vous pouvez maintenant tester les polluants dans l'eau de votre robinet",
+      "resume": "L'eau de votre robinet contient-elle du TFA , un polluant éternel omniprésent dans les milieux aquatiques et reconnu comme toxique ? Pour le savoir, les ONG Générations futures, Greenpeace, Cancer Colère et la plateforme Greenvoice lancent ",
+      "url": "https://reporterre.net/Vous-pouvez-maintenant-tester-les-polluants-dans-l-eau-de-votre-robinet",
+      "published_at": "2026-11-26T10:32:32+00:00"
+    },
+    {
+      "id": "6bd4847c662e918d",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Cancers chez les enfants : une carte de France pour enquêter sur les causes des clusters",
+      "resume": "Petit à petit, cette carte-là de France devrait être entachée de zones de possibles clusters de cancers pédiatriques. Recenser les malades de moins de 25 ans et localiser les victimes, c'est le but de la cartographie citoyenne des cancers d",
+      "url": "https://reporterre.net/Cancers-chez-les-enfants-une-carte-de-France-pour-enqueter-sur-les-causes-des-clusters",
+      "published_at": "2026-11-26T10:01:58+00:00"
+    },
+    {
+      "id": "dae356d9c22dc416",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Écoles cernées de pesticides : des parents veulent interdire les épandages près des classes",
+      "resume": "Des parents d'élèves de Gironde et de Charente ont mis l'État en demeure d'interdire l'épandage de pesticides à moins de 500 mètres des écoles. Une proximité qui inquiète dans la région, où plusieurs cancers pédiatriques ont été recensés pr",
+      "url": "https://reporterre.net/On-nous-a-completement-laisses-tomber-des-parents-d-eleves-somment-l-Etat-d-interdire-les",
+      "published_at": "2026-11-26T09:32:44+00:00"
+    },
+    {
+      "id": "b5361fd4db80d54e",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Affaire René Collet &amp; Cie : pas d'assouplissement de la jurisprudence Alusuisse",
+      "resume": "La cour administrative d'appel de Lyon a validé des mesures de police visant un exploitant ICPE, malgré une activité cessée depuis plus de trente ans, et alors même que celui-ci invoquait la prescription trentenaire. Décryptage de cette déc",
+      "url": "https://www.actu-environnement.com/ae/news/rene-collet-icpe-prescription-trentenaire-alusuisse-48813.php4#xtor=RSS-6",
+      "published_at": "2026-11-26T09:30:00+00:00"
+    },
+    {
+      "id": "01855962fbcc0afe",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En images : de grandes marées inondent le littoral californien",
+      "resume": "L’amplitude de ces marées est accentuée par le réchauffement climatique et par un épisode El Niño très intense.",
+      "url": "https://www.lemonde.fr/international/video/2026/11/26/en-images-de-grandes-marees-inondent-le-littoral-californien_6815506_3210.html",
+      "published_at": "2026-11-26T09:13:04+00:00"
+    },
+    {
+      "id": "657cd396fa1eaeb5",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
+      "resume": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Baléares. Les dommages environnementaux sont en cours d’évaluation.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/26/espagne-un-petrolier-charge-de-diesel-coule-au-large-d-ibiza-faisant-un-mort_6815505_3210.html",
+      "published_at": "2026-11-26T09:06:10+00:00"
+    },
+    {
+      "id": "1c8c891f4cc1be90",
+      "source": "The Shift Project",
+      "categorie": "Climat",
+      "titre": "Déploiement actuel et à venir des centres de données en France",
+      "resume": "",
+      "url": "https://theshiftproject.org/publications/deploiement-actuel-et-a-venir-des-centres-de-donnees-en-france/",
+      "published_at": "2026-11-26T08:57:29+00:00"
+    },
+    {
+      "id": "a1024e307075ca3b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Après avoir mangé des huîtres en Floride, elle meurt douze heures après son admission à l’hôpital en France",
+      "resume": "Présente dans les eaux côtières chaudes et saumâtres, la bactérie « Vibrio vulnificus » peut provoquer une infection nécrosante de la peau et des tissus mous, à l’évolution fulgurante en 24 heures. Des observations récentes éclairent les mo",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/11/26/apres-avoir-mange-des-huitres-en-floride-elle-meurt-douze-heures-apres-son-admission-a-l-hopital-en-france_6815495_6579630.html",
+      "published_at": "2026-11-26T08:29:51+00:00"
+    },
+    {
+      "id": "417e2a4fa46d7c35",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "EXCLUSIF - French Tech : une greentech en redressement judiciaire, un serial entrepreneur dans la fintech… les confidentiels de la semaine - Les Echos",
+      "resume": "EXCLUSIF - French Tech : une greentech en redressement judiciaire, un serial entrepreneur dans la fintech… les confidentiels de la semaine Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOelh6ci1MOWRBQjloR09DeGdKd2FJMG03cmxGS3hvdy1pOWZqejlDaU1VWmZhNXNGQ21PR2FwUkwwcjc4ZkhRejI2dDJ4U1ZYbVZyak90dHVsUm9ZNDFseW4tSFlYWXdYV3BCcTdsZkJRcmltcGVfNXVweWxUNFF1Rl9LajgwcmEwUzZXTjEtWURabXFINUIzejhaSjY4Nl83MWlLbXRsSUdWZURIWWV6MjhyNW1wUzd4X2NUOFFtUEl0TE9FWUFoMTVzTUwyVVBJaGRUN0g1Wm5pNzhmc1gyTkdtcWxZUHYwZ1MtQnE4bmxqYklLM3JvZ1k3UWNiZUVDVzZDaUFwX21uMF92bEUwa1FR?oc=5",
+      "published_at": "2026-11-26T08:18:36+00:00"
+    },
+    {
+      "id": "116607a5d0cc57b4",
+      "source": "Contexte Environnement",
+      "categorie": "Réglementation",
+      "titre": "Au Parlement européen, la droite s’allie à l’extrême droite pour demander la révision des directives nature",
+      "resume": "Le Parti populaire européen a tourné le dos à ses partenaires de coalition pour voter, le 25 novembre, un amendement déposé par les ultraconservateurs d’ECR en faveur d’une réouverture des directives habitats et oiseaux, en vue d’affaiblir ",
+      "url": "https://www.contexte.com/fr/article/environnement/au-parlement-europeen-la-droite-sallie-a-lextreme-droite-pour-demander-la-revision-des-directives-nature_286463?source=rss",
+      "published_at": "2026-11-26T07:00:00+00:00"
+    },
+    {
+      "id": "03c01fda06890400",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EV Truck Producer Harbinger Secures $100 Million Debt Package to Grow Electrification Platform",
+      "resume": "Electric vehicle producer Harbinger announced that it has secured more than $100 million in debt […]",
+      "url": "https://www.esgtoday.com/ev-truck-producer-harbinger-secures-100-million-debt-to-grow-electrification-platform/?utm_source=rss&utm_medium=rss&utm_campaign=ev-truck-producer-harbinger-secures-100-million-debt-to-grow-electrification-platform",
+      "published_at": "2026-11-26T06:25:00+00:00"
     },
     {
       "id": "a042ce88ccc85f5d",
@@ -47,51 +227,6 @@
       "published_at": "2026-11-25T20:07:06+00:00"
     },
     {
-      "id": "e2593baf7bb72be8",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Cargo « Miro-G » échoué dans les Landes : une enquête judiciaire ouverte, la préfecture maritime évoque une « erreur de navigation »",
-      "resume": "Le « Miro-G », vraquier de 169 mètres qui naviguait à vide, s’est échoué dans la nuit de jeudi à vendredi sur la plage de Cap-de-l’Homy. Remis à flot mardi, il est acheminé vers un port de Gironde.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/25/une-enquete-judiciaire-ouverte-sur-l-echouement-du-cargo-miro-g-dans-les-landes_6815168_3244.html",
-      "published_at": "2026-11-25T19:20:58+00:00"
-    },
-    {
-      "id": "f2865a40b56a526c",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Des oiseaux équipés de capteurs pour débusquer les navires de pêche",
-      "resume": "Certains navires de pêche contournent la législation en disparaissant des radars : ils débranchent leur système d'identification automatique ( AIS ), une technologie qui permet de géolocaliser et d'identifier chaque navire sur les océans du",
-      "url": "https://reporterre.net/Des-oiseaux-equipes-de-capteurs-pour-debusquer-les-navires-de-peche",
-      "published_at": "2026-11-25T19:00:00+00:00"
-    },
-    {
-      "id": "80d89ddd743317ea",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En retardant des mesures sur la fin de l’élevage en cage, la Commission européenne a « manqué à ses obligations », selon la Cour de justice de l’UE",
-      "resume": "La haute juridiction avait été saisie au sujet de la réponse de l’exécutif européen à une pétition de 1,4 million de citoyens demandant l’interdiction de ce mode d’élevage.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/25/en-retardant-des-mesures-sur-la-fin-de-l-elevage-en-cage-la-commission-a-manque-a-ses-obligations-selon-la-cour-de-justice-de-l-union-europeenne_6815157_3244.html",
-      "published_at": "2026-11-25T17:36:53+00:00"
-    },
-    {
-      "id": "4dcfbebfc8832874",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le gouvernement compte supprimer les contrats d’achat photovoltaïques « S6 » et « S10 »",
-      "resume": "Une proposition radicale. Parce qu’il n’arrive pas juridiquement à modifier les contrats solaires dits « S6 » et « S10 », le gouvernement propose désormais de les supprimer. Ces contrats, signés entre 2006 et 2010, garantissent un tarif de ",
-      "url": "https://www.greenunivers.com/2026/11/le-gouvernement-compte-supprimer-les-contrats-dachat-photovoltaiques-s6-et-s10-439765/",
-      "published_at": "2026-11-25T17:00:44+00:00"
-    },
-    {
-      "id": "ee50844b9c718d29",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En France, une sécheresse persistante malgré les pluies d’automne et des zones inondées",
-      "resume": "Alors que la sécheresse des sols s’estompe progressivement à travers le pays, les réserves en eau de nombreux bassins versants sont encore très faibles. Malgré des intempéries sur certains secteurs, la recharge des nappes souterraines est à",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/25/en-france-une-secheresse-persistante-malgre-les-pluies-d-automne-et-des-zones-inondees_6815147_3244.html",
-      "published_at": "2026-11-25T17:00:10+00:00"
-    },
-    {
       "id": "8dc480fb14f55135",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -99,51 +234,6 @@
       "resume": "Dans sa récente étude sur les sanctions pénales des atteintes à l'environnement, le Palais Royal pointe un foisonnement de sanctions en matière de déchets, pas toutes proportionnées aux enjeux. Il préconise de rationaliser les incrimination",
       "url": "https://www.actu-environnement.com/ae/news/conseil-etat-sanctions-penales-dechets-48847.php4#xtor=RSS-6",
       "published_at": "2026-11-25T16:52:39+00:00"
-    },
-    {
-      "id": "4efd52c9097475cf",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Un acheteur potentiel de Renner Energies se désiste",
-      "resume": "Après plusieurs mois sur le marché, la vente de Renner Energies par BlackRock était proche L’article Un acheteur potentiel de Renner Energies se désiste est apparu en premier sur GreenUnivers .",
-      "url": "https://www.greenunivers.com/2026/11/un-acheteur-potentiel-de-renner-energies-se-desiste-439725/",
-      "published_at": "2026-11-25T16:21:06+00:00"
-    },
-    {
-      "id": "64beb5d62dce367c",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Appel d’offres « super neutre » : le gouvernement fixe le volume à 1,5 GW",
-      "resume": "Le gouvernement annonce que l’appel d’offres « super neutre » pour 2027, le seul pour le moment, aura un volume de 1,5 GW. « C’est un niveau exceptionnel qui montre la volonté du gouvernement de marquer son attachement à l’exécution de la P",
-      "url": "https://www.greenunivers.com/2026/11/appel-doffres-super-neutre-le-gouvernement-fixe-le-volume-a-15-gw-439724/",
-      "published_at": "2026-11-25T16:17:50+00:00"
-    },
-    {
-      "id": "309a923099c1c1f8",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Ventes d'actifs, transfert d'Electricité de Strasbourg : le tour de passe-passe à plusieurs milliards d'EDF pour financer ses réacteurs - Les Echos",
-      "resume": "Ventes d'actifs, transfert d'Electricité de Strasbourg : le tour de passe-passe à plusieurs milliards d'EDF pour financer ses réacteurs Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPbTh5TDd2VlQtYjlGVUVDSHpzcEtZWWYyTjJCeXgtbmRXalhLbVdwUVlaT3RLN0hKNFdpcWN4QXI2UFRha05SVXlGVjNYYlpSSTVQMkpYaEM4eHQwZlZIMzRJRE5uRE15bnJMQXN2QVZPU1Nzd3J4cDlGc0FLVHlQUklHZG9ob0NoSDZWRnRWd1RlQU5HVnh5WG9FVnFwSTNIanRfNFNaSjY5ZkhzeDRFdVlyWXVrS2hXRDhzei1lVG1JMGxOYXE0UjRRMElqVHc2WnF2bEhXMm9ubC04T01yamZGYXNlYXkxSTZJWGlvUXlNaVpjSUpRM25uYTU3X21UVTI1dXBMUEFJQ3pIdW11Y2t0cDJyRDZtSlVzUnl5eHROMnducWZoalB3?oc=5",
-      "published_at": "2026-11-25T16:12:14+00:00"
-    },
-    {
-      "id": "1a9fd39995380a3b",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Un permis d'aménager qui expose les futurs habitants à un risque sanitaire peut méconnaître ce principe",
-      "resume": "Par une décision du 20 novembre 2026, la cour administrative d'appel de Nantes a confirmé qu'un permis d'aménager des lotissements qui expose ses futurs habitants à un risque sanitaire en raison des champs électromagnétiques d'une ligne à h",
-      "url": "https://www.actu-environnement.com/ae/news/permis-amenager-champs-electromagnetiques-principe-precaution-48846.php4#xtor=RSS-6",
-      "published_at": "2026-11-25T16:06:59+00:00"
-    },
-    {
-      "id": "e397fea3928862dd",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La cour administrative d'appel de Marseille juge irrecevable la requête de la société et de la commune",
-      "resume": "Par une ordonnance du 30 octobre 2026, la cour administrative d'appel de Marseille juge irrecevable la requête de la Société d'aménagement touristique de La Grave (SATG) et de la commune de La Grave-La Meije qui demandaient l'annulation du ",
-      "url": "https://www.actu-environnement.com/ae/news/telepher-grave-meije-irrecevabilite-especes-protegees-48845.php4#xtor=RSS-6",
-      "published_at": "2026-11-25T15:39:37+00:00"
     },
     {
       "id": "8bf7acbb2ed3db23",
@@ -164,15 +254,6 @@
       "published_at": "2026-11-25T15:29:34+00:00"
     },
     {
-      "id": "55e0b7d0cdd449e6",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Financement participatif : Enerfip propose à ses investisseurs de s’assurer",
-      "resume": "Le spécialiste du financement participatif de transition énergétique Enerfip lance une offre d’assurance pour ses investisseurs. Leur capital pourra être remboursé en cas de défaillance des emprunteurs, hors intérêts. La prime payée par les",
-      "url": "https://www.greenunivers.com/2026/11/financement-participatif-enerfip-propose-a-ses-investisseurs-de-sassurer-439674/",
-      "published_at": "2026-11-25T14:41:37+00:00"
-    },
-    {
       "id": "b099b563be07cf22",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -182,33 +263,6 @@
       "published_at": "2026-11-25T14:35:08+00:00"
     },
     {
-      "id": "187d564e5f403988",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Jouets : comment résister au grand gaspillage à l'approche de Noël",
-      "resume": "Briques de Lego, jeux de société, Playmobil... Et si on passait enfin aux jouets de seconde main ? Sites entre particuliers, boutiques solidaires, enseignes spécialisées… Voici nos pistes pour dénicher de bonnes affaires. Les chiffres ont d",
-      "url": "https://reporterre.net/Jouets-d-occasion-comment-offrir-sans-exploser-son-empreinte-carbone",
-      "published_at": "2026-11-25T14:30:00+00:00"
-    },
-    {
-      "id": "b4759f9246e86438",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Des chèvres sauvages par milliers aux portes de Marseille : ces maires ont réussi à éviter l'abattage",
-      "resume": "1 000 à 2 000 chèvres cohabitent avec les riverains aux portes de Marseille. Plutôt que de les abattre, quatre communes ont décidé de les confier à des éleveurs pratiquant l'écopastoralisme. Massif de la Nerthe (Bouches-du-Rhône), reportage",
-      "url": "https://reporterre.net/Son-fusil-etait-charge-mais-on-a-dit-pas-question-ces-villes-cohabitent-avec-les-chevres",
-      "published_at": "2026-11-25T13:30:00+00:00"
-    },
-    {
-      "id": "4e8b7bba37be16da",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Chasse à courre : une pétition réclamant son abolition dépasse 100 000 signatures",
-      "resume": "C'est une pratique particulièrement cruelle, interdite presque partout dans le monde et rejetée par 78 % des Français. Pourtant, quelque 10 000 personnes pratiquent encore la chasse à courre pour tuer chaque année plusieurs centaines de cer",
-      "url": "https://reporterre.net/Chasse-a-courre-une-petition-reclamant-son-abolition-depasse-100-000-signatures",
-      "published_at": "2026-11-25T13:26:31+00:00"
-    },
-    {
       "id": "d6dddf838a991124",
       "source": "Novethic",
       "categorie": "Presse",
@@ -216,42 +270,6 @@
       "resume": "MBDA assignée en justice pour manquement à son devoir de vigilance à Gaza - Crédit : Tom Nicholson / getty image Europe, via AFP Nouvelle étape dans la controverse autour de MBDA, entreprise de fabrication d'armement co-détenue par le group",
       "url": "https://www.novethic.fr/economie-et-social/droits-humains/mbda-devoir-vigilance-gaza-assignation-justice",
       "published_at": "2026-11-25T12:45:02+00:00"
-    },
-    {
-      "id": "0aef4354a264e856",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Electrification : le gouvernement dévoile son guide pour sortir du gaz",
-      "resume": "A l’occasion du Salon des maires et des collectivités locales, le gouvernement remet un coup de projecteur sur les 109 territoires d’électrification. Une cérémonie L’article Electrification : le gouvernement dévoile son guide pour sortir du",
-      "url": "https://www.greenunivers.com/2026/11/electrification-le-gouvernement-devoile-son-guide-pour-sortir-du-gaz-439565/",
-      "published_at": "2026-11-25T12:18:00+00:00"
-    },
-    {
-      "id": "7bde0f2a26a93e56",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Voltalia confie ses finances à une task force anti-crise",
-      "resume": "Le redressement financier de Voltalia, endetté à hauteur de 2,3 Mds€ est devenu une priorité absolue, alors que son cours en Bourse baisse depuis des mois. Après les arrivées d’Emmanuelle Lemer, une ancienne de JP Morgan au comité d’audit e",
-      "url": "https://www.greenunivers.com/2026/11/voltalia-confie-ses-finances-a-une-task-force-anti-crise-439632/",
-      "published_at": "2026-11-25T12:11:28+00:00"
-    },
-    {
-      "id": "417dfa428e3653c9",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Location des passoires thermiques : la commission mixte paritaire appelée à trancher",
-      "resume": "Après le vote du Sénat en juillet dernier, l'Assemblée nationale a adopté, le 24 novembre, en première lecture, le projet de loi visant la relance et la décentralisation du logement (362 voix pour et 118 contre). Une des mesures controversé",
-      "url": "https://www.actu-environnement.com/ae/news/passoires-thermiques-location-cmp-interdiction-48844.php4#xtor=RSS-6",
-      "published_at": "2026-11-25T11:19:11+00:00"
-    },
-    {
-      "id": "df0eed3977e4460c",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "109 territoires pilotes outillés pour sortir du réseau de gaz",
-      "resume": "Les ministères chargés de l'Énergie et de l'Aménagement du territoire publient, ce 25 novembre, un guide qui permet aux 109 territoires d'électrification retenus en septembre dernier « d'avoir tous les outils en main pour organiser la sorti",
-      "url": "https://www.actu-environnement.com/ae/news/guide-sortie-reseau-gaz-territoires-electrification-ministeres-48842.php4#xtor=RSS-6",
-      "published_at": "2026-11-25T11:15:00+00:00"
     },
     {
       "id": "60f8c4d6122f6528",
@@ -288,15 +306,6 @@
       "resume": "UK-based thematic investment manager Sarasin & Partners announced a series of new hires, including the […]",
       "url": "https://www.esgtoday.com/sarasin-partners-hires-fiona-manning-to-lead-responsible-global-equity-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=sarasin-partners-hires-fiona-manning-to-lead-responsible-global-equity-strategy",
       "published_at": "2026-11-25T08:30:51+00:00"
-    },
-    {
-      "id": "10bdc7e32698abb9",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Si les gens savaient, ils se soulèveraient » : malades du cancer et paysans déversent leur colère contre les pesticides",
-      "resume": "Près de 500 personnes issues des 27 pays de l'Union européenne se sont réunies devant le Parlement européen à Strasbourg, le 24 novembre, pour s'opposer à la dérégulation des pesticides portée par l'Omnibus X. Strasbourg (Bas-Rhin), reporta",
-      "url": "https://reporterre.net/On-m-a-enleve-un-truc-dans-le-nichon-des-malades-du-cancer-et-des-paysans-deversent-leur",
-      "published_at": "2026-11-25T08:28:06+00:00"
     },
     {
       "id": "0b95226adf49ff65",
@@ -344,15 +353,6 @@
       "published_at": "2026-11-24T16:22:51+00:00"
     },
     {
-      "id": "607795f0873cc054",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Le projet de décret sur la gestion quantitative de l'eau en consultation",
-      "resume": "Dans la continuité de la loi d'urgence agricole, le projet de décret sur la gestion quantitative de l'eau revient sur l'irrigation, les études volumes prélevables, les PTGE ou les retenues collinaires. La consultation est ouverte jusqu'au 1",
-      "url": "https://www.actu-environnement.com/ae/news/loi-uspa-souverainete-agricole-projet-decret-gestion-quantitative-consultation-48843.php4#xtor=RSS-6",
-      "published_at": "2026-11-24T16:12:02+00:00"
-    },
-    {
       "id": "5edec620988e5f7f",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -371,33 +371,6 @@
       "published_at": "2026-11-24T15:08:09+00:00"
     },
     {
-      "id": "fbe82c37a710afd0",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "CIP Raises $1.9 Billion Through New Instrument Providing Investors Access to Energy Transition Infrastructure Funds",
-      "resume": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the close of its first rated, […]",
-      "url": "https://www.esgtoday.com/cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds/?utm_source=rss&utm_medium=rss&utm_campaign=cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds",
-      "published_at": "2026-11-24T12:52:42+00:00"
-    },
-    {
-      "id": "7ed09aae877a6126",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Choose France : des milliards investis, mais pour quelle stratégie industrielle ?",
-      "resume": "Choose France : quelle économie pour la France ? - ANNE-CHRISTINE POUJOULAT / AFP Après une première édition 2026 dédiée aux investisseurs étrangers, Choose France tenait ce 23 novembre son second sommet annuel, dédié cette fois aux investi",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/choose-france-milliards-investis-strategie-industrielle",
-      "published_at": "2026-11-24T12:45:28+00:00"
-    },
-    {
-      "id": "ef5bd71de1197c8c",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Les grandes banques mondiales, deux fois plus accros aux énergies fossiles qu'aux énergies durables",
-      "resume": "Bank of America a augmenté ses financements aux énergies propres (+7%) mais aussi aux énergies fossiles (+4%). @Pexels / Steve Pancrate Les plus grandes banques mondiales continuent de financer près de deux fois plus les énergies fossiles q",
-      "url": "https://www.novethic.fr/finance-durable/finance-verte/les-grandes-banques-mondiales-sont-toujours-deux-fois-plus-accros-aux-energies-fossiles-quaux-energies-soutenables",
-      "published_at": "2026-11-24T11:24:12+00:00"
-    },
-    {
       "id": "1b0080f5c6e6a603",
       "source": "Contexte Environnement",
       "categorie": "Réglementation",
@@ -414,15 +387,6 @@
       "resume": "« C'est inquiétant » : les banques financent encore trop les énergies fossiles par rapport aux renouvelables Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMG5iWWJHQl9LNW5sNVM4ODhBbGNfVDB1WVpveHNxTlI0Ym5xU2ZvRFhKck1ya0tReEFWTVliU2xCMk9KSWRuTDB1X01sZTc4bFNmSmtadzF5MmJOaFNwVmN4cmpOQi1ZSlEycWhnQ1V0SmdrVXpHRW83RHFJSW9yelJlR04teG9VMmt2R01yQnhvcjNLOVduUXBYUGZvQWVXMmVFWG5mVDYxN1pRWEtSUmhRcTJySnEwNkhuamhfUFZDdFM3UUFkWmk1a3FWR0lQNmVwQzBodXdIVUxLb1pQUFg0ZHRHdk55Z3pHQ01neWZoQXo5VEhGa1FYQQ?oc=5",
       "published_at": "2026-11-24T05:00:08+00:00"
-    },
-    {
-      "id": "ce1ba784964f0be2",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Interparfums, Hermès International, Engie, Soitec, Renault, Forvia, Sartorius Stedim Biotech, Veolia Environnement, Valeo, Ubisoft, OPmobility mais aussi Sandoz Group et Infineon ailleurs en Europe : toutes les recommandations des analystes - Investir Les Echos",
-      "resume": "Interparfums, Hermès International, Engie, Soitec, Renault, Forvia, Sartorius Stedim Biotech, Veolia Environnement, Valeo, Ubisoft, OPmobility mais aussi Sandoz Group et Infineon ailleurs en Europe : toutes les recommandations des analystes",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNQVJNYndQUW82ajNzdW1nRk5MZVIzRXF3NUtRVnNJM1lBR2RvMUNIaVoxeDBKZE5iWUMwd1lKQmJCYXRiSkVWb1d0ZXB3R2tOY19DTnUtSDJmYkd6aGxlR3VBZVEzdGFVZ1dtR3BhaWFNemlqRmhqeDNfcnIwc0Vna05WdjRfbG5jQU5YSzBCbVVPOVk2UF8tRnNic2YteGxzRkpKSHZnSG5jMjJWX0tTcXNXbXJKNmlLRUJaalNfd2ZNVFMyX19tcFJXS1UyMWdKTUZtdXJ1ODVmSVJuRi1hQkhhMzJEUlNkdUQtNWhINjRtRU1CQm5HZWRNZDRtcVF1MUVtUFo5azMwUzl5R0V1OEFvaEtQWWhhTWxnMTJwLXgtV0MxVlhueUtZaU5CV1lYbEw5amJTUE5PQS1BTW43c1B3VDU5ald1RmNHS29jU1RxMWthWlc5amdDa05rVGVQUTJfY3Q2YkN1TXJNYnc?oc=5",
-      "published_at": "2026-11-23T08:04:56+00:00"
     },
     {
       "id": "7db378e4e5943c1a",
@@ -560,15 +524,6 @@
       "published_at": "2026-11-10T09:00:21+00:00"
     },
     {
-      "id": "e62bfc0b25d56e87",
-      "source": "Contexte Environnement",
-      "categorie": "Réglementation",
-      "titre": "Réduction des émissions : l’UE face au risque d’une sortie de route",
-      "resume": "Dans son dernier rapport d’étape, la Commission européenne tire la sonnette d’alarme face au ralentissement de la baisse des émissions de gaz à effet de serre. Alors que les transports, le bâtiment et l’agriculture sont à la traîne, les déb",
-      "url": "https://www.contexte.com/fr/article/energie/reduction-des-emissions-lue-face-au-risque-dune-sortie-de-route_284327?source=rss",
-      "published_at": "2026-11-10T07:00:00+00:00"
-    },
-    {
       "id": "20173b8e5b9a0de9",
       "source": "I4CE",
       "categorie": "Climat",
@@ -650,15 +605,6 @@
       "published_at": "2026-10-14T12:38:54+00:00"
     },
     {
-      "id": "1dd6edcb81f83b4f",
-      "source": "The Shift Project",
-      "categorie": "Climat",
-      "titre": "Notre nouveau livre est en librairie !",
-      "resume": "",
-      "url": "https://theshiftproject.org/publications/nouveau-livre-en-librairie/",
-      "published_at": "2026-10-14T07:27:21+00:00"
-    },
-    {
       "id": "677c3834c04eaf26",
       "source": "France Stratégie",
       "categorie": "Climat",
@@ -720,6 +666,42 @@
       "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
       "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
       "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "6bbee6a77e90f346",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "La FEP dévoile les 26 propositions de son Livre Bleu 2026",
+      "resume": "La Fédération des entreprises de propreté (FEP) publie une nouvelle édition de son Livre Bleu, qui rassemble cette année 26 propositions destinées à répondre aux enjeux économiques et sociaux du secteur. Fruit du travail collectif des chamb",
+      "url": "https://www.federation-proprete.com/la-fep-devoile-les-26-propositions-de-son-livre-bleu-2026/",
+      "published_at": "2026-03-17T13:58:52+00:00"
+    },
+    {
+      "id": "1237b5403c9b7828",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "La FEP félicite Avril McCarthy pour son élection à la présidence de l’EFCI",
+      "resume": "L’EFCI (European Cleaning and Facility Services Industry) est l’instance représentative de la profession à l’échelle européenne. Créée en 1988, l’EFCI est le partenaire social reconnu par la Commission européenne pour le secteur. Elle repré",
+      "url": "https://www.federation-proprete.com/election-efci-avril-mccarthy/",
+      "published_at": "2025-07-10T08:52:23+00:00"
+    },
+    {
+      "id": "56f325f18747b701",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "IMPACT PME : échange avec la Ministre du Travail Astrid PANOSYAN-BOUVET",
+      "resume": "La FEP était présente le mardi 24 juin pour la 6ème édition du Salon Impact PME organisé par la CPME. Cette journée dédiée aux solutions et au réseau des chefs d’entreprises a été l’occasion pour la fédération d’être présente par le biais d",
+      "url": "https://www.federation-proprete.com/impact-pme-echange-ministre-travail/",
+      "published_at": "2025-06-27T09:07:33+00:00"
+    },
+    {
+      "id": "9b7040341beeb4f1",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "Europropre 2025 : une 18ème édition marquée par trois temps forts institutionnels",
+      "resume": "La 18ème édition du Salon Europropre, qui s’est tenue du 25 au 27 mars 2025 Porte de Versailles à Paris, a été l’occasion pour la FEP de convier trois personnalités publiques de premier plan. Mardi matin, après la conférence média au cours ",
+      "url": "https://www.federation-proprete.com/europropre-temps-forts-institutionnels/",
+      "published_at": "2025-04-03T15:12:36+00:00"
     }
   ]
 }
