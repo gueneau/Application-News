@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-11-26T15:32:35.087452+00:00",
+  "generated_at": "2026-11-27T00:13:14.293690+00:00",
   "items": [
+    {
+      "id": "812d82a65b6a3b57",
+      "source": "I4CE",
+      "categorie": "Climat",
+      "titre": "Financer les cleantechs : ce qui doit guider la refonte de la boîte à outils européenne",
+      "resume": "La négociation du prochain budget européen et la révision du marché carbone ouvrent une fenêtre rare pour rendre plus cohérent le financement des cleantechs en Europe L’article Financer les cleantechs : ce qui doit guider la refonte de la b",
+      "url": "https://www.i4ce.org/financer-cleantechs-outils-europe-climat/",
+      "published_at": "2026-11-26T18:42:08+00:00"
+    },
+    {
+      "id": "ab718909f8f226b3",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Six jours consécutifs à +2 °C : nouveau record de température",
+      "resume": "Toujours plus chaud. La température à la surface de la Terre a atteint le 23 novembre son niveau de température le plus élevé jamais enregistré. Pour la première fois, les températures ont été supérieures de 2 °C aux niveaux préindustriels ",
+      "url": "https://reporterre.net/Six-jours-consecutifs-a-2-oC-nouveau-record-de-temperature",
+      "published_at": "2026-11-26T17:32:01+00:00"
+    },
+    {
+      "id": "79d47af6a5ea380b",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Les images du Med Emre, un pétrolier chargé de diesel chaviré au large de l’Espagne",
+      "resume": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Baléares. Les dommages environnementaux sont en cours d’évaluation.",
+      "url": "https://www.lemonde.fr/planete/video/2026/11/26/les-images-du-med-emre-un-petrolier-charge-de-diesel-chavire-au-large-de-l-espagne_6815578_3244.html",
+      "published_at": "2026-11-26T17:17:58+00:00"
+    },
+    {
+      "id": "c41739f65e7b1958",
+      "source": "I4CE",
+      "categorie": "Climat",
+      "titre": "Décarboner l’acier en France : mieux articuler les dispositifs de soutien",
+      "resume": "La sidérurgie française est à un tournant. L’article Décarboner l’acier en France : mieux articuler les dispositifs de soutien est apparu en premier sur I4CE .",
+      "url": "https://www.i4ce.org/decarboner-acier-france-soutien-climat/",
+      "published_at": "2026-11-26T17:03:26+00:00"
+    },
+    {
+      "id": "b78e0f573febe82c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Après l’échec de la COP31 à Antalya, la diplomatie climatique confrontée à un « chantier gigantesque »",
+      "resume": "Les 194 parties ont quitté la Turquie, dimanche 22 novembre, sans parvenir à un accord sur la décision finale, soulevant de nombreuses questions quant au rôle des futures conférences mondiales.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/apres-l-echec-de-la-cop31-a-antalya-la-diplomatie-climatique-confrontee-a-un-chantier-gigantesque_6815571_3244.html",
+      "published_at": "2026-11-26T17:00:14+00:00"
+    },
+    {
+      "id": "83f119b78c275ebe",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "1 million de grévistes : les ouvrières du textile luttent contre leurs salaires misérables",
+      "resume": "Depuis plusieurs semaines, les ouvrières bangladaises se battent pour de meilleurs salaires. Face à elles, une industrie de la mode prête à broyer les corps et les écosystèmes pour toujours plus de vêtements à bas prix. Au milieu de la chao",
+      "url": "https://reporterre.net/1-million-de-grevistes-les-ouvrieres-du-textile-luttent-contre-leurs-salaires-miserables",
+      "published_at": "2026-11-26T16:42:16+00:00"
+    },
+    {
+      "id": "0735e4829ec7b479",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Raccordements, stockage, pompes à chaleur… : les coulisses du Salon des maires 2026",
+      "resume": "Producteurs et constructeurs de centrales d’énergie renouvelables étaient nombreux à exposer et visiter le Salon des maires et des collectivités locales organisé cette semaine à Paris. L’occasion pour la rédaction de GreenUnivers d’échanger",
+      "url": "https://www.greenunivers.com/2026/11/raccordements-stockage-pompes-a-chaleur-les-coulisses-du-salon-des-maires-2026-439517/",
+      "published_at": "2026-11-26T16:39:34+00:00"
+    },
+    {
+      "id": "6085c3326715fcbe",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Inexplicable et inexcusable » : les maires manifestent contre les coupes budgétaires dans la rénovation",
+      "resume": "Une trentaine de maires et porteurs de certificats d'économies d'énergie se sont rassemblés à Paris, le 26 novembre, pour dénoncer la réduction et la disparition des principaux outils de rénovation thermique des bâtiments publics. Paris, re",
+      "url": "https://reporterre.net/Inexplicable-et-inexcusable-les-maires-manifestent-contre-les-coupes-budgetaires-dans-la",
+      "published_at": "2026-11-26T16:34:39+00:00"
+    },
+    {
+      "id": "c3964d4066fd50eb",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "L'utilité publique d'un centre pénitentiaire reconnue malgré son impact",
+      "resume": "Par un jugement du 25 novembre 2026, le tribunal administratif de Melun a rejeté la requête de plusieurs associations et collectivités territoriales qui demandaient l'annulation de l'arrêté de la préfète du Val-de-Marne du 18 mai 2024 quali",
+      "url": "https://www.actu-environnement.com/ae/news/prison-val-de-marne-utilite-publique-terres-agricoles-48857.php4#xtor=RSS-6",
+      "published_at": "2026-11-26T16:30:28+00:00"
+    },
+    {
+      "id": "e21aeee60ba6b34e",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Rénovation énergétique : le gouvernement inflexible face aux maires inquiets des coupes budgétaires",
+      "resume": "Vincent Tejedor, secrétaire général à la planification écologique et chef du pôle vert de Matignon, a été interpellé par des élus locaux, mercredi 25 novembre, lors d’une table ronde au congrès des maires, sur la baisse de financements cons",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/renovation-energetique-le-gouvernement-inflexible-face-aux-maires-inquiets-des-coupes-budgetaires_6815563_3244.html",
+      "published_at": "2026-11-26T16:15:01+00:00"
+    },
+    {
+      "id": "6862605cf7c2dd8c",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "TVA à 5,5 % : de nouveaux critères pour favoriser le photovoltaïque européen",
+      "resume": "À partir du 1er décembre, de nouveaux critères sont définis pour bénéficier de la TVA à 5,5 % sur le photovoltaïque. Ils ont été fixés par l'arrêté du 10 novembre 2026, abrogeant l'arrêté du 8 septembre 2025. Pour les installations d'une pu",
+      "url": "https://www.actu-environnement.com/ae/news/tva-photovoltaique-criteres-arrete-europeen-48856.php4#xtor=RSS-6",
+      "published_at": "2026-11-26T15:49:09+00:00"
+    },
+    {
+      "id": "27718ee1dd9acdec",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "La résiliation des obligations d’achat bientôt clarifiée pour le biométhane [CSE]",
+      "resume": "Nouvel ajustement en vue pour la filière biométhane. Un projet d’arrêté prévoit de clarifier les conditions dans lesquels un producteur peut L’article La résiliation des obligations d’achat bientôt clarifiée pour le biométhane [CSE] est app",
+      "url": "https://www.greenunivers.com/2026/11/la-resiliation-des-obligations-dachat-bientot-clarifiee-pour-le-biomethane-cse-439844/",
+      "published_at": "2026-11-26T15:42:06+00:00"
+    },
     {
       "id": "bd7be125bcdc12a6",
       "source": "Actu-Environnement",
@@ -20,6 +128,15 @@
       "published_at": "2026-11-26T15:22:59+00:00"
     },
     {
+      "id": "a6a05de6b7bd4072",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Storengy veut créer de nouvelles cavités de stockage d’hydrogène",
+      "resume": "Storengy prospecte dans l’Est de la France. La filiale d’Engie se donne deux ans pour y choisir un site où éventuellement créer un L’article Storengy veut créer de nouvelles cavités de stockage d’hydrogène est apparu en premier sur GreenUni",
+      "url": "https://www.greenunivers.com/2026/11/storengy-veut-creer-de-nouvelles-cavites-de-stockage-dhydrogene-439467/",
+      "published_at": "2026-11-26T14:59:49+00:00"
+    },
+    {
       "id": "9938c530b63a8996",
       "source": "Novethic",
       "categorie": "Presse",
@@ -27,6 +144,33 @@
       "resume": "Pablo Hernandez de Cos, nouveau président de la BCE - Photo par Indranil Aditya, Nurphoto via AFP On sait désormais qui succédera à Christine Lagarde à la tête de la Banque centrale européenne (BCE). Après quelques semaines de tractations, ",
       "url": "https://www.novethic.fr/finance-durable/finance-verte/pablo-hernandez-de-cos-president-bce-durabilite-climat",
       "published_at": "2026-11-26T14:58:20+00:00"
+    },
+    {
+      "id": "d8ec7096a048476f",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "CMA CGM alerte sur la difficulté à décarboner le maritime",
+      "resume": "« Nous devons être lucides, dans les circonstances actuelles, nous ne parviendrons pas à atteindre nos objectifs en 2050. » Lors des Assises économiques de la mer organisée à Montpellier les 24 et 25 novembre, Rodolphe Saadé, PDG de CMA CGM",
+      "url": "https://www.greenunivers.com/2026/11/cma-cgm-alerte-sur-la-difficulte-a-decarboner-le-maritime-439712/",
+      "published_at": "2026-11-26T14:50:37+00:00"
+    },
+    {
+      "id": "9f37dcea8cade341",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le gouvernement ouvre la voie à la renégociation des tarifs dans l’éolien en mer",
+      "resume": "Le gouvernement vient de déposer un amendement au projet de loi de Finances pour 2027 autorisant la réindexation des contrats signés dans l’éolien en mer. L’objectif est de mieux prendre en compte la hausse des coûts des turbines, de l’expl",
+      "url": "https://www.greenunivers.com/2026/11/le-gouvernement-ouvre-la-voie-a-la-renegociation-des-tarifs-dans-leolien-en-mer-439854/",
+      "published_at": "2026-11-26T14:48:33+00:00"
+    },
+    {
+      "id": "a0d803ed5279f1a4",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Le stockage par batteries génère des revenus exceptionnels [La Plateforme Verte]",
+      "resume": "Un site de batteries mises en service il y a deux ans « a déjà payé son capex » et profite d’un taux de retour sur investissement « supérieur à 20 % » indique Corentin Baschet, associé du cabinet de conseil Clean Horizon et responsable du g",
+      "url": "https://www.greenunivers.com/2026/11/le-stockage-par-batteries-genere-des-revenus-exceptionnels-a-lheure-actuelle-la-plateforme-verte-439834/",
+      "published_at": "2026-11-26T14:21:40+00:00"
     },
     {
       "id": "4e1d10ef94b02cf6",
@@ -69,7 +213,7 @@
       "source": "Reporterre",
       "categorie": "Presse",
       "titre": "Derrière la réautorisation des passoires thermiques, un député RN qui fait fortune dans l'immobilier",
-      "resume": "Le projet de loi « de relance et de décentralisation » du logement initié par le ministre de la Ville Vincent Jeanbrun a été adopté à l'Assemblée nationale le 24 novembre. Parmi les mesures entérinées par ce texte revenant sur l'un des pili",
+      "resume": "Le projet de loi « de relance et de décentralisation » du logement initié par le ministre de la Ville Vincent Jeanbrun a été adopté à l'Assemblée nationale le 24 novembre. Parmi les mesures entérinées par ce texte, revenant sur l'un des pil",
       "url": "https://reporterre.net/Derriere-la-reautorisation-des-passoires-thermiques-un-depute-RN-qui-fait-fortune-dans-l",
       "published_at": "2026-11-26T13:21:35+00:00"
     },
@@ -119,60 +263,6 @@
       "published_at": "2026-11-26T10:42:01+00:00"
     },
     {
-      "id": "05c3d3aed8fe55f2",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Vous pouvez maintenant tester les polluants dans l'eau de votre robinet",
-      "resume": "L'eau de votre robinet contient-elle du TFA , un polluant éternel omniprésent dans les milieux aquatiques et reconnu comme toxique ? Pour le savoir, les ONG Générations futures, Greenpeace, Cancer Colère et la plateforme Greenvoice lancent ",
-      "url": "https://reporterre.net/Vous-pouvez-maintenant-tester-les-polluants-dans-l-eau-de-votre-robinet",
-      "published_at": "2026-11-26T10:32:32+00:00"
-    },
-    {
-      "id": "6bd4847c662e918d",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Cancers chez les enfants : une carte de France pour enquêter sur les causes des clusters",
-      "resume": "Petit à petit, cette carte-là de France devrait être entachée de zones de possibles clusters de cancers pédiatriques. Recenser les malades de moins de 25 ans et localiser les victimes, c'est le but de la cartographie citoyenne des cancers d",
-      "url": "https://reporterre.net/Cancers-chez-les-enfants-une-carte-de-France-pour-enqueter-sur-les-causes-des-clusters",
-      "published_at": "2026-11-26T10:01:58+00:00"
-    },
-    {
-      "id": "dae356d9c22dc416",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Écoles cernées de pesticides : des parents veulent interdire les épandages près des classes",
-      "resume": "Des parents d'élèves de Gironde et de Charente ont mis l'État en demeure d'interdire l'épandage de pesticides à moins de 500 mètres des écoles. Une proximité qui inquiète dans la région, où plusieurs cancers pédiatriques ont été recensés pr",
-      "url": "https://reporterre.net/On-nous-a-completement-laisses-tomber-des-parents-d-eleves-somment-l-Etat-d-interdire-les",
-      "published_at": "2026-11-26T09:32:44+00:00"
-    },
-    {
-      "id": "b5361fd4db80d54e",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Affaire René Collet &amp; Cie : pas d'assouplissement de la jurisprudence Alusuisse",
-      "resume": "La cour administrative d'appel de Lyon a validé des mesures de police visant un exploitant ICPE, malgré une activité cessée depuis plus de trente ans, et alors même que celui-ci invoquait la prescription trentenaire. Décryptage de cette déc",
-      "url": "https://www.actu-environnement.com/ae/news/rene-collet-icpe-prescription-trentenaire-alusuisse-48813.php4#xtor=RSS-6",
-      "published_at": "2026-11-26T09:30:00+00:00"
-    },
-    {
-      "id": "01855962fbcc0afe",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En images : de grandes marées inondent le littoral californien",
-      "resume": "L’amplitude de ces marées est accentuée par le réchauffement climatique et par un épisode El Niño très intense.",
-      "url": "https://www.lemonde.fr/international/video/2026/11/26/en-images-de-grandes-marees-inondent-le-littoral-californien_6815506_3210.html",
-      "published_at": "2026-11-26T09:13:04+00:00"
-    },
-    {
-      "id": "657cd396fa1eaeb5",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
-      "resume": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Baléares. Les dommages environnementaux sont en cours d’évaluation.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/26/espagne-un-petrolier-charge-de-diesel-coule-au-large-d-ibiza-faisant-un-mort_6815505_3210.html",
-      "published_at": "2026-11-26T09:06:10+00:00"
-    },
-    {
       "id": "1c8c891f4cc1be90",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -180,15 +270,6 @@
       "resume": "",
       "url": "https://theshiftproject.org/publications/deploiement-actuel-et-a-venir-des-centres-de-donnees-en-france/",
       "published_at": "2026-11-26T08:57:29+00:00"
-    },
-    {
-      "id": "a1024e307075ca3b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Après avoir mangé des huîtres en Floride, elle meurt douze heures après son admission à l’hôpital en France",
-      "resume": "Présente dans les eaux côtières chaudes et saumâtres, la bactérie « Vibrio vulnificus » peut provoquer une infection nécrosante de la peau et des tissus mous, à l’évolution fulgurante en 24 heures. Des observations récentes éclairent les mo",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/11/26/apres-avoir-mange-des-huitres-en-floride-elle-meurt-douze-heures-apres-son-admission-a-l-hopital-en-france_6815495_6579630.html",
-      "published_at": "2026-11-26T08:29:51+00:00"
     },
     {
       "id": "417e2a4fa46d7c35",
@@ -225,15 +306,6 @@
       "resume": "La fin chaotique de la COP31 pousse des pays à remettre en question tout le processus onusien de négociations climatiques.",
       "url": "https://www.politico.eu/article/les-cop-cest-une-blague-les-critiques-enflent-contre-les-sommets-climatiques-apres-lechec-a-antalya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-25T20:07:06+00:00"
-    },
-    {
-      "id": "8dc480fb14f55135",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Déchets : le Conseil d'État recommande de clarifier les bases légales des infractions",
-      "resume": "Dans sa récente étude sur les sanctions pénales des atteintes à l'environnement, le Palais Royal pointe un foisonnement de sanctions en matière de déchets, pas toutes proportionnées aux enjeux. Il préconise de rationaliser les incrimination",
-      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-sanctions-penales-dechets-48847.php4#xtor=RSS-6",
-      "published_at": "2026-11-25T16:52:39+00:00"
     },
     {
       "id": "8bf7acbb2ed3db23",
@@ -560,15 +632,6 @@
       "published_at": "2026-10-23T08:45:58+00:00"
     },
     {
-      "id": "46411056866dcc81",
-      "source": "I4CE",
-      "categorie": "Climat",
-      "titre": "Quel plan de relance pour l’agriculture française ?",
-      "resume": "Après avoir annoncé plus d’un milliard d’euros d’aides d’urgence pour l'agriculture après l'été, un plan de relance est annoncé. L’article Quel plan de relance pour l’agriculture française ? est apparu en premier sur I4CE .",
-      "url": "https://www.i4ce.org/quel-plan-relance-agriculture-francaise-climat/",
-      "published_at": "2026-10-23T08:45:35+00:00"
-    },
-    {
       "id": "0fb573d9e8be1bd9",
       "source": "The Shift Project",
       "categorie": "Climat",
@@ -585,15 +648,6 @@
       "resume": "Le PLFSS 2027 fait évoluer fortement à la baisse le dispositif d’allègements de charges (AG), sur lequel s’appuie notre modèle économique depuis 30 ans, en poursuivant le gel du rendement des allègements (valeur SMIC dans le barème janvier ",
       "url": "https://www.federation-proprete.com/allegements-charges-mobilisation-generale/",
       "published_at": "2026-10-19T08:41:00+00:00"
-    },
-    {
-      "id": "3647aec79f6cc6d4",
-      "source": "I4CE",
-      "categorie": "Climat",
-      "titre": "Été caniculaire, hiver budgétaire : les collectivités à l’heure des choix",
-      "resume": "Au moins 5 milliards d’euros, probablement plus : c’est le montant de la contribution au redressement des finances publiques demandée aux collectivités à l’ouverture des discussions sur le budget 2027. L’article Été caniculaire, hiver budgé",
-      "url": "https://www.i4ce.org/ete-caniculaire-hiver-budgetaire-collectivites-choix-climat/",
-      "published_at": "2026-10-16T08:44:34+00:00"
     },
     {
       "id": "02e43c701415f414",
@@ -666,42 +720,6 @@
       "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
       "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
       "published_at": "2026-06-08T14:58:05+00:00"
-    },
-    {
-      "id": "6bbee6a77e90f346",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "La FEP dévoile les 26 propositions de son Livre Bleu 2026",
-      "resume": "La Fédération des entreprises de propreté (FEP) publie une nouvelle édition de son Livre Bleu, qui rassemble cette année 26 propositions destinées à répondre aux enjeux économiques et sociaux du secteur. Fruit du travail collectif des chamb",
-      "url": "https://www.federation-proprete.com/la-fep-devoile-les-26-propositions-de-son-livre-bleu-2026/",
-      "published_at": "2026-03-17T13:58:52+00:00"
-    },
-    {
-      "id": "1237b5403c9b7828",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "La FEP félicite Avril McCarthy pour son élection à la présidence de l’EFCI",
-      "resume": "L’EFCI (European Cleaning and Facility Services Industry) est l’instance représentative de la profession à l’échelle européenne. Créée en 1988, l’EFCI est le partenaire social reconnu par la Commission européenne pour le secteur. Elle repré",
-      "url": "https://www.federation-proprete.com/election-efci-avril-mccarthy/",
-      "published_at": "2025-07-10T08:52:23+00:00"
-    },
-    {
-      "id": "56f325f18747b701",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "IMPACT PME : échange avec la Ministre du Travail Astrid PANOSYAN-BOUVET",
-      "resume": "La FEP était présente le mardi 24 juin pour la 6ème édition du Salon Impact PME organisé par la CPME. Cette journée dédiée aux solutions et au réseau des chefs d’entreprises a été l’occasion pour la fédération d’être présente par le biais d",
-      "url": "https://www.federation-proprete.com/impact-pme-echange-ministre-travail/",
-      "published_at": "2025-06-27T09:07:33+00:00"
-    },
-    {
-      "id": "9b7040341beeb4f1",
-      "source": "Fédération de la Propreté",
-      "categorie": "Presse",
-      "titre": "Europropre 2025 : une 18ème édition marquée par trois temps forts institutionnels",
-      "resume": "La 18ème édition du Salon Europropre, qui s’est tenue du 25 au 27 mars 2025 Porte de Versailles à Paris, a été l’occasion pour la FEP de convier trois personnalités publiques de premier plan. Mardi matin, après la conférence média au cours ",
-      "url": "https://www.federation-proprete.com/europropre-temps-forts-institutionnels/",
-      "published_at": "2025-04-03T15:12:36+00:00"
     }
   ]
 }
