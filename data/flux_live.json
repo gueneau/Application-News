@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-27T00:13:14.293690+00:00",
+  "generated_at": "2026-11-27T08:53:26.658273+00:00",
   "items": [
+    {
+      "id": "5e5ff1ceaaca1d06",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Cadavres qui débordent, cendres douteuses : les coulisses du spécialiste de la crémation d'animaux",
+      "resume": "Des milliers de personnes endeuillées confient leur animal mort à Seleste, spécialiste de la crémation d'animaux dans les Yvelines. Or les dysfonctionnements s'accumulent, au point que certaines familles se retrouvent parfois avec des cendr",
+      "url": "https://reporterre.net/Cadavres-qui-debordent-cendres-douteuses-les-coulisses-du-specialiste-de-la-cremation-d",
+      "published_at": "2026-11-27T08:16:32+00:00"
+    },
+    {
+      "id": "adc755651c092ea5",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Tempêtes aux Etats-Unis : plus de 900 000 foyers sans électricité sur la Côte est le jour de Thanksgiving",
+      "resume": "De fortes pluies, du vent violent et des inondations côtières ont affecté l’est du pays en ce jour férié aux Etats-Unis.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/27/tempetes-aux-etats-unis-plus-de-900-000-foyers-sans-electricite-sur-la-cote-est-le-jour-de-thanksgiving_6815813_3210.html",
+      "published_at": "2026-11-27T07:29:32+00:00"
+    },
+    {
+      "id": "4f07c1f78744b1be",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "La guerre des betteraves : le gouvernement parviendra-t-il à réintroduire un pesticide pourtant interdit ?",
+      "resume": "Rien ne semble gravé dans le marbre lorsqu'il s'agit de pesticides. La loi d'urgence agricole avait laissé la porte ouverte à la réintroduction de l'insecticide flupyradifurone. Malgré l'absence d'avis de l'Anses — qui vaut refus — une déro",
+      "url": "https://reporterre.net/La-guerre-des-betteraves-le-gouvernement-parviendra-t-il-a-reintroduire-un-pesticide",
+      "published_at": "2026-11-27T06:30:00+00:00"
+    },
+    {
+      "id": "5554b28782c58b81",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pic-vert” qu’il faut à la tête de la BCE »",
+      "resume": "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique.",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
+      "published_at": "2026-11-27T06:00:09+00:00"
+    },
+    {
+      "id": "0c1f1d3d263f33b6",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Black Friday : les produits néfastes pour la planète pèsent un quart du marché publicitaire",
+      "resume": "La voiture arrive largement en tête de la catégorie dite des \"produits sensibles\", totalisant près de 2 milliards d’euros de dépenses publicitaires par an. @Pixabay / BH SUV, restauration rapide, sodas, fast-fashion, voyages au bout du mond",
+      "url": "https://www.novethic.fr/environnement/climat/black-friday-les-produits-nefastes-pour-la-planete-pesent-un-quart-du-marche-publicitaire",
+      "published_at": "2026-11-27T05:45:13+00:00"
+    },
+    {
+      "id": "7aa7eec22284b0bd",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« IApocalypse » : un fantasme qui masque les dangers réels derrière l'intelligence artificielle",
+      "resume": "Cyberattaques en hausse, potentielle perte de contrôle... L' IA risque-t-elle de condamner l'humanité ? Pour les chercheurs interrogés, la puissance grandissante des entreprises du secteur et leurs dégâts environnementaux sont bien plus pré",
+      "url": "https://reporterre.net/IApocalypse-un-fantasme-qui-masque-les-dangers-reels-derriere-l-intelligence-artificielle",
+      "published_at": "2026-11-27T05:30:00+00:00"
+    },
+    {
+      "id": "c9f113b79b3d2722",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Ethiopie, le Tigré, déjà touché par la guerre, subit une sécheresse aggravée par El Niño : « Rien ou presque n’a poussé, nulle part dans la région »",
+      "resume": "Affectées par ce phénomène climatique intense, les précipitations dans l’est de la région du Tigré ont représenté moins de 60 % de la moyenne saisonnière. Des agriculteurs déplorent une récolte de céréales quasi nulle.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/27/en-ethiopie-le-tigre-deja-touche-par-la-guerre-subit-une-secheresse-aggravee-par-el-nino-rien-ou-presque-n-a-pousse-nulle-part-dans-la-region_6815804_3244.html",
+      "published_at": "2026-11-27T05:00:24+00:00"
+    },
     {
       "id": "812d82a65b6a3b57",
       "source": "I4CE",
@@ -44,7 +107,7 @@
       "titre": "Après l’échec de la COP31 à Antalya, la diplomatie climatique confrontée à un « chantier gigantesque »",
       "resume": "Les 194 parties ont quitté la Turquie, dimanche 22 novembre, sans parvenir à un accord sur la décision finale, soulevant de nombreuses questions quant au rôle des futures conférences mondiales.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/26/apres-l-echec-de-la-cop31-a-antalya-la-diplomatie-climatique-confrontee-a-un-chantier-gigantesque_6815571_3244.html",
-      "published_at": "2026-11-26T17:00:14+00:00"
+      "published_at": "2026-11-26T17:00:09+00:00"
     },
     {
       "id": "83f119b78c275ebe",
@@ -191,33 +254,6 @@
       "published_at": "2026-11-26T14:03:27+00:00"
     },
     {
-      "id": "77a3e5ad4f1e79e4",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Fumées toxiques : « Les mégafeux de l’été sont éteints, les cancers, eux, ne s’éteignent pas l’hiver »",
-      "resume": "Les incendies mettent professionnels et volontaires en présence de substances cancérogènes, dans l’air comme dans leurs équipements. Face à cette situation, les autorités continuent de faire preuve d’apathie, dénonce un collectif de sapeurs",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/26/fumees-toxiques-les-megafeux-de-l-ete-sont-eteints-les-cancers-eux-ne-s-eteignent-pas-l-hiver_6815541_3232.html",
-      "published_at": "2026-11-26T14:00:11+00:00"
-    },
-    {
-      "id": "92cdd439584a12cf",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Victimes des essais nucléaires : le gouvernement fait volte-face sur leur indemnisation",
-      "resume": "Le gouvernement fait marche arrière sur l'indemnisation des victimes des explosions nucléaires françaises. Mercredi 25 novembre, en commission à l'Assemblée nationale, la ministre des Armées, Catherine Vautrin, a annoncé que l'exécutif ne s",
-      "url": "https://reporterre.net/Victimes-des-essais-nucleaires-le-gouvernement-fait-volte-face-sur-leur-indemnisation",
-      "published_at": "2026-11-26T13:23:34+00:00"
-    },
-    {
-      "id": "bfb44fa9f16ff595",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Derrière la réautorisation des passoires thermiques, un député RN qui fait fortune dans l'immobilier",
-      "resume": "Le projet de loi « de relance et de décentralisation » du logement initié par le ministre de la Ville Vincent Jeanbrun a été adopté à l'Assemblée nationale le 24 novembre. Parmi les mesures entérinées par ce texte, revenant sur l'un des pil",
-      "url": "https://reporterre.net/Derriere-la-reautorisation-des-passoires-thermiques-un-depute-RN-qui-fait-fortune-dans-l",
-      "published_at": "2026-11-26T13:21:35+00:00"
-    },
-    {
       "id": "0df9737109e4abba",
       "source": "Novethic",
       "categorie": "Presse",
@@ -227,15 +263,6 @@
       "published_at": "2026-11-26T12:45:52+00:00"
     },
     {
-      "id": "8665f4725b47a907",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Grèce, le « mini-Dubaï » de la Méditerranée, zone immobilière de luxe, fortement contaminé aux PFAS",
-      "resume": "Le site de l’ancien aéroport d’Athènes, en cours de transformation en quartier résidentiel haut de gamme, est fortement contaminé aux polluants éternels, sans que cette information figure dans les documents du promoteur Lamda, selon une enq",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/26/en-grece-le-mini-dubai-de-la-mediterranee-zone-immobiliere-de-luxe-fortement-contamine-aux-pfas_6815528_4355770.html",
-      "published_at": "2026-11-26T12:00:07+00:00"
-    },
-    {
       "id": "9386404c5ca4e81c",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -243,24 +270,6 @@
       "resume": "Trigano tient bien la route malgré un environnement moins porteur Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXMxclhpVE9SRUQ5QmVmUVBYRi11YXU5Q0QxVW9TdEh1WXp4UUdkVWUxYzBQRGl1TXBMdUd1TU02SnlDWFROQVN6MHVOSmJTY2hnN0haLXFkeVZmUjc5SmllYmZyMklUZDR5Y3hEUDNaa0ZCUV9zM0tFQ1lPLVBLMk9TUGo1NHhKRUl0X0hGanEzZHhmY3BPd2xSNVVtTXplNmd1eWFVaEI5STVCRFB3b2FqSVJocF93MlFxdkFkMjNXWXR6ODJhTTVtb2p2QXVJNnFBWQ?oc=5",
       "published_at": "2026-11-26T11:15:33+00:00"
-    },
-    {
-      "id": "2325994ce8f217a8",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "PFAS : poissons, lait infantile et crustacés sont particulièrement contaminés",
-      "resume": "Des laits infantiles contaminés par une substance cancérogène, et sous les radars des règlementations. Jeudi 26 novembre, Générations futures a publié les résultats d'une enquête visant à répondre à deux questions : à quel point sommes-nous",
-      "url": "https://reporterre.net/PFAS-poissons-lait-infantile-et-crustaces-sont-particulierement-contamines",
-      "published_at": "2026-11-26T10:54:43+00:00"
-    },
-    {
-      "id": "0ed9b347e111cff5",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Le Népal s’apprête à déclarer mortes les plus de 5 000 personnes disparues dans les inondations de l’Himalaya",
-      "resume": "Au mois d’octobre, la législation népalaise avait été modifiée pour réduire de douze ans à environ six semaines le délai d’attente pour déclarer des disparus officiellement morts.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/26/le-nepal-s-apprete-a-declarer-mortes-les-plus-de-5-000-personnes-disparues-dans-les-inondations-de-l-himalaya_6815520_3244.html",
-      "published_at": "2026-11-26T10:42:01+00:00"
     },
     {
       "id": "1c8c891f4cc1be90",
@@ -432,15 +441,6 @@
       "resume": "« Nous devons être lucides » : CMA CGM prévient que les objectifs zéro carbone en 2050 sont actuellement hors de portée Les Echos",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTHpFMGhzV2hEcVh0M29pdjF2S0Z2ZDlXNHFIQWRNN05xcVdtcWV0MjNqdDhqNmo5Z1JmVlhvZ0g3amNSYnhnQS1JSFpUWk1Fa2p5UmU3c1BPa1ZsS3RXWHB1M195TEFGRDF4SXFVTFVsaWZmbEJrMWczZVVPbXVoOTFqUnhnWUE2dk9MWENXcy0zN1YzRktrSmYwd1o0NXdBc1RMV0E0UG9Qa0VnWWtOYXlIY1RoODhRQXBrVVFTVmJzS1dmd05BMmZMSGNZazJaNGhURzI0YUt5VlppQUM0RlUteXFDR2w1LVN3a3M2cWtRU3pkRkxIX3lyQmRRYnFhYkhSSTVST0c4R3NERWtEUg?oc=5",
       "published_at": "2026-11-24T16:07:48+00:00"
-    },
-    {
-      "id": "a501b9a6b1d34fda",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "L’ancien patron du lobby agroalimentaire et de Haribo chargé du suivi de la stratégie alimentaire de l’État",
-      "resume": "L'ancien patron de Haribo copilotera désormais la SNANC. C’est une nomination pour le moins controversée. Dans un communiqué publié le 18 novembre, le ministère de l’Agriculture a annoncé la nomination de Jean-Philippe André en tant que co-",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/lancien-patron-du-lobby-agroalimentaire-et-de-haribo-charge-du-suivi-de-la-strategie-alimentaire-de-letat",
-      "published_at": "2026-11-24T15:08:09+00:00"
     },
     {
       "id": "1b0080f5c6e6a603",
