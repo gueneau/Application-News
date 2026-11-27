@@ -1,41 +1,248 @@
 {
-  "generated_at": "2026-11-27T08:53:26.658273+00:00",
+  "generated_at": "2026-11-27T18:37:24.746478+00:00",
   "items": [
+    {
+      "id": "2e06d5eaa0f2c26a",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "De nombreuses dispositions sur l'environnement dans le nouveau projet de loi Ddadue",
+      "resume": "Le Gouvernement a déposé le 25 novembre au Sénat un nouveau projet de loi portant diverses dispositions d'adaptation au droit de l'Union européenne. Au menu ? Droit pénal, NTG, sécurité maritime, eau, déchets, énergie ou encore pollution de",
+      "url": "https://www.actu-environnement.com/ae/news/ddadue-environnement-transposition-directives-europeennes-48865.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T18:29:55+00:00"
+    },
+    {
+      "id": "9c74fca32dbfd461",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Décarbonation de l'industrie : les trois quarts du chemin ont déjà été parcourus, mais le plus dur reste à faire - Les Echos",
+      "resume": "Décarbonation de l'industrie : les trois quarts du chemin ont déjà été parcourus, mais le plus dur reste à faire Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUC1HcG1heEtMR2h2XzZxelhUbDdTUUgwTEJCQV9CRU4zTnNtQW10S3gtQzhJSlQzVks1aE41U0ZUX0dITzJucHR0NUlyWkN2dHpJYXlRVGp0TXV4UElvSVd4eXZPQmdLZnVOT2NSeFI0SDZOTnRxQ0ZIMmZhNURsMUhZMTFGSnJUaTlyYUU3cmh1WnlVQmNva1NqTVBYbVM3YkxYLXVseDc0NUtIaVlsVUxDQ1FVTnJlWGdrZjBmbjZMbmx1Mlptbm56eGs0T29ZUm5kZzV1dU4tQlo2ZEVMdzNhS1E1bmc4dTRKMlE0ekdrYTVfWjFlUzV0N093Q0tmZGNRd3ktZ1JOaHlzVnc?oc=5",
+      "published_at": "2026-11-27T17:09:31+00:00"
+    },
+    {
+      "id": "8249be23e804a0c4",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pourquoi la rougeole, maladie humaine la plus contagieuse connue, flambe de nouveau dans de nombreux pays",
+      "resume": "A la suite d’un affaiblissement de la couverture vaccinale sous l’effet des discours et politiques antivax, la rougeole s’étend notamment en Amérique du Nord. Mais la France n’est pas non plus à l’abri.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/27/pourquoi-la-rougeole-maladie-humaine-la-plus-contagieuse-connue-flambe-de-nouveau-dans-de-nombreux-pays_6815908_3244.html",
+      "published_at": "2026-11-27T17:00:05+00:00"
+    },
+    {
+      "id": "90b7a55a5f4f4efb",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "De la moisissure pour dépolluer nos sols ? La piste prometteuse des champignons",
+      "resume": "Ils sont infiniment petits mais leur action pourrait être immense : les microchampignons peuvent dégrader des molécules polluantes, comme le pétrole ou le glyphosate. Des chercheurs y travaillent. Brest (Finistère), reportage Une plage, de ",
+      "url": "https://reporterre.net/De-la-moisissure-pour-depolluer-nos-sols-La-piste-prometteuse-des-champignons",
+      "published_at": "2026-11-27T16:56:22+00:00"
+    },
+    {
+      "id": "78820452d8851641",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Hydrogène : les débouchés manquent encore, y compris pour les projets avancés",
+      "resume": "« La clé, c’est la maturité du marché qu’on vise », indique Cyril Dufau-Sansot, directeur général Hy2gen, lors des 5e rencontres « H2 entreprises » organisées à Bercy ce vendredi. La bulle de l’hydrogène est L’article Hydrogène : les débouc",
+      "url": "https://www.greenunivers.com/2026/11/hydrogene-les-debouches-manquent-encore-y-compris-pour-les-projets-avances-440013/",
+      "published_at": "2026-11-27T16:40:05+00:00"
+    },
+    {
+      "id": "d281d8de0582c319",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Bay Wa r.e. prépare sa première centrale solaire flottante en France",
+      "resume": "Difficultés financières de la maison-mère allemande et en France, réduction d’effectifs, des coûts, réorganisation… Ces vicissitudes n’ont pas empêché Bay Wa r.e. d’être présent cette semaine et comme chaque année au Salon des maires, avec ",
+      "url": "https://www.greenunivers.com/2026/11/bay-wa-r-e-prepare-sa-premiere-centrale-solaire-flottante-en-france-440015/",
+      "published_at": "2026-11-27T16:38:33+00:00"
+    },
+    {
+      "id": "62f329f50092b8ff",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Restriction des PFAS : le comité d'analyse socio-économique rend son avis final",
+      "resume": "Après le comité d'évaluation des risques (Rac) de l'Agence européenne des produits chimiques (Echa) en mars, c'est au tour du comité d'analyse socio-économique (Seac) de rendre son avis final sur la proposition de restriction des PFAS. Cinq",
+      "url": "https://www.actu-environnement.com/ae/news/restriction-pas-comite-analyse-socio-economique-avis-final-reach-echa-48864.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T16:10:36+00:00"
+    },
+    {
+      "id": "2b445da331e6adaf",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "L’agenda de la transition énergétique",
+      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
+      "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-285-440027/",
+      "published_at": "2026-11-27T16:09:16+00:00"
+    },
+    {
+      "id": "3a792109be67d45c",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Simplification des normes : ce que change le troisième méga-décret",
+      "resume": "Un troisième méga-décret vient de paraître pour alléger les normes applicables aux collectivités, notamment en matière des documents d'urbanisme ou des installations classées pour la protection de l'environnement (ICPE).",
+      "url": "https://www.actu-environnement.com/ae/news/mega-decret-simplification-normes-collectivites-urbanisme-icpe-especesprotegees-48863.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T15:50:36+00:00"
+    },
+    {
+      "id": "3319af64e6947939",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Directive eaux résiduaires urbaines : l'Europe consulte sur les exemptions à la REP",
+      "resume": "Comment gérer les demandes d'exemptions à la responsabilité élargie du producteur (REP) mise en place par la Directive eaux résiduaires urbaines sur les micropolluants ? C'est pour mieux répondre à cette question que la Commission européenn",
+      "url": "https://www.actu-environnement.com/ae/news/directive-eaux-residuaires-urbaines-rep-europe-exemptions-produits-biodegradables-fin-cycle-vie-48860.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T15:11:42+00:00"
+    },
+    {
+      "id": "bcb5112a9f66b85f",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Marseille-Berre : le projet de géothermie profonde progresse",
+      "resume": "Lancé il y a une dizaine d'années, le projet de géothermie profonde Marseille-Berre a bénéficié de plusieurs coups d'accélérateur ces derniers mois. En juin 2026, la campagne d'acquisitions de données géophysiques menée à l'initiative de l'",
+      "url": "https://www.actu-environnement.com/ae/news/geothermar-recoit-permis-exclusif-de-recherches-de-gites-geothermiques-sur-marseille-berre-48862.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T15:10:15+00:00"
+    },
+    {
+      "id": "280643ef1b26654c",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Inspection citoyenne » chez Syngenta : 4 pesticides interdits retrouvés",
+      "resume": "Unix 75 WG , Dividend, Ridonil Vino, Orondis Ultra : ces noms de pesticides ne vous disent peut-être rien. Ils sont interdits d'usage en France… et pourtant présents sur le territoire. Lundi 23 novembre, une trentaine de Faucheurs et fauche",
+      "url": "https://reporterre.net/Inspection-citoyenne-chez-Syngenta-4-pesticides-interdits-retrouves",
+      "published_at": "2026-11-27T15:02:43+00:00"
+    },
+    {
+      "id": "0d06163a35e5b988",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Après le naufrage d’un pétrolier-chimiquier au large d’Ibiza, course contre la montre en Espagne pour éviter une marée noire",
+      "resume": "Le navire « Med Emre », battant pavillon maltais et qui transportait 7 000 tonnes de gazole, s’est retourné près des Baléares, dans la nuit de mercredi à jeudi. Une inspection de la coque et de la partie immergée du bateau devait être réali",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/27/apres-le-naufrage-d-un-petrolier-chimiquier-au-large-d-ibiza-course-contre-la-montre-en-espagne-pour-eviter-une-maree-noire_6815870_3244.html",
+      "published_at": "2026-11-27T14:04:59+00:00"
+    },
+    {
+      "id": "4dc9ab1521078edb",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Est-ce utile de nourrir les oiseaux l’hiver ?",
+      "resume": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/27/est-ce-utile-de-nourrir-les-oiseaux-l-hiver_6815867_3244.html",
+      "published_at": "2026-11-27T14:00:03+00:00"
+    },
+    {
+      "id": "a579a94499c8e181",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Les paysans se battent pour l'argent de la PAC, mais celui-ci risque de servir l'agriculture intensive",
+      "resume": "État et syndicats agricoles français se battent pour le maintien du budget national pour les prochaines années de la Politique agricole commune. L'orientation de ces milliards d'euros vers des pratiques agricoles durables est toutefois de m",
+      "url": "https://reporterre.net/Les-paysans-se-battent-pour-l-argent-de-la-PAC-mais-celui-ci-risque-de-servir-l",
+      "published_at": "2026-11-27T14:00:00+00:00"
+    },
+    {
+      "id": "e3ac41ad5324c323",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "La remise en état s'apprécie au regard d'un usage futur du site similaire à la dernière période d'exploitation",
+      "resume": "Par un arrêt du 26 novembre 2026, la Cour de cassation rappelle les obligations qui s'appliquent en termes de remise en état du site aux ICPE ayant cessé leurs activités avant 2003.",
+      "url": "https://www.actu-environnement.com/ae/news/icpe-remise-etat-usage-futur-cassation-48861.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T13:54:04+00:00"
+    },
+    {
+      "id": "c1ce30654816f876",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Bonnes pratiques CSRD : l’exemple de la performance plurielle chez Veolia (1/3)",
+      "resume": "Veolia a opérationnalisé sa raison d'être à travers 15 indicateurs réunis dans \"la performance plurielle\". @Veolia En 2019, Veolia fait figure de pionnier et publie sa raison d’être avant que la Loi Pacte, qui ouvre la possibilité pour les ",
+      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/bonnes-pratiques-csrd-lexemple-de-la-performance-plurielle-chez-veolia-1-3",
+      "published_at": "2026-11-27T13:15:34+00:00"
+    },
+    {
+      "id": "a623519912ae63ee",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Espagne : le navire naufragé au large d’Ibiza va être « remorqué », annonce le premier ministre, Pedro Sanchez",
+      "resume": "Le chef du gouvernement espagnol ainsi que l’entreprise propriétaire du navire-citerne assurent qu’il n’y a pas de fuite de carburant ni de pollution. Les causes exactes de l’incident restent inconnues.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/27/espagne-le-navire-naufrage-au-large-d-ibiza-va-etre-remorque-annonce-le-premier-ministre-pedro-sanchez_6815846_3210.html",
+      "published_at": "2026-11-27T10:57:11+00:00"
+    },
+    {
+      "id": "275865858ecee5a8",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Pourquoi 2027 sera une année déterminante pour Lhyfe",
+      "resume": "La messe n’est pas encore dite pour l’hydrogène, mais l’année 2027 sera « charnière » pour le producteur français Lhyfe, confie son PDG Matthieu Guesné. L’entreprise nantaise compte sur une L’article Pourquoi 2027 sera une année déterminant",
+      "url": "https://www.greenunivers.com/2026/11/pourquoi-2027-sera-une-annee-determinante-pour-lhyfe-439887/",
+      "published_at": "2026-11-27T10:52:40+00:00"
+    },
+    {
+      "id": "059d68b72d2de74d",
+      "source": "Novethic",
+      "categorie": "Presse",
+      "titre": "Omnibus I : La Commission européenne adopte les critères simplifiés de la taxonomie",
+      "resume": "La Commission européenne adopte les critères révisés de la taxonomie verte - Photo-de-Fabian-Kleisersur-Unsplash La Commission européenne poursuit son chantier de simplification de la taxonomie verte. Après avoir allégé les obligations de r",
+      "url": "https://www.novethic.fr/finance-durable/reglementation/commission-europeenne-criteres-revises-taxonomie-2026",
+      "published_at": "2026-11-27T10:45:07+00:00"
+    },
+    {
+      "id": "272a80258a59926a",
+      "source": "ESG Today",
+      "categorie": "Réglementation",
+      "titre": "EU Commission Simplifies EU Taxonomy Criteria to Classify Sustainable Activities",
+      "resume": "The European Commission announced the adoption of two new delegated acts aimed at simplifying requirements […]",
+      "url": "https://www.esgtoday.com/eu-commission-simplifies-eu-taxonomy-criteria-to-classify-sustainable-activities/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-simplifies-eu-taxonomy-criteria-to-classify-sustainable-activities",
+      "published_at": "2026-11-27T10:20:34+00:00"
+    },
+    {
+      "id": "95255d7b370e015f",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Fin de l’interdiction des passoires thermiques à la location : aux Assises de la rénovation énergétique, la consternation des professionnels du secteur",
+      "resume": "L’amendement du Rassemblement national, adopté à l’Assemblée nationale dans le cadre du projet de loi logement voté solennellement mardi 24 novembre, va supprimer l’un « des derniers moteurs de travaux », jugent des acteurs du bâtiment.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/27/fin-de-l-interdiction-des-passoires-thermiques-a-la-location-aux-assises-de-la-renovation-energetique-la-consternation-des-professionnels-du-secteur_6815833_3224.html",
+      "published_at": "2026-11-27T10:00:07+00:00"
+    },
+    {
+      "id": "75a031d74d1f1b26",
+      "source": "GreenUnivers",
+      "categorie": "Climat",
+      "titre": "Les documents de la semaine",
+      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
+      "url": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
+      "published_at": "2026-11-27T09:45:00+00:00"
+    },
+    {
+      "id": "a0e6721161189c3c",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "« Les vents contraires du transport maritime mondial font un vainqueur : le fret aérien »",
+      "resume": "La nouvelle salve de droits de douane américains et les perturbations en chaîne liées au conflit au Moyen-Orient affectent durablement le transport international des marchandises par voie d’océan, observe Olivier Pinaud, journaliste au serv",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/27/les-vents-contraires-du-transport-maritime-mondial-font-un-vainqueur-le-fret-aerien_6815827_3234.html",
+      "published_at": "2026-11-27T09:30:07+00:00"
+    },
+    {
+      "id": "82caaf2e59ada962",
+      "source": "I4CE",
+      "categorie": "Climat",
+      "titre": "Industrialiser les cleantechs : le plus dur commence après l’innovation",
+      "resume": "Les cleantechs, ont une place de choix : elles sont aujourd'hui l'un des moteurs des nouvelles implantations industrielles L’article Industrialiser les cleantechs : le plus dur commence après l’innovation est apparu en premier sur I4CE .",
+      "url": "https://www.i4ce.org/industrialiser-cleantechs-innovation-climat/",
+      "published_at": "2026-11-27T09:20:10+00:00"
+    },
     {
       "id": "5e5ff1ceaaca1d06",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "Cadavres qui débordent, cendres douteuses : les coulisses du spécialiste de la crémation d'animaux",
+      "titre": "« Pour nettoyer les corps, je n'ai rien à part du sopalin et du détachant multiusages » : l'indigne business de la mort des animaux de compagnie",
       "resume": "Des milliers de personnes endeuillées confient leur animal mort à Seleste, spécialiste de la crémation d'animaux dans les Yvelines. Or les dysfonctionnements s'accumulent, au point que certaines familles se retrouvent parfois avec des cendr",
       "url": "https://reporterre.net/Cadavres-qui-debordent-cendres-douteuses-les-coulisses-du-specialiste-de-la-cremation-d",
       "published_at": "2026-11-27T08:16:32+00:00"
     },
     {
-      "id": "adc755651c092ea5",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Tempêtes aux Etats-Unis : plus de 900 000 foyers sans électricité sur la Côte est le jour de Thanksgiving",
-      "resume": "De fortes pluies, du vent violent et des inondations côtières ont affecté l’est du pays en ce jour férié aux Etats-Unis.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/27/tempetes-aux-etats-unis-plus-de-900-000-foyers-sans-electricite-sur-la-cote-est-le-jour-de-thanksgiving_6815813_3210.html",
-      "published_at": "2026-11-27T07:29:32+00:00"
-    },
-    {
       "id": "4f07c1f78744b1be",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "La guerre des betteraves : le gouvernement parviendra-t-il à réintroduire un pesticide pourtant interdit ?",
+      "titre": "Un pesticide interdit risque de revenir en catimini... pour le plus grand bonheur des betteraviers",
       "resume": "Rien ne semble gravé dans le marbre lorsqu'il s'agit de pesticides. La loi d'urgence agricole avait laissé la porte ouverte à la réintroduction de l'insecticide flupyradifurone. Malgré l'absence d'avis de l'Anses — qui vaut refus — une déro",
       "url": "https://reporterre.net/La-guerre-des-betteraves-le-gouvernement-parviendra-t-il-a-reintroduire-un-pesticide",
       "published_at": "2026-11-27T06:30:00+00:00"
-    },
-    {
-      "id": "5554b28782c58b81",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pic-vert” qu’il faut à la tête de la BCE »",
-      "resume": "La Banque centrale européenne, qui va changer de présidence au début de 2027, doit faire usage d’outils comme les taux différenciés afin d’intégrer les enjeux climatiques dans son action, plaide l’économiste dans sa chronique.",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html",
-      "published_at": "2026-11-27T06:00:09+00:00"
     },
     {
       "id": "0c1f1d3d263f33b6",
@@ -50,19 +257,10 @@
       "id": "7aa7eec22284b0bd",
       "source": "Reporterre",
       "categorie": "Presse",
-      "titre": "« IApocalypse » : un fantasme qui masque les dangers réels derrière l'intelligence artificielle",
+      "titre": "L'IA nous tuera-t-elle tous ? Un fantasme catastrophiste qui masque les vrais problèmes",
       "resume": "Cyberattaques en hausse, potentielle perte de contrôle... L' IA risque-t-elle de condamner l'humanité ? Pour les chercheurs interrogés, la puissance grandissante des entreprises du secteur et leurs dégâts environnementaux sont bien plus pré",
       "url": "https://reporterre.net/IApocalypse-un-fantasme-qui-masque-les-dangers-reels-derriere-l-intelligence-artificielle",
       "published_at": "2026-11-27T05:30:00+00:00"
-    },
-    {
-      "id": "c9f113b79b3d2722",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "En Ethiopie, le Tigré, déjà touché par la guerre, subit une sécheresse aggravée par El Niño : « Rien ou presque n’a poussé, nulle part dans la région »",
-      "resume": "Affectées par ce phénomène climatique intense, les précipitations dans l’est de la région du Tigré ont représenté moins de 60 % de la moyenne saisonnière. Des agriculteurs déplorent une récolte de céréales quasi nulle.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/27/en-ethiopie-le-tigre-deja-touche-par-la-guerre-subit-une-secheresse-aggravee-par-el-nino-rien-ou-presque-n-a-pousse-nulle-part-dans-la-region_6815804_3244.html",
-      "published_at": "2026-11-27T05:00:24+00:00"
     },
     {
       "id": "812d82a65b6a3b57",
@@ -74,24 +272,6 @@
       "published_at": "2026-11-26T18:42:08+00:00"
     },
     {
-      "id": "ab718909f8f226b3",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Six jours consécutifs à +2 °C : nouveau record de température",
-      "resume": "Toujours plus chaud. La température à la surface de la Terre a atteint le 23 novembre son niveau de température le plus élevé jamais enregistré. Pour la première fois, les températures ont été supérieures de 2 °C aux niveaux préindustriels ",
-      "url": "https://reporterre.net/Six-jours-consecutifs-a-2-oC-nouveau-record-de-temperature",
-      "published_at": "2026-11-26T17:32:01+00:00"
-    },
-    {
-      "id": "79d47af6a5ea380b",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Les images du Med Emre, un pétrolier chargé de diesel chaviré au large de l’Espagne",
-      "resume": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Baléares. Les dommages environnementaux sont en cours d’évaluation.",
-      "url": "https://www.lemonde.fr/planete/video/2026/11/26/les-images-du-med-emre-un-petrolier-charge-de-diesel-chavire-au-large-de-l-espagne_6815578_3244.html",
-      "published_at": "2026-11-26T17:17:58+00:00"
-    },
-    {
       "id": "c41739f65e7b1958",
       "source": "I4CE",
       "categorie": "Climat",
@@ -99,24 +279,6 @@
       "resume": "La sidérurgie française est à un tournant. L’article Décarboner l’acier en France : mieux articuler les dispositifs de soutien est apparu en premier sur I4CE .",
       "url": "https://www.i4ce.org/decarboner-acier-france-soutien-climat/",
       "published_at": "2026-11-26T17:03:26+00:00"
-    },
-    {
-      "id": "b78e0f573febe82c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Après l’échec de la COP31 à Antalya, la diplomatie climatique confrontée à un « chantier gigantesque »",
-      "resume": "Les 194 parties ont quitté la Turquie, dimanche 22 novembre, sans parvenir à un accord sur la décision finale, soulevant de nombreuses questions quant au rôle des futures conférences mondiales.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/26/apres-l-echec-de-la-cop31-a-antalya-la-diplomatie-climatique-confrontee-a-un-chantier-gigantesque_6815571_3244.html",
-      "published_at": "2026-11-26T17:00:09+00:00"
-    },
-    {
-      "id": "83f119b78c275ebe",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "1 million de grévistes : les ouvrières du textile luttent contre leurs salaires misérables",
-      "resume": "Depuis plusieurs semaines, les ouvrières bangladaises se battent pour de meilleurs salaires. Face à elles, une industrie de la mode prête à broyer les corps et les écosystèmes pour toujours plus de vêtements à bas prix. Au milieu de la chao",
-      "url": "https://reporterre.net/1-million-de-grevistes-les-ouvrieres-du-textile-luttent-contre-leurs-salaires-miserables",
-      "published_at": "2026-11-26T16:42:16+00:00"
     },
     {
       "id": "0735e4829ec7b479",
@@ -128,78 +290,6 @@
       "published_at": "2026-11-26T16:39:34+00:00"
     },
     {
-      "id": "6085c3326715fcbe",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Inexplicable et inexcusable » : les maires manifestent contre les coupes budgétaires dans la rénovation",
-      "resume": "Une trentaine de maires et porteurs de certificats d'économies d'énergie se sont rassemblés à Paris, le 26 novembre, pour dénoncer la réduction et la disparition des principaux outils de rénovation thermique des bâtiments publics. Paris, re",
-      "url": "https://reporterre.net/Inexplicable-et-inexcusable-les-maires-manifestent-contre-les-coupes-budgetaires-dans-la",
-      "published_at": "2026-11-26T16:34:39+00:00"
-    },
-    {
-      "id": "c3964d4066fd50eb",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "L'utilité publique d'un centre pénitentiaire reconnue malgré son impact",
-      "resume": "Par un jugement du 25 novembre 2026, le tribunal administratif de Melun a rejeté la requête de plusieurs associations et collectivités territoriales qui demandaient l'annulation de l'arrêté de la préfète du Val-de-Marne du 18 mai 2024 quali",
-      "url": "https://www.actu-environnement.com/ae/news/prison-val-de-marne-utilite-publique-terres-agricoles-48857.php4#xtor=RSS-6",
-      "published_at": "2026-11-26T16:30:28+00:00"
-    },
-    {
-      "id": "e21aeee60ba6b34e",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Rénovation énergétique : le gouvernement inflexible face aux maires inquiets des coupes budgétaires",
-      "resume": "Vincent Tejedor, secrétaire général à la planification écologique et chef du pôle vert de Matignon, a été interpellé par des élus locaux, mercredi 25 novembre, lors d’une table ronde au congrès des maires, sur la baisse de financements cons",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/26/renovation-energetique-le-gouvernement-inflexible-face-aux-maires-inquiets-des-coupes-budgetaires_6815563_3244.html",
-      "published_at": "2026-11-26T16:15:01+00:00"
-    },
-    {
-      "id": "6862605cf7c2dd8c",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "TVA à 5,5 % : de nouveaux critères pour favoriser le photovoltaïque européen",
-      "resume": "À partir du 1er décembre, de nouveaux critères sont définis pour bénéficier de la TVA à 5,5 % sur le photovoltaïque. Ils ont été fixés par l'arrêté du 10 novembre 2026, abrogeant l'arrêté du 8 septembre 2025. Pour les installations d'une pu",
-      "url": "https://www.actu-environnement.com/ae/news/tva-photovoltaique-criteres-arrete-europeen-48856.php4#xtor=RSS-6",
-      "published_at": "2026-11-26T15:49:09+00:00"
-    },
-    {
-      "id": "27718ee1dd9acdec",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "La résiliation des obligations d’achat bientôt clarifiée pour le biométhane [CSE]",
-      "resume": "Nouvel ajustement en vue pour la filière biométhane. Un projet d’arrêté prévoit de clarifier les conditions dans lesquels un producteur peut L’article La résiliation des obligations d’achat bientôt clarifiée pour le biométhane [CSE] est app",
-      "url": "https://www.greenunivers.com/2026/11/la-resiliation-des-obligations-dachat-bientot-clarifiee-pour-le-biomethane-cse-439844/",
-      "published_at": "2026-11-26T15:42:06+00:00"
-    },
-    {
-      "id": "bd7be125bcdc12a6",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Photovoltaïque : le Gouvernement remet sur la table la révision des contrats historiques",
-      "resume": "En plus de la révision possible des contrats S21 inscrite dans le projet de loi de finances, le Gouvernement a déposé un amendement visant à mettre fin aux contrats plus anciens (S6/S10). Près de 225 000 contrats sont concernés selon la fil",
-      "url": "https://www.actu-environnement.com/ae/news/photovoltaique-contrats-historiques-resiliation-plf2027-48855.php4#xtor=RSS-6",
-      "published_at": "2026-11-26T15:27:23+00:00"
-    },
-    {
-      "id": "c7e3ce325fea98c0",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Un nouveau programme de CEE aide les ménages à sortir du gaz",
-      "resume": "Un projet d'arrêté prévoit de créer le programme « Maison électrique » dans le cadre des certificats d'économies d'énergie (CEE). Le ministère de la Transition écologique met en consultation publique ce texte jusqu‘au 16 décembre 2026. Dans",
-      "url": "https://www.actu-environnement.com/ae/news/projet-arrete-cee-programme-maison-electrique-sortie-gaz-48854.php4#xtor=RSS-6",
-      "published_at": "2026-11-26T15:22:59+00:00"
-    },
-    {
-      "id": "a6a05de6b7bd4072",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Storengy veut créer de nouvelles cavités de stockage d’hydrogène",
-      "resume": "Storengy prospecte dans l’Est de la France. La filiale d’Engie se donne deux ans pour y choisir un site où éventuellement créer un L’article Storengy veut créer de nouvelles cavités de stockage d’hydrogène est apparu en premier sur GreenUni",
-      "url": "https://www.greenunivers.com/2026/11/storengy-veut-creer-de-nouvelles-cavites-de-stockage-dhydrogene-439467/",
-      "published_at": "2026-11-26T14:59:49+00:00"
-    },
-    {
       "id": "9938c530b63a8996",
       "source": "Novethic",
       "categorie": "Presse",
@@ -207,51 +297,6 @@
       "resume": "Pablo Hernandez de Cos, nouveau président de la BCE - Photo par Indranil Aditya, Nurphoto via AFP On sait désormais qui succédera à Christine Lagarde à la tête de la Banque centrale européenne (BCE). Après quelques semaines de tractations, ",
       "url": "https://www.novethic.fr/finance-durable/finance-verte/pablo-hernandez-de-cos-president-bce-durabilite-climat",
       "published_at": "2026-11-26T14:58:20+00:00"
-    },
-    {
-      "id": "d8ec7096a048476f",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "CMA CGM alerte sur la difficulté à décarboner le maritime",
-      "resume": "« Nous devons être lucides, dans les circonstances actuelles, nous ne parviendrons pas à atteindre nos objectifs en 2050. » Lors des Assises économiques de la mer organisée à Montpellier les 24 et 25 novembre, Rodolphe Saadé, PDG de CMA CGM",
-      "url": "https://www.greenunivers.com/2026/11/cma-cgm-alerte-sur-la-difficulte-a-decarboner-le-maritime-439712/",
-      "published_at": "2026-11-26T14:50:37+00:00"
-    },
-    {
-      "id": "9f37dcea8cade341",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le gouvernement ouvre la voie à la renégociation des tarifs dans l’éolien en mer",
-      "resume": "Le gouvernement vient de déposer un amendement au projet de loi de Finances pour 2027 autorisant la réindexation des contrats signés dans l’éolien en mer. L’objectif est de mieux prendre en compte la hausse des coûts des turbines, de l’expl",
-      "url": "https://www.greenunivers.com/2026/11/le-gouvernement-ouvre-la-voie-a-la-renegociation-des-tarifs-dans-leolien-en-mer-439854/",
-      "published_at": "2026-11-26T14:48:33+00:00"
-    },
-    {
-      "id": "a0d803ed5279f1a4",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Le stockage par batteries génère des revenus exceptionnels [La Plateforme Verte]",
-      "resume": "Un site de batteries mises en service il y a deux ans « a déjà payé son capex » et profite d’un taux de retour sur investissement « supérieur à 20 % » indique Corentin Baschet, associé du cabinet de conseil Clean Horizon et responsable du g",
-      "url": "https://www.greenunivers.com/2026/11/le-stockage-par-batteries-genere-des-revenus-exceptionnels-a-lheure-actuelle-la-plateforme-verte-439834/",
-      "published_at": "2026-11-26T14:21:40+00:00"
-    },
-    {
-      "id": "4e1d10ef94b02cf6",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Les 31 propositions des experts envers les candidats à la présidentielle",
-      "resume": "Le Cercle français de l'eau a rassemblé des acteurs du cycle de l'eau pour réfléchir à amélioration du financement de la politique de l'eau. Il en est ressorti 31 propositions à destination des candidats à la présidentielle.",
-      "url": "https://www.actu-environnement.com/ae/news/financement-grand-petit-cycle-eau-propositions-acteurs-eau-cercle-francais-eau-presidentielle-48851.php4#xtor=RSS-6",
-      "published_at": "2026-11-26T14:04:00+00:00"
-    },
-    {
-      "id": "68b2d557095c656c",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Recyclage de black mass : l'usine mosellane de Veolia au coeur d'une boucle européenne battery-to-battery",
-      "resume": "Veolia a inauguré une usine qui récupère les métaux stratégiques dans la black mass issue du broyage de batteries de véhicules électriques en fin de vie. Et contribue ainsi à édifier une filière européenne souveraine, capable d'opérer en bo",
-      "url": "https://www.actu-environnement.com/ae/news/veolia-inaugure-usine-de-recuperation-des-metaux-strategiques-dans-black-mass-48852.php4#xtor=RSS-6",
-      "published_at": "2026-11-26T14:03:27+00:00"
     },
     {
       "id": "0df9737109e4abba",
@@ -266,8 +311,8 @@
       "id": "9386404c5ca4e81c",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Trigano tient bien la route malgré un environnement moins porteur - Investir Les Echos",
-      "resume": "Trigano tient bien la route malgré un environnement moins porteur Investir Les Echos",
+      "titre": "Trigano tient bien la route malgré un environnement moins porteur - Les Echos",
+      "resume": "Trigano tient bien la route malgré un environnement moins porteur Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXMxclhpVE9SRUQ5QmVmUVBYRi11YXU5Q0QxVW9TdEh1WXp4UUdkVWUxYzBQRGl1TXBMdUd1TU02SnlDWFROQVN6MHVOSmJTY2hnN0haLXFkeVZmUjc5SmllYmZyMklUZDR5Y3hEUDNaa0ZCUV9zM0tFQ1lPLVBLMk9TUGo1NHhKRUl0X0hGanEzZHhmY3BPd2xSNVVtTXplNmd1eWFVaEI5STVCRFB3b2FqSVJocF93MlFxdkFkMjNXWXR6ODJhTTVtb2p2QXVJNnFBWQ?oc=5",
       "published_at": "2026-11-26T11:15:33+00:00"
     },
@@ -317,13 +362,13 @@
       "published_at": "2026-11-25T20:07:06+00:00"
     },
     {
-      "id": "8bf7acbb2ed3db23",
+      "id": "309a923099c1c1f8",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "COP 31 : « L'absence d'accord n'empêchera pas les pays d'avancer dans leur électrification » pour Bertrand Piccard, président de la fondation Solar Impulse - Investir Les Echos",
-      "resume": "COP 31 : « L'absence d'accord n'empêchera pas les pays d'avancer dans leur électrification » pour Bertrand Piccard, président de la fondation Solar Impulse Investir Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbmxnM1ZObWN6WHhyMUVncjZVZ2NlTHhJZ05NSWkteEo5cHMwVmJGTzZQMW9hWTdFS2wyMGh6MlozVjJNcG1pRDR1TlhLTXRmSWJYdnFuSk1mWGFzQktuNU14SVR0WUU1d1FrOTMzblhIeDVLc1hnV2JtaFI3YkhrNUI2YXo3VlhOclN6VDlOZnlobHNRRWdhX3ZrLXYzU3dRM09WU1lneXRnZVd2S2NicC1QUS1QREpfbHlCQjZRRjZqNDFfQWZKb184ZVNqX3BwU3hRWTc1alROcE1ORXhDQWV5UG5hek1UT3lTcThpUjV0XzBFMVFpbVlTMmtQTHU1NEM4RmdtWQ?oc=5",
-      "published_at": "2026-11-25T15:30:32+00:00"
+      "titre": "Ventes d'actifs, transfert d'Electricité de Strasbourg : le tour de passe-passe à plusieurs milliards d'EDF pour financer ses réacteurs - Les Echos",
+      "resume": "Ventes d'actifs, transfert d'Electricité de Strasbourg : le tour de passe-passe à plusieurs milliards d'EDF pour financer ses réacteurs Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPbTh5TDd2VlQtYjlGVUVDSHpzcEtZWWYyTjJCeXgtbmRXalhLbVdwUVlaT3RLN0hKNFdpcWN4QXI2UFRha05SVXlGVjNYYlpSSTVQMkpYaEM4eHQwZlZIMzRJRE5uRE15bnJMQXN2QVZPU1Nzd3J4cDlGc0FLVHlQUklHZG9ob0NoSDZWRnRWd1RlQU5HVnh5WG9FVnFwSTNIanRfNFNaSjY5ZkhzeDRFdVlyWXVrS2hXRDhzei1lVG1JMGxOYXE0UjRRMElqVHc2WnF2bEhXMm9ubC04T01yamZGYXNlYXkxSTZJWGlvUXlNaVpjSUpRM25uYTU3X21UVTI1dXBMUEFJQ3pIdW11Y2t0cDJyRDZtSlVzUnl5eHROMnducWZoalB3?oc=5",
+      "published_at": "2026-11-25T16:12:14+00:00"
     },
     {
       "id": "57991a0c6a7a7e0f",
@@ -342,15 +387,6 @@
       "resume": "Eramet, le fantassin français des métaux liés à la transition énergétique Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUERhZVFFQjNuZWs0ZGJKWmZvdjdTaGxlY1ExdTVya25HQmFXeUxBX0JZYjI3YlN3N2Z6MzVDYUVZMEJGa3JBalltWUxNSkl1OFZaU0Q2TURmamVSYkdieGdFbE85YnBRdnhhbm9xODBMeXhZNnZIYTRnakhja09fVGFwN3NjWlZBYkRWNFdoVWFmcC1HdmtlRjcwakRRRmpydTRxVVFtSG9PQk4xajNjSjl5dlVqdlEyanJIdEllYW55SFIybmdZTmNkQkgzQmZZZmFCak1QbVJVT2JuU1E?oc=5",
       "published_at": "2026-11-25T14:35:08+00:00"
-    },
-    {
-      "id": "d6dddf838a991124",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "Gaza : MBDA, l'armentier d'Airbus, poursuivi pour manquement à son devoir de vigilance",
-      "resume": "MBDA assignée en justice pour manquement à son devoir de vigilance à Gaza - Crédit : Tom Nicholson / getty image Europe, via AFP Nouvelle étape dans la controverse autour de MBDA, entreprise de fabrication d'armement co-détenue par le group",
-      "url": "https://www.novethic.fr/economie-et-social/droits-humains/mbda-devoir-vigilance-gaza-assignation-justice",
-      "published_at": "2026-11-25T12:45:02+00:00"
     },
     {
       "id": "60f8c4d6122f6528",
@@ -398,15 +434,6 @@
       "published_at": "2026-11-25T07:00:00+00:00"
     },
     {
-      "id": "1cd0d5d6d6bf9d5b",
-      "source": "Novethic",
-      "categorie": "Presse",
-      "titre": "CMA CGM abandonne ses objectifs climatiques : le blocage du détroit d'Ormuz fait sa première victime collatérale",
-      "resume": "CMA CGM, le troisième armateur mondial, a annoncé que \"dans les circonstances actuelles\", il ne parviendrait pas à atteindre les objectifs qu'il s'est fixés d'ici 2050. @Wolfgang Weiser/Pexels \"Nous devons être lucides, dans les circonstanc",
-      "url": "https://www.novethic.fr/environnement/climat/cma-cgm-abandonne-ses-objectifs-climatiques-le-blocage-du-detroit-dormuz-fait-sa-premiere-victime-collaterale",
-      "published_at": "2026-11-25T05:45:17+00:00"
-    },
-    {
       "id": "00212bb84b4cbab2",
       "source": "Politico Energy EU",
       "categorie": "Réglementation",
@@ -425,15 +452,6 @@
       "published_at": "2026-11-24T17:12:09+00:00"
     },
     {
-      "id": "fdafe072347e80b2",
-      "source": "ESG Today",
-      "categorie": "Réglementation",
-      "titre": "U.S. DOL Proposal Estimated to Shift $15 Billion of Retirement Assets Out of ESG Funds",
-      "resume": "The U.S. Department of Labor announced the release of a series of proposed amendments to […]",
-      "url": "https://www.esgtoday.com/u-s-dol-proposes-retirement-plan-rules-expected-to-shift-15-billion-out-of-esg-funds/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dol-proposes-retirement-plan-rules-expected-to-shift-15-billion-out-of-esg-funds",
-      "published_at": "2026-11-24T16:22:51+00:00"
-    },
-    {
       "id": "5edec620988e5f7f",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
@@ -450,15 +468,6 @@
       "resume": "En l’absence de mention des énergies fossiles et du fait d’une faible ambition climatique, l’UE a refusé de soutenir la déclaration finale de la COP31. Cette conclusion, imputable aussi à une double présidence pas suffisamment efficace, ill",
       "url": "https://www.contexte.com/fr/article/energie/objectifs-modele-leadership-quelles-lecons-tirer-de-la-cop31_286169?source=rss",
       "published_at": "2026-11-24T07:00:00+00:00"
-    },
-    {
-      "id": "06fd42d9678a98fc",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "« C'est inquiétant » : les banques financent encore trop les énergies fossiles par rapport aux renouvelables - Les Echos",
-      "resume": "« C'est inquiétant » : les banques financent encore trop les énergies fossiles par rapport aux renouvelables Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMG5iWWJHQl9LNW5sNVM4ODhBbGNfVDB1WVpveHNxTlI0Ym5xU2ZvRFhKck1ya0tReEFWTVliU2xCMk9KSWRuTDB1X01sZTc4bFNmSmtadzF5MmJOaFNwVmN4cmpOQi1ZSlEycWhnQ1V0SmdrVXpHRW83RHFJSW9yelJlR04teG9VMmt2R01yQnhvcjNLOVduUXBYUGZvQWVXMmVFWG5mVDYxN1pRWEtSUmhRcTJySnEwNkhuamhfUFZDdFM3UUFkWmk1a3FWR0lQNmVwQzBodXdIVUxLb1pQUFg0ZHRHdk55Z3pHQ01neWZoQXo5VEhGa1FYQQ?oc=5",
-      "published_at": "2026-11-24T05:00:08+00:00"
     },
     {
       "id": "7db378e4e5943c1a",
@@ -621,15 +630,6 @@
       "resume": "Après l'été caniculaire de 2026, le Premier ministre a commandé à un Plan d'accélération de l'adaptation de la France au changement climatique, remis fin septembre. Et depuis ? Silence radio. L’article Adaptation au changement climatique : ",
       "url": "https://www.i4ce.org/adaptation-changement-climatique-silence-matignon/",
       "published_at": "2026-10-29T16:52:20+00:00"
-    },
-    {
-      "id": "93decf4d397bd214",
-      "source": "I4CE",
-      "categorie": "Climat",
-      "titre": "Plan de relance agricole : comment viser juste ?",
-      "resume": "Face aux pertes considérables de l’été 2026 dans l'agriculture, le gouvernement a annoncé un plan de relance de plus d’un milliard d’euros. L’article Plan de relance agricole : comment viser juste ? est apparu en premier sur I4CE .",
-      "url": "https://www.i4ce.org/plan-relance-agricole-viser-juste-climat/",
-      "published_at": "2026-10-23T08:45:58+00:00"
     },
     {
       "id": "0fb573d9e8be1bd9",
