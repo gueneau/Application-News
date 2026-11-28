@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-27T18:37:24.746478+00:00",
+  "generated_at": "2026-11-28T01:44:38.714291+00:00",
   "items": [
+    {
+      "id": "5637b325e2ff2f83",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
+      "resume": "Plus de 200 communes du département ont été touchées par la montée des eaux de la rivière Canche. Alors que la décrue s’amorce, les habitants cherchent des responsables et redoutent la suite de l’hiver.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
+      "published_at": "2026-11-27T19:15:54+00:00"
+    },
     {
       "id": "2e06d5eaa0f2c26a",
       "source": "Actu-Environnement",
@@ -11,13 +20,13 @@
       "published_at": "2026-11-27T18:29:55+00:00"
     },
     {
-      "id": "9c74fca32dbfd461",
+      "id": "c3681a23f5511d1b",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Décarbonation de l'industrie : les trois quarts du chemin ont déjà été parcourus, mais le plus dur reste à faire - Les Echos",
-      "resume": "Décarbonation de l'industrie : les trois quarts du chemin ont déjà été parcourus, mais le plus dur reste à faire Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUC1HcG1heEtMR2h2XzZxelhUbDdTUUgwTEJCQV9CRU4zTnNtQW10S3gtQzhJSlQzVks1aE41U0ZUX0dITzJucHR0NUlyWkN2dHpJYXlRVGp0TXV4UElvSVd4eXZPQmdLZnVOT2NSeFI0SDZOTnRxQ0ZIMmZhNURsMUhZMTFGSnJUaTlyYUU3cmh1WnlVQmNva1NqTVBYbVM3YkxYLXVseDc0NUtIaVlsVUxDQ1FVTnJlWGdrZjBmbjZMbmx1Mlptbm56eGs0T29ZUm5kZzV1dU4tQlo2ZEVMdzNhS1E1bmc4dTRKMlE0ekdrYTVfWjFlUzV0N093Q0tmZGNRd3ktZ1JOaHlzVnc?oc=5",
-      "published_at": "2026-11-27T17:09:31+00:00"
+      "titre": "par SECHE ENVIRONNEMENT (EPA:SCHP) - Les Echos Comfi",
+      "resume": "par SECHE ENVIRONNEMENT (EPA:SCHP) Les Echos Comfi",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQakk3TmkwYncyQnpFNDZ6UDlLQzdtVnBiaGlyUmR0c0JXVXBTQi1Xb2g0V2l1NnhmdEl6MGFwZmctZmdxbjhwY1V6Rmt4OTB1R25Jenl0WnhOYzVMOG1kNXV4SFRxeDRDUld0MGlkNHZSS2FMaVA2VWZiS2ItNnJIa0kyZnhnUXNENnozOVloeUkxRkZuX1QxTUZlMlhRRE92N0ZtNFluY3FiTWliRWRqMHpCZzVick9hb0FPWjY2bVZpdmFvblMyTUNWZmJPeUZSVjVCNEg1N1R2cWFmRFVuQ0RoclRYOXJlTGF3NGFRenVVYjQ?oc=5",
+      "published_at": "2026-11-27T17:59:00+00:00"
     },
     {
       "id": "8249be23e804a0c4",
@@ -56,15 +65,6 @@
       "published_at": "2026-11-27T16:38:33+00:00"
     },
     {
-      "id": "62f329f50092b8ff",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "Restriction des PFAS : le comité d'analyse socio-économique rend son avis final",
-      "resume": "Après le comité d'évaluation des risques (Rac) de l'Agence européenne des produits chimiques (Echa) en mars, c'est au tour du comité d'analyse socio-économique (Seac) de rendre son avis final sur la proposition de restriction des PFAS. Cinq",
-      "url": "https://www.actu-environnement.com/ae/news/restriction-pas-comite-analyse-socio-economique-avis-final-reach-echa-48864.php4#xtor=RSS-6",
-      "published_at": "2026-11-27T16:10:36+00:00"
-    },
-    {
       "id": "2b445da331e6adaf",
       "source": "GreenUnivers",
       "categorie": "Climat",
@@ -74,6 +74,24 @@
       "published_at": "2026-11-27T16:09:16+00:00"
     },
     {
+      "id": "9c74fca32dbfd461",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Décarbonation de l'industrie : les trois quarts du chemin ont déjà été parcourus, mais le plus dur reste à faire - Les Echos",
+      "resume": "Décarbonation de l'industrie : les trois quarts du chemin ont déjà été parcourus, mais le plus dur reste à faire Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUC1HcG1heEtMR2h2XzZxelhUbDdTUUgwTEJCQV9CRU4zTnNtQW10S3gtQzhJSlQzVks1aE41U0ZUX0dITzJucHR0NUlyWkN2dHpJYXlRVGp0TXV4UElvSVd4eXZPQmdLZnVOT2NSeFI0SDZOTnRxQ0ZIMmZhNURsMUhZMTFGSnJUaTlyYUU3cmh1WnlVQmNva1NqTVBYbVM3YkxYLXVseDc0NUtIaVlsVUxDQ1FVTnJlWGdrZjBmbjZMbmx1Mlptbm56eGs0T29ZUm5kZzV1dU4tQlo2ZEVMdzNhS1E1bmc4dTRKMlE0ekdrYTVfWjFlUzV0N093Q0tmZGNRd3ktZ1JOaHlzVnc?oc=5",
+      "published_at": "2026-11-27T15:52:13+00:00"
+    },
+    {
+      "id": "77a7efd1cb615033",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Les équipes d'Attal et de Glucksmann interpellées par consommateurs, patronat et énergéticiens",
+      "resume": "Au Salon des maires, consommateurs, patronat et énergéticiens ont interpellé les équipes énergie de Gabriel Attal et de Raphaël Glucksmann. Tous veulent sortir des fossiles, mais chèque énergie, stabilité des aides et place du gaz font déba",
+      "url": "https://www.actu-environnement.com/ae/news/transition-energetique-debat-presidentiel-cheque-energie-48858.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T15:50:37+00:00"
+    },
+    {
       "id": "3a792109be67d45c",
       "source": "Actu-Environnement",
       "categorie": "Presse",
@@ -81,6 +99,15 @@
       "resume": "Un troisième méga-décret vient de paraître pour alléger les normes applicables aux collectivités, notamment en matière des documents d'urbanisme ou des installations classées pour la protection de l'environnement (ICPE).",
       "url": "https://www.actu-environnement.com/ae/news/mega-decret-simplification-normes-collectivites-urbanisme-icpe-especesprotegees-48863.php4#xtor=RSS-6",
       "published_at": "2026-11-27T15:50:36+00:00"
+    },
+    {
+      "id": "62f329f50092b8ff",
+      "source": "Actu-Environnement",
+      "categorie": "Presse",
+      "titre": "Restriction des PFAS : le comité d'analyse socio-économique rend son avis final",
+      "resume": "Après le comité d'évaluation des risques (Rac) de l'Agence européenne des produits chimiques (Echa) en mars, c'est au tour du comité d'analyse socio-économique (Seac) de rendre son avis final sur la proposition de restriction des PFAS. Cinq",
+      "url": "https://www.actu-environnement.com/ae/news/restriction-pas-comite-analyse-socio-economique-avis-final-reach-echa-48864.php4#xtor=RSS-6",
+      "published_at": "2026-11-27T15:49:36+00:00"
     },
     {
       "id": "3319af64e6947939",
@@ -135,15 +162,6 @@
       "resume": "État et syndicats agricoles français se battent pour le maintien du budget national pour les prochaines années de la Politique agricole commune. L'orientation de ces milliards d'euros vers des pratiques agricoles durables est toutefois de m",
       "url": "https://reporterre.net/Les-paysans-se-battent-pour-l-argent-de-la-PAC-mais-celui-ci-risque-de-servir-l",
       "published_at": "2026-11-27T14:00:00+00:00"
-    },
-    {
-      "id": "e3ac41ad5324c323",
-      "source": "Actu-Environnement",
-      "categorie": "Presse",
-      "titre": "La remise en état s'apprécie au regard d'un usage futur du site similaire à la dernière période d'exploitation",
-      "resume": "Par un arrêt du 26 novembre 2026, la Cour de cassation rappelle les obligations qui s'appliquent en termes de remise en état du site aux ICPE ayant cessé leurs activités avant 2003.",
-      "url": "https://www.actu-environnement.com/ae/news/icpe-remise-etat-usage-futur-cassation-48861.php4#xtor=RSS-6",
-      "published_at": "2026-11-27T13:54:04+00:00"
     },
     {
       "id": "c1ce30654816f876",
@@ -207,15 +225,6 @@
       "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
       "url": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
       "published_at": "2026-11-27T09:45:00+00:00"
-    },
-    {
-      "id": "a0e6721161189c3c",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "« Les vents contraires du transport maritime mondial font un vainqueur : le fret aérien »",
-      "resume": "La nouvelle salve de droits de douane américains et les perturbations en chaîne liées au conflit au Moyen-Orient affectent durablement le transport international des marchandises par voie d’océan, observe Olivier Pinaud, journaliste au serv",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/27/les-vents-contraires-du-transport-maritime-mondial-font-un-vainqueur-le-fret-aerien_6815827_3234.html",
-      "published_at": "2026-11-27T09:30:07+00:00"
     },
     {
       "id": "82caaf2e59ada962",
@@ -360,15 +369,6 @@
       "resume": "La fin chaotique de la COP31 pousse des pays à remettre en question tout le processus onusien de négociations climatiques.",
       "url": "https://www.politico.eu/article/les-cop-cest-une-blague-les-critiques-enflent-contre-les-sommets-climatiques-apres-lechec-a-antalya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "published_at": "2026-11-25T20:07:06+00:00"
-    },
-    {
-      "id": "309a923099c1c1f8",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "Ventes d'actifs, transfert d'Electricité de Strasbourg : le tour de passe-passe à plusieurs milliards d'EDF pour financer ses réacteurs - Les Echos",
-      "resume": "Ventes d'actifs, transfert d'Electricité de Strasbourg : le tour de passe-passe à plusieurs milliards d'EDF pour financer ses réacteurs Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPbTh5TDd2VlQtYjlGVUVDSHpzcEtZWWYyTjJCeXgtbmRXalhLbVdwUVlaT3RLN0hKNFdpcWN4QXI2UFRha05SVXlGVjNYYlpSSTVQMkpYaEM4eHQwZlZIMzRJRE5uRE15bnJMQXN2QVZPU1Nzd3J4cDlGc0FLVHlQUklHZG9ob0NoSDZWRnRWd1RlQU5HVnh5WG9FVnFwSTNIanRfNFNaSjY5ZkhzeDRFdVlyWXVrS2hXRDhzei1lVG1JMGxOYXE0UjRRMElqVHc2WnF2bEhXMm9ubC04T01yamZGYXNlYXkxSTZJWGlvUXlNaVpjSUpRM25uYTU3X21UVTI1dXBMUEFJQ3pIdW11Y2t0cDJyRDZtSlVzUnl5eHROMnducWZoalB3?oc=5",
-      "published_at": "2026-11-25T16:12:14+00:00"
     },
     {
       "id": "57991a0c6a7a7e0f",
