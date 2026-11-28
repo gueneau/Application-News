@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-28T01:44:38.714291+00:00",
+  "generated_at": "2026-11-28T09:40:00.057508+00:00",
   "items": [
+    {
+      "id": "bf776da90bfc3b3e",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Le sapin de Noël français va-t-il disparaître ?",
+      "resume": "Les sécheresses ont fait un carnage parmi les jeunes sapins destinés aux prochains Noëls. Dans le Morvan, une exploitation bio expérimente de nouvelles espèces, dates de plantation et méthodes face à la nouvelle donne climatique. Quarré-les",
+      "url": "https://reporterre.net/Le-sapin-de-Noel-francais-va-t-il-disparaitre",
+      "published_at": "2026-11-28T08:46:08+00:00"
+    },
+    {
+      "id": "a83a7e0b64a8ee49",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "À Paris, cinq écoles pourraient fermer au nom de l'adaptation climatique",
+      "resume": "L'adaptation au réchauffement climatique et à la baisse démographique du 14 e arrondissement de Paris prévoit la fermeture de cinq écoles. Parents et enseignants estiment c'est un prétexte pour les fermer à des fins d'économies. La proposit",
+      "url": "https://reporterre.net/A-Paris-cinq-ecoles-pourraient-fermer-au-nom-de-l-adaptation-climatique",
+      "published_at": "2026-11-28T08:38:57+00:00"
+    },
+    {
+      "id": "7457ced18ec30c20",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "En Gironde, des viticulteurs se diversifient dans la culture de chanvre",
+      "resume": "Dans un département dominé par la vigne, des exploitants, déjà fragilisés par le recul de la consommation de vin bordelais et le réchauffement climatique, expérimentent la culture du chanvre. Si ses débouchés, notamment dans la construction",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/28/en-gironde-des-viticulteurs-se-diversifient-dans-la-culture-de-chanvre_6816084_3234.html",
+      "published_at": "2026-11-28T08:00:04+00:00"
+    },
+    {
+      "id": "c2a939a3ff28cbf7",
+      "source": "Les Echos Environnement",
+      "categorie": "Presse",
+      "titre": "Bilans carbone « vérifiés » des entreprises : « Soit on fait des tests très légers, soit on travaille à perte » - Les Echos",
+      "resume": "Bilans carbone « vérifiés » des entreprises : « Soit on fait des tests très légers, soit on travaille à perte » Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaW1wdkhPZC1vc3RmZVdzVzl1Z1BodXJhME9scXYyUTZMNUZBNmxlS0Q4YW1MZ3NJYnJfODI4RmpocUFMM2FIMlNoOE9qVkJjVzlFU0VVdElQbFUyX28xU2diRmU3Q21ST2hSRjZnY1kzeVJHS2NaRTdVbnpCYmdTMG9IeXFqWjBNU1ZndEcteG5HTkJuOFpRVV9jMndmTUkyU3RjWnIxUGtGTTNGRWRISS01X3BVRlVNa2JLQVdUajFQbTVuanRLbF9idmhOZnpib09MajJtU0JRc0dLLWZuVkllTnR4UTA?oc=5",
+      "published_at": "2026-11-28T07:05:09+00:00"
+    },
+    {
+      "id": "19a17e87b1562b62",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "Le Premier ministre espagnol Pedro Sánchez défend son bilan écologique avant une élection périlleuse",
+      "resume": "Depuis 2018, la gauche espagnole a donné une forte impulsion aux énergies renouvelables. Son bilan environnemental reste très cependant lacunaire pour les écologistes, qui redoutent l'arrivée au pouvoir d'une coalition droite-extrême droite",
+      "url": "https://reporterre.net/Le-Premier-ministre-espagnol-Pedro-Sanchez-defend-son-bilan-ecologique-avant-une-election",
+      "published_at": "2026-11-28T07:00:00+00:00"
+    },
+    {
+      "id": "8b9069cbf6b6f341",
+      "source": "Le Monde Planète",
+      "categorie": "Presse",
+      "titre": "Pourquoi l’agriculture française tarde à s’adapter au changement climatique : « On le voyait arriver, mais pas aussi brutalement »",
+      "resume": "En dehors des solutions de court terme que sont le stockage de l’eau et l’assurance-récolte, la France n’a pas impulsé de transformation de son agriculture, qui est largement dépendante de la météo. La conséquence d’années de gestion de cri",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/28/pourquoi-l-agriculture-francaise-tarde-a-s-adapter-au-changement-climatique-on-le-voyait-arriver-mais-pas-aussi-brutalement_6816070_3234.html",
+      "published_at": "2026-11-28T05:00:20+00:00"
+    },
+    {
+      "id": "2c61d4fcfc63e62a",
+      "source": "Reporterre",
+      "categorie": "Presse",
+      "titre": "« Fais-pas ton Total » : et si on inventait les dictons du XXIe siècle ?",
+      "resume": "Propagande ou résistance ? Reporterre a sélectionné trois livres qui parlent des mots et de leur usage, certains émancipateurs, d'autres manipulateurs. Êtes-vous de ceux qui redoutent aujourd'hui « la fin des haricots » (la pire des situati",
+      "url": "https://reporterre.net/Fais-pas-ton-Total-et-si-on-inventait-les-dictons-du-XXIe-siecle",
+      "published_at": "2026-11-28T05:00:00+00:00"
+    },
     {
       "id": "5637b325e2ff2f83",
       "source": "Le Monde Planète",
@@ -20,15 +83,6 @@
       "published_at": "2026-11-27T18:29:55+00:00"
     },
     {
-      "id": "c3681a23f5511d1b",
-      "source": "Les Echos Environnement",
-      "categorie": "Presse",
-      "titre": "par SECHE ENVIRONNEMENT (EPA:SCHP) - Les Echos Comfi",
-      "resume": "par SECHE ENVIRONNEMENT (EPA:SCHP) Les Echos Comfi",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQakk3TmkwYncyQnpFNDZ6UDlLQzdtVnBiaGlyUmR0c0JXVXBTQi1Xb2g0V2l1NnhmdEl6MGFwZmctZmdxbjhwY1V6Rmt4OTB1R25Jenl0WnhOYzVMOG1kNXV4SFRxeDRDUld0MGlkNHZSS2FMaVA2VWZiS2ItNnJIa0kyZnhnUXNENnozOVloeUkxRkZuX1QxTUZlMlhRRE92N0ZtNFluY3FiTWliRWRqMHpCZzVick9hb0FPWjY2bVZpdmFvblMyTUNWZmJPeUZSVjVCNEg1N1R2cWFmRFVuQ0RoclRYOXJlTGF3NGFRenVVYjQ?oc=5",
-      "published_at": "2026-11-27T17:59:00+00:00"
-    },
-    {
       "id": "8249be23e804a0c4",
       "source": "Le Monde Planète",
       "categorie": "Presse",
@@ -45,33 +99,6 @@
       "resume": "Ils sont infiniment petits mais leur action pourrait être immense : les microchampignons peuvent dégrader des molécules polluantes, comme le pétrole ou le glyphosate. Des chercheurs y travaillent. Brest (Finistère), reportage Une plage, de ",
       "url": "https://reporterre.net/De-la-moisissure-pour-depolluer-nos-sols-La-piste-prometteuse-des-champignons",
       "published_at": "2026-11-27T16:56:22+00:00"
-    },
-    {
-      "id": "78820452d8851641",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Hydrogène : les débouchés manquent encore, y compris pour les projets avancés",
-      "resume": "« La clé, c’est la maturité du marché qu’on vise », indique Cyril Dufau-Sansot, directeur général Hy2gen, lors des 5e rencontres « H2 entreprises » organisées à Bercy ce vendredi. La bulle de l’hydrogène est L’article Hydrogène : les débouc",
-      "url": "https://www.greenunivers.com/2026/11/hydrogene-les-debouches-manquent-encore-y-compris-pour-les-projets-avances-440013/",
-      "published_at": "2026-11-27T16:40:05+00:00"
-    },
-    {
-      "id": "d281d8de0582c319",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Bay Wa r.e. prépare sa première centrale solaire flottante en France",
-      "resume": "Difficultés financières de la maison-mère allemande et en France, réduction d’effectifs, des coûts, réorganisation… Ces vicissitudes n’ont pas empêché Bay Wa r.e. d’être présent cette semaine et comme chaque année au Salon des maires, avec ",
-      "url": "https://www.greenunivers.com/2026/11/bay-wa-r-e-prepare-sa-premiere-centrale-solaire-flottante-en-france-440015/",
-      "published_at": "2026-11-27T16:38:33+00:00"
-    },
-    {
-      "id": "2b445da331e6adaf",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "L’agenda de la transition énergétique",
-      "resume": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovatio",
-      "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-285-440027/",
-      "published_at": "2026-11-27T16:09:16+00:00"
     },
     {
       "id": "9c74fca32dbfd461",
@@ -155,15 +182,6 @@
       "published_at": "2026-11-27T14:00:03+00:00"
     },
     {
-      "id": "a579a94499c8e181",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Les paysans se battent pour l'argent de la PAC, mais celui-ci risque de servir l'agriculture intensive",
-      "resume": "État et syndicats agricoles français se battent pour le maintien du budget national pour les prochaines années de la Politique agricole commune. L'orientation de ces milliards d'euros vers des pratiques agricoles durables est toutefois de m",
-      "url": "https://reporterre.net/Les-paysans-se-battent-pour-l-argent-de-la-PAC-mais-celui-ci-risque-de-servir-l",
-      "published_at": "2026-11-27T14:00:00+00:00"
-    },
-    {
       "id": "c1ce30654816f876",
       "source": "Novethic",
       "categorie": "Presse",
@@ -171,24 +189,6 @@
       "resume": "Veolia a opérationnalisé sa raison d'être à travers 15 indicateurs réunis dans \"la performance plurielle\". @Veolia En 2019, Veolia fait figure de pionnier et publie sa raison d’être avant que la Loi Pacte, qui ouvre la possibilité pour les ",
       "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/bonnes-pratiques-csrd-lexemple-de-la-performance-plurielle-chez-veolia-1-3",
       "published_at": "2026-11-27T13:15:34+00:00"
-    },
-    {
-      "id": "a623519912ae63ee",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Espagne : le navire naufragé au large d’Ibiza va être « remorqué », annonce le premier ministre, Pedro Sanchez",
-      "resume": "Le chef du gouvernement espagnol ainsi que l’entreprise propriétaire du navire-citerne assurent qu’il n’y a pas de fuite de carburant ni de pollution. Les causes exactes de l’incident restent inconnues.",
-      "url": "https://www.lemonde.fr/international/article/2026/11/27/espagne-le-navire-naufrage-au-large-d-ibiza-va-etre-remorque-annonce-le-premier-ministre-pedro-sanchez_6815846_3210.html",
-      "published_at": "2026-11-27T10:57:11+00:00"
-    },
-    {
-      "id": "275865858ecee5a8",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Pourquoi 2027 sera une année déterminante pour Lhyfe",
-      "resume": "La messe n’est pas encore dite pour l’hydrogène, mais l’année 2027 sera « charnière » pour le producteur français Lhyfe, confie son PDG Matthieu Guesné. L’entreprise nantaise compte sur une L’article Pourquoi 2027 sera une année déterminant",
-      "url": "https://www.greenunivers.com/2026/11/pourquoi-2027-sera-une-annee-determinante-pour-lhyfe-439887/",
-      "published_at": "2026-11-27T10:52:40+00:00"
     },
     {
       "id": "059d68b72d2de74d",
@@ -209,24 +209,6 @@
       "published_at": "2026-11-27T10:20:34+00:00"
     },
     {
-      "id": "95255d7b370e015f",
-      "source": "Le Monde Planète",
-      "categorie": "Presse",
-      "titre": "Fin de l’interdiction des passoires thermiques à la location : aux Assises de la rénovation énergétique, la consternation des professionnels du secteur",
-      "resume": "L’amendement du Rassemblement national, adopté à l’Assemblée nationale dans le cadre du projet de loi logement voté solennellement mardi 24 novembre, va supprimer l’un « des derniers moteurs de travaux », jugent des acteurs du bâtiment.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/27/fin-de-l-interdiction-des-passoires-thermiques-a-la-location-aux-assises-de-la-renovation-energetique-la-consternation-des-professionnels-du-secteur_6815833_3224.html",
-      "published_at": "2026-11-27T10:00:07+00:00"
-    },
-    {
-      "id": "75a031d74d1f1b26",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Les documents de la semaine",
-      "resume": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou ",
-      "url": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
-      "published_at": "2026-11-27T09:45:00+00:00"
-    },
-    {
       "id": "82caaf2e59ada962",
       "source": "I4CE",
       "categorie": "Climat",
@@ -236,24 +218,6 @@
       "published_at": "2026-11-27T09:20:10+00:00"
     },
     {
-      "id": "5e5ff1ceaaca1d06",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "« Pour nettoyer les corps, je n'ai rien à part du sopalin et du détachant multiusages » : l'indigne business de la mort des animaux de compagnie",
-      "resume": "Des milliers de personnes endeuillées confient leur animal mort à Seleste, spécialiste de la crémation d'animaux dans les Yvelines. Or les dysfonctionnements s'accumulent, au point que certaines familles se retrouvent parfois avec des cendr",
-      "url": "https://reporterre.net/Cadavres-qui-debordent-cendres-douteuses-les-coulisses-du-specialiste-de-la-cremation-d",
-      "published_at": "2026-11-27T08:16:32+00:00"
-    },
-    {
-      "id": "4f07c1f78744b1be",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "Un pesticide interdit risque de revenir en catimini... pour le plus grand bonheur des betteraviers",
-      "resume": "Rien ne semble gravé dans le marbre lorsqu'il s'agit de pesticides. La loi d'urgence agricole avait laissé la porte ouverte à la réintroduction de l'insecticide flupyradifurone. Malgré l'absence d'avis de l'Anses — qui vaut refus — une déro",
-      "url": "https://reporterre.net/La-guerre-des-betteraves-le-gouvernement-parviendra-t-il-a-reintroduire-un-pesticide",
-      "published_at": "2026-11-27T06:30:00+00:00"
-    },
-    {
       "id": "0c1f1d3d263f33b6",
       "source": "Novethic",
       "categorie": "Presse",
@@ -261,15 +225,6 @@
       "resume": "La voiture arrive largement en tête de la catégorie dite des \"produits sensibles\", totalisant près de 2 milliards d’euros de dépenses publicitaires par an. @Pixabay / BH SUV, restauration rapide, sodas, fast-fashion, voyages au bout du mond",
       "url": "https://www.novethic.fr/environnement/climat/black-friday-les-produits-nefastes-pour-la-planete-pesent-un-quart-du-marche-publicitaire",
       "published_at": "2026-11-27T05:45:13+00:00"
-    },
-    {
-      "id": "7aa7eec22284b0bd",
-      "source": "Reporterre",
-      "categorie": "Presse",
-      "titre": "L'IA nous tuera-t-elle tous ? Un fantasme catastrophiste qui masque les vrais problèmes",
-      "resume": "Cyberattaques en hausse, potentielle perte de contrôle... L' IA risque-t-elle de condamner l'humanité ? Pour les chercheurs interrogés, la puissance grandissante des entreprises du secteur et leurs dégâts environnementaux sont bien plus pré",
-      "url": "https://reporterre.net/IApocalypse-un-fantasme-qui-masque-les-dangers-reels-derriere-l-intelligence-artificielle",
-      "published_at": "2026-11-27T05:30:00+00:00"
     },
     {
       "id": "812d82a65b6a3b57",
@@ -288,15 +243,6 @@
       "resume": "La sidérurgie française est à un tournant. L’article Décarboner l’acier en France : mieux articuler les dispositifs de soutien est apparu en premier sur I4CE .",
       "url": "https://www.i4ce.org/decarboner-acier-france-soutien-climat/",
       "published_at": "2026-11-26T17:03:26+00:00"
-    },
-    {
-      "id": "0735e4829ec7b479",
-      "source": "GreenUnivers",
-      "categorie": "Climat",
-      "titre": "Raccordements, stockage, pompes à chaleur… : les coulisses du Salon des maires 2026",
-      "resume": "Producteurs et constructeurs de centrales d’énergie renouvelables étaient nombreux à exposer et visiter le Salon des maires et des collectivités locales organisé cette semaine à Paris. L’occasion pour la rédaction de GreenUnivers d’échanger",
-      "url": "https://www.greenunivers.com/2026/11/raccordements-stockage-pompes-a-chaleur-les-coulisses-du-salon-des-maires-2026-439517/",
-      "published_at": "2026-11-26T16:39:34+00:00"
     },
     {
       "id": "9938c530b63a8996",
@@ -320,8 +266,8 @@
       "id": "9386404c5ca4e81c",
       "source": "Les Echos Environnement",
       "categorie": "Presse",
-      "titre": "Trigano tient bien la route malgré un environnement moins porteur - Les Echos",
-      "resume": "Trigano tient bien la route malgré un environnement moins porteur Les Echos",
+      "titre": "Trigano tient bien la route malgré un environnement moins porteur - Investir Les Echos",
+      "resume": "Trigano tient bien la route malgré un environnement moins porteur Investir Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXMxclhpVE9SRUQ5QmVmUVBYRi11YXU5Q0QxVW9TdEh1WXp4UUdkVWUxYzBQRGl1TXBMdUd1TU02SnlDWFROQVN6MHVOSmJTY2hnN0haLXFkeVZmUjc5SmllYmZyMklUZDR5Y3hEUDNaa0ZCUV9zM0tFQ1lPLVBLMk9TUGo1NHhKRUl0X0hGanEzZHhmY3BPd2xSNVVtTXplNmd1eWFVaEI5STVCRFB3b2FqSVJocF93MlFxdkFkMjNXWXR6ODJhTTVtb2p2QXVJNnFBWQ?oc=5",
       "published_at": "2026-11-26T11:15:33+00:00"
     },
@@ -720,6 +666,42 @@
       "resume": "De formation initiale en sciences politiques et géographie des risques, Benjamin Konnert dispose d’une solide expérience à l’interface entre sciences et action publique. Il a occupé différents postes de coordination et de production de rapp",
       "url": "https://www.hautconseilclimat.fr/actualites/nomination-de-benjamin-konnert-en-tant-que-directeur-adjoint-du-haut-conseil-pour-le-climat/",
       "published_at": "2026-06-08T14:58:05+00:00"
+    },
+    {
+      "id": "6bbee6a77e90f346",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "La FEP dévoile les 26 propositions de son Livre Bleu 2026",
+      "resume": "La Fédération des entreprises de propreté (FEP) publie une nouvelle édition de son Livre Bleu, qui rassemble cette année 26 propositions destinées à répondre aux enjeux économiques et sociaux du secteur. Fruit du travail collectif des chamb",
+      "url": "https://www.federation-proprete.com/la-fep-devoile-les-26-propositions-de-son-livre-bleu-2026/",
+      "published_at": "2026-03-17T13:58:52+00:00"
+    },
+    {
+      "id": "1237b5403c9b7828",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "La FEP félicite Avril McCarthy pour son élection à la présidence de l’EFCI",
+      "resume": "L’EFCI (European Cleaning and Facility Services Industry) est l’instance représentative de la profession à l’échelle européenne. Créée en 1988, l’EFCI est le partenaire social reconnu par la Commission européenne pour le secteur. Elle repré",
+      "url": "https://www.federation-proprete.com/election-efci-avril-mccarthy/",
+      "published_at": "2025-07-10T08:52:23+00:00"
+    },
+    {
+      "id": "56f325f18747b701",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "IMPACT PME : échange avec la Ministre du Travail Astrid PANOSYAN-BOUVET",
+      "resume": "La FEP était présente le mardi 24 juin pour la 6ème édition du Salon Impact PME organisé par la CPME. Cette journée dédiée aux solutions et au réseau des chefs d’entreprises a été l’occasion pour la fédération d’être présente par le biais d",
+      "url": "https://www.federation-proprete.com/impact-pme-echange-ministre-travail/",
+      "published_at": "2025-06-27T09:07:33+00:00"
+    },
+    {
+      "id": "9b7040341beeb4f1",
+      "source": "Fédération de la Propreté",
+      "categorie": "Presse",
+      "titre": "Europropre 2025 : une 18ème édition marquée par trois temps forts institutionnels",
+      "resume": "La 18ème édition du Salon Europropre, qui s’est tenue du 25 au 27 mars 2025 Porte de Versailles à Paris, a été l’occasion pour la FEP de convier trois personnalités publiques de premier plan. Mardi matin, après la conférence média au cours ",
+      "url": "https://www.federation-proprete.com/europropre-temps-forts-institutionnels/",
+      "published_at": "2025-04-03T15:12:36+00:00"
     }
   ]
 }
